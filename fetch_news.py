@@ -17,7 +17,11 @@ MAX_NEWS_ITEMS = 200
 
 LOCAL_TZ = timezone.utc
 
-EXCLUDED_CATEGORIES = {"Popular News"}
+ALLOWED_CATEGORIES = {
+    "Breaking News", "National", "Health", "Technology",
+    "Business", "Entertainment", "World", "Economy",
+    "Political", "Sports"
+}
 
 ENG_STOP_WORDS = {
     "the", "a", "an", "and", "or", "in", "on", "at", "to", "for", "of", "with", "by",
@@ -296,49 +300,42 @@ def get_explicit_categories(entry, link, source_name):
     url_path = urlparse(link).path.lower()
 
     mappings = [
-        ("AI & Machine Learning", [
-            "/ai/", "/artificial-intelligence/", "/machine-learning/",
-            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini", "ai apps", "google gemini", "anthropic", "hugging face", "instinct", "perceptron"
+        ("Technology", [
+            "/tech/", "/technology/", "/gadgets/", "/ai/", "/security/", "/cybersecurity/", "/software/", "/apps/", "/mobile/", "/5g/",
+            "tech", "technology", "ai", "artificial intelligence", "chatgpt", "openai", "gadget", "gadgets", "smartphone", "android",
+            "iphone", "security", "cybersecurity", "software", "app", "apps", "mobile", "telecom", "5g", "crypto", "bitcoin"
         ]),
-        ("Cybersecurity & Privacy", [
-            "/security/", "/cybersecurity/", "/privacy/",
-            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware", "botnets", "encryption", "cisa", "cyberattacks"
+        ("National", [
+            "/national/", "/india/", "/india-news/", "/desh/", "/national-news/",
+            "national", "india", "desh", "national news"
         ]),
-        ("Gadgets & Hardware", [
-            "/gadgets/", "/hardware/", "/reviews/", "/smartphones/", "/laptops/",
-            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple", "nvidia", "ring cameras", "medical device"
+        ("Health", [
+            "/health/", "/medical/", "/wellness/", "/fitness/",
+            "health", "medical", "wellness", "fitness", "medicine", "health news"
         ]),
-        ("Software & Apps", [
-            "/software/", "/apps/", "/mobile-apps/",
-            "software", "app", "apps", "windows", "ios", "linux", "developer", "programming"
+        ("Business", [
+            "/business/", "/startups/", "/corporate/", "/company/", "/finance/",
+            "business", "startup", "startups", "corporate", "company", "enterprise", "venture"
         ]),
-        ("Mobile & Telecom", [
-            "/mobile/", "/telecom/", "/5g/",
-            "mobile", "telecom", "5g", "network"
+        ("Economy", [
+            "/economy/", "/finance/", "/markets/", "/budget/",
+            "economy", "finance", "markets", "market", "banking", "budget", "inflation", "stocks"
         ]),
-        ("Business & Startups", [
-            "/startups/", "/business/", "/tech-business/", "/venture/",
-            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley", "venture", "tc", "enterprise", "nscale", "spacex", "lovable", "legora", "neko health", "european market", "nordic market"
+        ("Entertainment", [
+            "/entertainment/", "/bollywood/", "/viral/", "/cinema/", "/movies/", "/tv/",
+            "entertainment", "bollywood", "cinema", "movie", "movies", "viral", "celebrity", "showbiz"
         ]),
-        ("Gaming", [
-            "/gaming/", "/games/", "/esports/",
-            "gaming", "games", "esports", "playstation", "xbox", "nintendo", "pc gaming"
+        ("World", [
+            "/world/", "/international/", "/global/",
+            "world", "international", "global", "foreign", "world news"
         ]),
-        ("Science & Environment", [
-            "/science/", "/space/", "/robotics/", "/climate/", "/environment/",
-            "science", "space", "robotics", "innovation", "biotech", "biotech & health", "climate", "environment", "water"
+        ("Political", [
+            "/politics/", "/policy/", "/government/",
+            "politics", "political", "government", "policy", "election", "elections"
         ]),
-        ("Social & Media", [
-            "/social/", "/media/",
-            "social", "social media", "facebook", "instagram", "meta", "bluesky", "flipboard", "open web", "media & entertainment", "podcasts", "particle"
-        ]),
-        ("Government & Policy", [
-            "/policy/", "/politics/", "/government/",
-            "government & policy", "policy", "politics", "us government", "china", "iran", "social media child safety", "critical infrastructure"
-        ]),
-        ("Crypto & Web3", [
-            "/crypto/", "/blockchain/", "/web3/",
-            "crypto", "bitcoin", "ethereum", "blockchain", "web3", "nft"
+        ("Sports", [
+            "/sports/", "/cricket/", "/gaming/", "/games/",
+            "sports", "sport", "cricket", "football", "gaming", "esports"
         ])
     ]
 
@@ -365,8 +362,6 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
 
     if explicit_cats:
         categories.update(explicit_cats)
-    else:
-        categories.add("Tech News")
 
     is_recent = False
     if pub_date:
@@ -378,7 +373,7 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
                 is_recent = True
 
     breaking_kw = [
-        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched", "TC", "Tech", "Science", "Space", "NASA", "AI"
+        "breaking", "urgent", "update", "live", "alert", "flash", "latest"
     ]
 
     link_lower = link.lower()
@@ -403,7 +398,12 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
     if is_recent and has_breaking_kw:
         categories.add("Breaking News")
 
-    return sorted(list(categories))
+    # Strictly filter categories to standard whitelist
+    allowed_results = categories & ALLOWED_CATEGORIES
+    if not allowed_results:
+        allowed_results = {"National"}
+
+    return sorted(list(allowed_results))
 
 def detect_multi_source_breaking_news(items):
     now_dt = datetime.now(LOCAL_TZ)
@@ -455,7 +455,7 @@ def detect_multi_source_breaking_news(items):
                 item["categories"] = []
             if "Breaking News" not in item["categories"]:
                 item["categories"].append("Breaking News")
-                item["categories"].sort()
+            item["categories"] = sorted(list(set(item["categories"]) & ALLOWED_CATEGORIES))
 
 def titles_are_duplicate(title1, title2):
     if not title1 or not title2:
@@ -500,8 +500,7 @@ def deduplicate_cross_source(items):
 
                 if "Breaking News" in item_cats and "Breaking News" not in u_item_cats:
                     u_item_cats.append("Breaking News")
-                    u_item_cats.sort()
-                    u_item["categories"] = u_item_cats
+                    u_item["categories"] = sorted(list(set(u_item_cats) & ALLOWED_CATEGORIES))
 
                 if not u_item.get("image_url") and item.get("image_url"):
                     u_domain = extract_domain_name(u_item.get("link"))
@@ -639,7 +638,8 @@ def fetch_and_store_news():
                 else:
                     ex["categories"] = []
 
-            ex["categories"] = [c for c in ex["categories"] if c and c not in EXCLUDED_CATEGORIES]
+            filtered_cats = [c for c in ex["categories"] if c in ALLOWED_CATEGORIES]
+            ex["categories"] = filtered_cats if filtered_cats else ["National"]
 
             combined_items.append(ex)
 
