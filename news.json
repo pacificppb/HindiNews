@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://www.bbc.com/hindi/articles/ce8729m43yzo?at_medium=RSS&at_campaign=rss",
+    "title": "दुनिया का कोई भी नक्शा पूरी तरह सही क्यों नहीं होता?",
+    "description": "संयुक्त राष्ट्र ने अफ़्रीका का असली आकार ज़्यादा सही दिखाने वाला नया नक्शा अपनाया है. इसके बाद दुनिया के अलग-अलग नक्शों की सटीकता और उनकी सीमाओं को लेकर बहस तेज़ हो गई है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:20:41+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/722b/live/e7c4b610-a873-11f1-b109-879e35c24276.png",
+    "source_name": "BBC.COM"
+  },
+  {
+    "link": "https://news24online.com/india/what-is-the-spear-corps-why-did-the-3-corps-commander-lead-india-china-talks-know-what-makes-it-important/917296/",
+    "title": "What is the Spear Corps? Why did the 3 Corps commander lead India-China talks? Know what makes it important",
+    "description": "The meeting was held at Vacha-Damai in Arunachal Pradesh, shortly after National Security Adviser Ajit Doval’s visit to Beijing.\nThe post What is the Spear Corps? Why did the 3 Corps commander lead India-China talks? Know what makes it important appeared first on News24.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:17:05+00:00",
+    "image_url": null,
+    "source_name": "NEWS24ONLINE.COM"
+  },
+  {
+    "link": "https://ndtv.in/zara-hatke/delhi-woman-spends-15000-rupees-flying-to-mumbai-for-rs-20-vada-pav-video-viral-12012406#publisher=newsstand",
+    "title": "20 रुपये के वड़ा पाव के लिए दिल्ली की लड़की ने उड़ा दिए 15 हजार, हरकत देख लोग बोले- 'ये तो अमीरों का स्ट्रगल है!'",
+    "description": "दिल्ली के वड़ा पाव से नहीं भरी नीयत, असली स्वाद चखने फ्लाइट पकड़कर मुंबई पहुंच गई लड़की",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:16:34+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/kigkmal_ju_625x300_07_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/delhi-building-collapse-search-for-hariram-bansal-baghpat-accident-latest-news-and-live-updates-12011452#publisher=newsstand",
+    "title": "LIVE: द‍िल्ली हादसे में 8 की मौत, ब‍िल्‍ड‍िंग माल‍िक के खिलाफ लुक आउट सर्कुलर जारी",
+    "description": "सत्‍य न‍िकेतन इलाके में हुए हादसे में गई 6 लोगों की जान.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:15:44+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/jofrc754_delhi-building_625x300_07_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://navbharattimes.indiatimes.com/india/indian-army-sets-up-aashvast-labs-to-identify-chinese-components-in-military-drones/articleshow/133871145.cms",
+    "title": "AASHVAST: मिलिट्री ड्रोन को चीन की बुरी 'नजरों' से बचाने का आर्मी ने निकाला नया तरीका",
+    "description": "भारतीय सेना ने मिलिट्री ड्रोन को चाइनीज सॉफ्टवेयर से सुरक्षित रखने के लिए आश्वस्त लैब स्थापित किए हैं। इसमें यह जांच की जाएगी कि चीन ने किसी भी तरह से मिलिट्री ड्रोन में अपना कोई सिस्टम तो नहीं फिट कर रखा है।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:15:30+00:00",
+    "image_url": "https://static.langimg.com/nbt/thumb/133871293/indian-army-sets-up-aashvast-labs-to-identify-chinese-components.jpg?imgsize=197606&width=1600&height=900&resizemode=75",
+    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
     "link": "https://www.tv9hindi.com/state/uttar-pradesh/muzaffarnagar-riots-13th-anniversary-controversial-posters-akhilesh-yadav-up-3900599.html",
     "title": "‘न भूले थे, न भूलेंगे…’ मुजफ्फरनगर दंगे की बरसी पर UP के इन शहरों में विवादित होर्डिंग, अखिलेश की तस्वीर से सियासी हलचल",
     "description": "मुजफ्फरनगर दंगों की 13वीं बरसी पर उत्तर प्रदेश के चार शहरों में विवादित पोस्टर लगाए जाने से राजनीतिक बहस तेज हो गई है.  पुलिस ने कार्रवाई करते हुए होर्डिंग हटवा दिए हैं.",
@@ -11,6 +67,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.aajtak.in/lifestyle/kitchen/story/how-to-make-chips-recipe-homemade-beetroot-brinjal-chips-baigan-chukandar-tasty-snacks-at-home-tmovx-dskc-2637895-2026-09-07?utm_source=rssfeed",
+    "title": "बैंगन-चुकंदर से बनाएं क्रिस्पी और हेल्दी चिप्स, रेसिपी है बेहद आसान",
+    "description": "Brinjal and Beetroot Chips Recipe: आजकल लोग तली-भुनी चीजों की जगह हेल्दी स्नैक्स को अपनी डाइट में शामिल करना पसंद कर रहे हैं. अगर आप भी कुछ क्रिस्पी और टेस्टी खाना चाहते हैं तो बैंगन और चुकंदर के चिप्स एक बेहतरीन ऑप्शन हो सकते हैं. आज हम आपको इन्हें बनाने की आसान रेसिपी बताएंगे.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:14:55+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
     "link": "https://www.tv9hindi.com/business/rbi-vrrr-auction-explained-how-reserve-bank-manages-system-cash-after-fcnrb-inflow-3900620.html",
     "title": "बैंकिंग सिस्टम में कैश का ‘मास्टर स्ट्रोक’: क्या है RBI का VRRR ऑक्शन और क्यों पड़ी इसकी जरूरत?",
     "description": "RBI ने जून में FCNR (B) डिपॉजिट के लिए एक स्पेशल स्वैप विंडो का ऐलान किया था, जिससे रिकॉर्ड 127 बिलियन डॉलर जमा हुए. इसके बाद से बैंकिंग सिस्टम में लिक्विडिटी (नकदी) की भरमार है.",
@@ -20,6 +87,28 @@
     "pub_date": "2026-09-07T08:14:55+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/07/rbi-17.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://ndtv.in/uttar-pradesh-news/mathura-minor-dalit-girl-rape-allegedly-pocso-accused-arrested-12012371#publisher=newsstand",
+    "title": "जमानत पर जेल से बाहर आया शख्स अब POCSO के तहत गिरफ्तार... मथुरा में दलित नाबालिग के साथ रेप का आरोप",
+    "description": "जेल से बाहर आया शख्स रेप केस में हुआ गिरफ्तार (Representative Image)",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:14:21+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/c3r4g1c_mathura-rape-case_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.bbc.com/hindi/articles/cp30kn9k9kqo?at_medium=RSS&at_campaign=rss",
+    "title": "सत्य निकेतन बिल्डिंग हादसा: उठ रहे हैं ये 5 सवाल",
+    "description": "जिस इमारत में छात्रों के लिए पीजी चल रहा था, वहां बेसमेंट में काम चल रहा था. शुरुआती जांच में इमारत के निर्माण, उसमें हुए बदलाव और सुरक्षा इंतज़ामों को लेकर भी सवाल सामने आए हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:14:18+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cedd/live/fc72e730-aa8f-11f1-ab09-7f2415c9a652.jpg",
+    "source_name": "BBC.COM"
   },
   {
     "link": "https://www.tv9hindi.com/education/is-there-hostel-crisis-in-delhi-university-why-students-forced-to-live-in-pgs-3900574.html",
@@ -149,6 +238,18 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.aajtak.in/entertainment/bollywood-news/story/diljit-dosanjh-asked-fan-to-remove-sacred-sikh-symbol-ik-onkar-with-his-name-fans-reaction-video-tmovf-dskc-2638035-2026-09-07?utm_source=rssfeed",
+    "title": "T-Shirt देखते ही घबराए दिलजीत, रोका LIVE शो, बोले- ये पवित्र है",
+    "description": "दिलजीत दोसांझ के कॉन्सर्ट का एक वीडियो सोशल मीडिया पर वायरल हो रहा है. फैन की टी-शर्ट पर अपने नाम के साथ धार्मिक सिख शब्द 'इक ओंकार'  लिखा देखकर दिलजीत ने शो के बीच में रोक दिया. उन्होंने फैन को समझाया और ऐसा ना करने की अपील की.",
+    "categories": [
+      "Breaking News",
+      "Entertainment"
+    ],
+    "pub_date": "2026-09-07T08:05:36+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
     "link": "https://www.indiatv.in/punjab/after-gangster-turned-politician-gurpreet-sekhon-joined-aap-sidhu-moosewala-father-remarked-that-the-2027-elections-would-be-extremely-violent-2026-09-07-1241767",
     "title": "गैंगस्टर से नेता बने गुरप्रीत शेखों ने ज्वाइन की AAP तो सिद्धू मूसेवाला के पिता बोले- 2027 के चुनाव हिंसक होंगे",
     "description": "गैंगस्टर से नेता बने गुरप्रीत शेखों के आम आदमी पार्टी में शामिल होने के बाद विपक्ष ने हमले तेज कर दिए हैं। इस मामले में पंजाबी सिंगर सिद्धू मूसेवाला के पिता बलकौर सिंह का बयान सामने आया है।",
@@ -158,6 +259,17 @@
     "pub_date": "2026-09-07T08:05:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/09/gurpreet-sekhon-1788768215.webp",
     "source_name": "INDIATV.IN"
+  },
+  {
+    "link": "https://www.aajtak.in/religion/news/story/vipreet-rajyog-2026-horoscope-guru-gochar-31-october-lucky-zodiac-signs-effects-tvisg-dskc-2638051-2026-09-07?utm_source=rssfeed",
+    "title": "अक्टूबर तक कर्क में एक्टिव रहेगा विपरीत राजयोग, 6 राशियों को धन लाभ!",
+    "description": "Vipreet Rajyog 2026: ज्योतिष शास्त्र में देवगुरु बृहस्पति को ज्ञान, समृद्धि, भाग्य और संतान का कारक माना गया है. 2 जून से अपनी उच्च राशि कर्क में विराजमान देवगुरु बृहस्पति आगामी 31 अक्टूबर तक इसी राशि में बने रहेंगे, जिससे विपरीत राजयोग बन रहा है. तो आइए जानते हैं कि किन राशियों को लाभ होगा.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:03:58+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/viral/trending/noida-man-raise-discussion-on-which-is-better-small-hometowns-and-metros-cities/articleshow/133869186.cms",
@@ -216,6 +328,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.aajtak.in/information/story/delhi-satya-niketan-building-collapse-students-trapped-blinkit-oxygen-cylinder-rttw-dskc-2638042-2026-09-07?utm_source=rssfeed",
+    "title": "दिल्ली में जहां बिल्डिंग गिरी, वहां मिनटों में पहुंची ब्लिंकिट एंबुलेंस!",
+    "description": "दिल्ली के सत्य निकेतन इलाके में 5 मंजिला बिल्डिंग गिरने से बड़ा हादसा हो गया. बताया जा रहा है कि इमारत में छात्र रहते थे और कई लोग मलबे में फंस गए. हादसे के बाद स्थानीय लोग तुरंत मदद के लिए पहुंचे. मलबे में फंसे लोगों को सांस लेने में परेशानी न हो, इसके लिए लोगों ने Blinkit के जरिए ऑक्सीजन सिलेंडर मंगाने की कोशिश की.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T08:00:58+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
     "link": "https://news24online.com/sports/cricket/india-vs-pakistan-women-asia-cup-2026-final-possible-can-rivals-meet-again-on-september-13-heres-the-qualification-scenario-ind-vs-pak/917297/",
     "title": "India vs Pakistan Women Asia Cup 2026 final possible? Can rivals meet again on September 13, here’s the qualification scenario",
     "description": "India's latest victory came against Pakistan on September 5, when the Women in Blue completed a comfortable seven-wicket win.\nThe post India vs Pakistan Women Asia Cup 2026 final possible? Can rivals meet again on September 13, here’s the qualification scenario appeared first on News24.",
@@ -262,6 +385,18 @@
     "source_name": "NEWS24ONLINE.COM"
   },
   {
+    "link": "https://ndtv.in/india/india-marital-rape-case-supreme-court-consent-after-marriage-explained-12012317#publisher=newsstand",
+    "title": "पति है, इसलिए रेप नहीं ? 12 साल पहले एक पत्नी ने उठाया था सवाल, आज सुप्रीम कोर्ट खोज रहा जवाब",
+    "description": "शादी, सहमति और कानून के बीच फंसी Marital Rape की बहस आखिर क्यों नहीं थम रही? 12 साल पुरानी याचिका से सुप्रीम कोर्ट तक पहुंचे इस मामले को आंकड़ों और तथ्यों के साथ समझिए.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:57:54+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/hms4bkic_marital-rape_625x300_07_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.aajtak.in/india/news/story/air-india-express-flight-engine-problem-emergency-landing-cochin-ntc-dhrj-dskc-2638047-2026-09-07?utm_source=rssfeed",
     "title": "36 हजार फीट की ऊंचाई पर बंद करना पड़ा इंजन, AI एक्सप्रेस वापस लौटी",
     "description": "अबू धाबी जा रही एयर इंडिया एक्सप्रेस की फ्लाइट में उड़ान के दौरान इंजन का ऑयल प्रेशर तेजी से गिरने लगा. खतरा बढ़ता देख क्रू ने विमान को कोच्चि वापस लाने का फैसला किया, जहां सुरक्षित लैंडिंग हुई.",
@@ -272,6 +407,17 @@
     "pub_date": "2026-09-07T07:57:44+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/satya-niketan-building-collapse-ndrf-ig-about-rescue-operation-death-toll-12012063#publisher=newsstand",
+    "title": "'मलबे से लोगों को सुरक्षित निकालना चुनौती, दबे लोगों का आंकड़ा स्पष्ट नहीं', सत्य निकेतन हादसे पर NDRF",
+    "description": "सत्य निकेतन हादसे पर NDRF ने IG ने प्रेस कॉफ्रेंस में क्या कुछ बताया?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:57:04+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/6b23b3v4_satya-niketan-building-collapse-ndrf_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/sports/cricket-news/pakistan-cricket-team-is-not-safe-to-work-feels-mushtaq-ahmed-3900565.html",
@@ -285,6 +431,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/faith/vastu-tips-5-paintings-for-money-prosperity-12012323#publisher=newsstand",
+    "title": "Vastu Tips: घर में इन 5 जगहों पर लगाएं ये पेंटिंग, वास्तु के अनुसार बढ़ सकती है पैसों की बरकत",
+    "description": "वास्तु मान्यताओं में पश्चिम दिशा को लाभ और प्राप्ति से जोड़ा जाता है",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:56:35+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/0ivuhj68_vastu-paintings_625x300_07_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.tv9hindi.com/india/india-296-pollution-hotspots-across-271-rivers-can-bittu-tabahi-model-clean-3900556.html",
     "title": "271 नदियों में पॉल्यूशन के 296 हॉटस्पॉट: क्या बिट्टू तबाही मॉडल से इसे साफ किया जा सकता है?",
     "description": "भारत की 271 नदियों में 296 पॉल्यूटेड स्ट्रेच मिले हैं. गंगा से लेकर यमुना तक में गंदगी का अंबार है. ऐसे में सवाल उठता है कि क्या बिट्टू तबाही मॉडल से इसे साफ किया जा सकता है?",
@@ -295,6 +452,18 @@
     "pub_date": "2026-09-07T07:56:28+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/river-clean.jpeg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://ndtv.in/india/mcd-deputy-commissioner-and-5-other-suspended-in-satya-niketan-building-collapse-case-12012315#publisher=newsstand",
+    "title": "सत्य निकेतन बिल्डिंग हादसे पर पहला बड़ा एक्शन, MCD डिप्टी कमिश्नर सहित 5 अधिकारी सस्पेंड",
+    "description": "सत्य निकेतन इमारत हादसे पर MCD डिप्टी कमिश्नर सहित 5 अधिकारी सस्पेंड.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:55:52+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/l3ga4vb4_delhi-cm_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.aajtak.in/defence-news/story/aasman-ke-rakhwale-suraksha-sabha-aaj-tak-air-marshal-jeetendra-mishra-operation-sindoor-dskc-2638045-2026-09-07?utm_source=rssfeed",
@@ -376,6 +545,17 @@
     "source_name": "AAJTAK.IN"
   },
   {
+    "link": "https://www.tv9hindi.com/automobile/maruti-suzuki-to-hike-car-prices-by-rs-20000-on-selected-models-again-3900555.html",
+    "title": "त्योहारी सीजन में Maruti ने दिया झटका, 20,000 रुपए तक बढ़ा दी इन गाड़ियों की कीमतें",
+    "description": "मारुति सुजुकी ने सितंबर 2026 से चुनिंदा कारों की कीमत ₹20 हजार तक बढ़ाने का फैसला किया है. बढ़ती लागत और महंगाई के चलते यह मई के बाद कंपनी की तीसरी कीमत बढ़ोतरी है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:50:12+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/08/maruti-53.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
     "link": "https://news24online.com/india/diwali-2026-travel-rush-begins-train-reservations-open-for-festive-journeys-special-trains-announced-for-bihar-up-punjab-heres-what-we-know/917285/",
     "title": "Diwali 2026 travel rush begins: Train reservations open for festive journeys, special trains announced for Bihar, UP, Punjab, here’s what we know",
     "description": "Diwali will be celebrated on November 8, 2026. Under the regular railway reservation system, passengers can book tickets up to 60 days before the journey date, excluding the day of travel. The booking window opens at 8 am every day.\nThe post Diwali 2026 travel rush begins: Train reservations open for festive journeys, special trains announced for Bihar, UP, Punjab, here’s what we know appeared first on News24.",
@@ -385,6 +565,52 @@
     "pub_date": "2026-09-07T07:49:56+00:00",
     "image_url": null,
     "source_name": "NEWS24ONLINE.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/india/national/air-india-express-cochin-to-abu-dhabi-flight-return-after-crew-detected-a-rapidly-falling-oil-quantity-on-engine-1-2026-09-07-1241758",
+    "title": "हवा में था एयर इंडिया एक्सप्रेस का विमान, अचानक से खत्म होने लगा तेल, इंजन 1 को बंद कर के करवाई गई इमरजेंसी लैंडिंग",
+    "description": "कोच्चि से अबू धाबी जा रहे एयर इंडिया एक्सप्रेस के विमान को वापस ले आया गया है। जानकारी के अनुसार, विमान जब 36000 फीट की ऊंचाई पर था तब इसके तेल अचानक से तेजी से खत्म होने लगा था।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:49:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/09/air-india-express-low-fuel-cochin-landing-1788766622.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
+    "link": "https://ndtv.in/tech/apple-iphone-18-pro-launch-event-host-john-ternus-or-tim-cook-12012231#publisher=newsstand",
+    "title": "Tim Cook या John Ternus..कौन पेश करेंगे नए iPhones? सालों बाद बदलेगा Apple इवेंट का अंदाज!",
+    "description": "9 सितंबर को Apple में नए युग की शुरुआत हो सकती है. हाल ही में कंपनी के नए  CEO John Ternus बने हैं. ऐसे में सवाल है क्या iPhone 18 Pro सीरीज कौन लॉन्च करेंगे- Tim Cook या John Ternus?",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-09-07T07:47:55+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/sratc6k_apple_625x300_07_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/bengalis-existence-guptas-jaiswals-bengal-bjp-president-samik-bhattacharya-remark-triggers-political-row-12012241#publisher=newsstand",
+    "title": "'गुप्ता-जायसवालों ने बंगालियों को बचाया था', दुर्गापूजा मंच से BJP प्रदेश अध्यक्ष के बयान पर सियासी बवाल",
+    "description": "समिक भट्टाचार्य के बयान पर कांग्रेस और टीएमसी ने किया पलटवार. (Photo: IANS)",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:46:44+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/cudda51g_samik-bhattacharya_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/sports/cricket-news/india-vs-pakistan-scenario-for-another-match-in-womens-t20-asia-cup-2026-know-how-3900560.html",
+    "title": "भारत-पाकिस्तान का होगा एक और मुकाबला? Women’s T20 Asia Cup में ऐसे बन रहा समीकरण",
+    "description": "IND W vs PAK W: महिला T20 एशिया कप में भारत और पाकिस्तान एक बार फिर टकराते दिख सकते हैं. जानिए कैसे?",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-09-07T07:46:13+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/india-vs-pakistan-women.jpeg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.aajtak.in/madhya-pradesh/story/sagar-poisonous-liquor-11-death-case-big-revelation-dhaba-where-villagers-used-to-buy-cheap-wine-lcly-rptc-2638034-2026-09-07?utm_source=rssfeed",
@@ -421,6 +647,17 @@
     "source_name": "NEWS24ONLINE.COM"
   },
   {
+    "link": "https://ndtv.in/india/kanpur-lucknow-ayodhya-namo-bharat-corridor-in-upscr-rapid-rail-in-uttar-pradesh-know-all-details-12012281#publisher=newsstand",
+    "title": "लखनऊ-कानपुर-अयोध्या नमो भारत कॉरिडोर की रफ्तार तेज, दिल्ली-मेरठ जैसे मेट्रो से जुड़ेगी, उन्नाव-बाराबंकी में सर्वे तेज, DPR की तैयारी",
+    "description": "Kanpur Lucknow Ayodhya Namo Bharat Corridor: कानपुर-लखनऊ-अयोध्या नमो भारत कॉरिडोर",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:45:16+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/c0gcfueo_kanpur-lucknow-ayodhya-namo-bharat-corridor_625x300_07_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.livehindustan.com/national/vijay-thalapathy-might-lose-the-cm-chair-in-the-race-to-become-pm-201788766679370.html",
     "title": "विजय CM तो मदद से बन गए, पर PM फेस राहुल गांधी ही होंगे; कुर्सी न गंवा दें थलपति",
     "description": "लोकसभा चुनाव 2029 में विपक्ष की तरफ से प्रधानमंत्री पद का उम्मीदवार कौन होगा, इसे लेकर चर्चाओं का दौर जारी है। हालांकि, अब ये चर्चाएं दरारों की तरफ बढ़ती जा रही हैं। टीवीके एक ओर विजय थलपति को उम्मीदवार मान रही है। वहीं, कांग्रेस राहुल गांधी के समर्थन में है।",
@@ -447,7 +684,6 @@
     "title": "एक साल का काम 3 महीने में... कैसे 3D प्रिटिंग से घर बनवा रहे लोग?",
     "description": "अब ईंट, सीमेंट और बजरी से घर बनाना पुराने जमाने की बात हो जाएगी. क्योंकि, 3डी प्रिंटिंग तकनीक से बिना ज्यादा समय और ज्यादा मजदूर के बस कुछ ही दिनों में आपका घर बनकर तैयार हो जाता है. चलिए जानते हैं, आखिर इस टेक्नोलॉजी से कैसे घर बनाया जाता है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-07T07:44:06+00:00",
@@ -468,15 +704,26 @@
   },
   {
     "link": "https://www.tv9hindi.com/trending/norway-driving-licence-indian-man-struggle-6-lakhs-3900537.html",
-    "title": "OMG! ड्राइविंग लाइसेंस बनवाने में खर्च हो गए 6 लाख, भारतीय ने बताया नॉर्वे में DL लेना क्यों है इतना मुश्किल",
+    "title": "OMG! ड्राइविंग लाइसेंस बनवाने में खर्च हो गए 6 लाख, आखिर क्या है माजरा? वायरल पोस्ट पर छिड़ी बहस",
     "description": "नॉर्वे में ड्राइविंग लाइसेंस पाना कितना मुश्किल है? जानिए एक भारतीय शख्स की कहानी, जिसे DL बनवाने के लिए 6 लाख रुपए खर्च करने पड़े और 2 साल लगे.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-07T07:43:56+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/norway-driving-licence.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://ndtv.in/rajasthan-news/sachin-pilot-turns-49-became-mp-at-26-then-union-minister-and-deputy-cm-and-now-given-punjab-charge-12012263#publisher=newsstand",
+    "title": "49 के हुए सचिन पायलट...26 की उम्र में सांसद, केंद्रीय मंत्री, डिप्टी CM से अब पंजाब प्रभारी की जिम्मेदारी",
+    "description": "सचिन पायलट को हाल ही में कांग्रेस में पंजाब का प्रभारी बनाया गया है",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-07T07:43:24+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/h253th1s_sachin-pilot_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.aajtak.in/elections/assembly-chunav/story/brijbhushan-sharan-singh-daughter-shalini-singh-rss-rashtra-sevika-samiti-top-trening-camp-ntcpkb-dskc-2638027-2026-09-07?utm_source=rssfeed",
@@ -499,18 +746,6 @@
     "pub_date": "2026-09-07T07:42:12+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/133862166/russian-army.jpg?imgsize=132851&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/delhi/satya-niketan-building-incident-cm-rekha-gupta-big-action-mcd-5-officers-suspended-2026-09-07-1241760",
-    "title": "दिल्ली के सत्य निकेतन हादसे पर CM  रेखा गुप्ता का बड़ा एक्शन, MCD के डिप्टी कमिश्नर समेत 5 अधिकारी सस्पेंड",
-    "description": "सत्य निकेतन बिल्डिंग हादसे के बाद दिल्ली की मुख्यमंत्री रेखा गुप्ता ने बड़ा एक्शन लिया है। MCD के 5 अधिकारियों को सस्पेंड कर दिया गया है।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T07:42:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2022/11/breaking-news-template-1-1667263372.webp",
-    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.aajtak.in/uttar-pradesh/story/etah-child-falls-while-playing-iron-rod-pierces-through-his-mouth-lclam-dskc-2638032-2026-09-07?utm_source=rssfeed",
@@ -556,6 +791,17 @@
     "pub_date": "2026-09-07T07:39:10+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/guwahati.jpeg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/health-news/obstructive-sleep-apnea-symptoms-causes-treatment-in-hindi-20889448",
+    "title": "तेज खर्राटे और नींद में सांस रुकना, हो सकते हैं ऑब्सट्रक्टिव स्लीप एपनिया के संकेत, Cleveland Clinic से जानें कारण",
+    "description": "Sleep Apnea Symptoms: रात में तेज खर्राटे आते हैं, सोते समय कुछ देर के लिए सांस रुकती है या अचानक घुटन और हांफने के साथ नींद खुलती है, तो इसे सिर्फ सामान्य खर्राटे समझकर नजरअंदाज नहीं करना चाहिए। ये ऑब्सट्रक्टिव स्लीप एपनिया के संकेत हो सकते हैं। इसमें सोते समय गले की मांसपेशियां सामान्य से अधिक ढीली पड़ जाती हैं, जिससे सांस लेने का रास्ता कुछ समय के लिए संकरा या बंद हो सकता है और सांस रुकने लगती है। आइए जानते हैं यह समस्या क्यों होती है, इसके लक्षण क्या हैं और इससे बचने के लिए क्या किया जा सकता है।",
+    "categories": [
+      "Health"
+    ],
+    "pub_date": "2026-09-07T07:37:10+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Obstructive-Sleep-Apnea-1.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.prabhatkhabar.com/national/air-india-express-cochin-abu-dhabi-flight-engine-shut-down-oil-pressure-danger-zone",
@@ -822,7 +1068,7 @@
   {
     "link": "https://www.indiatv.in/india/politics/tamil-nadu-cm-vijay-warning-said-women-are-main-reason-behind-my-victory-will-not-tolerate-any-abusive-language-2026-09-07-1241757",
     "title": "CM विजय ने दे दी बड़ी चेतावनी, बोले- 'मेरी जीत के पीछे महिलाएं मुख्य वजह, अभद्र भाषा बर्दाश्त नहीं करूंगा'",
-    "description": "CM विजय ने विधानसभा में दे दी बड़ी चेतावनी, बोले- 'मेरी जीत के पीछे महिलाएं मुख्य वजह, अभद्र भाषा बर्दाश्त नहीं करूंगा'",
+    "description": "तमिलनाडु के मुख्यमंत्री विजय ने विधानसभा सत्र के दौरान कहा कि वह महिलाओं के खिलाफ अभद्र भाषा कतई बर्दाश्त नहीं करेंगे। विजय ने इस दौरान विपक्षी पार्टी DMK पर भी जमकर निशाना साधा और उसपर भ्रष्टाचार के आरोप लगाए।",
     "categories": [
       "Breaking News",
       "National",
@@ -1535,7 +1781,6 @@
     "title": "कौन हैं अरिश्फा खान? 'बिग बॉस 20' की सबसे कम उम्र की कंटेस्टेंट, इंस्टाग्राम पर है 29 मिलियन फॉलोअर्स",
     "description": "अरिश्फा खान 'बिग बॉस 20' की सबसे कम उम्र की कंटेस्टेंट के तौर पर शामिल हुई हैं। एक चाइल्ड आर्टिस्ट के तौर पर अपने एक्टिंग करियर की शुरुआत करने से लेकर इंस्टाग्राम पर 29 मिलियन से ज्यादा फॉलोअर्स के साथ सोशल मीडिया सेंसेशन बनने तक, यहां उनके बारे में सब कुछ बताया गया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-07T06:32:00+00:00",
@@ -2017,256 +2262,5 @@
     "pub_date": "2026-09-07T06:10:01+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/08/gold-1.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/defence-news/story/suraksha-sabha-vardi-ki-viral-awaaz-dskc-2637935-2026-09-07?utm_source=rssfeed",
-    "title": "&#039;आज की जेनरेशन को रील नहीं, रियल सच सुनाने की जरूरत&#039;",
-    "description": "आजतक सुरक्षा सभा में ब्रिगेडियर सौरभ सिंह शेखावत और कर्नल राजीव भरवान ने वर्दी की आवाज साझा की. युवाओं को रील नहीं रियल सच सुनाने, जिम्मेदारी लेने, डर का सामना करने और देश को प्राथमिकता देने की बात कही.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:09:55+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/uttar-pradesh/lucknow-bkt-shivani-alive-after-two-years-of-cremation-police-investigation-mystery-3900463.html",
-    "title": "जिसका कर दिया था अंतिम संस्कार, 2 साल बाद जिंदा लौटी वो बिटिया… देखते ही परिवार के उड़े होश, अब सामने है ये पहेली",
-    "description": "Dead Woman Found Alive Lucknow: लखनऊ में 2 साल पहले मृत मानकर जिस शिवानी का अंतिम संस्कार कर दिया गया था, वो अचानक जिंदा घर लौट आई. अब नाले में मिले अज्ञात शव पर सवाल गहरा गए हैं.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:09:53+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/add-a-heading-20.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/india-news/west-bengal-bjp-chief-samik-bhattacharya-s-gupta-jaiswal-remark-on-bengalis-sparks-row-2026-09-07",
-    "title": "‘गुप्ता-जायसवाल नहीं होते तो बंगाली नहीं बचते’: भाजपा प्रेदश अध्यक्ष के बयान पर मचा बवाल, क्यों भड़का विपक्ष?",
-    "description": "‘गुप्ता-जायसवाल नहीं होते तो बंगाली नहीं बचते’: भाजपा प्रेदश अध्यक्ष के बयान पर मचा बवाल, क्यों भड़का विपक्ष?",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:09:45+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://ndtv.in/health/is-sendha-namak-really-healthier-than-regular-salt-cardiologist-explains-the-risks-12011861#publisher=newsstand",
-    "title": "क्या सेंधा नमक BP बढ़ा सकता है? ज्यादा सेवन से दिल और किडनी पर पड़ सकता है असर",
-    "description": "व्रत में ज्यादा सेंधा नमक खाते हैं? जानिए इससे दिल और किडनी पर क्या असर पड़ सकता है",
-    "categories": [
-      "Breaking News",
-      "Health"
-    ],
-    "pub_date": "2026-09-07T06:08:26+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/9trit988_sendha-namak_625x300_07_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/india-news/assam-woman-decomposing-body-found-in-house-severed-head-kept-in-fridge-whom-does-the-police-suspect-2026-09-07",
-    "title": "असम में खौफनाक हत्याकांड: पत्नी का सिर और उंगलियां काट फ्रिज में रखा, शव के पास हर दिन घंटों बिताता था पति",
-    "description": "असम में खौफनाक हत्याकांड : पत्नी का सिर और उंगलियां काट फ्रिज में रखा, फिर शव के पास बैठ पति ने खाया खाना  Assam Woman decomposing body found in house, severed head kept in fridge; whom does the police suspect?",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:07:46+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/religion/ganesh-chaturthi-2026-date-14-or-15-september-ganpati-sthapana-3900436.html",
-    "title": "Ganesh Chaturthi 2026: 14 या 15 सितंबर… गणेश जी को किस दिन घर लाएं? चतुर्थी पर है बड़ा कंफ्यूजन",
-    "description": "भाद्रपद माह शुरू होते ही गणपति बप्पा के स्वागत की तैयारियां शुरू हो जाती हैं. इस बार गणेश चतुर्थी की तारीख को लेकर थोड़ा कंफ्यूजन है. आइए जानते हैं, बप्पा को 14 सितंबर को घर लाएं या फिर 15 सितंबर को.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:07:02+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/ganesh-chaturthi-2026-3.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://news24online.com/india/delhi-pg-building-collapse-traffic-police-issues-fresh-advisory-around-satya-niketan-check-restricted-routes/917157/",
-    "title": "Delhi PG Building Collapse: Traffic police issues fresh advisory around Satya Niketan, check restricted routes",
-    "description": "Traffic was disrupted near Delhi’s Satya Niketan after the building collapse killed six people, while rescue teams continued searching for a possible missing labourer.\nThe post Delhi PG Building Collapse: Traffic police issues fresh advisory around Satya Niketan, check restricted routes appeared first on News24.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:06:37+00:00",
-    "image_url": "https://news24online.com/wp-content/uploads/2026/09/image_a77fcf.png",
-    "source_name": "NEWS24ONLINE.COM"
-  },
-  {
-    "link": "https://ndtv.in/india/satya-niketan-building-collapse-motilal-nehru-student-narrowly-escaped-told-inside-story-12011876#publisher=newsstand",
-    "title": "पानी आ रहा होता तो मैं भी मलबे में दबा होता... सत्य निकेतन हादसे से बाल-बाल बचे छात्र ने क्या कुछ बताया?",
-    "description": "सत्य निकेतन में जो बिल्डिंग गिरी, उसी में रहने वाले छात्र ने बताया अंदर की कहानी.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:04:53+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/t84mrfoc_satya-niketan-building-collapse_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/elections/assembly-chunav/story/who-is-ishan-anand-mayawati-nephew-bsp-political-profile-london-graduate-gen-z-ntcpkb-dskc-2637932-2026-09-07?utm_source=rssfeed",
-    "title": "लंदन से पढ़ाई, मायावती के Gen-Z में फिट, जानिए ईशान आनंद की पूरी कहानी",
-    "description": "बहुजन समाज पार्टी की सर्वोच्च नेता मायावती ने अपने संगठन में बड़ा बदलाव करते हुए अपने छोटे भतीजे ईशान आनंद को बसपा का मुख्य सेक्टर प्रभारी नियुक्त किया है. 2027 के उत्तर प्रदेश विधानसभा चुनाव से पहले पार्टी को मजबूत करने और युवाओं को जोड़ने के उद्देश्य से उन्हें लगभग 15 राज्यों की महत्वपूर्ण जिम्मेदारी सौंपी गई है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:03:56+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/religion/is-it-permissible-to-eat-non-veg-after-wearing-rudraksha-rules-as-per-astrology-3900433.html",
-    "title": "Rudraksha Rules: क्या रुद्राक्ष पहनकर नॉनवेज खा सकते हैं? जानें क्या कहती हैं मान्यताएं",
-    "description": "Rudraksha Niyam: अक्सर लोगों के मन में सवाल आता है कि क्या रुद्राक्ष पहनने के बाद हमें नॉनवेज या तामसिक भोजन खाना चाहिए या नहीं. अगर आप भी इसे लेकर कंफ्यूज हैं, तो आइए जानते हैं इसका जवाब.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:03:00+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/rudraksha-rules.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/technology/australia-social-media-algorithm-law-users-may-get-option-to-turn-off-personalized-feeds-3900466.html",
-    "title": "सोशल मीडिया पर अब एल्गोरिदम नहीं करेगा कंट्रोल? ऑस्ट्रेलिया ला रहा बड़ा कानून",
-    "description": "ऑस्ट्रेलिया सोशल मीडिया कंपनियों के लिए नया नियम लाने की तैयारी में है. इसके बाद यूजर्स पसंद और ऑनलाइन गतिविधियों को ट्रेक करने वाले एल्गोरिदम को अपनी मर्जी से बंद कर सकेंगे.",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-09-07T06:02:47+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-07-at-11.29.09.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/bengaluru-doctor-matrimonial-fraud-22-lakh-cyber-crime-3900470.html",
-    "title": "‘जर्मनी में डॉक्टर हूं, दिल्ली में अस्पताल खोलूंगा…’ शादी के नाम पर बेंगलुरु की महिला डॉक्टर से कैसे हुई ठगी?",
-    "description": "Bengaluru doctor fraud: आरोपी ने विदेश में नौकरी की कहानी सुनाकर पीड़िता का भरोसा हासिल किया. बातचीत बढ़ने के बाद उसने बैंक खाते से जुड़ी परेशानी का हवाला दिया और पैसे मंगवाए.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:02:22+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/08/siwan-doctor-fined-8-lakh-for-wrong-foot-surgery.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/rss-chief-mohan-bhagwat-london-uk-hindu-dharma-culture-karma-bhoomi-hindu-3900469.html",
-    "title": "हिंदुत्व के नजरिए से ‘कर्मभूमि’ वही जिसके प्रति आपकी निष्ठा… लंदन में बोले RSS प्रमुख मोहन भागवत",
-    "description": "मोहन भागवत ने कहा, \"हमें अलग-अलग रहने की जरूरत नहीं है. हम साथ चल सकते हैं. हम साथ काम कर सकते हैं. हम साथ रह सकते हैं और हमें साथ मिलकर काम करना चाहिए. यही हिंदुत्व है.\"",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:01:43+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/08/mohan-bhagwat-visit-america.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/sports/cricket-news/after-ishan-kishan-now-kumar-kushagra-hit-century-for-east-zone-in-duleep-trophy-final-3900472.html",
-    "title": "ईशान किशन के बाद कुमार कुशाग्र ने भी जड़ा शतक, Duleep Trophy के फाइनल में किया धमाका",
-    "description": "Kumar Kushagra century: कुमार कुशाग्र ने भी दलीप ट्रॉफी के फाइनल की पहली पारी में धमाका करते हुए शतक लगाया.",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-09-07T06:01:07+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/kumar-century.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/uttar-pradesh/story/shahjahanpur-police-turned-kidnappers-held-businessman-hostage-and-extorted-rs-2-lakh-now-constables-arrested-lclam-dskc-2637925-2026-09-07?utm_source=rssfeed",
-    "title": "शाहजहांपुर: पुलिस ही बन गई किडनैपर! व्यापारी को बंधक बनाकर रंगदारी वसूली",
-    "description": "शाहजहांपुर में चार पुलिसकर्मियों ने एक सर्राफा व्यापारी को फर्जी स्मैक केस में फंसाने की धमकी देकर बंधक बना लिया. आरोपियों ने व्यापारी के परिजनों से 2 लाख रुपये की रंगदारी वसूली. मामला दर्ज होने के बाद दो सिपाहियों को गिरफ्तार कर लिया गया है, जबकि दो फरार हैं.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:00:44+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-07",
-    "title": "पढ़ें 7 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T06:00:12+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/national/delhi-building-collapse-photos",
-    "title": "Delhi Building Collapse Photos : ताश के पत्तों की तरह ढह गया PG; मलबे में दबे छात्रों के रेस्क्यू की 8 तस्वीरें",
-    "description": "सत्य निकेतन में 5 मंजिला पीजी के ढहने से 6 लोगों की मौत हो गई और कई छात्र अभी भी मलबे में दबे बताए जा रहे हैं. NDRF और स्थानीय लोग जान जोखिम में डालकर बचाव कार्य चला रहे हैं. देखें दर्दनाक तस्वीरें.\nThe post Delhi Building Collapse Photos : ताश के पत्तों की तरह ढह गया PG; मलबे में दबे छात्रों के रेस्क्यू की 8 तस्वीरें appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T05:59:38+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/09/07/1788760634183/sizes/delhi-building-collapse-1-36b157-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://ndtv.in/auto/apple-ceo-john-ternus-porsche-race-car-driver-formula-1-connection-12011811#publisher=newsstand",
-    "title": "Apple के नए CEO हैं रफ्तार के दीवाने! इस कार से मचाते हैं धमाल, Tim Cook से भी दो कदम आगे!",
-    "description": "Apple का नया CEO है रफ्तार का दीवाना. जानें कैसे iPhone बनाने वाले John Ternus वीकेंड पर अपनी Porsche से रेस ट्रैक पर मचाते हैं धमाल.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T05:59:19+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/2rv1m188_apple-ceo-_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/lifestyle/kitchen/story/dal-khichdi-recipe-healthy-tasty-khichdi-for-kids-sanjeev-kapoor-style-tvist-dskc-2631090-2026-09-07?utm_source=rssfeed",
-    "title": "बच्चे करते हैं नखरे? बनाएं संजीव कपूर स्टाइल दाल खिचड़ी",
-    "description": "Dal Khichdi Recipe: बच्चों को खिचड़ी पसंद नहीं आती और वे दाल-चावल देखकर मुंह बनाने लगते हैं? तो संजीव कपूर की ये आसान रेसिपी ट्राई करें. दाल, चावल, गाजर और बीन्स के साथ हल्के मसालों और घी से बनाएं स्वादिष्ट, सॉफ्ट और पौष्टिक खिचड़ी, जो बच्चों के लिए हेल्दी होने के साथ-साथ खाने में भी बेहद टेस्टी लगेगी.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T05:58:23+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.livehindustan.com/national/tamil-nadu-cm-thalapathy-vijay-slams-udaynidhi-stalin-remarks-on-trisha-vijay-speech-in-assembly-201788760349234.html",
-    "title": "तृषा का अपमान भूले नहीं हैं थलपति विजय, स्टालिन को फिर दे डाली चेतावनी; विधानसभा में गरजे",
-    "description": "विजय ने बिना नाम लिये उदयनिधि स्टालिन पर निशाना साधा। उन्होंने कहा है कि महिलाओं का अपमान करने वालों को बख्शा नहीं जाएगा। वहीं उन्होंने भ्रष्टाचार को लेकर भी बड़ा बयान दिया है।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-07T05:57:09+00:00",
-    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/09/07/1200x900/vijay_trisha_1788765396814_fa0db2a2-b7a3-4153-baa1-9305b7988a18_1788765396948_35bb8e7c-0cee-4144-9b86-e939224aac85_3e1d51f1-9c21-4dbd-bde3-59bd31e60c73_c6b5941d-5f5e-4cd8-8c4c-90a9415646cb.jpeg",
-    "source_name": "LIVEHINDUSTAN.COM"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/religion/aja-ekadashi-2026-puja-vidhi-shubh-muhurat-paran-time-mantra",
-    "title": "अजा एकादशी पर ऐसे करें भगवान विष्णु की पूजा, जानें शुभ मुहूर्त, पारण समय और मंत्र",
-    "description": "अजा एकादशी के दिन भगवान विष्णु की पूजा का विशेष महत्व माना जाता है. इस दिन व्रत रखने और विधि-विधान से पूजा करने से सुख-समृद्धि की प्राप्ति होती है. यहां जानें अजा एकादशी का शुभ मुहूर्त, पूजा विधि, पारण का समय और भगवान विष्णु के प्रभावशाली मंत्र.\nThe post अजा एकादशी पर ऐसे करें भगवान विष्णु की पूजा, जानें शुभ मुहूर्त, पारण समय और मंत्र appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-07T05:55:26+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/08/17/1786968802174/sizes/putrada-ekadashi-2a4728-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://ndtv.in/world-news/good-maharaja-story-why-jaishankar-paid-tribute-in-poland-to-indian-king-12011824#publisher=newsstand",
-    "title": "'गुड महाराजा' का एहसान 80 साल बाद भी नहीं भूला पोलैंड, कौन थे ये भारतीय राजा जिन्हें जयशंकर ने किया नमन ?",
-    "description": "'गुड महाराजा' का एहसान पोलैंड 80 साल बाद भी नहीं भूला है. विदेश मंत्री एस. जयशंकर ने वारसॉ में उन्हें श्रद्धांजलि दी. जानिए कैसे गुजरात के जाम साहेब और कोल्हापुर राजघराने ने द्वितीय विश्व युद्ध के दौरान हजारों पोलिश शरणार्थियों को नया जीवन दिया.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T05:55:00+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/6brh82m4_good-maharaja_625x300_07_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
