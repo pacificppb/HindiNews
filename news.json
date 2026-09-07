@@ -7,9 +7,20 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-09-07T21:30:23+00:00",
+    "pub_date": "2026-09-07T22:00:12+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/india/pm-narendra-modi-held-meeting-with-ministers-of-state-3901231.html",
+    "title": "कैबिनेट फेरबदल की आहट! राज्य मंत्रियों के साथ PM मोदी की बड़ी बैठक, क्या रहा खास?",
+    "description": "आगामी हफ्तों में राज्य मंत्रियों के साथ और भी बैठकें होंगी. इनको मंत्रिमंडल में संभावित फेरबदल से भी जोड़ा जा रहा है क्योंकि ऐसी बैठकों से PM राज्यमंत्रियों की परफार्मेंस का भी आकलन कर रहे हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-07T21:57:08+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/pm-narendra-modi-meeting.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.amarujala.com/video/india-news/dhirendra-shastri-s-statement-on-non-vegetarian-food-in-bengal-sparks-a-political-uproar-2026-09-08",
@@ -2260,16 +2271,5 @@
     "pub_date": "2026-09-07T14:21:32+00:00",
     "image_url": null,
     "source_name": "NEWS24ONLINE.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/congress-sc-st-mps-meet-over-purification-ritual-after-kharge-rally-in-haldwani/articleshow/133883692.cms",
-    "title": "हल्द्वानी शुद्धीकरण विवाद पर कांग्रेस के SC/ST सांसदों की बैठक, राष्ट्रपति को ज्ञापन देने का फैसला",
-    "description": "हल्द्वानी में कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे की रैली के बाद हुए 'शुद्धीकरण अनुष्ठान' को लेकर कांग्रेस के SC/ST सांसदों ने दिल्ली के इंदिरा भवन में बैठक कर इसे दलितों व आदिवासियों की गरिमा पर सीधा हमला करार दिया है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-07T14:20:28+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/133885057/mallikarjun-kharge-rally-shuddhikaran-controversy.jpg?imgsize=1524472&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   }
 ]
