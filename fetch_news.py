@@ -27,23 +27,6 @@ ENG_STOP_WORDS = {
 }
 
 RSS_FEEDS = [
-    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
-    {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
-    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
-    {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
-    {"name": "9to5Mac", "url": "https://9to5mac.com/feed/"},
-    {"name": "Android Central", "url": "https://www.androidcentral.com/rss.xml"},
-    {"name": "Gizmodo", "url": "https://gizmodo.com/rss"},
-    {"name": "Techmeme", "url": "https://www.techmeme.com/feed.xml"},
-    {"name": "CNET", "url": "https://www.cnet.com/rss/news/"},
-    {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
-    {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
-    {"name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/"},
-    {"name": "Mashable", "url": "https://mashable.com/feeds/rss/all"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
-    {"name": "NASA", "url": "https://www.nasa.gov/news-release/feed/"},
     {"name": "BBC Hindi", "url": "https://feeds.bbci.co.uk/hindi/rss.xml"},
     {"name": "Aaj Tak", "url": "https://www.aajtak.in/rss"},
     {"name": "NDTV Khabar", "url": "https://feeds.feedburner.com/ndtvkhabar-latest"},
