@@ -36,7 +36,6 @@ RSS_FEEDS = [
     {"name": "NDTV Khabar", "url": "https://feeds.feedburner.com/ndtvkhabar-latest"},
     {"name": "Amar Ujala", "url": "https://www.amarujala.com/rss/india-news.xml"},
     {"name": "Live Hindustan", "url": "https://api.livehindustan.com/feeds/rss/national/rssfeed.xml"},
-    {"name": "Live Hindustan National", "url": "https://api.livehindustan.com/feeds/rss/national/national-news/rssfeed.xml"},
     {"name": "Navbharat Times India", "url": "https://navbharattimes.indiatimes.com/india/rssfeed/1564454.xml"},
     {"name": "Navbharat Times Viral", "url": "https://navbharattimes.indiatimes.com/viral/trending/rssfeed/82150271.xml"},
     {"name": "Navbharat Times Tech", "url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/rssfeed/66130905.xml"},
@@ -301,56 +300,60 @@ def get_explicit_categories(entry, link, source_name):
 
     mappings = [
         ("Technology", [
-            "/tech/", "/technology/", "/gadgets/", "/ai/", "/security/", "/cybersecurity/", "/software/", "/apps/", "/mobile/", "/5g/",
+            "/tech/", "/technology/", "/gadgets/", "/ai/", "/security/", "/cybersecurity/", "/software/", "/apps/", "/mobile/", "/5g/", "/science/", "/auto/", "/automobile/", "/information/", "/knowledge/",
             "tech", "technology", "ai", "artificial intelligence", "chatgpt", "openai", "gadget", "gadgets", "smartphone", "android",
-            "iphone", "security", "cybersecurity", "software", "app", "apps", "mobile", "telecom", "5g", "crypto", "bitcoin"
+            "iphone", "security", "cybersecurity", "software", "app", "apps", "mobile", "telecom", "5g", "crypto", "bitcoin",
+            "टेक्नोलॉजी", "ऑटोमोबाइल", "gadgets news", "technologygadgets", "national newstechnology", "automobile", "auto news", "science", "information", "knowledge"
         ]),
         ("National", [
-            "/national/", "/india/", "/india-news/", "/desh/", "/national-news/",
-            "national", "india", "desh", "national news"
+            "/national/", "/india/", "/india-news/", "/desh/", "/national-news/", "/bihar/", "/delhi/", "/punjab-news/", "/rajasthan-news/", "/uttar-pradesh-news/", "/defence-news/", "/education/", "/legal-news/", "/religion/", "/faith/",
+            "national", "india", "desh", "national news", "देश", "राज्य", "इंडिया", "बिहार", "education news", "stateeducation news", "national new", "education", "legal-news", "religion", "faith", "defence-news", "delhi", "punjab", "rajasthan", "uttar pradesh", "bihar"
         ]),
         ("Health", [
             "/health/", "/medical/", "/wellness/", "/fitness/",
-            "health", "medical", "wellness", "fitness", "medicine", "health news"
+            "health", "medical", "wellness", "fitness", "medicine", "health news", "हेल्थ"
         ]),
         ("Business", [
-            "/business/", "/startups/", "/corporate/", "/company/", "/finance/",
-            "business", "startup", "startups", "corporate", "company", "enterprise", "venture"
+            "/business/", "/startups/", "/corporate/", "/company/", "/finance/", "/usiness-news/", "/business-news/",
+            "business", "startup", "startups", "corporate", "company", "enterprise", "venture", "बिजनेस", "businessfinance", "businessbusiness utility news", "businesscorporate", "news bulletincorporate", "usiness-news"
         ]),
         ("Economy", [
             "/economy/", "/finance/", "/markets/", "/budget/",
-            "economy", "finance", "markets", "market", "banking", "budget", "inflation", "stocks"
+            "economy", "finance", "markets", "market", "banking", "budget", "inflation", "stocks", "festivalseconomy", "businesseconomy", "news bulletineconomy"
         ]),
         ("Entertainment", [
-            "/entertainment/", "/bollywood/", "/viral/", "/cinema/", "/movies/", "/tv/",
-            "entertainment", "bollywood", "cinema", "movie", "movies", "viral", "celebrity", "showbiz"
+            "/entertainment/", "/bollywood/", "/viral/", "/cinema/", "/movies/", "/tv/", "/trending/", "/lifestyle/", "/television/", "/food/",
+            "entertainment", "bollywood", "cinema", "movie", "movies", "viral", "celebrity", "showbiz", "ट्रेंडिंग", "मनोरंजन", "ओटीटी", "ott news", "bollywoodentertainment", "life and style", "bollywood gossip", "trending", "lifestyle", "television", "food", "बॉलीवुड"
         ]),
         ("World", [
-            "/world/", "/international/", "/global/",
-            "world", "international", "global", "foreign", "world news"
+            "/world/", "/international/", "/global/", "/world-news/",
+            "world", "international", "global", "foreign", "world news", "china"
         ]),
         ("Political", [
-            "/politics/", "/policy/", "/government/",
+            "/politics/", "/policy/", "/government/", "/elections/",
             "politics", "political", "government", "policy", "election", "elections"
         ]),
         ("Sports", [
             "/sports/", "/cricket/", "/gaming/", "/games/",
-            "sports", "sport", "cricket", "football", "gaming", "esports"
+            "sports", "sport", "cricket", "football", "gaming", "esports", "क्रिकेट", "स्पोर्ट्स", "cricket newssports"
+        ]),
+        ("Breaking News", [
+            "/breaking/", "/breaking-news/","/trending/",
+            "breaking", "breaking news", "breaking-news", "trending"
         ])
     ]
 
     for cat_name, patterns in mappings:
         for pat in patterns:
-            if pat.startswith("/") and pat.endswith("/"):
-                if pat in url_path:
-                    categories.add(cat_name)
-                    break
+            if pat.startswith("/") and pat in url_path:
+                categories.add(cat_name)
+                break
 
     for cat_name, patterns in mappings:
         for tag in feed_tags:
             clean_tag = tag.strip().lower()
             for pat in patterns:
-                if not pat.startswith("/") and clean_tag == pat:
+                if not pat.startswith("/") and (clean_tag == pat or pat in clean_tag):
                     categories.add(cat_name)
                     break
 
@@ -398,7 +401,6 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
     if is_recent and has_breaking_kw:
         categories.add("Breaking News")
 
-    # Strictly filter categories to standard whitelist
     allowed_results = categories & ALLOWED_CATEGORIES
     if not allowed_results:
         allowed_results = {"National"}
