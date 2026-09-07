@@ -314,12 +314,13 @@ def get_explicit_categories(entry, link, source_name):
             "health", "medical", "wellness", "fitness", "medicine", "health news", "हेल्थ"
         ]),
         ("Business", [
-            "/business/", "/startups/", "/corporate/", "/company/", "/finance/", "/usiness-news/", "/business-news/",
-            "business", "startup", "startups", "corporate", "company", "enterprise", "venture", "बिजनेस", "businessfinance", "businessbusiness utility news", "businesscorporate", "news bulletincorporate", "usiness-news"
+            "/business/", "/startups/", "/corporate/", "/company/", "/finance/", "/business-news/",
+            "business", "startup", "startups", "corporate", "company", "enterprise", "venture", "बिजनेस", "businessfinance", "businessbusiness utility news", "businesscorporate", "news bulletincorporate", "business-news"
         ]),
         ("Economy", [
             "/economy/", "/finance/", "/markets/", "/budget/",
-            "economy", "finance", "markets", "market", "banking", "budget", "inflation", "stocks", "festivalseconomy", "businesseconomy", "news bulletineconomy"
+            "economy", "finance", "markets", "market", "banking", "budget", "inflation", "stocks", "festivalseconomy", "businesseconomy", "news bulletineconomy",
+            "businessfinance", "corporate", "businesscorporate"
         ]),
         ("Entertainment", [
             "/entertainment/", "/bollywood/", "/viral/", "/cinema/", "/movies/", "/tv/", "/trending/", "/lifestyle/", "/television/", "/food/",
