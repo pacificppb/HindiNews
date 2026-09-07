@@ -33,7 +33,7 @@ jobs:
       - name: Fetch Existing Live JSON
         run: |
           mkdir -p public
-          curl -s -f https://androidappr.github.io/TechNews/news.json -o public/news.json || true
+          curl -s -f https://pacificppb.github.io/HindiNews/news.json -o public/news.json || true
 
       - name: Run Fetcher Script
         run: python fetch_news.py
