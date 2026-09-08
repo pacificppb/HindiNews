@@ -44,6 +44,41 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/video/india-news/petrol-and-diesel-prices-to-rise-again-in-india-crude-oil-crosses-100-mark-2026-09-09",
+    "title": "भारत में फिर से बढ़ेंगे पेट्रोल-डीजल के दाम, कच्चा तेल 100 डॉलर के पार",
+    "description": "भारत में फिर से बढ़ेंगे पेट्रोल-डीजल के दाम, कच्चा तेल 100 डॉलर के पार",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-08T22:32:15+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-09",
+    "title": "पढ़ें 9 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-08T22:30:16+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-mumbai-kurla-area-ganpati-statue-fall-injured-many-2026-09-09",
+    "title": "महाराष्ट्र की खबरें: मुंबई में गणेश प्रतिमा गिरने से फिर हुआ हादसा, कई घायल; पहले हादसे में हुई थी दो की मौत",
+    "description": "महाराष्ट्र की खबरें: मुंबई के कुर्ला इलाके में गणेश प्रतिमा गिरी, दो लोग घायल",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-08T22:25:50+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/supreme-court-updates-today-law-study-days-decide-by-special-body-2026-09-09",
     "title": "सुप्रीम कोर्ट अपडेट्स: विशेषज्ञ निकाय तय करेगा कानून की पढ़ाई कितने दिन की हो, सर्वोच्च न्यायालय की टिप्पणी",
     "description": "सुप्रीम कोर्ट अपडेट्स: विशेषज्ञ निकाय तय करेगा कानून की पढ़ाई कितने दिन की हो, सर्वोच्च न्यायालय की टिप्पणी\n\nSupreme court updates today law study days decide by special body",
@@ -64,18 +99,6 @@
     "pub_date": "2026-09-08T22:01:24+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-09",
-    "title": "पढ़ें 9 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-08T22:00:11+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
   },
   {
     "link": "https://www.aajtak.in/world/story/iran-launched-second-wave-of-attacks-on-us-navy-ships-middle-east-war-ntc-aktw-dskc-2639115-2026-09-09?utm_source=rssfeed",
@@ -205,6 +228,7 @@
     "title": "स्कूल-कॉलेज जाने से पहले पढ़ लें ये खबर! द्रोण मेले के चलते नोएडा में आज छुट्टी",
     "description": "द्रोण मेले के चलते गौतम बुद्ध नगर जिले में 9 सितंबर को सार्वजनिक अवकाश रहेगा. ग्रेटर नोएडा के दनकौर में आयोजित होने वाले द्रोण मेले को देखते हुए सभी सरकारी, परिषदीय और निजी स्कूल-कॉलेज बंद रहेंगे.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-08T18:38:57+00:00",
@@ -239,7 +263,6 @@
     "title": "आज की ताजा खबर LIVE: राजस्थान के 309 नगरीय निकायों में आज पहले चरण का मतदान",
     "description": "राजस्थान के 309 नगरीय निकायों में आम चुनाव के प्रथम चरण का मतदान आज होगा. रक्षा मंत्री राजनाथ सिंह द्विपक्षीय संबंधों और सुरक्षा सहयोग को मजबूत करने के लिए श्रीलंका के आधिकारिक दौरे पर रहेंगे.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-08T18:30:23+00:00",
@@ -917,6 +940,7 @@
     "title": "देश की पहली बुलेट ट्रेन का कब शुरू होगा ट्रायल? यात्री कब से कर सकेंगे सफर? रेल मंत्री ने बताया पूरा प्लान",
     "description": "भारत की बुलेट ट्रेन का इंतजार कर रहे लोगों के लिए बड़ी खबर है। देश की अपनी बनाई पहली बुलेट ट्रेन अब ट्रैक पर उतरने की तैयारी में है। रेल मंत्री अश्विनी वैष्णव ने इसके ट्रायल और यात्रियों के सफर को लेकर पूरा प्लान बताया है।",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-08T16:45:00+00:00",
@@ -2240,28 +2264,5 @@
     "pub_date": "2026-09-08T14:39:08+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/hong-kong-maid-maryam-gofundme-campaign.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/haryana/gurugram-car-accident-two-year-old-dies-mother-witnesses-tragic-incident-3901913.html",
-    "title": "मां की आंखों के सामने 2 साल की मासूम को कार ने कुचला, CCTV में कैद हुआ गुरुग्राम का दर्दनाक हादसा",
-    "description": "गुरुग्राम के सेक्टर-5 में 2 साल की बच्ची की कार की चपेट में आने से दर्दनाक मौत हो गई. घर के बाहर खेल रही मासूम को मां की आंखों के सामने कार ने कुचल दिया. CCTV फुटेज में चालक की लापरवाही साफ दिख रहा.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-08T14:38:52+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/gurugram-news-1280-720-5.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/gulzar-singh-suicide-case-congress-leader-partap-singh-bajwa-demands-resignation-of-punjab-minister-harpal-cheema/articleshow/133928962.cms",
-    "title": "कांग्रेस ने आत्महत्या मामले में पंजाब के वित्त मंत्री हरपाल चीमा को बर्खास्त करने की मांग की",
-    "description": "कांग्रेस ने पंजाब की आप सरकार पर गिरती कानून-व्यवस्था और अपराधियों को संरक्षण देने का आरोप लगाते हुए वित्त मंत्री हरपाल सिंह चीमा के इस्तीफे की मांग की है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-08T14:37:04+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/133929697/partap-singh-bajwa-press-conference.jpg?imgsize=2322910&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   }
 ]
