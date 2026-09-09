@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/video/india-news/apple-iphone-18-pro-and-18-pro-max-launch-know-its-specifications-2026-09-10",
+    "title": "iPhone 18 Pro Launch: एप्पल के नए आईफोन 18 प्रो, 18 प्रो मैक्स में सब बदल गया",
+    "description": "Apple के CEO जॉन टर्नस ने iPhone 18 Pro और iPhone 18 Pro Max से पर्दा उठाया. Apple ने खासतौर पर Siri और Apple Intelligence को पहले से ज्यादा स्मार्ट और पर्सनल बनाने पर जोर दिया है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-10T07:07:30+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-10",
     "title": "पढ़ें 10 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -20,6 +31,17 @@
     "pub_date": "2026-09-10T06:35:57+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://navbharattimes.indiatimes.com/tech/gadgets-news/apple-watch-series-12-watch-ultra-4-launched-s11-airpods-5-pro-upgrade-price-features/articleshow/133981378.cms",
+    "title": "ऐपल ने नए हेल्थ सेंसर्स और S11 चिप के साथ उतारीं Watch Series 12 और Ultra 4, AirPods 5 को भी मिला Pro अपग्रेड",
+    "description": "ऐपल ने भारतीय बाजार में AirPods 5, Watch Series 12 और Watch Ultra 4 लॉन्च कर दिए हैं। नए AirPods 5 में 50% बेहतर ANC, हैंड्स-फ्री Siri AI और लाइव ट्रांसलेशन मिलता है, जिसकी शुरुआती कीमत 14,900 है। वहीं 56,900 की शुरुआती कीमत वाली नई स्मार्टवॉच सीरीज में S11 चिपसेट, एडवांस्ड हेल्थ सेंसर्स और रेडीनेस स्कोर जैसे अपग्रेड्स दिए गए हैं।",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-09-09T19:07:52+00:00",
+    "image_url": "https://static.langimg.com/nbt/thumb/133981870/airpods-5-apple-watch-series-12-and-ultra-4.jpg?imgsize=612367&width=1600&height=900&resizemode=75",
+    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
     "link": "https://news24online.com/sports/cricket/good-news-for-shreyas-iyer-team-india-as-this-star-player-returns-to-squad-ahead-of-afghanistan-t20is-nitish-kumar-reddy/921156/",
@@ -2279,28 +2301,5 @@
     "pub_date": "2026-09-09T14:11:42+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/captain-vikram-batra-birth-anniversary-kargil-war-hero-indian-army-shershaah-story-12021507#publisher=newsstand",
-    "title": "कारगिल का 'शेरशाह' कैप्टन विक्रम बत्रा, मर्चेंट नेवी की लाखों की नौकरी छोड़ बना फौजी, ऊंची चोटियों पर पाकिस्तानी सेना का बना काल",
-    "description": "कौन थे कैप्टन विक्रम बत्रा, जिनसे पाकिस्तानी सेना भी खौफ खाती थी.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-09T14:10:56+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/58ppeqbc_captain-vikram-batra-virth-anniversary-kargil-war-hero-shershaah-story_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/crude-oil-crosses-100-dollar-companies-incurring-massive-losses-on-petrol-and-diesel-sales-3902764.html",
-    "title": "कच्चा तेल 100 डॉलर के पार, पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा इतना घाटा",
-    "description": "अंतरराष्ट्रीय बाजार में ब्रेंट क्रूड की कीमत 100 डॉलर प्रति बैरल के पार पहुंच गई है. तेल कंपनियों को पेट्रोल पर करीब 5 रुपये और डीजल पर करीब 23 रुपये प्रति लीटर का नुकसान हो रहा है.",
-    "categories": [
-      "Breaking News",
-      "Business"
-    ],
-    "pub_date": "2026-09-09T14:09:35+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/petrol-diesel-price-.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
