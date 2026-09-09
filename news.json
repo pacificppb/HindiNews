@@ -22,17 +22,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/video/india-news/crude-oil-crosses-100-companies-incurring-huge-losses-on-petrol-and-diesel-sales-2026-09-10",
-    "title": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
-    "description": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-09T23:15:03+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-10",
     "title": "पढ़ें 10 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -40,7 +29,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-09-09T23:00:13+00:00",
+    "pub_date": "2026-09-09T23:30:20+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/crude-oil-crosses-100-companies-incurring-huge-losses-on-petrol-and-diesel-sales-2026-09-10",
+    "title": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
+    "description": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-09T23:15:03+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -54,6 +54,18 @@
     "pub_date": "2026-09-09T22:53:12+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/trump-putin-ukraine-peace-deal-zelensky-hostility-trilateral-talks-20896256",
+    "title": "यूक्रेन जंग खत्म करने को तैयार पुतिन, ट्रंप ने बताई असली रुकावट, त्रिपक्षीय बैठक के दिए संकेत",
+    "description": "Trump Putin Ukraine Peace Deal: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि रूसी राष्ट्रपति व्लादिमीर पुतिन यूक्रेन युद्ध खत्म करने के लिए शांति समझौता करने के इच्छुक हैं, लेकिन पुतिन और यूक्रेनी राष्ट्रपति वोलोडिमिर जेलेंस्की के बीच गहरी निजी दुश्मनी को उन्होंने कूटनीतिक प्रयासों में सबसे बड़ी बाधा बताया।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-09-09T22:49:24+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Trump-Putin-Ukraine-peace-deal.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-cm-fadnavis-announce-more-theaters-for-marathi-films-2026-09-10",
@@ -885,6 +897,7 @@
     "title": "दुकान बड़ी करने में गिरी पूरी इमारत... सत्य निकेतन हादसे में बड़ा खुलासा",
     "description": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने के मामले में पुलिस ने रेनोवेशन के दौरान बेसमेंट में मलबा डालने और ग्राउंड फ्लोर की दीवार तोड़ने को हादसे का कारण बताया है.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T17:41:37+00:00",
@@ -999,7 +1012,6 @@
     "title": "iPhone 18 Pro, iPhone 18 Pro Max हुए लॉन्च, दमदार बैटरी के साथ मिलेगा जबरदस्त कैमरा",
     "description": "Apple ने नई iPhone 18 Pro सीरीज पेश कर दी है। नई आईफोन सीरीज में बैटरी, कैमरा और चिपसेट के साथ-साथ डिजाइन में भी बड़ा अपग्रेड देखने को मिलेगा।",
     "categories": [
-      "Breaking News",
       "Technology"
     ],
     "pub_date": "2026-09-09T17:30:00+00:00",
@@ -2268,17 +2280,5 @@
     "pub_date": "2026-09-09T14:50:22+00:00",
     "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/09/cdf078b38934ca097a3d601695c95d4517889533481491094_original.jpeg",
     "source_name": "ABPLIVE.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/entertainment/television/arijit-singh-will-watch-bigg-boss-for-the-first-time-for-qaazi-touqeer-3902684.html",
-    "title": "Bigg Boss 20: अपना रॉकस्टार काज़ी है उधर…पहली बार बिग बॉस देखेंगे अरिजीत सिंह",
-    "description": "Bigg Boss 20: बिग बॉस 20 का आगाज हो चुका है. इस बार शो में रॉकस्टार काजी तौकीर भी पहुंचे हैं. अब उन्हें सपोर्ट करने के लिए उनके दोस्त और सिंगर अरिजीत सिंह आगे आए हैं और बड़ा ऐलान कर दिया है.",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-09-09T14:50:15+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/arijit-singh-with-qaazi-1.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
