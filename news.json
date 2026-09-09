@@ -22,6 +22,17 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/video/india-news/crude-oil-crosses-100-companies-incurring-huge-losses-on-petrol-and-diesel-sales-2026-09-10",
+    "title": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
+    "description": "कच्चा तेल हुआ 100 डॉलर के पार,पेट्रोल-डीजल बेचने पर कंपनियों को हो रहा भारी घाटा",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-09T23:15:03+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-10",
     "title": "पढ़ें 10 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -154,7 +165,6 @@
     "title": "E20 से अधिक इथेनॉल मिश्रण की तैयारी में सरकार, PM मोदी के सलाहकार ने बताया पूरा प्लान",
     "description": "E20 से अधिक इथेनॉल मिश्रण की तैयारी में सरकार, PM मोदी के सलाहकार ने बताया पूरा प्लान",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T20:26:34+00:00",
@@ -741,7 +751,6 @@
     "title": "अरविंद केजरीवाल फिर बने AAP के राष्ट्रीय संयोजक… 23 सदस्यीय नई कार्यकारिणी में कौन-कौन?",
     "description": "आम आदमी पार्टी (AAP) की राष्ट्रीय परिषद की बैठक हुई, जिसमें अरविंद केजरीवाल को फिर से सर्वसम्मति से पार्टी का राष्ट्रीय संयोजक चुना गया.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T17:58:45+00:00",
@@ -1059,7 +1068,6 @@
     "title": "गांधीनगर में बिल्डिंग का हिस्सा गिरा, 10 मजदूरों के फंसे होने की आशंका",
     "description": "गांधीनगर के कुड़ासन में निर्माणाधीन इमारत का स्लैब गिरने से हड़कंप मच गया. 10 से ज्यादा मजदूरों के फंसे होने की आशंका है. पांच घायलों को अस्पताल पहुंचाया गया.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T17:19:05+00:00",
@@ -1117,7 +1125,6 @@
     "title": "गांधीनगर में बड़ा हादसा, निर्माणाधीन इमारत का हिस्सा गिरा, 10 से ज्यादा मजदूर मलबे में दबे",
     "description": "गांधीनगर में निर्माणाधीन इमारत में चल काम के दौरान एक हिस्सा भरभराकर गिर पड़ा। मलबे में कई मजदूर दब गए। 12 मजदूरों को जिंदा निकाला जा चुका है जबकि करीब 10 से ज्यादा मजदूर अभी भी मलबे दबे हुए हैं।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T17:13:00+00:00",
@@ -1140,7 +1147,6 @@
     "title": "केजरीवाल को फिर AAP की कमान; चौथी बार राष्ट्रीय संयोजक, किसे क्या जिम्मेदारी?",
     "description": "आम आदमी पार्टी की नई गठित राष्ट्रीय परिषद की बैठक की बुधवार को हुई। इसमें अरविंद केजरीवाल को फिर से AAP की कमान सौंपी गई। उनको चौथी बार पार्टी का राष्ट्रीय संयोजक चुना गया।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-09T17:08:37+00:00",
@@ -2274,16 +2280,5 @@
     "pub_date": "2026-09-09T14:50:15+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/arijit-singh-with-qaazi-1.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/world-news/yemen-jail-airstrike-sparks-renewed-conflict-between-houthi-rebels-and-saudi-coalition-12024435#publisher=newsstand",
-    "title": "यमन की जेल पर हवाई हमले के बाद भड़की जंग, मलबे से अब भी निकल रहे शव; सऊदी ने किए 32 स्ट्राइक",
-    "description": "यमन के ईरान-समर्थित हूती विद्रोही के सऊदी अरब के बॉर्डर और दक्षिणी शहरों के साथ-साथ रेड सी में कमर्शियल शिपिंग पर हमले बढ़े हैं.",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-09-09T14:49:45+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/7qqbdad_saudi-arabia_625x300_09_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
