@@ -1,7 +1,7 @@
 [
   {
     "link": "https://www.amarujala.com/india-news/smriti-irani-challenge-fight-from-bjp-stronghold-instead-of-family-seat-2026-09-14",
-    "title": "खरी बात: अमेठी की हार के बाद स्मृति ईरानी बोलीं- पैतृक सीट छोड़ भाजपा के गढ़ से लड़कर दिखाओ; किसे दी चुनौती?",
+    "title": "खरी बात: अमेठी की हार के बाद स्मृति ईरानी बोलीं- पैतृक सीट छोड़ भाजपा के गढ़ से लड़कर दिखाएं; किसे दी चुनौती?",
     "description": "खरी बात: अमेठी की हार के बाद स्मृति ईरानी बोलीं- पैतृक सीट छोड़ भाजपा के गढ़ से लड़कर दिखाओ; किसे दी चुनौती?",
     "categories": [
       "National"
@@ -9,6 +9,17 @@
     "pub_date": "2026-09-13T23:12:44+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.livehindustan.com/national/bengal-politics-on-vegetarian-food-brics-dinner-rahul-gandhi-bjp-201789340450361.html",
+    "title": "बंगाल से ब्रिक्स तक आ गई खाने की बहस, राहुल गांंधी बोले- अपनी संस्कृति छिपाई जा रही",
+    "description": "बंगाल से शुरू हुई शाकाहार और मांसाहार की बहस अब ब्रिक्स तक भी आ गई है। राहुल गांधी ने कहा कि केवल शाकाहारी भोजन परोसकर अपनी संस्कृति को छिपाने की कोशिश की गई है जबकि 80 फीसदी भारतीय मांसाहारी हैं।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-13T23:10:27+00:00",
+    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/09/13/1200x900/Brics_dinner_1789340989378_f9727d4c-1b5b-476e-9e9d-697c6fc3f716_1789340996699_7eaa7b81-03a0-4dd3-a01a-9be5fab8aa16_9bafb3e6-5019-4cfd-9ee2-6be765e27382_a621b506-f9e9-4c09-8deb-ce784e09557c.jpg",
+    "source_name": "LIVEHINDUSTAN.COM"
   },
   {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-14",
@@ -24,9 +35,10 @@
   },
   {
     "link": "https://www.tv9hindi.com/sports/us-open-men-final-alexander-zverev-wins-title-by-defeating-ben-shelton-3906247.html",
-    "title": "अलेंक्जेंडर ज्वेरेव बने US ओपन चैंपियन, बेन शेल्टन को हराकर जीता खिताब",
+    "title": "अलेक्जेंडर ज्वेरेव बने चैंपियन, बेन शेल्टन को हराकर जीता अपना पहला US ओपन खिताब",
     "description": "जून में रोलैंड गैरोस जीतने और विंबलडन फ़ाइनल तक पहुंचने के बाद, ज्वेरेव 'ओपन एरा' में एक ही साल में अपने पहले दो मेजर टूर्नामेंट जीतने वाले चौथे पुरुष खिलाड़ी बन गए.",
     "categories": [
+      "Breaking News",
       "Sports"
     ],
     "pub_date": "2026-09-13T22:40:56+00:00",
@@ -286,7 +298,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-14-september-2026-3906208.html",
-    "title": "आज की ताजा खबर LIVE: US ओपन: अलेक्जेंडर ज़्वेरेव ने बेन शेल्टन को चार सेट में हराकर खिताब जीता",
+    "title": "आज की ताजा खबर LIVE: आयरिश व्हिस्की पर लगा 10% टैरिफ हटाएंगे: ट्रंप",
     "description": "राजस्थान के सभी 309 शहरी निकायों (10 नगर निगम, 51 नगर परिषद और 248 नगर पालिकाएं) में हुए मतदान की मतगणना और चुनाव परिणाम आज घोषित किए जाएंगे.",
     "categories": [
       "National"
@@ -631,7 +643,6 @@
     "title": "ओमान के तट के पास तेल टैंकर पर हमला; 14 भारतीय नाविक थे सवार, एक अभी तक लापता",
     "description": "विदेश मंत्रालय ने कहा कि टैंकर पर हमला रविवार को ओमान के तट के पास हुआ। जहाज पर कुल 14 भारतीय नाविक सवार थे। हमले के बाद बचाव दल ने 13 भारतीयों को सुरक्षित निकाल लिया। एक नाविक का अभी तक पता नहीं चला है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-13T17:27:18+00:00",
@@ -2261,16 +2272,5 @@
     "pub_date": "2026-09-13T13:51:59+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/ENG-VS-PAK-1.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://news24online.com/world/osama-bin-laden-planned-major-attack-on-india-3-years-before-9-11-cia-report-reveals-shocking-al-qaeda-terror-plan/924479/",
-    "title": "Osama bin Laden planned major attack on India, 3 years before 9/11: CIA report reveals SHOCKING al-Qaeda terror plan",
-    "description": "Osama bin Laden had marked India as a potential target for an al-Qaeda terror attack, three years before the 9/11 attacks.\nThe post Osama bin Laden planned major attack on India, 3 years before 9/11: CIA report reveals SHOCKING al-Qaeda terror plan appeared first on News24.",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-09-13T13:50:20+00:00",
-    "image_url": null,
-    "source_name": "NEWS24ONLINE.COM"
   }
 ]
