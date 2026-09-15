@@ -29,7 +29,7 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-09-15T20:00:13+00:00",
+    "pub_date": "2026-09-15T20:30:18+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -43,6 +43,17 @@
     "pub_date": "2026-09-15T19:44:30+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/russia-ukraine-talks-nato-stance-lavrov-trump-ceasefire-20910697",
+    "title": "Russia Ukraine NATO talks:   यूक्रेन युद्ध खत्म करने की पहल तेज, रूस बोला- बातचीत होगी लेकिन NATO पर समझौता नहीं",
+    "description": "Russia UkraineNegotiations: रूस के विदेश मंत्री सर्गेई लावरोव ने मंगलवार को स्पष्ट किया कि रूस यूक्रेन मुद्दे पर समझौता करने के लिए तैयार है, लेकिन अपनी सीमाओं पर NATO की मौजूदगी रोकने के अपने मूल रुख में कोई बदलाव नहीं करेगा। यह बयान ऐसे समय आया है जब अमेरिका की मध्यस्थता से संघर्ष विराम की उम्मीदें फिर से जागी हैं।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-09-15T19:36:55+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Russian-Foreign-Minister-Sergey-Lavrov.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://news24online.com/world/tarique-rahman-received-two-invites-from-india-why-bangladesh-pm-skipped-brics-summit-in-delhi-but-will-attend-un-body-meet/925748/",
@@ -1968,7 +1979,6 @@
     "title": "UPI से पेमेंट करने पर किन-किन लोगों को मिलेगी शुल्क से छूट, आपके बड़े काम की है ये न्यूज",
     "description": "वित्त मंत्रालय ने साफ किया है कि 15 अक्टूबर 2026 से लागू होने वाले नए नियम में शुल्क केवल बड़े मूल्य वाले व्यापारी लेनदेन पर लगेगा। वहीं, 2 हजार रुपये तक के व्यापारी भुगतान भी MDR के दायरे से बाहर रहेंगे।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-15T14:29:29+00:00",
@@ -2296,16 +2306,5 @@
     "pub_date": "2026-09-15T14:02:23+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134266312/jio-canva.jpg?imgsize=1435641&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/ind-vs-afg-2nd-t20-india-won-the-toss-and-choose-bowl-first-know-playing-11-20910266",
-    "title": "Ind vs Afg: भारत ने दूसरे T20 में टॉस जीतकर चुनी गेंदबाजी, टीम में हुआ एक बदलाव, वैभव सूर्यवंशी को फिर नहीं मिला मौका",
-    "description": "India vs Afghanistan 2nd T20 Playing 11: भारत और अफगानिस्‍तान के बीच जारी तीन टी20 इंटरनेशनल सीरीज का दूसरा मुकाबला दिल्‍ली स्थित अरुण जेटली स्‍टेडियम में खेला जा रहा है। इस मैच में भी भारत के टी20 कप्‍तान श्रेयस अय्यर ने टॉस जीतकर पहले गेंदबाजी का फैसला किया है। उन्‍होंने फिर से टॉस जीतने को लेकर कहा कि टेल्स मेरे लिए लकी रहा है। क्या टी20 क्रिकेट में पहले बॉलिंग करने से खास फायदा मिलता है? इस पर उन्‍होंने कहा कि आपको पहले से ही अच्छा अंदाजा है कि विकेट कैसा खेलता है। वहीं, गेंदबाजों के लिए यह जरूरी है कि वह जितनी जल्दी हो सके खुद को ढाल लें। उन्‍होंने अंत में कहा कि हमारी प्‍लेइंग इलेवन में एक बदलाव हुआ है। इंजर्ड वरुण चक्रवर्ती की जगह रवि बिश्‍नोई की वापसी हुई है।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-09-15T13:59:23+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/India-vs-Afghanistan-1st-T20.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
