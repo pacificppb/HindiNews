@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-16",
-    "title": "पढ़ें 16 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-16T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/ncpcr-summons-meta-india-head-again-over-cseam-matter-capgemini-vp-also-called-2026-09-16",
     "title": "बच्चों के यौन शोषण से जुड़ी सामग्री पर मेटा को नोटिस: आज फिर तलब किए अधिकारी; क्या है पूरा मामला?",
     "description": "बच्चों के यौन शोषण से जुड़ी सामग्री पर मेटा को नोटिस: आज फिर तलब किए अधिकारी; क्या है पूरा मामला?",
@@ -29,6 +18,18 @@
       "National"
     ],
     "pub_date": "2026-09-16T06:30:09+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-16",
+    "title": "पढ़ें 16 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-15T19:30:29+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
