@@ -29,7 +29,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-09-15T22:30:32+00:00",
+    "pub_date": "2026-09-15T23:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/railways-to-run-special-trains-during-the-festive-season-check-the-full-route-and-timetable-2026-09-16",
+    "title": "त्योहारी सीजन में रेलवे चलाएगा स्पेशल ट्रेन, जानें पूरा रूट और टाइम टेबल!",
+    "description": "त्योहारी सीजन में रेलवे चलाएगा स्पेशल ट्रेन, जानें पूरा रूट और टाइम टेबल!",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-15T23:00:03+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2259,17 +2270,5 @@
     "pub_date": "2026-09-15T14:26:19+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/uttar-pradesh/seva-sankalp-campaign-pm-narendra-modi-birthday-kashi-to-vadnagar-bike-yatra-bjp-3907919.html",
-    "title": "काशी से वडनगर तक बाइक यात्रा… मोदी के जन्मदिन पर बीजेपी का बड़ा शक्ति प्रदर्शन",
-    "description": "PM मोदी के जन्मदिन पर 17 सितंबर से BJP का सेवा संकल्प अभियान शुरू होगा. काशी से वडनगर तक 500 युवाओं की बाइक यात्रा निकलेगी. मंच पर NDA के बड़े चेहरे जुटेंगे. यात्रा 50 जिलों से गुजरेगी.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-15T14:25:21+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/narendra-modi-pm-pti.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
