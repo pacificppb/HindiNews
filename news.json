@@ -33,6 +33,18 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-17",
+    "title": "पढ़ें 17 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-16T23:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.patrika.com/world-news/100-percent-tariff-india-delayed-us-house-20912995",
     "title": "ट्रंप का 100% टैरिफ बिल फिलहाल टला, अमेरिकी प्रतिनिधि सभा में प्रस्तावित वोटिंग स्थगित",
     "description": "India US Trade Deal: ब्रिक्स सम्मेलन की चुभन अब टैरिफ टेरर के रूप में सामने आ रही है। अमेरिकी प्रतिनिधि सभा ने बुधवार देर रात भारत और चीन समेत दस देशों पर 100 फीसदी टैरिफ लगाने के लिए लाए गए ‘लिंडसे ओ. ग्राहम सैंक्शनिंग रूस एंड ईरान एक्ट 2026’ विधेयक पर होने वाला मतदान टाल दिया। सीनेट से पहले ही पास हो चुके इस बिल पर बहस के दौरान डेमोक्रेट सांसद ग्रेगरी मीक्स ने राष्ट्रपति ट्रंप को व्यापक टैरिफ अधिकार देने पर आपत्ति जताई।",
@@ -51,18 +63,6 @@
       "National"
     ],
     "pub_date": "2026-09-16T22:30:34+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-17",
-    "title": "पढ़ें 17 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-16T22:30:24+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -548,7 +548,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-17-september-2026-3908918.html",
-    "title": "आज की ताजा खबर LIVE: पीएम मोदी आज सेमीकॉन इंडिया 2026 के पांचवें संस्करण का उद्घाटन करेंगे",
+    "title": "आज की ताजा खबर LIVE: अमेरिका की ब्याज दरें कम होनी चाहिए, ट्रंप ने फेडरल रिजर्व पर बढ़ाया दबाव",
     "description": "प्रधानमंत्री नरेन्द्र मोदी आज नई दिल्ली के यशोभूमि में सेमीकॉन इंडिया 2026 के पांचवें संस्करण का उद्घाटन करेंगे. गृह मंत्री अमित शाह आज से राष्ट्रव्यापी 'सेवा संकल्प अभियान' की शुरुआत करेंगे.",
     "categories": [
       "National"
@@ -562,7 +562,6 @@
     "title": "TMC पार्टी और चुनाव चिह्न किसके? आज चुनाव आयोग में सुनवाई",
     "description": "TMC के नाम, संगठन पर नियंत्रण और चुनाव चिह्न को लेकर ममता बनर्जी और ऋतब्रत बनर्जी गुट आमने-सामने हैं. दोनों गुट गुरुवार को चुनाव आयोग के सामने अलग-अलग अपना पक्ष रखेंगे. नंदीग्राम और रेजीनगर उपचुनाव से पहले आयोग के रुख पर सबकी नजर है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-16T18:30:06+00:00",
@@ -1120,7 +1119,6 @@
     "title": "चुनाव आयोग ने TMC के दोनों खेमों को बुलाया, ममता के हाथ से छिन जाएगा तृणमूल का सिंबल?",
     "description": "टीएमसी के दोनों गुटों के बीच चुनाव चिह्न को लेकर बढ़ते विवाद को देखते हुए चुनाव आयोग ने ममता बनर्जी और रितब्रत बनर्जी, दोनों गुटों को कल यानी गुरुवार 17 सितंबर को बुलाया है। तो क्या ममता से तृणमूल सिंबल छिन सकता है?",
     "categories": [
-      "Breaking News",
       "National",
       "Political"
     ],
