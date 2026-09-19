@@ -11,6 +11,29 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-20",
+    "title": "पढ़ें 20 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-19T23:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/can-ai-become-a-killer-and-hack-bank-accounts-without-human-control-2026-09-20",
+    "title": "एआई नहीं बनेगा हत्यारा, खतरा उसके इस्तेमाल से: बैंक हैकिंग से डीपफेक तक, जानें इंसान ने कैसे बढ़ाया जोखिम",
+    "description": "एआई नहीं बनेगा हत्यारा, खतरा उसके इस्तेमाल से: बैंक हैकिंग से डीपफेक तक, जानें इंसान ने कैसे बढ़ाया जोखिम\n\nCan AI Become A Killer And Hack Bank Accounts Without Human Control",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-19T22:57:19+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.tv9hindi.com/state/punjab/asi-murder-accused-killed-in-police-encounter-in-amritsar-3911459.html",
     "title": "ASI हरजीत सिंह मर्डर: अमृतसर में पुलिस ने एक शूटर को एनकाउंटर में किया ढेर, साथी फरार",
     "description": "पुलिस ने बताया कि दूसरा संदिग्ध भागने में कामयाब रहा और उसे पकड़ने की कोशिशें जारी हैं. अधिकारियों ने बताया कि पुलिस ने एक पिस्टल, दो मैगज़ीन और आठ कारतूस बरामद किए हैं.",
@@ -23,16 +46,15 @@
     "source_name": "TV9HINDI.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-20",
-    "title": "पढ़ें 20 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "link": "https://www.patrika.com/world-news/iran-seven-conditions-us-talks-trump-decisive-war-warning-rezaei-20920417",
+    "title": "ईरान ने अमेरिका के साथ बातचीत के लिए रखीं 7 शर्तें, मांगें नहीं मानने पर ट्रंप को ‘निर्णायक युद्ध’ की दी चेतावनी",
+    "description": "Iran US War: ईरान ने कतरी मध्यस्थों के जरिए अमेरिका को बातचीत शुरू करने के लिए सात शर्तें बताई हैं, ताकि चल रहे युद्ध को खत्म किया जा सके। साथ ही, ईरान ने चेतावनी दी है कि अगर वॉशिंगटन उसकी मांगें नहीं मानता है, तो तेहरान “निर्णायक युद्ध” के लिए तैयार है।",
     "categories": [
-      "Breaking News",
-      "National"
+      "World"
     ],
-    "pub_date": "2026-09-19T22:30:14+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
+    "pub_date": "2026-09-19T22:09:29+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Iran-US-talks.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/state/uttar-pradesh/akhilesh-yadav-will-reach-mla-rahul-lodhi-raebareli-residence-on-24-sep-aboard-pda-rath-3911457.html",
@@ -44,17 +66,6 @@
     "pub_date": "2026-09-19T22:02:44+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/akhilesh-yadav-visit-raebareli.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/iran-seven-conditions-us-talks-trump-decisive-war-warning-rezaei-20920417",
-    "title": "ईरान ने अमेरिका के साथ बातचीत के लिए रखीं 7 शर्तें, मांगें नहीं मानने पर ट्रंप को ‘निर्णायक युद्ध’ की दी चेतावनी",
-    "description": "ईरान ने कतरी मध्यस्थों के जरिए अमेरिका को बातचीत शुरू करने के लिए सात शर्तें बताई हैं, ताकि चल रहे युद्ध को खत्म किया जा सके। साथ ही, ईरान ने चेतावनी दी है कि अगर वॉशिंगटन उसकी मांगें नहीं मानता है, तो तेहरान “निर्णायक युद्ध” के लिए तैयार है।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-09-19T21:54:13+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Iran-US-talks.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://ndtv.in/faith/tarot-card-20-september-2026-pisces-meen-tarot-card-daily-future-predictions-12068132#publisher=newsstand",
@@ -974,7 +985,6 @@
     "title": "‘मोटी हो गई है’, कैटरीना की ट्रोलिंग पर फूटा सलमान का गुस्सा, कैमरे पर उतारे कपड़े, बोले- किसी के मां बनने पर भी बोल रहे",
     "description": "Salman Khan Lashes On Trollers: ‘बिग बॉस 20’ के ‘वीकेंड का वार’ में इस बार सलमान खान का गुस्सा सोशल मीडिया ट्रोलिंग को लेकर नजर आया। शो में सलमान खान कंटेस्टेंट्स के साथ ऑनलाइन ट्रोलिंग, उम्र, वजन और लुक्स को लेकर होने वाली टिप्पणियों पर बात करते दिखाई दे रहे हैं। बातचीत के दौरान वह अपने ऊपर हुई बॉडी और एज शेमिंग का भी जिक्र करते हैं और फिर कैमरे के सामने अपना कोट और टोपी उतार देते हैं।",
     "categories": [
-      "Breaking News",
       "Entertainment",
       "Technology"
     ],
@@ -2250,18 +2260,6 @@
     ],
     "pub_date": "2026-09-19T14:29:09+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/samrat-chaudhary-cm-bihar-1.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/delhi-election-commission-sir-notices-issued-arvind-kejriwal-his-family-million-voters-fall-asdd-3911310.html",
-    "title": "दिल्ली SIR: केजरीवाल और उनके परिवार समेत 32 लाख वोटर्स को नोटिस, 47 लाख ASDD कैटेगरी में",
-    "description": "दिल्ली में चल रही SIR प्रक्रिया के तहत पूर्व मुख्यमंत्री अरविंद केजरीवाल और उनके परिवार के सदस्यों समेत करीब समेत 32 लाख वोटर्स को नोटिस जारी किए गए हैं.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-19T14:26:53+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/07/arvind-kejriwal-2.jpg",
     "source_name": "TV9HINDI.COM"
   }
 ]
