@@ -22,6 +22,18 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.patrika.com/world-news/new-york-suspicious-package-unga-43rd-street-secret-service-nypd-bomb-threat-20928685",
+    "title": "UNGA के बीच न्यूयॉर्क में मच गई खलबली! संदिग्ध पैकेज ने रोकी सड़कें, सीक्रेट सर्विस बोली- खतरा टला",
+    "description": "UNGA New York Suspicious Package: में इस समय संयुक्त राष्ट्र महासभा (UNGA) का सत्र चल रहा है। इसी बीच मंगलवार (स्थानीय समय) को शहर की 43वीं स्ट्रीट और थर्ड एवेन्यू के पास एक संदिग्ध पैकेज मिलने से पूरे इलाके में हड़कंप मच गया। हालांकि बाद में इसे हटा दिया गया और खतरनाक नहीं माना गया। अमेरिकी सीक्रेट सर्विस ने साफ किया कि इससे जनता को कोई खतरा नहीं था।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-09-22T23:12:33+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/bomb-threat-New-York.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/shatrughan-sinha-interview-bengal-politics-mamata-leadership-rahul-ganghi-as-opposition-leader-changes-in-bjp-2026-09-23",
     "title": "शत्रुघ्न सिन्हा: 'ममता बनर्जी ही मेरी नेता, विपक्ष भाग्यशाली उसे राहुल जैसा नेता मिला'; भाजपा पर क्या बोले?",
     "description": "शत्रुघ्न सिन्हा: 'ममता बनर्जी ही मेरी नेता, विपक्ष भाग्यशाली उसे राहुल जैसा नेता मिला'; भाजपा पर क्या बोले?",
@@ -594,7 +606,6 @@
     "title": "'सत्ताधारी दल इसे छोटी-मोटी घटना बता रहे हैं', जमुई कांड पर प्रियंका चतुर्वेदी का बिहार सरकार पर निशाना",
     "description": "बिहार के जमुई में नाबालिग छात्राओं से उत्पीड़न और मारपीट के मामले पर पूर्व राज्यसभा सांसद प्रियंका चतुर्वेदी ने राज्य सरकार को आड़े हाथों लिया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-22T18:22:51+00:00",
@@ -908,7 +919,6 @@
     "title": "नेशनल हेराल्ड केस: सोनिया और राहुल गांधी ने दिल्ली हाई कोर्ट में दाखिल किया जवाब, ED की कार्रवाई पर उठाए सवाल",
     "description": "सोनिया गांधी और राहुल गांधी ने नेशनल हेराल्ड से जुड़े कथित मनी लॉन्ड्रिंग मामले में दिल्ली हाई कोर्ट में अपना जवाब दाखिल किया है. उन्होंने ED की याचिका का कड़ा विरोध किया है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-22T17:19:59+00:00",
@@ -920,7 +930,6 @@
     "title": "सरकार से बातचीत निकली बेनतीजा, 3 दिन की हड़ताल पर अड़े बैंक कर्मचारी",
     "description": "यूनाइटेड फ़ोरम ऑफ़ बैंक यूनियंस (UFBU) और डिप्टी चीफ लेबर कमिश्नर की सुलह बैठक बेनतीजा निकली. जिसके बाद यूनियंस ने 28 से 30 सितंबर तक तीन दिन की देशव्यापी हड़ताल का ऐलान किया है.",
     "categories": [
-      "Breaking News",
       "Business"
     ],
     "pub_date": "2026-09-22T17:18:18+00:00",
@@ -2238,16 +2247,5 @@
     "pub_date": "2026-09-22T14:35:58+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/congress-calls-attack-on-leaders-convoy-in-assam-a-bjp-attempt-to-intimidate-opposition-demands-independent-probe/articleshow/134414259.cms",
-    "title": "'असम में नेताओं पर हमला विपक्ष को डराने की कोशिश', कांग्रेस ने चुनाव आयोग पर उठाए सवाल",
-    "description": "असम के नौगांव (समागुरी) उपचुनाव प्रचार के दौरान भूपेश बघेल और गौरव गोगोई समेत कांग्रेस नेताओं के काफिले पर नकाबपोशों द्वारा किए गए हिंसक हमले को लेकर कांग्रेस ने भाजपा पर निशाना साधा है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-22T14:35:39+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/134414645/congress-convoy-attack-assam.jpg?imgsize=2217223&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   }
 ]
