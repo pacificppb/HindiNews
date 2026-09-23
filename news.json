@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/india-news/national-updates-24-sept-rss-karnataka-bengal-jharkhand-north-east-west-south-politics-crime-and-other-news-2026-09-24",
-    "title": "न्यूज डायरी: दिल्ली में 108वें हाइफा विजय दिवस समारोह, वैश्विक शांति पर जोर; बंगाल में छात्रों के बीच चाकूबाजी",
-    "description": "न्यूज डायरी: दिल्ली में 108वें हाइफा विजय दिवस समारोह, वैश्विक शांति पर जोर; बंगाल में छात्रों के बीच चाकूबाजी",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-23T21:52:26+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-24",
     "title": "पढ़ें 24 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -18,7 +7,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-09-23T21:30:22+00:00",
+    "pub_date": "2026-09-23T22:00:12+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/national-updates-24-sept-rss-karnataka-bengal-jharkhand-north-east-west-south-politics-crime-and-other-news-2026-09-24",
+    "title": "न्यूज डायरी: दिल्ली में 108वें हाइफा विजय दिवस समारोह, वैश्विक शांति पर जोर; बंगाल में छात्रों के बीच चाकूबाजी",
+    "description": "न्यूज डायरी: दिल्ली में 108वें हाइफा विजय दिवस समारोह, वैश्विक शांति पर जोर; बंगाल में छात्रों के बीच चाकूबाजी",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-23T21:52:26+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -1398,7 +1398,6 @@
     "title": "चुनाव आयोग के मुद्दे पर विपक्षी एकजुटता की नई कवायद, राहुल- अभिषेक की पहल से INDIA में फिर तालमेल की कोशिश",
     "description": "चुनाव आयोग की निष्पक्षता और कार्यप्रणाली पर उठ रहे सवालों के बीच 'INDIA' गठबंधन को एक बार फिर एकजुट करने की कवायद तेज हो गई है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-23T16:03:43+00:00",
