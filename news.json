@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-26",
-    "title": "पढ़ें 26 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-26T07:00:12+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/serious-illnesses-risk-increas-14pc-consuming-additional-100-gms-ultra-processed-food-dangerous-for-heart-2026-09-26",
     "title": "गंभीर बीमारियों का जोखिम 14% बढ़ा: रोज 100 ग्राम ज्यादा अल्ट्रा-प्रोसेस्ड फूड दिल के लिए घातक, मौत तक का खतरा",
     "description": "गंभीर बीमारियों का जोखिम 14% बढ़ा: रोज 100 ग्राम ज्यादा अल्ट्रा-प्रोसेस्ड फूड दिल के लिए घातक, मौत का कितना खतरा?",
@@ -18,6 +7,18 @@
       "National"
     ],
     "pub_date": "2026-09-26T06:34:19+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-26",
+    "title": "पढ़ें 26 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-25T19:30:24+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -31,6 +32,17 @@
     "pub_date": "2026-09-25T19:10:03+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/09/25/1200x900/ANI-20260924175-0_1790363087401_y17v_1790363118266_mU81_b68550f0-b21f-482d-a795-e7ca6ee462d8_hvyl.jpg",
     "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/punjab/story/captain-amarinder-singh-60-years-punjab-politics-bjp-congress-return-ntc-dhrj-rpti-2653383-2026-09-26?utm_source=rssfeed",
+    "title": "&#039;... आज कोई पूछता तक नहीं&#039;, कैप्टन अमदिंर का बीजेपी से मोहभंग?",
+    "description": "पंजाब की सियासत में 60 साल का अनुभव रखने वाले कैप्टन अमरिंदर सिंह ने बीजेपी में सलाह नहीं लिए जाने पर अपनी नाराजगी जाहिर की. कांग्रेस में वापसी पर उन्होंने क्या कहा, जानिए पूरी खबर.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-25T19:03:41+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.patrika.com/world-news/india-us-trade-deal-90-percent-complete-final-details-20936701",
@@ -1309,7 +1321,6 @@
     "title": "'राहुल गांधी मदारी हैं, उनकी मां ने नागरिकता लेने से पहले वोट कैसे डाला'; गिरिराज सिंह का आरोप",
     "description": "गिरिराज सिंह ने राहुल गांधी से उनकी मां को लेकर भी सवाल किया। उन्होंने पूछा कि सोनिया गांधी ने 15 साल तक भारतीय नागरिकता क्यों नहीं ली? उन्होंने आरोप लगाया कि नागरिकता नहीं होने के बावजूद उन्होंने वोट कैसे दिया?",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-25T15:04:50+00:00",
@@ -2281,17 +2292,5 @@
     "pub_date": "2026-09-25T13:35:32+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/randeep-singh-surjewala-pti.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/trending/story/british-man-proposes-to-girlfriend-underwater-amid-sharks-tstf-dskc-2652276-2026-09-25?utm_source=rssfeed",
-    "title": "पानी के अंदर शार्क्स के बीच गर्लफ्रेंड को किया प्रपोज, मिला ये जवाब",
-    "description": "ब्रिटेन के एक शख्स ने अपनी गर्लफ्रेंड को प्रपोज करने के लिए ऐसा तरीका चुना, जिसे वह शायद ही कभी भूल पाएंगी. शख्स ने स्केगनेस एक्वेरियम में शार्क के बीच पानी के अंदर अपनी गर्लफ्रेंड के सामने शादी का सवाल रखा",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-09-25T13:33:35+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
