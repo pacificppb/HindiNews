@@ -11,17 +11,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-28",
-    "title": "पढ़ें 28 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-28T07:00:12+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/tripura-gram-samiti-elections-today-6-65-lakh-voters-to-cast-ballots-7300-polling-personnel-deployed-2026-09-28",
     "title": "त्रिपुरा में आज ग्राम समिति चुनाव: 1,095 केंद्रों पर 6.65 लाख मतदाता डालेंगे वोट, 7,300 मतदानकर्मी तैनात",
     "description": "त्रिपुरा में आज ग्राम समिति चुनाव: 1,095 केंद्रों पर 6.65 लाख मतदाता डालेंगे वोट, 7,300 मतदानकर्मी तैनात- Tripura Gram Samiti elections today 6.65 lakh voters to cast ballots 7300 polling personnel deployed",
@@ -29,6 +18,18 @@
       "National"
     ],
     "pub_date": "2026-09-28T06:31:11+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-28",
+    "title": "पढ़ें 28 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-27T19:30:27+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -44,6 +45,18 @@
     "source_name": "LIVEHINDUSTAN.COM"
   },
   {
+    "link": "https://ndtv.in/india/lovely-professional-university-protest-turns-violent-students-police-clash-phagwara-punjab-12106353#publisher=newsstand",
+    "title": "LPU कैंपस में फिर बवाल: हिंसक छात्रों ने वाहनों में लगाई आग, 10 दिन के लिए यूनिवर्सिटी बंद, परीक्षा भी टली",
+    "description": "लवली यूनिवर्सिटी विवाद: छात्रा से रेप के दावे पर उग्र प्रदर्शन, पुलिस और छात्रों में टकराव",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-27T18:54:03+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/er562jc4_lovely-professional-university-protest-turns-violent-students-police-clash-phagwarapunjab_625x300_27_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.tv9hindi.com/state/uttarakhand/road-accident-in-roorkee-head-on-collision-between-car-and-an-e-rickshaw-3918759.html",
     "title": "रुड़की में दर्दनाक हादसा, कार और ई-रिक्शा में आमने-सामने भिड़ंत, पिता-पुत्र समेत 3 की मौत, 10 घायल",
     "description": "फिलहाल पुलिस ने दुर्घटनाग्रस्त वाहनों को कब्जे में ले लिया है और मामले की जांच में जुट गई है. बताया जा रहा है कि हादसे के बाद कार चालक मौके से फरार हो गया.",
@@ -53,6 +66,29 @@
     "pub_date": "2026-09-27T18:50:49+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/07/road-accident-1.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://ndtv.in/world-news/foreign-ministers-of-russia-and-germany-meet-for-the-first-time-since-the-start-of-the-ukraine-war-what-does-this-signify-12106510#publisher=newsstand",
+    "title": "यूक्रेन युद्ध के बाद पहली बार रूस और जर्मनी के विदेश मंत्रियों की हुई मीटिंग, क्या हैं इसके मायने",
+    "description": "सर्गेई लावरोव ने मीटिंग के बाद प्रेस कान्फ्रेंस भी की.",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-09-27T18:38:53+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-02/ja5e99rc_sergei-lavrov_625x300_11_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/crime-news/ed-action-in-rummyculture-gaming-app-case-assets-worth-442-crore-attached-12106509#publisher=newsstand",
+    "title": "गेमिंग ऐप RummyCulture ऐप मामले में ED की बड़ी कार्रवाई, 442 करोड़ की संपत्तियां अटैच की",
+    "description": "यूजर्स को आकर्षित करने के लिए बोनस, रेफरल इंसेंटिव, फ्री टूर्नामेंट एंट्री और प्रमोशनल रिवॉर्ड जैसे ऑफर दिए जाते थे. ED का आरोप है कि इन ऑफर्स का मकसद यूजर्स को लगातार गेम खेलने और ज्यादा पैसा जमा करने के लिए प्रेरित करना था.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T18:38:46+00:00",
+    "image_url": "https://c.ndtvimg.com/2025-01/e8pp16_ed-generic_625x300_16_January_25.jpg",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/delhi-pravesh-verma-rahul-gandhi-reply-slap-video-political-controversy/articleshow/134524391.cms",
@@ -87,6 +123,17 @@
     "pub_date": "2026-09-27T18:28:34+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134523338/delhi-tilak-nagar-minister-pravesh-verma-slap-video-rahul-gandhi-reaction-bjp-attack.jpg?imgsize=210088&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://ndtv.in/india/bank-strike-scheduled-for-september-28-and-30-deferred-decision-taken-following-a-meeting-of-the-indian-bank-association-12106434#publisher=newsstand",
+    "title": "28 से 30 सितंबर तक बैंकों की होने वाली हड़ताल टली, इंडियन बैंक्स एसोसिएशन की बैठक के बाद हुआ फैसला",
+    "description": "लगभग 8 लाख बैंक अधिकारी और कर्मचारी 3 दिन की देशव्यापी हड़ताल में हिस्सा लेने वाले थे. यह हड़ताल देश भर में 1.81 लाख से ज़्यादा बैंक शाखाओं में होने वाली थी.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T18:28:31+00:00",
+    "image_url": "https://c.ndtvimg.com/2021-03/6kgvu1kk_bank-strike_625x300_15_March_21.jpg",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/state/uttar-pradesh/displaying-use-by-date-on-sweets-will-become-mandatory-from-october-15-3918751.html",
@@ -195,6 +242,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/uttarakhand-news/uttarakhand-heavy-rain-pauri-paithani-chakisain-road-closed-two-dead-chardham-yatra-suspended-12106423#publisher=newsstand",
+    "title": "उत्तराखंड में बारिश का कहर, IMD ने जारी किया रेड अलर्ट... पौड़ी में बंद हुआ पैठाणी-चाकीसैंण मार्ग; 2 की मौत",
+    "description": "उत्तराखंड के कई जिलों में हालात खराब होते जा रहे हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T18:05:55+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/mqsjg5pc_uttarakhand_625x300_27_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/business/business-news/bank-strike-deferred-after-meeting-between-iba-and-ufbu-details/articleshow/134524618.cms",
     "title": "Bank Strike Postponed: हड़ताल नहीं होगी, देर रात तक चली बैठक के बाद यूनियन ने टाला फैसला, सोमवार को खुलेंगे बैंक",
     "description": "Bank Strike Deferred: सोमवार से तीन तक सरकारी बैंकों की प्रस्‍तावित हड़ताल टल गई है। रविवार को इंडियन बैंक्स एसोसिएशन (IBA) और यूनाइटेड फोरम ऑफ बैंक यूनियंस (UFBU) की बैठक हुई। सहमति बनने के बाद देर रात हड़ताल टालने का फैसला लिया गया।",
@@ -219,6 +277,29 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/india/assam-police-over-30-cjp-activists-including-ashutosh-ranka-detained-in-assam-cm-himanta-12105233#publisher=newsstand",
+    "title": "गुवाहाटी पुलिस ने CJP नेता आशुतोष रांका समेत हिरासत में लिए गए अन्य सभी कार्यकर्ताओं को छोड़ा",
+    "description": "आशुतोष रांका ने कहा कि सीएम हिमंता सरमा को डर है कि हम यहां के स्कूलों की हालत, इंसानों की वजह से आई बाढ़ की सच्चाई और दूसरे मुद्दों को उजागर कर देंगे. इसीलिए वे हमें धमका रहे हैं.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-27T17:58:31+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/b701efec_ashutosh-ranka_625x300_27_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/khushboo-patani-advises-girls-to-buy-the-glock-17-gen-4-air-pistol-watch-the-viral-video-12106409#publisher=newsstand",
+    "title": "खुशबू पटानी ने लड़कियों को Glock 17 Gen 4 एयर पिस्टल खरीदने की सलाह दी, वायरल वीडियो देखें",
+    "description": "खुशबू समाज में हो रही घटनाओं पर सोशल मीडिया के माध्यम से बेबाकी से राय रखने के लिए जानी जाती हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T17:58:24+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/5b2ra8us_khusboo-patani_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.aajtak.in/india/maharashtra/story/mumbai-police-cockroach-janta-party-protest-shivaji-park-permission-ntc-amkr-dskc-2654849-2026-09-27?utm_source=rssfeed",
     "title": "शिवाजी पार्क में CJP के प्रदर्शन को पुलिस ने नहीं दी मंजूरी, जानें क्या है वजह",
     "description": "मुंबई पुलिस ने शिवाजी पार्क में कॉकरोच जनता पार्टी के 2 अक्टूबर को प्रस्तावित प्रदर्शन की अनुमति देने से इनकार कर दिया है. पुलिस ने इसके लिए हाईकोर्ट के निर्देशों, नगर निकाय की अनुमति न होने और ट्रैफिक में रुकावट की संभावना का हवाला दिया.",
@@ -229,6 +310,17 @@
     "pub_date": "2026-09-27T17:54:21+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/monsoon-rainfall-deficit-drops-to-12-percent-kharif-sowing-rice-area-declines-12106400#publisher=newsstand",
+    "title": "देशभर में मॉनसून की बारिश की कमी घटकर 12% हुई,  चावल की बुआई में बड़ी गिरावट",
+    "description": "देशभर में मॉनसून की बारिश की कमी घटकर 12% हुई,  चावल की बुआई में बड़ी गिरावट",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T17:53:52+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/2hrihsg4_-monsoon-rainfall-deficit-drops-to-12-percent-kharif-sowing-rice-area-declines_625x300_27_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.aajtak.in/india/news/story/bank-strike-deferred-after-the-meeting-between-the-indian-banks-association-ntc-acwi-dskc-2654857-2026-09-27?utm_source=rssfeed",
@@ -279,6 +371,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/uttar-pradesh-news/mathura-police-post-mortem-report-on-the-death-of-premanand-maharajs-disciple-in-vrindavan-12106375#publisher=newsstand",
+    "title": "प्राइवेट पार्ट पर कटने के निशान, टूटी थी कई हड्डियां... प्रेमानंद के शिष्य की पोस्टमार्टम रिपोर्ट से केस में नया ट्विस्ट",
+    "description": "एसपी सिटी राजीव कुमार सिंह ने बताया कि पुलिस टीम ने साधकों के आवास की जांच की है और मोबाइल फोन के फॉरेंसिक सबूत जुटाए गए हैं. उन्होंने बताया कि परिजनों की ओर से एक प्रार्थना पत्र पुलिस को प्राप्त हुआ है. इसके आधार पर जांच करके आगे की कार्रवाई की जा रही है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-27T17:44:46+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-09/9qb08jn_premanand-maharaj-rasik-dulari-deepak-lodhi-death-vrindavan-cctv_625x300_26_September_26.jpg",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.aajtak.in/uttar-pradesh/story/ganga-expressway-flooded-unnao-toll-plaza-viral-video-rain-waterlogging-lcln-strc-2654848-2026-09-27?utm_source=rssfeed",
     "title": "36 हजार करोड़ के गंगा एक्सप्रेसवे पर भरा पानी, मछली पकड़ने पहुंचे लोग",
     "description": "Ganga Expressway Waterlogging Unnao: 36 हजार करोड़ की लागत से बन रहे गंगा एक्सप्रेसवे के सोनिक (उन्नाव) टोल प्लाजा पर भरा पानी. जलमग्न रोड पर जाल डालकर मछली पकड़ते दिखे लोग. पढ़ें पूरी रिपोर्ट.",
@@ -299,18 +402,6 @@
     "pub_date": "2026-09-27T17:39:32+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/lovely-professional-university-protest-turns-violent-students-police-clash-phagwara-punjab-12106353#publisher=newsstand",
-    "title": "LPU कैंपस में फिर बवाल: हिंसक छात्रों ने वाहनों में लगाई आग, कई पुलिसकर्मी घायल, आखिर क्यों फूटा गुस्सा?",
-    "description": "लवली यूनिवर्सिटी विवाद: छात्रा से रेप के दावे पर उग्र प्रदर्शन, पुलिस और छात्रों में टकराव",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-09-27T17:38:15+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/er562jc4_lovely-professional-university-protest-turns-violent-students-police-clash-phagwarapunjab_625x300_27_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/viral/trending/as-kohli-hits-55th-odi-century-at-ind-vs-wi-people-goes-emotional-remembering-only-14-away-from-100-century/articleshow/134523804.cms",
@@ -395,6 +486,7 @@
     "title": "LPU Protest: LPU के बाहर छात्रों का हंगामा, पथराव और वाहनों में आग",
     "description": "LPU के बाहर छात्रों के प्रदर्शन के दौरान पथराव और तोड़फोड़ हुई. कुछ वाहनों में आग लगाई गई. पुलिस ने हाईवे खाली कराया और छात्रों को कैंपस की ओर भेजा.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-27T17:27:23+00:00",
@@ -2216,95 +2308,5 @@
     "pub_date": "2026-09-27T13:42:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/09/sharad-pawar-letter-1790516326.webp",
     "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/ndtv-defence-summit-2026-live-updates-india-defence-strategy-armed-forces-modernisation-military-tech-security-forum-live-news-rajnath-singh-cds-ns-ra-12104029#publisher=newsstand",
-    "title": "NDTV Defence Summit: जंग के मैदान को बदलने वाला है एआई- CDS जनरल सुब्रमणि",
-    "description": "इस साल का समिट भारत की बढ़ती रक्षा क्षमता पर केंद्रित था. इसमें 'ऑपरेशन सिंदूर' से मिले ऑपरेशनल सबक से लेकर AI, ड्रोन, अंतरिक्ष क्षमताओं और ऑटोनॉमस सिस्टम (खुद काम करने वाले सिस्टम) को तेजी से अपनाने तक, तीनों सेनाओं के बीच बेहतर तालमेल और रक्षा निर्माण में मजबूत 'आत्मनिर्भरता' से लेकर नई ग्लोबल पार्टनरशिप और टेक्नोलॉजी अलायंस तक के विषयों पर चर्चा हुई.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-27T13:41:31+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/p3vo9ni8_1_625x300_27_September_26.png",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/sports/cricket/story/ind-vs-wi-1st-odi-kuldeep-yadav-convinces-captain-shubman-gill-for-drs-watch-video-aksp-dskc-2654711-2026-09-27?utm_source=rssfeed",
-    "title": "कप्तान गिल ने मानी कुलदीप यादव की बात, फिर हुआ ये मैजिक, VIDEO",
-    "description": "जस्टिन ग्रीव्स के शतक जॉन कैंपबेल और आमिर जांगू के अर्धशतकों की मदद से वेस्टइंडीज ने भारत के सामने चुनौतीपूर्ण लक्ष्य खड़ा किया. लेकिन भारतीय गेंदबाजों ने खासतौर पर कुलदीप यादव ने भी इस मुकाबले में अपनी छाप छोड़ने में कामयाबी हासिल की.",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-09-27T13:40:43+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/entertainment/ott/story/manish-kashyap-civil-engineering-politics-youtuber-9-months-jail-controversy-rise-and-fall-2-marriage-cricketer-virender-sehwag-tmovb-dskc-2654689-2026-09-27?utm_source=rssfeed",
-    "title": "जेल में बीते 9 महीने, कंट्रोवर्शियल है ‘सन ऑफ बिहार’ की जिंदगी",
-    "description": "रियलिटी शो राइज एंड फॉल सीजन 2 में बिहार के चर्चित यूट्यूबर और डिजिटल जर्नलिस्ट मनीष कश्यप ने एंट्री की है. मनीष, जिन्हें सन ऑफ बिहार के नाम से जाना जाता है, विवादों में घिरे रहे हैं.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-09-27T13:40:03+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/entertainment/television/salman-khan-bigg-boss-20-angry-on-rhiti-tiwari-give-his-example-3918572.html",
-    "title": "Salman Khan Bigg Boss 20: मैंने भी ये सब किया है, मैं क्या लेक्चर दे रहा हूं…रीति तिवारी की क्लास लगाते हुए सलमान ने क्यों कही ये बात",
-    "description": "Bigg Boss 20: बिग बॉस 20 के इस वीकेंड का वार के दौरान सलमान खान ने रीति तिवारी के गुनाहों का हिसाब किया. उन्होंने इस दौरान अपना भी उदाहरण दिया.",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-09-27T13:37:02+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/salman-khan-rhiti-tiwari.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/business/business-news/bihar-mineral-reserves-rs-21000-cr-key-for-india-may-become-answer-to-china/articleshow/134520979.cms",
-    "title": "चीन ने जिसके लिए कर दिया तंग, बिहार में मिल गया वो खजाना, भारत के हाथ लगी ₹21,000 की कुंजी",
-    "description": "Mineral Reserves: बिहार 21,000 करोड़ रुपये से ज्‍यादा कीमत वाले नए रिसोर्स का इस्तेमाल करके अपनी मिनरल इकॉनमी को फिर से मजबूत करना चाहता है। यह भारत के लिए बड़ा गेमचेंजर साबित हो सकता है।  जियोलॉजिकल सर्वे में ग्लौकोनाइट और सोने जैसे कीमती मिनरल की पहचान की गई है। लेकिन, कमर्शियल प्रोडक्शन शुरू करने में अभी चुनौतियां हैं।",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-09-27T13:33:51+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/134521238/india-mineral-reserves.jpg?imgsize=174220&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/dalit-adivasi-swabhiman-baithak-29-september-2026-haldwani-kharge-stage-purification-congress-action-plan/articleshow/134521068.cms",
-    "title": "हल्द्वानी की घटना को राष्ट्रीय मुद्दा बनाने की तैयारी में कांग्रेस, 29 सितंबर को जुटेंगे एससी-एसटी नेता",
-    "description": "हल्द्वानी में मल्लिकार्जुन खरगे की जनसभा के बाद मंच के शुद्धिकरण की घटना को कांग्रेस अब दलित-आदिवासी सम्मान के बड़े मुद्दे के तौर पर उठाने की तैयारी में है। 29 सितंबर की बैठक में देशभर में ऐसे मामलों के खिलाफ रणनीति बनाने और हर राज्य में संयुक्त कार्रवाई के लिए पैनल तैयार करने पर मंथन होगा।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-27T13:30:35+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/134521068/dalit-adivasi-swabhiman-baithak-29-september-2026-haldwani-kharge-stage-purification-congress-action-plan.jpg?imgsize=143730&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/indian-durables-market-to-touch-rs-3-3-25-lakh-cr-by-2030-create-rs-50000-cr-local-mfg-boost-3918424.html",
-    "title": "भारतीयों की जेब और लाइफस्टाइल में बड़ा बदलाव! 2030 तक ₹3.25 लाख करोड़ का होगा कंज्यूमर मार्केट",
-    "description": "भारत के कंज्यूमर ड्यूरेबल्स मार्केट में जबरदस्त बढ़ोतरी की उम्मीद है और 2030 तक यह 3-3.25 लाख करोड़ रुपए तक पहुंच सकता है. आइए बीसीजी और सीआईआई की ज्वाइंट रिपोर्ट क्या कहती है.",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-09-27T13:30:28+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/consumer-durable-market.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/automobile/honda-compact-suv-to-get-horse-1-2l-engine-with-petrol-hybrid-and-cng-options-3918460.html",
-    "title": "Honda की नई SUV में नहीं मिलेगा कंपनी का अपना इंजन! बाहर से आएगा पावरट्रेन, जानें क्यों",
-    "description": "Honda नई सब-4 मीटर SUV पर काम कर रही है, जिसे 2028 तक लॉन्च किया जा सकता है. इसमें Horse Powertrain का 1.2L इंजन मिल सकता है, जो पेट्रोल, CNG और Hybrid ऑप्शन के साथ आ सकता है.",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-09-27T13:30:25+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/07/honda-21.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
