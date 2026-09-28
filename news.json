@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-29",
+    "title": "पढ़ें 29 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-29T07:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/how-will-spam-calls-be-detected-trai-issues-new-rules-for-telecom-companies-consumers-also-file-complaint-2026-09-29",
+    "title": "कैसे होगी स्पैम कॉल की पहचान?: ट्राई ने टेलीकॉम कंपनियों के लिए जारी किए नए नियम; आप खुद भी कर सकते हैं शिकायत",
+    "description": "कैसे होगी स्पैम कॉल की पहचान?: ट्राई ने टेलीकॉम कंपनियों के लिए जारी किए नए नियम; आप खुद भी कर सकते हैं शिकायत",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-09-29T06:57:54+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/e20-petrol-to-cut-india-s-oil-imports-ongc-official-explains-how-it-can-boost-energy-self-reliance-2026-09-29",
     "title": "ई20 पेट्रोल से घटेगा भारत का तेल आयात: ओएनजीसी अधिकारी ने बताया कैसे बढ़ सकती है आत्मनिर्भरता, जानें पूरा गणित",
     "description": "ई20 पेट्रोल से घटेगा भारत का तेल आयात: ओएनजीसी अधिकारी ने बताया कैसे बढ़ सकती है आत्मनिर्भरता, जानें पूरा गणित",
@@ -7,17 +29,6 @@
       "National"
     ],
     "pub_date": "2026-09-29T06:38:41+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-29",
-    "title": "पढ़ें 29 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-29T06:30:30+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -390,7 +401,6 @@
     "title": "ये भक्त हैं और नॉनवेज खा रहे हैं, कसा गया तंज तो शहजाद पूनावाला ने छोड़ दिया खाना",
     "description": "रियलिटी शो राइज एंड फॉल-2 में शहजाद पूनावाला का एक और वीडियो काफी वायरल हो रहा है। इस वीडियो में शहजाद पूनावाला खाना खाने बैठे हैं। इसी दौरान उनकी बगल में बैठे तेजप्रताप यादव कहते हैं कि ये भक्त हैं और नॉनवेज खा रहे हैं।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-28T17:07:15+00:00",
@@ -2278,16 +2288,5 @@
     "pub_date": "2026-09-28T13:43:22+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134543738/delhi-high-court-tenant-property-rent-mesne-profit-3-crore-27-lakh.jpg?imgsize=256860&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/delhi-ncr-13-rape-cases-in-one-month-supreme-court-suo-motu-guidelines-3919494.html",
-    "title": "20 दिन में रेप के 13 केस दर्ज: दिल्ली-एनसीआर की पुलिस पर सुप्रीम कोर्ट सख्त, खुद लेगी एक्शन",
-    "description": "दिल्ली-NCR में सितंबर से रेप और यौन हमले के 13 मामले सामने आए, इनमें नाबालिग भी शामिल हैं. सुप्रीम कोर्ट ने खुद संज्ञान लेते हुए सुरक्षा, CCTV, पेट्रोलिंग और जवाबदेही पर जोर दिया.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-28T13:43:19+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/delhi-ncr-rape-cases-3.jpeg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
