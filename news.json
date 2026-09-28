@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-29",
-    "title": "पढ़ें 29 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-29T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/how-will-spam-calls-be-detected-trai-issues-new-rules-for-telecom-companies-consumers-also-file-complaint-2026-09-29",
     "title": "कैसे होगी स्पैम कॉल की पहचान?: ट्राई ने टेलीकॉम कंपनियों के लिए जारी किए नए नियम; आप खुद भी कर सकते हैं शिकायत",
     "description": "कैसे होगी स्पैम कॉल की पहचान?: ट्राई ने टेलीकॉम कंपनियों के लिए जारी किए नए नियम; आप खुद भी कर सकते हैं शिकायत",
@@ -31,6 +20,29 @@
     "pub_date": "2026-09-29T06:38:41+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-29",
+    "title": "पढ़ें 29 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-28T19:30:58+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/science/story/spacex-starship-first-orbital-flight-26-satellites-deployed-pacific-ocean-ntc-dhrj-dskc-2655891-2026-09-29?utm_source=rssfeed",
+    "title": "अंतरिक्ष में पहुंचा स्टारशिप, 26 सैटेलाइट छोड़ने के बाद हुआ ब्लास्ट",
+    "description": "स्पेसएक्स के स्टारशिप ने अपनी 14वीं टेस्ट उड़ान में पहली बार पृथ्वी की कक्षा तक पहुंचकर इतिहास रच दिया. हालांकि, उड़ान के दौरान आई तकनीकी खराबी के चलते मिशन को तय समय से पहले खत्म करना पड़ा.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-09-28T19:07:49+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.patrika.com/entertainment-news/paramvir-beniwal-youtube-earnings-90-lakh-monthly-income-20944383",
@@ -335,7 +347,6 @@
     "title": "ODI वर्ल्ड कप 2027 को लेकर आई बड़ी खबर, 1 अक्टूबर को केपटाउन में होगा शेड्यूल का ऐलान",
     "description": "2027 वनडे वर्ल्ड कप को लेकर क्रिकेट फैंस का इंतजार अब खत्म होने वाला है। ICC और क्रिकेट साउथ अफ्रीका जल्द टूर्नामेंट के पूरे शेड्यूल का ऐलान करेंगे।",
     "categories": [
-      "Breaking News",
       "Sports"
     ],
     "pub_date": "2026-09-28T17:19:00+00:00",
@@ -2280,16 +2291,5 @@
     "pub_date": "2026-09-28T13:44:54+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134543388/yudh-abhyas-2026-india-us-joint-military-exercise.jpg?imgsize=1223140&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/videos/delhi-thappad-kand-parvesh-verma-aap-bjp-political-row-bad-road-dispute-hooliganism-allegations-3919540.html",
-    "title": "Parvesh Verma Thappad Kand: दिल्ली में ‘थप्पड़कांड’…मचा सियासी घमासान",
-    "description": "दिल्ली में थप्पड़कांड को लेकर सियासी पारा चढ़ गया है. खराब सड़क को लेकर हुए इस विवाद में आम आदमी पार्टी जहां सड़क पर उतर आई है, वहीं भाजपा ने आप पर सियासत करने का आरोप लगाया है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-28T13:43:46+00:00",
-    "image_url": null,
-    "source_name": "TV9HINDI.COM"
   }
 ]
