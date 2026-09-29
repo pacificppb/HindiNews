@@ -724,7 +724,6 @@
     "title": "आप भी आएंगे या सिर्फ ट्वीट ही करेंगे? जब खरगे ने शशि थरूर की ली चुटकी; कांग्रेस बैठक की इनसाइड स्टोरी",
     "description": "कांग्रेस वर्किंग कमेटी की बैठक मंगलवार को हुई। इस दौरान कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने शशि थरूर की चुटकी ले डाली। वहीं, खरगे खुद, राहुल गांधी के एक सवाल पर फंसते नजर आए और किसी तरह से जवाब देकर अपनी जान छुड़ाई।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-09-29T14:52:15+00:00",
@@ -949,6 +948,18 @@
     "pub_date": "2026-09-29T14:38:00+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134568535/rajya-sabha-mp-sanjay-sigh.jpg?imgsize=1137563&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/jammu-kashmir/story/jammu-kashmir-cisf-camp-firing-four-injured-ntc-acwi-rpti-2656735-2026-09-29?utm_source=rssfeed",
+    "title": "J&amp;K: कठुआ में CISF जवान ने चलाईं गोलियां, असिस्टेंट कमांडेंट समेत 4 जवानों की मौत",
+    "description": "जम्मू-कश्मीर के कठुआ जिले के बसोली में CISF कैंप में एक जवान ने अपने साथी जवानों पर फायरिंग कर दी, इस घटना में चार जवानों की मौत हो गई है. फायरिंग के कारणों का अभी पता नहीं चल पाया है. आरोपी जवान को गिरफ्तार कर लिया गया है और जांच शुरू कर दिया गया है.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-09-29T14:35:50+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.aajtak.in/india/news/story/jammu-kashmir-cisf-camp-firing-four-injured-ntc-acwi-rpti-2656735-2026-09-29?utm_source=rssfeed",
@@ -2278,17 +2289,6 @@
     ],
     "pub_date": "2026-09-29T12:44:00+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/baltej-pannu-1.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/grap-implemented-to-tackle-pollution-in-delhi-ncr-restrictions-to-be-imposed-on-these-activities-if-aqi-rises-3920541.html",
-    "title": "दिल्ली-NCR में प्रदूषण से निपटने के लिए नया GRAP लागू, AQI बढ़ा तो इन चीजों पर लगेगी पाबंदी, देखें लिस्ट",
-    "description": "दिल्ली-NCR में सर्दियों के दौरान वायु प्रदूषण से निपटने के लिए वायु गुणवत्ता प्रबंधन आयोग (CAQM) ने ग्रेडेड रिस्पॉन्स एक्शन प्लान (GRAP) के मौजूदा शेड्यूल में कई अहम बदलाव किए हैं.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-09-29T12:42:11+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/delhi-aqi.jpg",
     "source_name": "TV9HINDI.COM"
   }
 ]
