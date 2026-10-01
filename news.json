@@ -22,6 +22,29 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-02",
+    "title": "पढ़ें 2 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-01T20:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/cji-surya-kant-ai-digitalisation-constitutional-values-judicial-system-2026-10-02",
+    "title": "एआई: 'तकनीक के लाभ अपनाएं, लेकिन संवैधानिक मूल्यों से न हटें', बोले सीजेआई सूर्यकांत; और क्या कहा?",
+    "description": "एआई: 'तकनीक के लाभ अपनाएं, लेकिन संवैधानिक मूल्यों से न हटें', बोले सीजेआई सूर्यकांत; और क्या कहा? cji-surya-kant-ai-digitalisation-constitutional-values-judicial-system",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-01T19:55:39+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/tamil-nadu-bypolls-cpim-alleges-cash-for-votes-against-cm-vijay-tvk-2026-10-02",
     "title": "तमिलनाडु उपचुनाव: सीपीआईएम का दावा- 'सीएम विजय की टीवीके बांट रही पैसा'; चुनाव आयोग से की कार्रवाई की मांग",
     "description": "तमिलनाडु उपचुनाव: सीपीआईएम का दावा- 'सीएम विजय की टीवीके बांट रही पैसा'; चुनाव आयोग से की कार्रवाई की मांग tamil-nadu-bypolls-cpim-alleges-cash-for-votes-against-cm-vijay-tvk",
@@ -30,18 +53,6 @@
       "National"
     ],
     "pub_date": "2026-10-01T19:41:02+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-02",
-    "title": "पढ़ें 2 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-01T19:30:27+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -74,7 +85,6 @@
     "title": "‘हमेशा रूस-यूक्रेन युद्ध खत्म करने की बात करते हैं PM मोदी’, पुतिन बोले- हम उनके आभारी हैं",
     "description": "रूसी राष्ट्रपति व्लादिमीर पुतिन ने पीएम मोदी की तारीफ की है और कहा कि हम जितनी बार भी मिलते हैं, पीएम मोदी हमेशा रूस-यूक्रेन युद्ध को खत्म करने की बात करते हैं और इसके लिए हम उनके आभारी हैं.",
     "categories": [
-      "Breaking News",
       "World"
     ],
     "pub_date": "2026-10-01T18:49:16+00:00",
@@ -827,7 +837,6 @@
     "title": "'सुभाष चंद्र बोस ने संस्कृत में दी थी सिविल सेवा परीक्षा', यूपीएससी के शताब्दी समारोह में बोले पीएम मोदी",
     "description": "प्रधानमंत्री नरेंद्र मोदी ने यूपीएससी के शताब्दी समारोह में नेताजी सुभाष चंद्र बोस की सराहना करते हुए कहा कि उन्होंने 1920 में अंग्रेजी शासन के दौरान संस्कृत में सिविल सेवा परीक्षा दी थी।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-01T16:38:10+00:00",
@@ -2289,16 +2298,5 @@
     "pub_date": "2026-10-01T13:58:31+00:00",
     "image_url": "https://hindi.oneindia.com/img/2026/10/dharavi1-46351786173068-61631790862745.jpg",
     "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/allahabad-high-court-full-court-meetings-only-16-meetings-have-place-last-10-years-high-concern-3922772.html",
-    "title": "10 साल में सिर्फ 16 बैठकें… इलाहाबाद HC की फुल कोर्ट बैठकों पर गंभीर सवाल, जताई चिंता",
-    "description": "इलाहाबाद हाई कोर्ट ने फुल कोर्ट बैठकों की प्रक्रिया को लेकर गंभीर सवाल उठाए हैं. HC ने कहा कि पिछले 10 वर्षों में केवल 16 फुल कोर्ट बैठकें आयोजित की गईं.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-01T13:58:26+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/allahabad-high-court.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
