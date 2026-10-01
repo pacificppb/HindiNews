@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://navbharattimes.indiatimes.com/business/business-news/us-treasury-yield-post-its-biggest-quarterly-rise-this-century-in-the-third-quarter/articleshow/134614889.cms",
+    "title": "US Bond Yield: अमेरिका में 21वीं शताब्दी में पहली बार हुआ ऐसा, भारतीय शेयर बाजार में मच गया कोहराम",
+    "description": "भारतीय शेयर बाजार में आज भारी गिरावट देखने को मिली। कारोबार के दौरान सेंसेक्स 1,200 अंक तक गिर गया था। इस गिरावट की एक बड़ी वजह अमेरिका में 10 साल की मैच्योरिटी वाले बॉन्ड यील्ड में आई रेकॉर्ड तेजी है।",
+    "categories": [
+      "Business"
+    ],
+    "pub_date": "2026-10-01T10:11:21+00:00",
+    "image_url": "https://static.langimg.com/nbt/thumb/134615004/us-bond-vs-equity-fall.jpg?imgsize=189310&width=1600&height=900&resizemode=75",
+    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.bbc.com/hindi/articles/cwg7kllgn1y4o?at_medium=RSS&at_campaign=rss",
+    "title": "यूपी: सपा ने एक उद्योगपति को दिया राज्यसभा सीट के लिए टिकट, क्या हैं राजनीतिक मायने",
+    "description": "समाजवादी पार्टी का धनराज नाथवानी को अपना राज्यसभा उम्मीदवार चुनना कइयों के लिए चौंकाने वाला फ़ैसला है. सोशल मीडिया पर इसकी काफ़ी चर्चा है.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-01T10:09:17+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67e8/live/89039cf0-bcf9-11f1-99dd-e594519ad110.jpg",
+    "source_name": "BBC.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/technology/tech-news/story/redmi-17c-5g-launched-india-price-6000mah-120hz-display-ttecm-dskc-2658268-2026-10-01?utm_source=rssfeed",
+    "title": "₹20,999 में आया Redmi 17C 5G, 6000mAh बैटरी और 120Hz डिस्प्ले",
+    "description": "Redmi 17C 5G Launch: Xiaomi ने भारत में अपना नया 5G स्मार्टफोन Redmi 17C 5G लॉन्च कर दिया है. फोन में 6000mAh की बड़ी बैटरी, 120Hz डिस्प्ले, MediaTek Dimensity 6300 चिपसेट और 50MP कैमरा दिया गया है. इसकी शुरुआती कीमत ₹20,999 है.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-10-01T10:06:23+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.bbc.com/hindi/articles/c32l8lernwwlo?at_medium=RSS&at_campaign=rss",
+    "title": "अमेरिका: सज़ा-ए-मौत पाने वाली क़ैदी दो ज़हरीले इंजेक्शन के बाद भी ज़िंदा, अस्पताल में भर्ती कराया गया",
+    "description": "हत्यारी क्रिस्टा पाइक के वकील का कहना है कि पेंटोबार्बिटल की दो सिरिंज देने के बाद अब अस्पताल में उन्हें 'लाइफ़ सपोर्ट' पर रखा गया है. पाइक अब भी ज़िंदा हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-01T10:00:06+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
+    "source_name": "BBC.COM"
+  },
+  {
     "link": "https://www.aajtak.in/uttar-pradesh/story/noida-pucc-rule-petrol-diesel-ban-first-day-ground-report-app-server-problem-lclar-strc-2658368-2026-10-01?utm_source=rssfeed",
     "title": "नोएडा में पेट्रोल भरवाने पहुंचे लोग, पहले हुआ PUCC चेक, कई नियम से अनजान",
     "description": "गौतमबुद्धनगर में बिना वैध PUCC वाले वाहनों को पेट्रोल-डीजल नहीं देने का नियम 1 अक्टूबर से लागू हो गया. पहले दिन पेट्रोल पंपों पर वाहनों के PUC की जांच मोबाइल ऐप से होती दिखाई दी. कुछ वाहन चालकों को नियम की जानकारी थी, जबकि कई इससे अनजान मिले. कर्मचारियों ने बताया कि वैध PUCC नहीं होने पर लोगों को वापस भेजा गया.",
@@ -46,7 +91,7 @@
   },
   {
     "link": "https://www.aajtak.in/business/utility/photo/gold-silver-cheaper-in-september-but-metals-price-hike-1st-day-of-october-check-update-tutc-2658100-2026-10-01?utm_source=rssfeed",
-    "title": "सितंबर में सोना-चांदी हुआ था सस्ता, अक्टूबर के पहले दिन बदला खेल",
+    "title": "सोना-चांदी सितंबर में हुआ था सस्ता, अक्टूबर के पहले दिन बदला खेल",
     "description": "Gold-Silver Rate Change On 1st October: अक्टूबर महीने की शुरुआत होते ही सोना-चांदी की कीमतों में बड़ा बदलाव देखने को मिला है. पहली तारीख को 1 किलो चांदी 2.26 लाख रुपये, जबकि सोना 1.50 रुपये रुपये प्रति 10 ग्राम पर पहुंच गया.",
     "categories": [
       "Breaking News",
@@ -90,6 +135,18 @@
     "pub_date": "2026-10-01T09:50:57+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.indiatv.in/sports/cricket/india-vs-west-indies-3rd-odi-prasidh-krishna-out-as-replacement-anshul-kamboj-may-in-the-squad-2026-10-01-1246395",
+    "title": "IND vs WI तीसरे ODI से पहले टीम इंडिया का अहम​ खिलाड़ी बाहर, किसकी हो सकती है एंट्री",
+    "description": "भारत और वेस्टइंडीज के बीच खेली जा रही तीन मैचों की वनडे सीरीज का तीसरा और आखिरी मुकाबला 3 अक्टूबर को खेला जाएगा। इस मैच से तेज गेंदबाज प्रसिद्ध कृष्णा बाहर हो गए है, उनकी जगह रिप्लेसमेंट के तौर पर अंशुल कम्बोज की एंट्री हो सकती है।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-10-01T09:50:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/prasidh-krishna-2-ap-1790847968.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://ndtv.in/india/flydubai-plane-attack-ndtv-reporter-recounts-story-of-that-terrifying-moment-from-inside-the-cockpit-12124790#publisher=newsstand",
@@ -160,6 +217,17 @@
     "source_name": "AAJTAK.IN"
   },
   {
+    "link": "https://www.indiatv.in/uttar-pradesh/saharanpur-nagar-assembly-seat-election-history-bjp-sp-political-equation-up-election-2027-2026-10-01-1246394",
+    "title": "UP चुनाव 2027 में सहारनपुर नगर में कौन मारेगा बाजी? चुनावी इतिहास से समझिए सियासी समीकरण",
+    "description": "सहारनपुर नगर विधानसभा सीट के चुनावी इतिहास से पता चलता है कि यहां BJP का पलड़ा भारी है। लेकिन कांटे के मुकाबले ये भी सोचने को मजबूर करते हैं कि सिर्फ किसी एक इलाके के वोट इधर से उधर होते ही पासा पलट जाता है। जानिए UP चुनाव 2027 में सहारनपुर नगर में क्या समीकरण बन रहा है।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-01T09:46:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/saharanpur-seat-1790847841.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
     "link": "https://ndtv.in/world-news/flydubai-flight-fz1073-horror-comic-story-indian-captain-smit-machchharstabbing-screams-and-safe-landing-12124544#publisher=newsstand",
     "title": "हवा में टेरर, भारतीय पायलट बना फाइटर… कॉमिक से समझें Flydubai की फ्लाइट में क्या-क्या हुआ था?",
     "description": "Flydubai की फ्लाइट FZ1073 में एक को-पायलट ने भारतीय कैप्टन पर चाकू से हमला कर दिया. वह प्लेन को अपने कब्जे में लेना चाहता था, ताकि उसे क्रैश कर सके.",
@@ -170,6 +238,17 @@
     "pub_date": "2026-10-01T09:44:19+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/tmpte6go_flydubai_625x300_01_October_26.gif",
     "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.aajtak.in/religion/news/story/budh-nakshatra-parivartan-2026-1-october-5-rashiyon-ko-dhan-labh-tvisz-dskc-2658086-2026-10-01?utm_source=rssfeed",
+    "title": "बुध का नक्षत्र परिवर्तन आज, 12 दिन तक 5 राशियों के लिए धन लाभ के योग",
+    "description": "Budh Nakshatra Parivartan 2026: बुध आज 1 अक्टूबर को स्वाति नक्षत्र में प्रवेश करेंगे.  ज्योतिषीय मान्यताओं के अनुसार अगले 12 दिनों में 5 राशियों को धन लाभ, करियर में तरक्की और नए अवसर मिल सकते हैं.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-01T09:43:47+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://ndtv.in/bollywood/shammi-kapoor-wife-wanted-to-adopt-asha-parekh-during-her-childhood-years-later-she-became-shammi-kapoor-heroin-12124777#publisher=newsstand",
@@ -228,6 +307,18 @@
     "pub_date": "2026-10-01T09:40:53+00:00",
     "image_url": null,
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/other-sport-news/indian-mens-hockey-team-beats-pakistan-4-3-asian-games-2026-semifinal-20950897",
+    "title": "India vs Pakistan Hockey Asian Games Semifinal: भारत ने रोमांचक मुकाबले में पाकिस्तान को 4-3 से हराया, फाइनल का टिकट कटाया",
+    "description": "India vs Pakistan: भारतीय पुरुष हॉकी टीम ने गुरुवार को पाकिस्तान को हराकर 14वीं बार एशियन गेम्स के फाइनल में प्रवेश कर लिया है। काकामिगहारा स्थित गिफू प्रीफेक्चुरल ग्रीन स्टेडियम में भारतीय टीम ने कड़े मुकाबले में पाकिस्तान को 4-3 से हराया।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-10-01T09:39:52+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Indian-Hockey.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-2-october-2026-thunderstorm-and-heavy-rain-alert-in-22-states-within-13-hours-wind-speed-up-to-65-kmph-delhi-up-bihar-mp-temperature/articleshow/134614273.cms",
@@ -437,18 +528,6 @@
     "source_name": "TV9HINDI.COM"
   },
   {
-    "link": "https://www.patrika.com/other-sport-news/indian-mens-hockey-team-beats-pakistan-4-3-asian-games-2026-semifinal-20950897",
-    "title": "India vs Pakistan Hockey Asian Games Semifinal: भारत ने रोमांचक मुकाबले में पाकिस्तान को 4-3 से हराया, फाइनल का टिकट कटाया",
-    "description": "India vs Pakistan: भारतीय पुरुष हॉकी टीम ने गुरुवार को पाकिस्तान को हराकर 14वीं बार एशियन गेम्स के फाइनल में प्रवेश कर लिया है। काकामिगहारा स्थित गिफू प्रीफेक्चुरल ग्रीन स्टेडियम में भारतीय टीम ने कड़े मुकाबले में पाकिस्तान को 4-3 से हराया।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-10-01T09:29:04+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Indian-Hockey.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.livehindustan.com/national/flydubai-plane-crisis-pilot-smit-machar-israeli-flyer-told-this-indian-pilot-during-flydubai-attack-201790845365861.html",
     "title": "'तुम आज नहीं मरोगे’, हमले के बाद जब भारतीय पायलट स्मित मच्छार से किसने कही ये बात",
     "description": "इजरायली नागरिक यानिव हयून ने विमान में घटे उस खौफनाक घटना के बारे में जानकारी दी। हयून ने बताया कि, वह कॉकपिट के दरवाजे तक पहुंचे तो वह खुला हुआ था। इसके बाद उन्होंने एक क्रू मेंबर के साथ मिलकर दरवाजे को जोर से धक्का दिया, फिर…",
@@ -521,6 +600,17 @@
     "source_name": "LIVEHINDUSTAN.COM"
   },
   {
+    "link": "https://www.patrika.com/world-news/helicopter-crash-in-california-near-catalina-island-2-dead-and-2-injured-20950903",
+    "title": "कैलिफोर्निया में क्रैश हुआ हेलीकॉप्टर, 2 लोगों की मौत और 2 घायल",
+    "description": "प्लेन क्रैश (Plane Crash) और हेलीकॉप्टर क्रैश (Helicopter Crash) के मामलों में दुनियाभर में इजाफा हो रहा है। पिछले दो साल में इन घटनाओं में तेज़ी से इजाफा हुआ है। अमेरिका (United States of America) में आए दिन ही इस तरह के मामले देखने को मिलते हैं और अब ऐसा ही एक और मामला सामने आया है। अमेरिका के कैलिफ़ोर्निया (California) राज्य में कैटालिना आइलैंड (Catalina Island) के पास पानी में एक मेडिकल इमरजेंसी हेलीकॉप्टर (मेडवैक हेलीकॉप्टर) बुधवार की रात (अमेरिकी समयानुसार) क्रैश हो गया। जानकारी के अनुसार हेलीकॉप्टर टेकऑफ के कुछ देर बाद ही क्रैश हो गया। हादसे के समय हेलीकॉप्टर में 5 लोग सवार थे। बताया जा रहा है कि हेलीकॉप्टर कैलिफ़ोर्निया राज्य के सैक्रामेंटो (Sacramento) शहर की रीच एयर मेडिकल सर्विसेज़ का था।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-01T09:25:32+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/california-helicopter-crash.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.prabhatkhabar.com/sports/asian-games-2026-day-12-live-updates-india-medals-match-schedule",
     "title": "Asian Games 2026 Day 12 LIVE: आखिरी मिनटों में पलटा खेल, पाकिस्तान को 4-3 से हराकर हॉकी के फाइनल में पहुंचा भारत",
     "description": "Asian Games 2026 LIVE: प्रभात खबर के एशियन गेम्स 2026 के लाइव ब्लॉग में आपका स्वागत है. 1 अक्टूबर को एशियन गेम्स में भारत का एक्शन कई खेलों में जारी रहेगा. आज टेबल टेनिस, स्क्वाश, हॉकी और अन्य खेलों में मेडल की उम्मीद है.\nThe post Asian Games 2026 Day 12 LIVE: आखिरी मिनटों में पलटा खेल, पाकिस्तान को 4-3 से हराकर हॉकी के फाइनल में पहुंचा भारत appeared first on Prabhat Khabar.",
@@ -534,11 +624,21 @@
     "source_name": "PRABHATKHABAR.COM"
   },
   {
+    "link": "https://www.indiatv.in/paisa/auto/will-traffic-fines-be-recovered-through-electricity-bills-supreme-court-issues-directives-to-withhold-license-registration-and-pollution-certificat-2026-10-01-1246389",
+    "title": "बिजली बिल से होगी ट्रैफिक चालान की वसूली? सुप्रीम कोर्ट ने लाइसेंस, रजिस्ट्रेशन, PUC रीन्यूअल रोकने के दिए निर्देश",
+    "description": "जस्टिस जे.बी. पारदीवाला और के.वी. विश्वनाथन की बेंच ने ये भी निर्देश दिया कि बकाया ई-चालान वाली गाड़ियों को केंद्रीय परिवहन पोर्टल पर ब्लैक लिस्ट में डाल दिया जाए।",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-10-01T09:24:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/traffic-delhitrafficpolice-1790846648.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
     "link": "https://www.aajtak.in/health/story/cough-in-changing-weather-causes-risk-know-from-doctor-tvisa-dskc-2658320-2026-10-01?utm_source=rssfeed",
     "title": "बदले मौसम में हुई खांसी को हल्के में ना लें, जानें कब है खतरे की घंटी",
     "description": "मौसम बदलते ही कई लोगों को खांसी आने की समस्या हो गई है. खांसी आना एक आम परेशानी है, लेकिन कुछ मामलों में ये गंभीर बीमारी का संकेत भी हो सकती है. खांसी सेहत के लिए कब खतरा है इस बारे में साकेत के मैक्स हॉस्पिटल में पल्मोनोलॉजी डिपार्टमेंट में हेड डॉ. विवेक नांगिया ने बताया है.",
     "categories": [
-      "Breaking News",
       "Health"
     ],
     "pub_date": "2026-10-01T09:22:29+00:00",
@@ -616,6 +716,18 @@
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
+    "link": "https://www.patrika.com/business-news/stock-market-crash-us-iran-tension-crude-oil-20950893",
+    "title": "Stock Market Crash: सिर्फ 1 घंटे में हो गया 9.5 लाख करोड़ का नुकसान, शेयर बाजार में अचानक क्यों आई भारी गिरावट",
+    "description": "भारतीय शेयर बाजार में गुरुवार दोपहर अचानक बड़ी गिरावट देखने को मिली है। बीएसई सेंसेक्स दोपहर 2 बजे करीब 1150 अंक गिरकर 71,307 पर आ गया। एनएसई के प्रमुख सूचकांक निफ्टी-50 में भी करीब 350 अंक की गिरावट देखने को मिली और यह गिरकर 22,270 पर आ गया। सेंसेक्स आज 288 अंक की गिरावट के साथ खुला था। दोपहर 12 बजे के बाद बाजार में बड़ी गिरावट देखने को मिली।",
+    "categories": [
+      "Business",
+      "Economy"
+    ],
+    "pub_date": "2026-10-01T09:16:11+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/share-crude-1.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.patrika.com/entertainment-news/badshah-message-after-isha-rikhi-eviction-bigg-boss-20-20950910",
     "title": "‘मैं ठीक नहीं हूं, लेकिन तुमसे प्यार करता हूं’, ईशा रिखी के बाहर होने के बाद बादशाह का फैंस को मैसेज",
     "description": "Badshah Social Media Post: ‘बिग बॉस 20’ से ईशा रिखी के बाहर होने के बाद रैपर बादशाह ने सोशल मीडिया पर अपने फैंस के लिए एक खास मैसेज शेयर किया है। गले में खराश होने के बावजूद बादशाह ने वीडियो पोस्ट कर फैंस के प्यार और सपोर्ट के लिए उनका शुक्रिया अदा किया। वीडियो में उन्होंने कहा कि वह ठीक महसूस नहीं कर रहे हैं, लेकिन अपने चाहने वालों से प्यार करते हैं।",
@@ -665,17 +777,6 @@
     "pub_date": "2026-10-01T09:13:51+00:00",
     "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/01/1790840279324/sizes/anant-singh-supported-anuj-singh-bf25f3-hero.webp",
     "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/helicopter-crash-in-california-near-catalina-island-2-dead-and-2-injured-20950903",
-    "title": "कैलिफोर्निया में क्रैश हुआ हेलीकॉप्टर, 2 लोगों की मौत और 2 घायल",
-    "description": "प्लेन क्रैश (Plane Crash) और हेलीकॉप्टर क्रैश (Helicopter Crash) के मामलों में दुनियाभर में इजाफा हो रहा है। पिछले दो साल में इन घटनाओं में तेज़ी से इजाफा हुआ है। अमेरिका (United States of America) में आए दिन ही इस तरह के मामले देखने को मिलते हैं और अब ऐसा ही एक और मामला सामने आया है। अमेरिका के कैलिफ़ोर्निया (California) राज्य में कैटालिना आइलैंड (Catalina Island) के पास पानी में एक मेडिकल इमरजेंसी हेलीकॉप्टर (मेडवैक हेलीकॉप्टर) बुधवार की रात (अमेरिकी समयानुसार) क्रैश हो गया।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-10-01T09:13:18+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/california-helicopter-crash.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.aajtak.in/crime/news/story/mumbai-gorai-manori-ship-four-bodies-found-gas-leak-theft-case-pvzs-rpti-2658311-2026-10-01?utm_source=rssfeed",
@@ -1029,18 +1130,6 @@
     "pub_date": "2026-10-01T08:53:37+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/up.jpeg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/business-news/stock-market-crash-us-iran-tension-crude-oil-20950893",
-    "title": "Stock Market Crash: सिर्फ 1 घंटे में हो गया 9.5 लाख करोड़ का नुकसान, शेयर बाजार में अचानक क्यों आई भारी गिरावट",
-    "description": "भारतीय शेयर बाजार में गुरुवार दोपहर अचानक बड़ी गिरावट देखने को मिली है। बीएसई सेंसेक्स दोपहर 2 बजे करीब 1150 अंक गिरकर 71,307 पर आ गया। एनएसई के प्रमुख सूचकांक निफ्टी-50 में भी करीब 350 अंक की गिरावट देखने को मिली और यह गिरकर 22,270 पर आ गया। सेंसेक्स आज 288 अंक की गिरावट के साथ खुला था। दोपहर 12 बजे के बाद बाजार में बड़ी गिरावट देखने को मिली।",
-    "categories": [
-      "Business",
-      "Economy"
-    ],
-    "pub_date": "2026-10-01T08:51:51+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/share-crude-1.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.aajtak.in/world/story/israel-election-flydubai-flight-benjamin-netanyahu-security-row-ntc-mnrd-smsr-2658266-2026-10-01?utm_source=rssfeed",
@@ -2221,97 +2310,5 @@
     "pub_date": "2026-10-01T07:29:51+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/9tape3ac_lnw_625x300_01_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/education/news/story/neet-pg-result-candidates-score-zero-or-negative-marks-in-exam-edmm-rpti-2658145-2026-10-01?utm_source=rssfeed",
-    "title": "NEET-PG के 258 अभ्यर्थी जीरो या माइनस नंबर से फेल, 2.66 लाख ने दी थी परीक्षा",
-    "description": "NEET-PG 2026 परीक्षा में कुल 2,65,960 अभ्यर्थी शामिल हुए, जिनमें से 258 को शून्य या उससे कम अंक प्राप्त हुए. इनमें से 64 अभ्यर्थियों को शून्य अंक मिले जबकि 194 के अंक माइनस में थे. मिन‍िमम नंबर -59 रहे. क्वालिफाइंग कट-ऑफ सामान्य वर्ग के लिए 262 अंक, अनुसूचित जाति और अन्य वर्गों के लिए 226 अंक निर्धारित किया गया था.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-01T07:29:37+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.indiatv.in/india/national/smit-machchhar-as-hero-praised-by-numerous-leaders-and-organizations-including-pm-modi-netanyahu-and-rss-2026-10-01-1246363",
-    "title": "हीरो बनकर उभरे स्मित मच्छार, पीएम मोदी, नेतन्याहू, संघ और RJD सांसद समेत कई नेताओं और संगठन ने की तारीफ",
-    "description": "कैप्टन स्मित मच्छार का परिवार मुंबई में रहता है। मूलरूप से वह गुजरात के रहने वाले हैं। कैप्टन स्मित मच्छार के बहादुरी की पीएम मोदी, संघ और आरजेडी सांसद मनोज झा ने तारीफ की है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-01T07:29:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/smit-machchar-1790839345.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://ndtv.in/bollywood/49-year-old-helen-song-was-used-in-five-bollywood-movies-audiences-used-to-toss-coins-in-the-cinema-halls-12119278#publisher=newsstand",
-    "title": "49 साल पहले जब थियेटर में बजता था ये गाना, सिक्के उछालते थे दर्शक, एक दो नहीं 5 फिल्मों में इस्तेमाल हुआ हेलेन का ये गाना",
-    "description": "हेलेन का गाना 5 फिल्मों में हुआ इस्तेमाल, थिएटर में उछलते थे सिक्के",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-01T07:28:03+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/g2ovco4s_helen_625x300_30_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://ndtv.in/bollywood/58-year-old-lata-mangeshkar-song-nirupa-roy-emotions-and-anand-bakshi-lyrics-will-bring-tears-in-your-eyes-12118950#publisher=newsstand",
-    "title": "महबूबा नहीं मां की तारीफ में लिखा गया था 58 साल पुराना ये गाना, लता मंगेशकर की आवाज नम कर देगी आंखें",
-    "description": "निरूपा रॉय के आंसुओं ने गाने में डाल दी जान",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-01T07:27:33+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-09/je2klcq4_nirupa-roy_625x300_30_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://ndtv.in/lifestyle/delhi-ncr-se-5000-rupees-me-mukteshwar-auli-binsar-long-weekend-trip-12124093#publisher=newsstand",
-    "title": "केवल 5 हजार रुपये में घूम आएं ये उत्तराखंड के 3 गांव, दिल्ली-NCR वालों के लिए परफेक्ट है ये लॉन्ग वीकेंड",
-    "description": "दिल्ली-NCR से वीकेंड ट्रिप के लिए मुक्तेश्वर, औली और बिनसर जाना खूबसूरत विकल्प",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-01T07:27:09+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/c2dj7c64_long-weekend-trip_625x300_01_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/madhya-pradesh/ujjain-after-shahi-mosque-action-collector-says-no-casualties-denies-rumours-3922261.html",
-    "title": "उज्जैन में टूटा शाही मस्जिद का हिस्सा, कलेक्टर बोले- कोई जनहानि नहीं…",
-    "description": "उज्जैन के छत्री चौक स्थित शाही मस्जिद के सड़क चौड़ीकरण कार्य के दौरान प्रभावित हिस्से को हटाने की कार्रवाई के बाद फैली अफवाहों पर कलेक्टर रोशन सिंह ने विराम लगाया है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-01T07:27:08+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/ujjain-shahi-masjid.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/sports/india-sri-lanka-semifinal-result-india-won-the-match-by-124-runs",
-    "title": "IND vs SL: फाइनल में पहुंची टीम इंडिया, श्रीलंका को 124 रन से रौंदकर मेडल किया कन्फर्म",
-    "description": "ईशान किशन की नाबाद 80 रन की पारी और जसप्रीत बुमराह-अक्षर पटेल की घातक गेंदबाजी के दम पर भारत ने श्रीलंका को 124 रन से हराकर एशियन गेम्स 2026 के फाइनल में जगह बना ली. अब 3 अक्टूबर को पाकिस्तान से मुकाबला होगा.\nThe post IND vs SL: फाइनल में पहुंची टीम इंडिया, श्रीलंका को 124 रन से रौंदकर मेडल किया कन्फर्म appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News",
-      "National",
-      "Sports"
-    ],
-    "pub_date": "2026-10-01T07:27:06+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/01/1790838125147/sizes/indian-team-in-asian-games-bbfe72-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/indias-manufacturing-sector-growth-hits-7-month-high-in-sep-on-strong-demand-3922299.html",
-    "title": "इकोनॉमी के मोर्चे पर खुशखबरी! 7 महीने के हाई पर मैन्युफैक्चरिंग सेक्टर",
-    "description": "देश और विदेश में मजबूत डिमांड के कारण नए ऑर्डर और प्रोडक्शन में बढ़ोतरी हुई, साथ ही मई के बाद से रोजगार में सबसे तेजी से वृद्धि हुई और मैन्युफैक्चरर्स ज्यादा आशावादी हो गए.",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-10-01T07:26:56+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/08/mobile-manufacturing.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
