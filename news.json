@@ -18,9 +18,32 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-03T22:30:24+00:00",
+    "pub_date": "2026-10-03T23:00:13+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/farmer-appeals-to-cm-shivakumar-to-formulate-scheme-to-find-bride-for-fellow-ryots-2026-10-04",
+    "title": "'किसानों के लिए दुल्हन ढूंढने की योजना बनाएं': शिवकुमार से किसान की अनोखी अपील; सीएम ने क्या कहा?",
+    "description": "'किसानों के लिए दुल्हन ढूंढने की योजना बनाएं': शिवकुमार से किसान की अनोखी अपील; सीएम ने क्या कहा?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-03T22:59:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/world/netanyahu-invites-indian-pilot-machchhar-to-israel-i-day-event-calls-him-hero-of-entire-world-3924901.html",
+    "title": "भारतीय पायलट की बहादुरी के फैन हुए नेतन्याहू, इजराइल आने का दिया न्योता, बोले- आप पूरी दुनिया के हीरो!",
+    "description": "इजराइल के PM नेतन्याहू ने शनिवार को भारतीय पायलट स्मित मच्छार से बात की. उन्होंने प्रधानमंत्री नरेंद्र मोदी और मच्छार को इजराइल के स्वतंत्रता दिवस पर मशाल जलाने के लिए भी आमंत्रित किया.",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-03T22:49:44+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/netanyahu-invites-indian-pilot-machchhar.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.amarujala.com/india-news/maharashtra-updates-congress-mpsc-paper-row-rahul-gandhi-tweet-sapkal-meet-students-mumbai-nagpur-polity-news-2026-10-04",
@@ -767,7 +790,6 @@
     "title": "'भारत के पास नया हीरो है, कभी नहीं भूलेंगे', कैप्टन स्मित मच्छार की तारीफ में बोला इजरायल",
     "description": "बिलबोर्ड पर लिखा है, 'जिंदगियां बचाने के लिए धन्यवाद कैप्टन स्मित। हम आपके जल्द स्वस्थ होने की कामना करते हैं।' यानिव रेवाच ने पोस्ट में भी कैप्टन मच्छार का शुक्रिया अदा किया। उन्होंने कहा कि इजरायल उनके इस काम को याद रखेगा।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-03T16:58:02+00:00",
@@ -2233,28 +2255,5 @@
     "pub_date": "2026-10-03T14:06:04+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.abplive.com/auto/cng-car-cylinder-blast-vadodara-3-safety-tips-check-details-here-3197262",
-    "title": "CNG पंप पर फटा कार का सिलेंडर, बचने के लिए ये 3 बातें जानें",
-    "description": "CNG पंप पर फटा कार का सिलेंडर, बचने के लिए ये 3 बातें जानें",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-10-03T14:04:47+00:00",
-    "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/f6265525f5cc7117d24c99cee03aa1e617910343835721436_original.jpg",
-    "source_name": "ABPLIVE.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/rs-2500-salary-to-rs-6-crore-wealth-money-journeys-3924588.html",
-    "title": "₹2,500 से ₹6 करोड़ तक का सफर, जानिए कैसे बनी इतनी बढ़ी दौलत",
-    "description": "₹2,500 महीने की सैलरी से ₹6 करोड़ की संपत्ति बनाने वाले शख्स से लेकर ₹80 लाख की आय गंवाने वाले व्यक्ति तक, तीन Money Journeys बताती हैं कि बचत, निवेश और खर्च कितना मायने रखते हैं.",
-    "categories": [
-      "Breaking News",
-      "Business"
-    ],
-    "pub_date": "2026-10-03T14:00:41+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/ppf-10.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
