@@ -11,17 +11,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-09",
-    "title": "पढ़ें 9 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-09T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/no-one-will-be-worse-than-me-suvendu-warns-against-cow-slaughter-conversion-love-jihad-2026-10-09",
     "title": "'मुझसे बुरा कोई नहीं होगा': गोहत्या, धर्मांतरण और लव जिहाद के खिलाफ शुभेंदु अधिकारी की चेतावनी; क्या कहा?",
     "description": "'मुझसे बुरा कोई नहीं होगा': गोहत्या, धर्मांतरण और लव जिहाद के खिलाफ शुभेंदु अधिकारी की चेतावनी; क्या कहा?",
@@ -31,6 +20,29 @@
     "pub_date": "2026-10-09T06:30:25+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-09",
+    "title": "पढ़ें 9 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-08T19:30:32+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/delhi/story/rahul-gandhi-protest-congress-workers-assault-cops-ntc-amkr-rpti-2665115-2026-10-09?utm_source=rssfeed",
+    "title": "&#039;जमीन पर गिराया, प्रोटेस्ट में लात मारी...&#039;, पुलिस के दो जवानों ने सुनाई आपबीती",
+    "description": "पुलिसकर्मियों के साथ मारपीट का एक वीडियो सोशल मीडिया पर वायरल हो रहा है. बताया जा रहा है कि कांग्रेस नेता राहुल गांधी जब मार्च कर रहे थे, तो कांग्रेस के कुछ कार्यकर्ताओं ने पुलिसवालों पर लात मारी.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-08T19:17:35+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.tv9hindi.com/india/fire-breaks-out-following-gas-leak-at-iit-bombay-campus-hostel-3929751.html",
@@ -2296,16 +2308,5 @@
     "pub_date": "2026-10-08T13:51:53+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/08/1200x900/dipke_mann__1791467327326_IfyL_1791467327578_oidZ_787d05ca-af91-4311-b868-c00fe0712622_HcXl.png",
     "source_name": "LIVEHINDUSTAN.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/delhi-ncr/barapullah-phase-3-elevated-corridor-traffic-jam-flyover-design-traffic-management-delhi-3929508.html",
-    "title": "Ground Report: 9 लेन का ट्रैफिक 3 लेन में मर्ज… बारापुला फेज-3 की बदइंतजामी का जिम्मेदार कौन? 11 पॉइंट में समझिए",
-    "description": "बारापुला फेज-3 को लेकर अब सवाल उठ रहा कि आखिर जिस कॉरिडोर को ट्रैफिक कम करने के लिए बनाया गया, वहां जाम क्यों लग रहा? क्या इसके डिजाइन में कोई कमी रह गई... पढ़ें टीवी9 भारतवर्ष की ये ग्राउंड रिपोर्ट.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-08T13:49:50+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/barapullah-phase-3-traffic-jam-4.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
