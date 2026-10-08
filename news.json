@@ -29,7 +29,7 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-08T18:35:16+00:00",
+    "pub_date": "2026-10-08T18:46:41+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/134798970/navy-agniveer.jpg?imgsize=660271&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
@@ -278,6 +278,19 @@
     "pub_date": "2026-10-08T17:48:39+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/m945veog_ips-santosh-singh-delhi-metro-security-cisf-dig_625x300_08_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.patrika.com/bollywood-news/nana-patekar-wife-earning-supported-him-son-died-at-age-of-two-20968607",
+    "title": "एक्टिंग में नाम कमाने से पहले पत्नी की कमाई से चलता था नाना पाटेकर का घर, एक्टर ने खुद किया था खुलासा",
+    "description": "Nana Patekar: नाना पाटेकर का गुरुवार को गोवा में 75 साल की उम्र में निधन हो गया। एक्टर के परिवार में उनकी पत्नी नीलकंठी और बेटा मल्हार हैं। नाना और नीलकंठी की शादी में कई उतार-चढ़ाव आए और भले ही वे अपनी जिंदगी का ज्यादातर समय अलग-अलग रहे, लेकिन उन्होंने कभी तलाक नहीं लिया। इस जोड़े ने अपने बड़े बेटे दुर्वासा की दुखद मौत भी देखी, जब वह सिर्फ ढाई साल का था।",
+    "categories": [
+      "Breaking News",
+      "Entertainment",
+      "Technology"
+    ],
+    "pub_date": "2026-10-08T17:46:24+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/nana-patekar-wife.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.aajtak.in/lifestyle/news/story/how-to-make-multani-mitti-tomato-juice-aloevera-face-pack-glowing-youthful-tight-skin-face-pe-multani-mitti-me-milake-lagayen-tamatar-ka-ras-tvisp-dskc-2663885-2026-10-08?utm_source=rssfeed",
@@ -2292,16 +2305,5 @@
     "pub_date": "2026-10-08T13:46:13+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/health/13-year-old-obesity-bariatric-surgery-sir-ganga-ram-hospital-family-weight-loss-12155546#publisher=newsstand",
-    "title": "13 साल की उम्र में 186 किलो वजन, फिर पूरे परिवार ने लड़ी मोटापे से जंग, परिवार के 4 मेंबर्स की हुई बेरियाट्रिक सर्जरी",
-    "description": "Pediatric Bariatric Surgery : 13 साल की उम्र में 186 किलो वजन, अब हुई बेरियाट्रिक",
-    "categories": [
-      "Health"
-    ],
-    "pub_date": "2026-10-08T13:46:09+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/qpuagdr8_pediatric-bariatric-surgery_625x300_08_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
