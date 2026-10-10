@@ -22,6 +22,18 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-11",
+    "title": "पढ़ें 11 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-10T22:30:36+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/video/india-news/nahid-islam-a-bangladeshi-leader-opposed-to-sheikh-hasina-extended-his-support-to-the-cjp-s-protest-2026-10-11",
     "title": "शेख हसीना के विरोधी बांग्लादेशी नेता नाहिद इस्लाम ने सीजेपी के प्रदर्शन को दिया अपना समर्थन",
     "description": "शेख हसीना के विरोधी बांग्लादेशी नेता नाहिद इस्लाम ने सीजेपी के प्रदर्शन को दिया अपना समर्थन",
@@ -42,18 +54,6 @@
     "pub_date": "2026-10-10T22:03:40+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/air-chief-ap-singh.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-11",
-    "title": "पढ़ें 11 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-10T22:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
   },
   {
     "link": "https://www.aajtak.in/india/news/story/india-slams-un-ohchr-over-cjp-protest-remarks-calls-concerns-unwarranted-interference-ntc-ksrj-dskc-2666964-2026-10-11?utm_source=rssfeed",
@@ -317,7 +317,6 @@
     "title": "आज की ताजा खबर LIVE: प्रधानमंत्री नरेंद्र मोदी आज चेन्नई के दौरे पर रहेंगे",
     "description": "प्रधानमंत्री नरेंद्र मोदी आज रविवार को तमिलनाडु के चेन्नई का दौरा करेंगे. सुप्रीम कोर्ट की एक बेंच रविवार को अदालत की अवमानना ​​के मामले पर विशेष सुनवाई करेगी.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-10T18:30:25+00:00",
