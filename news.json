@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/video/india-news/abhijit-dipke-s-mother-raises-pointed-questions-about-delhi-police-s-claims-levels-serious-allegations-agains-2026-10-12",
-    "title": "अभिजीत दिपके की मां ने दिल्ली पुलिस के दावों पर दागे तीखे सवाल, पुलिस पर लगाया ये गंभीर आरोप",
-    "description": "अभिजीत दिपके की मां ने दिल्ली पुलिस के दावों पर दागे तीखे सवाल, पुलिस पर लगाया ये गंभीर आरोप",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-11T20:03:20+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-12",
     "title": "पढ़ें 12 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -18,7 +7,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-11T20:00:13+00:00",
+    "pub_date": "2026-10-11T20:30:14+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/abhijit-dipke-s-mother-raises-pointed-questions-about-delhi-police-s-claims-levels-serious-allegations-agains-2026-10-12",
+    "title": "अभिजीत दिपके की मां ने दिल्ली पुलिस के दावों पर दागे तीखे सवाल, पुलिस पर लगाया ये गंभीर आरोप",
+    "description": "अभिजीत दिपके की मां ने दिल्ली पुलिस के दावों पर दागे तीखे सवाल, पुलिस पर लगाया ये गंभीर आरोप",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-11T20:03:20+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -655,7 +655,6 @@
     "title": "राजस्थान पंचायत चुनाव: BJP मेनिफेस्टो में महिलाओं के लिए 1.5 लाख, गांव में इंटरनेट, 1 करोड़ के फंड़ सहित कई बड़े वादें",
     "description": "राजस्थान पंचायत चुनाव के लिए ग्राम विकास संकल्प पत्र जारी करते सीएम भजनलाल शर्मा सहित अन्य भाजपा नेता.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-11T16:45:09+00:00",
