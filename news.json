@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-12",
+    "title": "पढ़ें 12 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-12T00:00:14+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.livehindustan.com/national/delhi-daughter-betray-father-made-sale-deed-obtain-signature-father-dies-fighting-case-in-court-201791761915855.html",
     "title": "बेईमान बेटी से लड़ते-लड़ते मर गया पिता, कम पढ़े लिखे होने का फायदा उठाकर किया ये काम",
     "description": "पिता के कम पढ़े-लिखे होने का फायदा उठाकर बेटी ने सेल डीड बनवाकर हस्ताक्षर करवा लिए। पिता को बाद में धोखाधड़ी का पता चला। वे कानूनी लड़ाई लड़ते हुए चल बसे।",
@@ -11,16 +23,15 @@
     "source_name": "LIVEHINDUSTAN.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-12",
-    "title": "पढ़ें 12 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "link": "https://www.tv9hindi.com/india/chalo-delhi-congress-rahul-gandhi-march-to-sc-against-gyanesh-kumar-india-bloc-cji-3932632.html",
+    "title": "चलो दिल्ली… CEC ज्ञानेश के खिलाफ कांग्रेस का आज फिर हल्ला बोल, ‘INDIA’ ब्लॉक का SC तक मार्च, CJI का मुलाकात से इनकार",
+    "description": "CJI सूर्यकांत ने राहुल गांधी और उनके प्रतिनिधिमंडल की उस मुलाकात की अपील को ठुकरा दिया है, जिसमें वे कथित \"वोट चोरी\" और वोटर लिस्ट के SIR को लेकर अपनी चिंताएं जाहिर करना चाहते थे.",
     "categories": [
-      "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-11T23:30:24+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
+    "pub_date": "2026-10-11T23:46:14+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/rahul-gandhi-to-march-to-supreme-court.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.amarujala.com/video/india-news/cji-surya-kant-will-not-meet-rahul-gandhi-and-kharge-he-refused-to-grant-an-appointment-2026-10-12",
@@ -161,7 +172,6 @@
     "title": "दिल्ली में मेट्रो बंद करने पर सुप्रीम कोर्ट सख्त, गृह सचिव से लेकर पुलिस तक को नोटिस जारी!",
     "description": "दिल्ली में मेट्रो बंद करने पर सुप्रीम कोर्ट सख्त, गृह सचिव से लेकर पुलिस तक को नोटिस जारी!",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-11T20:53:11+00:00",
@@ -2249,17 +2259,5 @@
     "pub_date": "2026-10-11T14:14:08+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/sanju-samson-out-by-shamar-joseph-pti.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/delhi/delhi-supreme-court-metro-seat-dispute-pawan-sharma-death-fir-2026-10-11-1248249",
-    "title": "सुप्रीम कोर्ट मेट्रो स्टेशन पर ट्रेन में हुई मारपीट में घायल शख्स की मौत, पूर्व IAS और वकील बेटे ने किया था हमला",
-    "description": "दिल्ली मेट्रो में जिस शख्स के साथ 8 अक्टूबर को मारपीट की गई थी, उसकी इलाज के दौरान मौत हो गई है। मामूली बहस के बाद पवन को थप्पड़ मारा गया था। उसे मेट्रो के फर्श पर दे मारा था।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-11T14:14:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/delhi-metro-seat-dispute-1791727310.webp",
-    "source_name": "INDIATV.IN"
   }
 ]
