@@ -1,15 +1,84 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-17",
+    "title": "पढ़ें 17 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-17T06:30:28+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/bjp-leader-lal-krishna-advani-hospitalised-delhi-apollo-hospital-chest-infection-health-update/articleshow/135001587.cms",
-    "title": "बीजेपी के वरिष्ठ नेता लालकृष्ण आडवाणी की तबीयत बिगड़ी, दिल्ली के अपोलो अस्पताल में भर्ती; सीने में संक्रमण की शिकायत",
+    "title": "बीजेपी के वरिष्ठ नेता लालकृष्ण आडवाणी अपोलो अस्पताल में भर्ती, चेस्ट इंफेक्शन की शिकायत",
     "description": "बीजेपी के वरिष्ठ नेता और पूर्व उप प्रधानमंत्री लालकृष्ण आडवाणी को सीने में संक्रमण की शिकायत के बाद दिल्ली के अपोलो अस्पताल में भर्ती कराया गया है। डॉक्टरों की निगरानी में उनका इलाज जारी है।",
     "categories": [
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-16T18:19:47+00:00",
+    "pub_date": "2026-10-16T18:32:26+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/135001808/lk-advani-hospitalisedbr.jpg?imgsize=88971&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://hindi.oneindia.com/news/india/mp-cabinet-approves-jabalpur-indore-economic-corridor-012-1669771.html",
+    "title": "MP कैबिनेट के बड़े फैसले: जबलपुर-इंदौर इकोनॉमिक कॉरिडोर के लिए बनेगी कंपनी, सोयाबीन किसानों को मिलेगा भावांतर योजना का लाभ",
+    "description": "मध्य प्रदेश कैबिनेट ने जबलपुर-इंदौर इकोनॉमिक कॉरिडोर विकास कंपनी और सोयाबीन मूल्य समर्थन योजना को मंजूरी दी, जिससे बुनियादी ढांचे और खेती-किसानी को बढ़ावा मिलेगा।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-16T18:32:12+00:00",
+    "image_url": "https://hindi.oneindia.com/img/2026/10/jabalpur-indore-economic-1792175431375-1200x675.jpg",
+    "source_name": "HINDI.ONEINDIA.COM"
+  },
+  {
+    "link": "https://ndtv.in/india/up-elections-five-brothers-from-same-family-join-hands-with-akhilesh-yadav-12197023#publisher=newsstand",
+    "title": "शिव, शंकर, विष्णु, कृष्ण... UP चुनाव से पहले सपा को मिला 'पांच भगवान' का साथ",
+    "description": "यूपी में एक ही परिवार के पांच भाई सपा में शामिल हो गए.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-16T18:21:27+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/f8et2vak_uttarprdesh_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/world-news/katie-zacharia-had-to-step-down-from-the-position-of-white-house-press-secretary-after-just-5-days-trump-made-a-significant-remark-12196994#publisher=newsstand",
+    "title": "केटी जकारिया को 5 दिन में ही व्हाइट हाउस प्रेस सेक्रेटरी पद से हटना पड़ा, ट्रंप ने कही बड़ी बात",
+    "description": "केटी जकारिया की शैक्षिक योग्यता को लेकर कई दिनों से विवाद चल रहा था. (फोटो-एएफपी)",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-16T18:16:07+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/781661tg_katie_625x300_16_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/india/lal-krishna-advani-admitted-to-apollo-hospital-in-delhi-complains-of-a-chest-infection-12196913#publisher=newsstand",
+    "title": "लालकृष्ण आडवाणी को दिल्ली के अपोलो अस्पताल में कराया गया भर्ती, सीने में संक्रमण की है शिकायत",
+    "description": "भाजपा के वरिष्ठ नेता और पूर्व उप प्रधानमंत्री लालकृष्ण आडवाणी को अस्पताल में भर्ती कराया गया है. सीने में इंफेक्शन के चलते उन्हें शुक्रवार शाम 7:30 बजे अपोलो अस्पताल में भर्ती कराया गया है.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-16T18:14:05+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/m574i5m_l-k-adwani_650x400_16_October_26.png",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/trending/founder-says-he-gets-2-linkedin-job-offers-daily-despite-not-looking-after-100-companies-gave-him-just-2-replies-3937467.html",
+    "title": "जिंदगी का अजीब सच! जरूरत के समय नहीं मिलते मौके, आगे बढ़ते ही खुद आने लगते हैं ऑफर, फाउंडर की कहानी वायरल",
+    "description": "गोवा के फाउंडर अक्षत श्रीवास्तव ने बताया कि नौकरी की तलाश के दौरान 100 कंपनियों से संपर्क करने पर उन्हें सिर्फ 2 जवाब मिले थे. आज नौकरी नहीं खोजने के बावजूद LinkedIn पर रोज करीब 2 जॉब ऑफर मिल रहे हैं.",
+    "categories": [
+      "Breaking News",
+      "Entertainment"
+    ],
+    "pub_date": "2026-10-16T18:13:31+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/linkedin-offer-news.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.tv9hindi.com/entertainment/ott/yami-gautam-film-nayyi-navelli-ott-release-date-platform-3937419.html",
@@ -45,6 +114,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/madhya-pradesh-chhattisgarh/chhattisgarh-girl-married-netherlands-man-janjgir-champa-love-story-12196963#publisher=newsstand",
+    "title": "छत्तीसगढ़ के गांव की लड़की ने नीदरलैंड के लड़के की लव मैर‍िज, जान‍िए कैसे शुरू हुई प्रेम कहानी?",
+    "description": "छत्तीसगढ़ की क्रिस्टीना ने नीदरलैंड के क्रिस्टीयान एंड्रियश वरबूम से विवाह किया है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-16T18:03:40+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/qreorlis_chhattisgarh-girl-married_625x300_16_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/india-rejects-pramila-jayapal-remarks-voter-list-revision-election-interference-mea-response/articleshow/135000607.cms",
     "title": "दूसरे लोकतंत्र के मामलों में दखल न दें... मतदाता सूची संशोधन पर अमेरिकी सांसद प्रमिला जयपाल की टिप्पणी से भड़का भारत",
     "description": "मतदाता सूची संशोधन पर अमेरिकी सांसद प्रमिला जयपाल की टिप्पणी को भारत ने अनुचित बताते हुए चुनावी प्रक्रिया में हस्तक्षेप करार दिया।13 राज्यों और केंद्र शासित प्रदेशों में मसौदा मतदाता सूची से करीब 7.2 करोड़ नाम हटाए जाने के आंकड़ों के बीच भारत ने कहा कि ऐसी टिप्पणियां लोकतंत्र को कमजोर करती हैं।",
@@ -65,18 +145,6 @@
     "pub_date": "2026-10-16T18:02:00+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Indian-Women-Cricket-Team.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/bjp-veteran-lal-krishna-advani-admitted-to-apollo-hospital-with-chest-infection-3937461.html",
-    "title": "बीजेपी के वरिष्ठ नेता लालकृष्ण आडवाणी अस्पताल में भर्ती, सीने में इंफेक्शन की शिकायत",
-    "description": "बीजेपी के दिग्गज नेता लालकृष्ण आडवाणी को अस्पताल में भर्ती कराया गया है. उन्हें सीने में इंफेक्शन की शिकायत है. इससे पहले मई में भी  98 वर्षीय आडवाणी को अस्पताल में भर्ती कराया गया था.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-16T18:01:26+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/lal-krishna-advani.jpg",
-    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.tv9hindi.com/trending/us-man-flies-paramotor-to-work-instead-of-driving-through-traffic-video-leaves-internet-amazed-3937458.html",
@@ -160,6 +228,18 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/india/mp-obc-reservation-27-percent-supreme-court-slp-mohan-yadav-high-court-order-12196909#publisher=newsstand",
+    "title": "27 प्रत‍िशत OBC आरक्षण पर सुप्रीम कोर्ट पहुंची MP सरकार, हाईकोर्ट के फैसले को दी चुनौती",
+    "description": "मध्यप्रदेश में 27 प्रतिशत अन्य पिछड़ा वर्ग  आरक्षण को लेकर चल रही कानूनी लड़ाई अब सुप्रीम कोर्ट पहुंच गई है.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-16T17:48:40+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/v0uqba5_supreme-court-election-commission_625x300_16_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.aajtak.in/lifestyle/home-living/story/how-to-make-suji-besan-vegetable-pancake-recipe-with-curd-for-weekend-breakfast-me-khayen-suji-besan-ke-vegetable-pancakes-tvisp-dskc-2672560-2026-10-16?utm_source=rssfeed",
     "title": "1 कप सूजी से बनाएं इतना टेस्टी मजेदार नाश्ता, हर कोई पूछेगा रेसिपी",
     "description": "Suji Aloo Pancake: अगर आप भी नाश्ते में केवल पोहा, पराठा या फिर चीला खाते हैं तो रुक जाएं. आज हम आपको सूजी, बेसन और दही से बनने वाला टेस्टी वेजिटेबल पैनकेक बनाने का तरीका बता रहे हैं जिसे आप वीकेंड पर बनाकर मजे से खा सकते हैं.",
@@ -182,6 +262,18 @@
     "pub_date": "2026-10-16T17:46:59+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/vegetable-vendor-emotional-video.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/delhi/story/lalkrishna-advani-admitted-apollo-hospital-chest-infection-delhi-ntc-aktw-rpti-2672728-2026-10-16?utm_source=rssfeed",
+    "title": "BJP के वरिष्ठ नेता एलके आडवाणी अस्पताल में भर्ती, चेस्ट इंफेक्शन की शिकायत",
+    "description": "बीजेपी के वरिष्ठ नेता लालकृष्ण आडवाणी को सीने में संक्रमण के बाद दिल्ली के अपोलो अस्पताल में भर्ती कराया गया है. 98 वर्षीय आडवाणी को शुक्रवार शाम करीब 7:30 बजे अस्पताल लाया गया. उनकी हालत स्थिर बताई गई है और पल्मोनरी विभाग में उनका इलाज चल रहा है.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-16T17:44:11+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.aajtak.in/india/story/lalkrishna-advani-admitted-apollo-hospital-chest-infection-delhi-ntc-aktw-dskc-2672728-2026-10-16?utm_source=rssfeed",
@@ -219,6 +311,17 @@
     "pub_date": "2026-10-16T17:41:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/nepal-1792172220.webp",
     "source_name": "INDIATV.IN"
+  },
+  {
+    "link": "https://ndtv.in/world-news/do-you-trust-netanyahu-trump-replied-and-reveals-several-secrets-about-a-potential-war-with-iran-12196889#publisher=newsstand",
+    "title": "क्या आप नेतन्याहू पर भरोसा करते हैं, जवाब के साथ ट्रंप ने खोले ईरान युद्ध के कई राज",
+    "description": "ट्रंप ने माना है कि वो ईरान में फिर हमले पर विचार कर रहे हैं. (फोटो-एएफपी)",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-16T17:40:29+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/ebmlcduo_trump_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.indiatv.in/sports/cricket/shubman-gill-has-taken-a-major-decision-regarding-the-new-zealand-tour-he-will-take-4-to-5-net-bowlers-along-at-his-own-expense-2026-10-16-1249302",
@@ -548,6 +651,7 @@
     "title": "मध्य प्रदेश में OBC आरक्षण पर सरकार ने सुप्रीम कोर्ट में दायर की SLP, CM मोहन यादव बोले- हितों के संरक्षण के लिए प्रतिबद्ध",
     "description": "मध्य प्रदेश ने बहुदलीय परामर्शों के बाद, सुप्रीम कोर्ट में विशेष अनुमति याचिका (Special Leave Petition) दायर करके ओबीसी आरक्षण के लिए एक स्पष्ट, कानूनी मार्ग सुरक्षित करने की ओर कदम बढ़ाए हैं।",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-16T17:01:01+00:00",
@@ -1268,8 +1372,8 @@
   },
   {
     "link": "https://www.indiatv.in/sports/cricket/indian-cricket-team-odi-and-test-squad-announced-for-new-zealand-tour-shreyas-will-lead-the-side-last-2-odi-2026-10-16-1249286",
-    "title": "न्यूजीलैंड दौरे के लिए भारतीय वनडे और टेस्ट स्क्वाड का हुआ ऐलान, अय्यर भी संभालेंगे वनडे में कप्तानी",
-    "description": "बीसीसीआई की तरफ से न्यूजीलैंड दौरे के लिए वनडे और टेस्ट स्क्वाड के लिए भारतीय टीम का ऐलान कर दिया गया है, जिसमें वनडे सीरीज के आखिरी 2 मुकाबलों में श्रेयस अय्यर कप्तानी की जिम्मेदारी को संभालेंगे।",
+    "title": "न्यूजीलैंड दौरे के लिए भारतीय वनडे और टेस्ट स्क्वॉड का हुआ ऐलान, अय्यर भी संभालेंगे वनडे में कप्तानी",
+    "description": "बीसीसीआई की तरफ से न्यूजीलैंड दौरे के लिए वनडे और टेस्ट स्क्वॉड के लिए भारतीय टीम का ऐलान कर दिया गया है, जिसमें वनडे सीरीज के आखिरी 2 मुकाबलों में श्रेयस अय्यर कप्तानी की जिम्मेदारी को संभालेंगे।",
     "categories": [
       "Breaking News",
       "Sports"
@@ -2193,109 +2297,6 @@
     ],
     "pub_date": "2026-10-16T14:08:14+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/mt9gm58g_punjab_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/meerut-husband-murder-4-death-sentence-muskan-sahil-ravita-amardeep-india-women-death-row-12195826#publisher=newsstand",
-    "title": "आजाद भारत में सजा-ए-मौत पाने वाली महिलाओं की कहानी... किसी ने पति को मारा तो किसी ने प्रेमी की हत्या की",
-    "description": "पति की हत्या के जुर्म में रवीता और मुस्कान को हाल ही में फांसी की सजा सुनाई गई है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:08:07+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/l4vevrv4_death-penalty_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/auto/news/story/mahindra-xuv3xo-cng-base-model-price-mileage-features-auam-dskc-2672621-2026-10-16?utm_source=rssfeed",
-    "title": "Mahindra ने चल दिया अपना दांव, बिगड़ेगा टाटा-मारुति का खेल",
-    "description": "महिंद्रा ने आखिरकार सीएनजी कारों के बाजार में कदम रख दिया है. कंपनी ने अपनी पहली सीएनजी एसयूवी महिंद्रा एक्सयूवी 3एक्सओ को लॉन्च कर दिया है. ये कार ट्विन सिलेंडर सेटअप के साथ आती है, जिससे अच्छा-खासा बूट स्पेस भी मिलता है. आइए जानते हैं इस कार के बेस वेरिएंट में क्या कुछ खास मिलता है.",
-    "categories": [
-      "Breaking News",
-      "Technology"
-    ],
-    "pub_date": "2026-10-16T14:07:17+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/utility-news/odisha-to-delhi-special-train-khurda-road-and-anand-vihar-terminal-21-stops-across-up-bihar-jharkhand-and-bengal-see-the-full-schedule-12195928#publisher=newsstand",
-    "title": "ओडिशा से दिल्ली के लिए स्पेशल ट्रेन, यूपी-बिहार-झारखंड-बंगाल तक 21 स्टॉपेज, देखें पूरा शेड्यूल",
-    "description": "खुर्दा रोड और आनंद विहार टर्मिनल के बीच चलेगी पूजा स्पेशल ट्रेन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:06:59+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/kud39cec_khurda-road-and-anand-vihar-_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/naya-raipur-consumer-electronics-manufacturing-unit-electric-fans-and-kitchen-appliances-3937316.html",
-    "title": "3,500 लोगों को रोजगार, ₹152.74 Cr का निवेश…लगेगी कंज्यूमर इलेक्ट्रॉनिक्स मैन्युफैक्चरिंग इकाई",
-    "description": "छत्तीसगढ़ कंज्यूमर इलेक्ट्रॉनिक्स मैन्युफैक्चरिंग के क्षेत्र में भी कदम रखने जा रहा है. यश फैन्स द्वारा क्रॉम्पटन, हैवेल्स, उषा और मिल्टन जैसे ब्रांड्स के लिए इलेक्ट्रिक फैन्स का निर्माण होता है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:06:56+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/cm-vishnu-deo-sai.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/ind-w-vs-zim-w-niki-prasad-international-debut-cap-smriti-mandhana-20989378",
-    "title": "IND-W vs ZIM-W: निकी प्रसाद का इंटरनेशनल डेब्यू, स्मृति मंधाना ने सौंपी टीम इंडिया की कैप",
-    "description": "Niki Prasad: भारत और जिम्बाब्वे की महिला टीमों के बीच रायपुर में पहला टी20 इंटरनेशनल मुकाबला खेला जा रहा है। 20 वर्षीय भारतीय ऑलराउंडर निकी प्रसाद को भारतीय कप्तान स्मृति मंधाना ने डेब्यू कैप सौंपी। भारतीय महिला क्रिकेट टीम की कप्तान स्मृति मंधाना ने इस मैच में टॉस जीतकर पहले गेंदबाजी करने का फैसला किया।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-10-16T14:06:23+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Niki-Prasad.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/abhijeet-dipke-delhi-police-conversation-before-tiranga-march/articleshow/134996838.cms",
-    "title": "‘मुझे फांसी पर ही चढ़ा दो...’, तिरंगा मार्च से पहले अभिजीत दिपके हिरासत में, दिल्ली पुलिस और उनके बीच क्या-क्या बात हुई?",
-    "description": "दिल्ली में CJP के ‘लहरा दो तिरंगा’ मार्च से पहले अभिजीत दिपके को पुलिस ने हिरासत में ले लिया। इससे पहले पुलिस ने उन्हें नोटिस देकर कनॉट प्लेस में मार्च नहीं करने की हिदायत दी थी। इस दौरान दिपके और पुलिस अधिकारियों के बीच तीखी बहस हुई।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:05:40+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/134997223/abhijeet-dipke-delhi-police-conversationbr.jpg?imgsize=119812&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/entertainment/news/story/indian-idol-abhijit-sawant-get-only-50-to-100-rupees-sing-puja-pandal-tmovg-dskc-2672580-2026-10-16?utm_source=rssfeed",
-    "title": "&#039;पंडालों में गाया गाना, मिले 50 रुपये&#039;, बोले सिंगर अभिजीत सावंत",
-    "description": "अभिजीत सावंत ने अपने दर्शकों को अपनी ताकत का स्रोत बताया और उनके जीवन में उनकी मौजूदगी की तुलना ईश्वर से की. इसके अलावा उन्होंने स्ट्रगल पर भी बात की.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-16T14:02:37+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/videos/uttarakhand-minister-rekha-arya-fir-against-husband-girdhari-lal-sahu-abuse-threats-3937308.html",
-    "title": "Rekha Arya FIR Against Husband : रेखा आर्या को पति से जान का खतरा क्यों?",
-    "description": "उत्तराखंड की कैबिनेट मंत्री रेखा आर्या ने अपने पति गिरधारी लाल साहू के खिलाफ देहरादून में एफआईआर दर्ज कराई है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:02:26+00:00",
-    "image_url": null,
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/india/what-is-ssr-and-how-its-different-from-sir-explained-12195888#publisher=newsstand",
-    "title": "क्या है SSR, जिसका चुनाव आयोग ने SIR पर विवाद के बीच किया ऐलान; वोटरों को इससे क्या फायदा",
-    "description": "SSR के तहत 1 जनवरी की कटऑफ डेट रखी जाती है. इसे ऐसे समझ सकते हैं कि 2027 में होने वाले SSR की कटऑफ डेट 1 जनवरी रहेगी.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-16T14:02:01+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/d0i9kf1o_election-commission-ssr_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
   }
 ]
