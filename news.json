@@ -7,7 +7,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-16T23:00:14+00:00",
+    "pub_date": "2026-10-16T23:30:21+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/call-on-us-side-to-ensure-safety-security-of-indian-nationals-mea-on-illinois-incident-2026-10-17",
+    "title": "अमेरिका में हिंदू मंदिर पर हमले की साजिश पर भारत चिंतित: भारतीयों की सुरक्षा सुनिश्चित करने की अपील; क्या कहा?",
+    "description": "अमेरिका में हिंदू मंदिर पर हमले की साजिश पर भारत चिंतित: भारतीयों की सुरक्षा सुनिश्चित करने की अपील; क्या कहा?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-16T23:27:45+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -720,7 +731,6 @@
     "title": "MP में औद्योगिक निवेश को बढ़ावा देने की तैयारी, दीपावली से पहले होगा चंबल संभाग स्तरीय औद्योगिक सम्मेलन",
     "description": "मध्य प्रदेश ने ग्वालियर-चंबल क्षेत्र में निवेश, रोजगार सृजन और निर्यात को बढ़ावा देने के लिए दिवाली से पहले एक औद्योगिक सम्मेलन की घोषणा की है, जिसमें नए क्लस्टर और पर्यावरण-अनुकूल परियोजनाएं शामिल हैं।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-16T17:31:13+00:00",
@@ -2255,16 +2265,5 @@
     "pub_date": "2026-10-16T14:39:35+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/census.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/bollywood/60-year-old-asha-parekh-romantic-song-sayonara-shoot-in-tokyo-lata-mangeshkar-voice-echoed-in-tokyo-made-it-cult-12193702#publisher=newsstand",
-    "title": "60 साल पुराना गाना, जापानी गुड़िया बन पार्क में इठलायीं आशा पारेख, टोक्यो में गूंजी लता मंगेशकर की सदाबहार आवाज",
-    "description": "60 साल पुराना गाना, जब जापानी डॉल पर इतराई आशा पारेख",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-16T14:39:06+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/c5877roc_tokyo_625x300_16_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
