@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/video/india-news/17-dead-35-injured-in-kolkata-pandal-accident-cm-reaches-hospital-2026-10-18",
+    "title": "कोलकाता के पंडाल हादसे में 17 लोगों की मौत, 35 घायल, अस्पताल पहुंचे सीएम",
+    "description": "कोलकाता के पंडाल हादसे में 17 लोगों की मौत, 35 घायल, अस्पताल पहुंचे सीएम",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-18T06:44:57+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-18",
     "title": "पढ़ें 18 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -36,7 +47,7 @@
   {
     "link": "https://www.indiatv.in/paisa/business/tata-trusts-plans-40-to-50-non-profit-hospitals-across-india-to-improve-healthcare-access-for-the-poor-2026-10-17-1249490",
     "title": "गरीबों के इलाज के लिए टाटा ट्रस्ट का बड़ा प्लान, देशभर में खुलेंगे 40 से 50 नए अस्पताल!",
-    "description": "टाटा ट्रस्ट्स देशभर में 40 से 50 गैर-लाभकारी अस्पतालों का नेटवर्क बनाने की योजना पर काम कर रहा है। इसका उद्देश्य जरूरतमंदों को इलाज में मदद देना है। संस्था ने पांच साल में 25 लाख लोगों तक स्वास्थ्य सेवाएं पहुंचाने का लक्ष्य रखा है।",
+    "description": "टाटा ट्रस्ट देशभर में 40 से 50 गैर-लाभकारी अस्पतालों का नेटवर्क बनाने की योजना पर काम कर रहा है। इसका उद्देश्य जरूरतमंदों को इलाज में मदद देना है। संस्था ने पांच साल में 25 लाख लोगों तक स्वास्थ्य सेवाएं पहुंचाने का लक्ष्य रखा है।",
     "categories": [
       "Business"
     ],
@@ -360,18 +371,6 @@
     "source_name": "INDIATV.IN"
   },
   {
-    "link": "https://www.patrika.com/cricket-news/ind-vs-wi-5th-t20-match-drwan-due-to-rain-ishan-kishan-300-strike-rate-naman-dhir-cracking-inning-20992046",
-    "title": "IND vs WI 5th T20: ईशान किशन की 300 की स्ट्राइक से बैटिंग पर बारिश ने फेरा पानी, 7.4 ओवर के बाद रद्द करना पड़ा मैच",
-    "description": "IND vs WI 5th T20 Update: बेंगलुरु के एम चिन्नास्वामी स्टेडियम में बारिश की वजह से भारत और वेस्टइंडीज के बीच टी20 सीरीज का पांचवां और आखिरी मुकाबला रद्द हो गया। इस नतीजे के बाद सीरीज 2-2 से बराबरी पर खत्म हो गई। इस मुकाबले में बारिश की वजह से 2 घंटे 15 मिनट बाद मैच शुरू हुआ और 11-11 ओवर काट दिए गए। 9-9 ओवर के मुकाबले में टीम इंडिया ने पहले बल्लेबाजी करते हुए 7.4 ओवर में 5 विकेट गंवाकर 118 बना लिए थे, तब दोबारा बारिश शुरू हो गई।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-10-17T17:11:39+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/IND-vs-WI-Ishan-kishan.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.tv9hindi.com/videos/nazca-lines-peru-ancient-geoglyphs-unsolved-mystery-alien-theories-3938254.html",
     "title": "एलियंस, खगोल या जल पूजा, नाजका लाइन्स के पीछे के अनसुलझे रहस्य",
     "description": "पेरू के नाज़का रेगिस्तान में 2000 साल पहले बनी विशाल नाज़का लाइन्स सदियों से एक अनसुलझा रहस्य हैं.",
@@ -462,6 +461,18 @@
     "pub_date": "2026-10-17T17:00:06+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.patrika.com/cricket-news/ind-vs-wi-5th-t20-match-drwan-due-to-rain-ishan-kishan-300-strike-rate-naman-dhir-cracking-inning-20992046",
+    "title": "IND vs WI 5th T20: ईशान किशन की 300 की स्ट्राइक से बैटिंग पर बारिश ने फेरा पानी, 7.4 ओवर के बाद रद्द करना पड़ा मैच",
+    "description": "IND vs WI 5th T20 Update: बेंगलुरु के एम चिन्नास्वामी स्टेडियम में बारिश की वजह से भारत और वेस्टइंडीज के बीच टी20 सीरीज का पांचवां और आखिरी मुकाबला रद्द हो गया। इस नतीजे के बाद सीरीज 2-2 से बराबरी पर खत्म हो गई। इस मुकाबले में बारिश की वजह से 2 घंटे 15 मिनट बाद मैच शुरू हुआ और 11-11 ओवर काट दिए गए। 9-9 ओवर के मुकाबले में टीम इंडिया ने पहले बल्लेबाजी करते हुए 7.4 ओवर में 5 विकेट गंवाकर 118 बना लिए थे, तब दोबारा बारिश शुरू हो गई।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-10-17T16:59:43+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/IND-vs-WI-Ishan-kishan.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://ndtv.in/television/kyunki-saas-bhi-kabhi-bahu-thi-2-shooting-over-final-episode-will-be-telecast-on-20th-october-12198588#publisher=newsstand",
@@ -1010,7 +1021,7 @@
   },
   {
     "link": "https://www.aajtak.in/west-bengal/story/kolkata-durga-puja-chorbagan-pandal-collapse-stampede-several-injured-ntc-apdy-rptc-2673594-2026-10-17?utm_source=rssfeed",
-    "title": "कोलकाता में दुर्गा पूजा पंडाल ढहने से भगदड़... 17 की मौत और कई घायल, CM शुभेंदु ने दिए जांच के आदेश",
+    "title": "कोलकाता में दुर्गा पूजा पंडाल ढहने से भगदड़... 17 की मौत, कई घायल, CM शुभेंदु ने दिए जांच के आदेश",
     "description": "कोलकाता के चोरबागान दुर्गा पूजा पंडाल में बारिश के दौरान भारी भीड़ के चलते भगदड़ जैसी स्थिति बन गई. हादसे में 17 लोगों की मौत हो गई है, जबकि दो दर्जन से अधिक लोग घायल बताए जा रहे हैं.",
     "categories": [
       "Breaking News",
@@ -1037,7 +1048,6 @@
     "title": "अजय देवगन के घर पर नहीं, किराए की प्रॉपर्टी पर चला BMC का बुलडोजर, टीम ने बताया क्या है पूरा मामला",
     "description": "अजय देवगन की टीम ने बयान जारी कर कहा कि जुहू में जिस प्रॉपर्टी को बीएमसी तोड़ी जा रही है। वह उनका घर नहीं, बल्कि किराए पर दी गई प्रॉपर्टी है। टीम ने यह भी कहा कि वे सभी नियमों का पालन कर रहे हैं।",
     "categories": [
-      "Breaking News",
       "Entertainment"
     ],
     "pub_date": "2026-10-17T15:53:00+00:00",
@@ -1100,18 +1110,6 @@
     "pub_date": "2026-10-17T15:43:52+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/IND-vs-WI-4.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/kolkata-chorbagan-durga-puja-pandal-stampede-chaos-amid-rain-injured-3938171.html",
-    "title": "कोलकाता में दुर्गा पूजा के दौरान पंडाल ढहने से भगदड़, 17 की मौत, कई घायल",
-    "description": "कोलकाता के चोरबागान में मां दुर्गा दर्शन के लिए भीड़ उमड़ी. उस समय बाहर भारी बारिश हो रही थी और इससे मंडप के अंदर भगदड़ मच गई. इस दौरान 17 लोगों की मौत हुई है, जबकि दर्जनों घायल हैं.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-17T15:43:28+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/chorbagagn.jpg",
-    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://ndtv.in/india/gurugram-m3m-marina-software-engineer-email-wife-murder-suicide-case-12200077#publisher=newsstand",
@@ -1455,7 +1453,6 @@
     "title": "'इतना बड़ा बिहार है हत्या तो होगी क्या करें', JDU के मंत्री का बेतुका बयान",
     "description": "'इतना बड़ा बिहार है हत्या तो होगी क्या करें', JDU के मंत्री का बेतुका बयान",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-17T15:08:49+00:00",
@@ -1847,7 +1844,7 @@
   },
   {
     "link": "https://www.aajtak.in/religion/news/story/navratri-ashtami-2026-date-18-or-19-october-durga-ashtami-kab-hai-kanya-pujan-shubh-muhurt-arti-tvisu-dskc-2673432-2026-10-17?utm_source=rssfeed",
-    "title": "कल महाष्टमी है या नहीं? कन्फ्यूजन हो गई दूर, पंडित ने बता दी सही तारीख",
+    "title": "आज महाष्टमी है या नहीं? कन्फ्यूजन हो गई दूर, पंडित ने बता दी सही तारीख",
     "description": "अष्टमी तिथि 18 अक्टूबर को सुबह 8 बजकर 27 मिनट से प्रारंभ हो जाएगी. इसका समापन 19 अक्टूबर को सुबह 10 बजकर 51 मिनट पर होगा. ज्योतिषविद का कहना है कि 18 अक्टूबर को अष्टमी तिथि पर उदया तिथि नहीं मिल रही है. इसलिए अष्टमी का कन्या पूजन 19 अक्टूबर दिन सोमवार को किया जाना ही उचित है.",
     "categories": [
       "National"
