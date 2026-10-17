@@ -22,13 +22,14 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/india-news/global-inequality-10-percent-richest-own-75-percent-wealth-india-status-2026-10-18",
-    "title": "दुनिया में बढ़ती असमानता: 10% अमीरों के पास 75% संपत्ति, 2% में गुजर कर रही आधी आबादी; क्या है भारत की स्थिति?",
-    "description": "दुनिया में बढ़ती असमानता: 10% अमीरों के पास 75% संपत्ति, 2% में गुजर कर रही आधी आबादी; क्या है भारत की स्थिति?",
+    "link": "https://www.amarujala.com/photo-gallery/india-news/bengal-stampede-13-women-died-at-chorbagan-maa-durga-pandal-hospital-full-with-pain-and-tears-kolkata-photos-2026-10-18",
+    "title": "बंगाल भगदड़: मां दुर्गा के चोरबागान पंडाल हादसे के 19 मृतकों में 13 महिलाएं; अस्पताल में हर तरफ दर्द और आंसू",
+    "description": "बंगाल भगदड़: मां दुर्गा के चोरबागान पंडाल हादसे के 19 मृतकों में 13 महिलाएं; अस्पताल में हर तरफ दर्द और आंसू",
     "categories": [
+      "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-17T23:16:17+00:00",
+    "pub_date": "2026-10-17T23:34:34+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -40,7 +41,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-17T23:00:13+00:00",
+    "pub_date": "2026-10-17T23:30:23+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/global-inequality-10-percent-richest-own-75-percent-wealth-india-status-2026-10-18",
+    "title": "दुनिया में बढ़ती असमानता: 10% अमीरों के पास 75% संपत्ति, 2% में गुजर कर रही आधी आबादी; क्या है भारत की स्थिति?",
+    "description": "दुनिया में बढ़ती असमानता: 10% अमीरों के पास 75% संपत्ति, 2% में गुजर कर रही आधी आबादी; क्या है भारत की स्थिति?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-17T23:16:17+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2273,16 +2285,5 @@
     "pub_date": "2026-10-17T14:18:20+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/adani-institute-of-higher-education-and-research-convocation-priti-adani-speech-12199797#publisher=newsstand",
-    "title": "AIHER दीक्षांत समारोह: 2320 छात्रों को मिली डिग्री, प्रीति अदाणी बोलीं- सेवा ही साधना है",
-    "description": "अदाणी इंस्टीट्यूट ऑफ हायर एजुकेशन एंड रिसर्च के दीक्षांत समारोह में सीएम देवेंद्र फडणवीस का स्वागत करतीं चांसलर प्रीति अदाणी.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-17T14:17:45+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/cgohb894_aiher_625x300_17_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
