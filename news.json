@@ -4,9 +4,10 @@
     "title": "पढ़ें 21 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
     "categories": [
+      "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-21T07:00:13+00:00",
+    "pub_date": "2026-10-20T19:30:41+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -78,6 +79,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.indiatv.in/world/asia/in-the-presence-of-pakistan-deputy-prime-minister-rajnath-singh-strongly-rebuked-the-country-over-the-issue-of-terrorism-find-out-what-he-said-2026-10-20-1249989",
+    "title": "राजनाथ सिंह ने पाकिस्तान के उप-प्रधानमंत्री की मौजूदगी में आतंकवाद को लेकर जमकर खरी खोटी सुनाई, जानें क्या कहा",
+    "description": "राजनाथ सिंह ने पाकिस्तान को जमकर खरी खोटी सुनाई। राजनाथ सिंह ने तजाकिस्तान में में SCO की काउंसिल ऑफ हेड्स ऑफ गवर्नमेंट की मीटिंग में साफ कह दिया कि जो लोग टेररिज्म को फंडिंग करते हैं, वो ही लोग दुनिया के सामने शराफत का नाटक करते हैं लेकिन ये दोगलापन अब नहीं चलेगा।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-20T18:25:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/rajnath-singh-1792522281.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/bjp-announces-new-national-office-bearers-for-yuva-morcha-full-list-here/articleshow/135075012.cms",
     "title": "बीजेपी युवा मोर्चा की नई राष्ट्रीय टीम का ऐलान, 7 उपाध्यक्ष और 3 महामंत्रियों के साथ इन युवा नेताओं को मिली बड़ी जिम्मेदारी",
     "description": "भारतीय जनता पार्टी ने युवा मोर्चा (BJYM) के नए राष्ट्रीय पदाधिकारियों की घोषणा कर दी है, जिसके तहत 7 नेताओं को राष्ट्रीय उपाध्यक्ष और 3 नेताओं को राष्ट्रीय महामंत्री की जिम्मेदारी सौंपी गई है।",
@@ -87,6 +99,18 @@
     "pub_date": "2026-10-20T18:21:33+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/135075247/bjp-yuva-morcha-national-office-bearers-list-2026.jpg?imgsize=1518417&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/india/national/us-secretary-of-state-marco-rubio-described-india-as-a-powerful-and-influential-nation-2026-10-20-1249987",
+    "title": "अमेरिका के विदेश मंत्री मार्को रुबियो ने भारत को \"शक्तिशाली राष्ट्र\" बताया, विदेश मंत्री एस जयशंकर से मुलाकात की",
+    "description": "भारत दौरे पर आए अमेरिकी के विदेश मंत्री मार्को रुबियो ने भारत की तारीफ की है। रुबियो ने भारत को शक्तिशाली बताया है। रुबियो ने भारत के विदेश मंत्री एस जयशंकर से भी मुलाकात की है।",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-20T18:14:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/rubio-1792523317.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/state/rajasthan/kota-chambal-canal-boat-capsizes-durga-idol-immersion-four-children-missing-3940895.html",
@@ -111,6 +135,18 @@
     "pub_date": "2026-10-20T18:09:41+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/tiger-shroff-firing-case-5.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/sports/cricket/india-women-register-biggest-ever-home-t20i-victory-margin-after-beating-zimbabwe-by-52-runs-2026-10-20-1249983",
+    "title": "टीम इंडिया ने जिम्बाब्वे को 92 रनों से हराकर बनाया नया रिकॉर्ड, घरेलू मैदान पर मिली सबसे बड़ी जीत",
+    "description": "भारतीय महिला क्रिकेट टीम ने अंतिम टी20 मुकाबले में जिम्बाब्वे को 92 रन से हराकर 3 मैचों की सीरीज को 3-0 से अपने नाम किया। पहले बल्लेबाजी करते हुए भारत ने 216 रन बनाए, जिसके जवाब में जिम्बाब्वे की टीम सिर्फ 124 रन ही बना सकी।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-10-20T17:56:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/india-tv-2026-10-20t225909-1792517383.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/india/punjab-cm-bhagwant-mann-embroiled-customs-duty-dispute-delhi-airport-return-visit-france-3940889.html",
@@ -149,14 +185,14 @@
   },
   {
     "link": "https://www.indiatv.in/entertainment/bollywood/tiger-shroff-firing-case-3-women-detained-for-allegedly-supplying-weapons-to-accused-2026-10-20-1249981",
-    "title": "टाइगर श्रॉफ फायरिंग केस में 3 महिलाएं हिरासत में, आरोपियों को हथियार सप्लाई करने का आरोप",
-    "description": "ल्ली पुलिस ने फायरिंग मामले में 3 महिलाओं को हिरासत में लिया।",
+    "title": "टाइगर श्रॉफ फायरिंग केस में 4 लोग गिरफ्तार, आरोपियों पर हथियार सप्लाई करने का आरोप",
+    "description": "टाइगर श्रॉफ फायरिंग मामले में दिल्ली पुलिस ने दो महिला और दो पुरुष को गिरफ्तार कर लिया है। आरोप है कि इन महिलाओं ने मामले के आरोपियों को हथियार मुहैया कराए थे।",
     "categories": [
       "Breaking News",
       "Entertainment"
     ],
     "pub_date": "2026-10-20T17:48:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/untitled-design-2026-10-20t231454-1792518316.webp",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/untitled-design-2026-10-20t234904-1792520364.webp",
     "source_name": "INDIATV.IN"
   },
   {
@@ -2252,39 +2288,5 @@
     "pub_date": "2026-10-20T13:02:02+00:00",
     "image_url": "https://hindi.oneindia.com/img/2026/10/indore-shastra-pooja-1792501232407-1200x675.jpg",
     "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/india/news/story/us-china-russia-nuclear-arms-control-talks-marco-rubio-india-visit-ntc-mnrd-smsr-2675680-2026-10-20?utm_source=rssfeed",
-    "title": "भारत में मार्को रुबियो से चीन पर सवाल, परमाणु हथियारों पर कही ये बात",
-    "description": "मुंबई में मार्को रुबियो ने कहा कि अमेरिका, रूस और चीन के नेताओं के बीच परमाणु हथियारों और हथियार नियंत्रण पर बातचीत होनी चाहिए. चीन ने त्रिपक्षीय परमाणु निरस्त्रीकरण वार्ता को फिलहाल अनुचित और अव्यावहारिक बताया है, फिर भी अमेरिका ऐसी नेता स्तर की पहल को दुनिया के लिए सकारात्मक मानता है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-20T13:02:02+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/uttar-pradesh/shraddha-dubey-arrested-shiva-sharma-case-agra-raebareli-cctv-footage-beauty-queen-spotted-in-burqa-3940728.html",
-    "title": "शिवा शर्मा केस: आगरा में बुर्का पहनकर रुकी थी श्रद्धा दुबे, रायबरेली में भी काटे 10 घंटे; CCTV से खुला राज",
-    "description": "शिवा शर्मा केस में आरोपी श्रद्धा दुबे को यूपी STF ने नागपुर से गिरफ्तार किया है. जांच में सामने आया कि वह बुर्का पहनकर आगरा और रायबरेली में रुकी थी. आगरा के होटल में करीब 24 घंटे तक वह रही.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-20T13:01:11+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/shraddha-dubey-arrested.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/indias-online-retail-market-to-cross-usd-90-bn-in-2026-grocery-to-overtake-mobiles-redseer-3940690.html",
-    "title": "स्मार्टफोन से आगे निकला राशन व होम डेकोर! जानिए क्यों 2026 में $90 बिलियन के पार पहुंचेगी ई-कॉमर्स की सेल",
-    "description": "भारत का ऑनलाइन रिटेल सेक्टर तेजी से आगे बढ़ रहा है और 2026 तक इसके 90 अरब अमेरिकी डॉलर तक पहुंचने की उम्मीद है. मांग में यह उछाल मुख्य रूप से ग्रोसरी, ब्यूटी और घरेलू जरूरतों के सामानों के लिए है.",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-10-20T13:00:53+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/online-shopping.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
