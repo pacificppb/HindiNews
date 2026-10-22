@@ -22,15 +22,96 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.bbc.com/hindi/articles/cq78pzv58y51o?at_medium=RSS&at_campaign=rss",
+    "title": "अफ़ग़ानिस्तान: 'सभी बच्चों के नाम तक याद नहीं रहते', 58 बच्चों के पिता मोहम्मद सादिक की कहानी",
+    "description": "मोहम्मद सादिक के मुताबिक़, उनकी चारों पत्नियों की शादी कम उम्र में हुई थी और निकाह के समय उनकी उम्र 13 से 16 वर्ष के बीच थी.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-22T05:13:20+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abbd/live/b5e9b780-cc7c-11f1-bc2e-018d645d8d21.jpg",
+    "source_name": "BBC.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/world/foreign-organizations-links-to-india-protests-who-are-the-groups-3941937.html",
+    "title": "दिल्ली के प्रदर्शनों में फ्रांस से मैसेज भेजने का आरोप, क्या है इंडिया अलायंस पेरिस संगठन?",
+    "description": "फॉक्स न्यूज की रिपोर्ट में यूरोप के प्रदर्शनों से जुड़े 101 संगठनों का दावा किया गया है. इसमें भारत के आंदोलनों का भी जिक्र है, लेकिन प्रदर्शन भड़काने का ठोस सबूत नहीं दिया गया.",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-22T05:13:10+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/delhi-protest-7.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/videos/saurav-das-ashutosh-ranka-released-tihar-jail-jantar-mantar-protest-delhi-3941980.html",
+    "title": "सौरव दास और आशुतोष रांका तिहाड़ जेल से रिहा, जंतर मंतर प्रदर्शन मामले में मिली जमानत",
+    "description": "CJP नेता सौरभ दास और आशुतोष रांका सात दिन बाद तिहाड़ जेल से रिहा हो गए हैं.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-22T05:11:22+00:00",
+    "image_url": null,
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/technology/inflation-changed-the-mood-of-users-smartphone-sales-declined-by-26-percent-in-july-september-3941949.html",
+    "title": "महंगे फोन ने बिगाड़ा बाजार का खेल! भारत में स्मार्टफोन शिपमेंट 26% गिरा, टॉप 5 में कौन रहा नंबर वन?",
+    "description": "भारत में जुलाई-सितंबर 2026 के दौरान स्मार्टफोन शिपमेंट 26% गिरकर 3.58 करोड़ यूनिट रह गई. Samsung पहले स्थान पर रहा, जबकि Xiaomi, Oppo और Apple की शिपमेंट में बड़ी गिरावट दर्ज की गई.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-10-22T05:11:07+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/smartphone.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.livehindustan.com/national/74-photographs-by-raihan-vadra-removed-from-exhibition-due-to-links-with-sir-protest-priyanka-gandhi-angry-201792645479589.html",
+    "title": "रेहान वाड्रा की 74 तस्वीरें एग्जीबिशन से हटाई गईं, SIR आंदोलन से लिंक; भड़क गईं प्रियंका गांधी",
+    "description": "रेहान वाड्रा ने बताया कि बुधवार दोपहर 3:30 बजे उन्हें सूचित किया गया कि शाम 5 बजे तक इन तस्वीरों को हटा दिया जाए, वरना प्रदर्शनी रद्द कर दी जाएगी।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-22T05:10:31+00:00",
+    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/22/1200x900/raihan_vadra_1792645721385_82cm_1792645734083_XWxp_3a93d95f-e754-4816-b7bd-ed3938340b8c_1RVn.jpg",
+    "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/shiva-death-case-shraddha-dubey-reaches-lucknow-gave-her-protection-in-nagpur-3941975.html",
+    "title": "शिवा डेथ केस: आरोपी श्रद्धा दुबे को लेकर लखनऊ पहुंची STF, नागपुर में किसने दिया संरक्षण?",
+    "description": "पुलिस के मुताबिक,आरोपियों ने नेपाल से लौटने के बाद भी कई जगहों पर ठिकाने बदले. मोबाइल से सिम कार्ड निकालने, दूसरे लोगों के इंटरनेट कनेक्शन का इस्तेमाल करने के कारण लोकेशन ट्रेस करने में परेशानी हुई.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-22T05:10:02+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/news-132.jpeg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/pm-modi-birthday-wishes-to-home-minister-amit-shah-praises-security-system-anti-drug-mission/articleshow/135107778.cms",
     "title": "अमित शाह को बर्थडे पर पीएम मोदी ने दी खास बधाई, दिग्गज केंद्रीय मंत्री ने गृह मंत्री को बताया- नए भारत के लौह पुरुष",
     "description": "Amit Shah Birthday News: अमित शाह के जन्मदिन पर उन्हें जमकर बधाईयां मिल रही हैं। प्रधानमंत्री नरेंद्र मोदी ने भी उन्हें बर्थडे की शुभकामनाएं दी हैं। पीएम मोदी ने कहा कि उनकी प्रशासनिक समझ ने भारत की आंतरिक सुरक्षा व्यवस्था को और अधिक प्रभावी बनाया है।",
     "categories": [
       "National"
     ],
-    "pub_date": "2026-10-22T05:03:00+00:00",
+    "pub_date": "2026-10-22T05:06:04+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/135107864/pm-modi-birthday-wish-amit-shah.jpg?imgsize=151695&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/videos/kiren-rijiju-condemns-content-creator-aamir-for-misbehaving-with-tripura-youth-viral-video-probe-delhi-police-3941974.html",
+    "title": "त्रिपुरा के युवक से बदसलूकी पर केंद्रीय मंत्री किरण रिजिजू भड़के, आमिर शौकीन पर कार्रवाई तय",
+    "description": "दिल्ली में त्रिपुरा के एक युवक के साथ कथित नस्लीय टिप्पणी और बदसलूकी का वीडियो वायरल हुआ है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-22T05:05:51+00:00",
+    "image_url": null,
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.livehindustan.com/national/ladakh-kargil-council-dissolved-panchayat-elections-100-seats-8-districts-201792644668292.html",
@@ -54,6 +135,17 @@
     "pub_date": "2026-10-22T04:59:36+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/videos/donald-trump-ocean-renaming-atlantic-pacific-international-implications-geopolitics-3941958.html",
+    "title": "ट्रंप की नाम बदलने की मुहिम, क्या अटलांटिक या प्रशांत महासागर बन जाएंगे ट्रंप ओशन?",
+    "description": "डोनाल्ड ट्रंप ने अटलांटिक या प्रशांत महासागर का नाम बदलकर \"ट्रंप ओशन\" या \"ओशन ऑफ द अमेरिकाज\" रखने का विचार सामने रखा है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-22T04:58:15+00:00",
+    "image_url": null,
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/foemer-vp-hamid-ansari-speaks-first-time-on-protests-against-cec-they-are-our-own-people/articleshow/135107686.cms",
@@ -146,6 +238,17 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.patrika.com/cricket-news/bhuvneshwar-kumar-eyes-on-most-t20i-five-fers-among-seamers-from-fm-sides-in-nz-vs-ind-t20i-series-21000425",
+    "title": "भुवनेश्वर कुमार की 4 साल बाद आज होगी मैदान पर वापसी, निशाने पर एक बड़ा वर्ल्ड रिकॉर्ड",
+    "description": "Bhuvneshwar Kumar T20I Records: भारत और न्‍यूजीलैंड के बीच सभी तीनों फॉर्मेट की महासीरीज का आगाज आज गुरुवार को पांच मैचों की टी20 इंटरनेशनल सीरीज से होने जा रहा है। इस सीरीज का पहला मुकाबला क्राइस्‍टचर्च के हेगले ओवल में खेला जाना है। इस मुकाबले में सबकी नजर 4 साल बाद इंटरनेशनल क्रिकेट में वापसी करने वाले स्विंग मास्‍टर भुवनेश्‍वर कुमार पर टिकी होंगी, जिन्‍होंने आईपीएल और घरेलू क्रिकेट में लगातार शानदार प्रदर्शन करते हुए टीम इंडिया में वापसी की है। वहीं, भुवी की नजर उस खास रिकॉर्ड पर होगी, जो वह चार साल पहले छोड़कर गए थे। आइये एक नजर इस खास रिकॉर्ड पर डालते हैं।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-10-22T04:47:45+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Bhuvneshwar-Kumar-3.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.aajtak.in/education/career/story/indian-young-professors-return-from-abroad-to-iim-iit-teaching-edmm-dskc-2676388-2026-10-22?utm_source=rssfeed",
     "title": "विदेश की नौकरी छोड़ IIT-IIM में क्यों लौट रहे यंग स्कॉलर्स?",
     "description": "IIM बैंगलोर और कोझिकोड जैसे टॉप संस्थानों में विदेशों से पीएचडी और रिसर्च करके लौटे युवा प्रोफेसरों की संख्या तेजी से बढ़ रही है. विदेशों में पढ़ाई और रिसर्च करने वाले भारतीय स्कॉलर्स अब भारत के मैनेजमेंट संस्थानों में अपना करियर बना रहे हैं. जानिए क्या हैं इसके पीछे के सामाजिक, आर्थिक और अकादमिक कारण.",
@@ -206,7 +309,6 @@
     "title": "INDIA गठबंधन की आज ऑनलाइन बैठक, वोट चोरी और ज्ञानेश कुमार के मुद्दे पर बनेगी आगे की रणनीति",
     "description": "वोट चोरी के आरोपों को लेकर INDIA गठबंधन गुरुवार शाम ऑनलाइन बैठक करेगा। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे की अध्यक्षता में होने वाली इस बैठक में विरोध-प्रदर्शनों की आगे की रणनीति, मुख्य निर्वाचन आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग पर चर्चा होगी।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-22T04:44:59+00:00",
@@ -391,7 +493,7 @@
   },
   {
     "link": "https://www.aajtak.in/sports/asian-games/story/mohammad-shams-aalam-shaikh-japan-allegation-sexual-harassment-asian-para-games-tspok-dskc-2676942-2026-10-22?utm_source=rssfeed",
-    "title": "एशियन पैरा गेम्स: भारतीय खिलाड़ी ने महिला संग की छेड़खानी! जापान पुलिस ने वापस भेजा",
+    "title": "एशियन पैरा गेम्स: भारतीय खिलाड़ी पर महिला से छेड़खानी का आरोप! जापान पुलिस ने वापस भेजा",
     "description": "भारतीय पैरा तैराक मोहम्मद शम्स आलम शेख को जापान में महिला होटल कर्मचारी से कथित यौन उत्पीड़न और छेड़छाड़ के आरोपों के बाद भारत भेज दिया गया. शिकायत के बाद जापानी पुलिस ने उन्हें हिरासत में लिया था. 40 वर्षीय शेख नागोया में एशियन पैरा गेम्स में हिस्सा लेने वाले थे. पैरालंपिक कमेटी ऑफ इंडिया (PCI) उनके खिलाफ आजीवन बैन पर विचार कर रही है.",
     "categories": [
       "Sports"
@@ -793,7 +895,7 @@
   },
   {
     "link": "https://www.livehindustan.com/national/rahul-gandhi-india-alliance-plans-protest-against-gyanesh-kumar-november-201792640455764.html",
-    "title": "ज्ञानेश कुमार के खिलाफ शांत नहीं बैठा विपक्ष, बन रहा बड़ा प्लान; कब होगा अगला प्रदर्शन?",
+    "title": "ज्ञानेश कुमार के खिलाफ फिर उठेगा बवंडर? तगड़ा प्लान बना रहा विपक्ष, अगला प्रदर्शन कब",
     "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ INDIA गठबंधन नवंबर में फिर प्रदर्शन की तैयारी कर रहा है। 1 नवंबर को दिल्ली के रामलीला मैदान में रैली के बाद विपक्ष मार्च निकालने और मॉक संसद आयोजित करने समेत कई विकल्पों पर विचार कर रहा है।",
     "categories": [
       "Breaking News",
@@ -2202,112 +2304,5 @@
     "pub_date": "2026-10-22T02:07:21+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/add-a-heading-72.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/delhi-high-court-to-hear-aisa-president-neha-bora-plea-challenging-10000-rupee-bond-notice-over-planned-protest/articleshow/135104159.cms",
-    "title": "AISA अध्यक्ष नेहा बोरा की याचिका पर दिल्ली हाई कोर्ट आज  करेगा सुनवाई, बॉन्ड नोटिस को दी है चुनौती",
-    "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रदर्शन और तिरंगा फहराने की योजना के मामले में आइसा अध्यक्ष नेहा बोरा की याचिका पर दिल्ली हाई कोर्ट गुरुवार को सुनवाई करेगा। नेहा ने 10,000 रुपये के पर्सनल बॉन्ड वाले नोटिस को चुनौती दी है। उन्होंने हिरासत और संबंधित कार्यवाही को लेकर भी राहत मांगी है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-22T02:06:58+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/135104235/neha-bora-delhi-high-court-plea-aisa-president-gyanesh-kumar-protest-10000-rupees-personal-bond.jpg?imgsize=2664676&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/delhi-ncr/weather-update-cold-morning-heavy-rain-alert-south-india-aaj-ka-mausam-3941826.html",
-    "title": "Weather Update: 8 राज्यों में बारिश का अलर्ट! दिल्ली में सुबह-रात ठंड का अहसास, यहां उमस से बुरा हाल",
-    "description": "मौसम विभाग के मुताबिक, तमिलनाडु, पुडुचेरी में 22 से 25 अक्टूबर के बीच भारी बारिश हो सकती है. केरल में भी अलग-अलग दिनों में तेज बारिश के आसार हैं.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-22T02:05:43+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/news-70-2.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/national/aaj-ki-taza-khabar-live-22-oct-latest-news-hindi",
-    "title": "Aaj Ki Taza Khabar: सऊदी अरब के एयरपोर्ट पर हमला, 1 की मौत",
-    "description": "Aaj Ki Taza Khabar LIVE: 22 अक्टूबर की ताजा खबरों और दिनभर के बड़े अपडेट्स के लिए हमारे साथ जुड़े रहें. इस लाइव अपडेट में आपको पल-पल की हर जरूरी जानकारी आसान भाषा में मिलेगी.\nThe post Aaj Ki Taza Khabar: सऊदी अरब के एयरपोर्ट पर हमला, 1 की मौत appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-22T02:04:00+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/22/1792633240365/sizes/saudi-airport-attack-1ec4db-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://ndtv.in/india/74-photographs-of-protests-captured-by-priyanka-gandhis-son-removed-from-exhibition-rehan-vadra-says-officials-raised-questions-about-timing-12217809#publisher=newsstand",
-    "title": "बीकानेर हाउस ने प्रियंका गांधी के बेटे रेहान की प्रदर्शनी से दिल्ली प्रोटेस्ट की 74 तस्वीरें हटाईं, NDTV से बोले वाड्रा -ये आपत्तिजनक!",
-    "description": "प्रियंका गांधी के बेटे की खींची विरोध-प्रदर्शन की तस्‍वीरों को प्रदर्शनी से हटाया",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-22T02:03:56+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/cf5bpmgo_rehanpainting_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/state/uttar-pradesh/lucknow-airport-international-flights-bangkok-abu-dhabi-riyadh-november-2026-up-news",
-    "title": "लखनऊ एयरपोर्ट से अंतरराष्ट्रीय उड़ानों का दायरा बढ़ेगा, बैंकॉक के लिए 17 नवंबर से सेवा शुरू, अबूधाबी-रियाद पर भी नजर",
-    "description": "लखनऊ एयरपोर्ट से अंतरराष्ट्रीय उड़ानों का विस्तार हो रहा है. 17 नवंबर से बैंकॉक के लिए सीधी उड़ान शुरू हो रही है, और अबू धाबी व रियाद के लिए भी सेवाएं बहाल करने की योजना है.\nThe post लखनऊ एयरपोर्ट से अंतरराष्ट्रीय उड़ानों का दायरा बढ़ेगा, बैंकॉक के लिए 17 नवंबर से सेवा शुरू, अबूधाबी-रियाद पर भी नजर appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News",
-      "National",
-      "Technology",
-      "World"
-    ],
-    "pub_date": "2026-10-22T02:03:30+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/22/1792634430550/sizes/lucknow-airport-12542d-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/india/politics/cjp-abhijeet-dipke-post-saurav-and-ashu-are-not-just-better-but-much-bigger-leaders-than-me-2026-10-22-1250225",
-    "title": "\"सौरव और आशु मुझसे न सिर्फ बेहतर, बल्कि कहीं ज़्यादा बड़े नेता हैं\", अभिजीत दिपके का ट्वीट",
-    "description": "कॉकरोच जनता पार्टी के नेता आशुतोष रांका और सौरव दास को सात दिनों की न्यायिक हिरासत के बाद बुधवार को जेल से रिहा कर दिया गया। इसके बाद अभिजीत दिपके ने पोस्ट किया-दोनों मुझसे बड़े नेता हैं।",
-    "categories": [
-      "National",
-      "Political"
-    ],
-    "pub_date": "2026-10-22T02:03:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/cjp-leaders-1-1792633745.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/technology/tech-news/story/apple-iphone-duo-sale-october-23-india-apple-store-limited-stock-ttecr-dskc-2676791-2026-10-22?utm_source=rssfeed",
-    "title": "3 लाख वाला iPhone खरीदना आसान नहीं, Apple ने बदला नियम",
-    "description": "Apple iPhone Duo की 23 अक्तूबर से सेल है, लेकिन कंपनी ने बताया है कि वॉक-इन कस्टमर के लिए यह डिवाइस सीमित संख्या में उपलब्ध होंगे. प्री ऑर्डर करने वाले कस्टमर ही इनको खरीद सकेगे. आइए जानते हैं कि कंपनी ने नियम को क्यों बदला है.",
-    "categories": [
-      "Breaking News",
-      "Technology"
-    ],
-    "pub_date": "2026-10-22T02:00:29+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/entertainment/bollywood-news/story/tiger-shroff-car-firing-auto-driver-umesh-chauhan-bullet-removal-surgery-health-update-tmova-dskc-2676795-2026-10-22?utm_source=rssfeed",
-    "title": "टाइगर फायरिंग केस: व्लॉगर उमेश के शरीर से निकली गोली, कैसी है हालत?",
-    "description": "मुंबई में टाइगर श्रॉफ की कार पर फायरिंग के दौरान घायल हुए व्लॉगर उमेश चौहान के शरीर से KEM अस्पताल में सर्जरी कर गोली निकाल दी गई. जानें अब कैसी है उनकी हालत.",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-22T02:00:09+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-t20i-ishan-kishan-suryakumar-yadav-mohammad-rizwan-3-record-tspok-dskc-2676282-2026-10-22?utm_source=rssfeed",
-    "title": "ईशान के निशाने पर सूर्या का रिकॉर्ड, NZ में PAK बैटर भी छूटेगा पीछे!",
-    "description": "ईशान किशन न्यूजीलैंड के खिलाफ पांच मैचों की T20I सीरीज में बड़े रिकॉर्ड अपने नाम कर सकते हैं. वह T20 इंटरनेशनल में 2000 रन पूरे करने से सिर्फ 46 रन दूर हैं. वहीं, सात रन बनाते ही सूर्यकुमार यादव का भारतीय रिकॉर्ड तोड़ देंगे. ईशान के पास पाकिस्तानी बल्लेबाज मोहम्मद रिजवान का कैलेंडर ईयर रिकॉर्ड तोड़ने का भी मौका है.",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-10-22T02:00:05+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
