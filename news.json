@@ -319,17 +319,6 @@
     "source_name": "AAJTAK.IN"
   },
   {
-    "link": "https://www.patrika.com/cricket-news/zimbabwe-women-set-198-run-target-for-india-in-1st-odi-21004070",
-    "title": "IND-W vs ZIM-W, 1st ODI: बिलव्ड बिजा का अर्धशतक, जिम्बाब्वे ने भारत को दिया आसान लक्ष्य",
-    "description": "India Women vs Zimbabwe Women: भारतीय महिला क्रिकेट टीम ने जिम्बाब्वे के खिलाफ पहले वनडे मुकाबले में शानदार गेंदबाजी करते हुए मेजबान टीम को 197 रन पर ऑलआउट कर दिया। इस तरह जिम्बाब्वे महिला क्रिकेट टीम से भारत को जीत के लिए 198 रन का लक्ष्य मिला है। कोटांबी स्थित बीसीए स्टेडियम में खेले जा रहे तीन मैचों की सीरीज के पहले मैच में स्पिनर श्री चरणी ने चार विकेट लेकर अहम भूमिका निभाई। क्रांति गौड़ ने भी तीन विकेट झटककर जिम्बाब्वे की बल्लेबाजी को बड़ा स्कोर बनाने से रोक दिया।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-10-23T18:01:23+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Indian-women-cricket-team-2.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://ndtv.in/uttar-pradesh-news/shiva-sharma-murder-case-investigation-reaches-those-aided-suspects-escape-two-individuals-custody-12227577#publisher=newsstand",
     "title": "शिवा शर्मा हत्याकांड: फरार होने में मदद के आरोपियों तक पहुंची जांच, दो लोग हिरासत में",
     "description": "शिवा शर्मा हत्याकांड में एक नया खुलासा हो गया है.",
@@ -1749,7 +1738,6 @@
     "title": "मध्य प्रदेश: कहीं 5 तो कहीं 33,500 रुपये प्रति लीटर में ख़रीदा फ़िनाइल, सरकारी ख़रीद में इतना फ़र्क क्यों?",
     "description": "मध्य प्रदेश के 374 नगरीय निकायों की सरकारी ख़रीद में सामानों की क़ीमतों में बड़े अंतर का मामला सामने आया है. विभाग के मुताबिक़, 1,134 करोड़ रुपये की ख़रीद में औसत क़ीमतों पर ख़रीदारी होती तो क़रीब 250 करोड़ रुपये की बचत हो सकती थी.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-23T14:50:14+00:00",
@@ -2279,5 +2267,16 @@
     "pub_date": "2026-10-23T13:59:24+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/tu-hai-meri-kiran-review.jpeg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://navbharattimes.indiatimes.com/india/border-gets-disturbed-when-chinese-forces-diverge-from-established-patrolling-patterns-mea-on-itbp-chief-remark/articleshow/135147557.cms",
+    "title": "भारत-चीन सीमा पर स्थिति तब बिगड़ती है जब चीनी सैनिक तय गश्त के तरीकों से अलग हटकर काम करते हैंः विदेश मंत्रालय",
+    "description": "LAC पर झड़प के सवाल पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि भारत-चीन सीमा पर तब स्थिति बिगड़ती है, जब चीनी सैनिक तय गश्त के तरीकों से अलग हटकर काम करते हैं।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-23T13:56:58+00:00",
+    "image_url": "https://static.langimg.com/nbt/thumb/135148078/india-and-china.jpg?imgsize=1846944&width=1600&height=900&resizemode=75",
+    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   }
 ]
