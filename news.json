@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-24",
-    "title": "पढ़ें 24 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-24T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/mha-seeks-public-opinion-on-dedicated-broadband-network-for-police-and-disaster-response-personnel-2026-10-24",
     "title": "गृह मंत्रालय: पुलिस और जवानों के लिए बनेगा खास ब्रॉडबैंड नेटवर्क, देशभर के 30 लाख कर्मियों को मिलेगी सुविधा",
     "description": "गृह मंत्रालय: पुलिस और जवानों के लिए बनेगा खास ब्रॉडबैंड नेटवर्क, देशभर के 30 लाख कर्मियों को मिलेगी सुविधा---MHA Seeks Public Opinion on Dedicated Broadband Network for Police and Disaster Response Personnel",
@@ -18,6 +7,29 @@
       "National"
     ],
     "pub_date": "2026-10-24T06:44:30+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://hindi.oneindia.com/news/india/intl-roaming-service-failure-patna-consumer-commission-order-012-1672763.html",
+    "title": "Bihar News: अंतरराष्ट्रीय रोमिंग सेवा नहीं देने पर एयरटेल को 1.25 लाख रुपये का हर्जाना, उपभोक्ता आयोग का आदेश",
+    "description": "पटना उपभोक्ता आयोग ने विदेश यात्रा के दौरान अंतर्राष्ट्रीय रोमिंग सेवाओं में विफलता के लिए भारती टेलीमीडिया लिमिटेड और एयरटेल स्टोर को ₹1.25 लाख का मुआवजा देने का आदेश दिया।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-23T19:31:17+00:00",
+    "image_url": "https://hindi.oneindia.com/img/2026/10/international-roaming-service-1792783816937-1200x675.jpg",
+    "source_name": "HINDI.ONEINDIA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-24",
+    "title": "पढ़ें 24 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-23T19:30:36+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2276,17 +2288,5 @@
     "pub_date": "2026-10-23T13:54:14+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/5aattp1k_haryana-news_625x300_23_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/bihar/story/siwan-alampur-firecracker-house-blast-deaths-bihar-lclcn-strc-2678477-2026-10-23?utm_source=rssfeed",
-    "title": "बिहार के सीवान में पटाखों के धमाकों से दहला गांव, 5 लोगों की मौत",
-    "description": "सीवान जिले के आलमापुर गांव में शुक्रवार को पटाखों में आग लगने के बाद एक मकान में भीषण विस्फोट हो गया. धमाके इतने तेज थे कि मकान का अगला हिस्सा ढहकर सड़क पर गिर गया. हादसे में 5 लोगों की मौत हो गई है. करीब दो घंटे तक रुक-रुककर धमाके होते रहे. मृतकों की संख्या की आधिकारिक पुष्टि का इंतजार है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-23T13:53:53+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
