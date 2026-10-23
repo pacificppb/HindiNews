@@ -38,6 +38,7 @@
     "title": "खाना, 9 लीटर पानी…ब्रिटेन सरकार ने जारी की स्टॉक रखने की एडवाइजरी, क्या तबाही आने वाली है?",
     "description": "अधिकारियों का कहना है कि नागरिकों को अलर्ट रहना है, पैनिक नहीं होना है. यह कदम सिर्फ इसलिए उठाया गया है ताकि किसी भी अनहोनी के समय लोग सरकारी मदद पहुंचने तक सुरक्षित रह सकें.",
     "categories": [
+      "Breaking News",
       "World"
     ],
     "pub_date": "2026-10-23T21:53:52+00:00",
@@ -116,7 +117,6 @@
     "title": "'कौन सा देश है, नाम बताओ', विदेशी साजिश के दावों पर फारुख अब्दुल्ला की सरकार को चुनौती",
     "description": "जम्मू-कश्मीर के पूर्व मुख्यमंत्री फारुख अब्दुल्ला ने कहा कि अगर देश में जारी प्रदर्शनों में किसी विदेशी ताकत का हाथ है, तो सरकार को बताना चाहिए कि वह कौनसा देश है। उन्होंने दावा किया कि दिल्ली की सरकार जब खतरे में होती है, तो वह विदेशी हाथ की रटी रटाई बात करने लगते हैं।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-23T19:42:58+00:00",
@@ -166,6 +166,18 @@
     "pub_date": "2026-10-23T19:19:11+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/23/1200x900/Abhijeet_Dipke_cj_1792782958483_v7G3_1792782958610_6hqW_0b8291cf-cd17-4f5d-8fbb-9591ef16e212_UlTz.jpg",
     "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/why-are-advisories-necessary-for-safety-of-indians-abroad-france-21004546",
+    "title": "विदेश में भारतीयों की सुरक्षा के लिए एडवाइजरी क्यों जरूरी? फ्रांस, इटली और बेल्जियम का मामला",
+    "description": "Indian Nationals In France: यूरोप के फ्रांस, इटली और बेल्जियम में विरोध प्रदर्शनों के बीच भारत सरकार ने वहां रह रहे भारतीय नागरिकों को सतर्क रहने की सलाह दी है। विदेश मंत्रालय (MEA) ने भारतीयों से प्रदर्शन वाले इलाकों से दूर रहने और बाहर निकलते समय सावधानी बरतने को कहा है। मंत्रालय के मुताबिक, इन तीनों देशों में भारतीय मिशन हालात पर नजर रख रहे हैं और वहां रह रहे भारतीय समुदाय के संपर्क में हैं। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्ली में मीडिया ब्रीफिंग के दौरान कहा कि भारतीय नागरिकों को स्थानीय प्रशासन की ओर से जारी सुरक्षा निर्देशों का पालन करना चाहिए। उन्होंने कहा कि विदेश में रह रहे भारतीयों की सुरक्षा और कल्याण सरकार की प्राथमिकता है।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-23T19:10:22+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Randhir-Jaiswal-1-1.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://hindi.oneindia.com/news/india/bihar-flood-relief-agricultural-input-subsidy-2026-012-1672761.html",
@@ -2251,16 +2263,5 @@
     "pub_date": "2026-10-23T14:06:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/rainfall-1792764081.webp",
     "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://ndtv.in/india/opposition-mock-parliament-at-ramlila-maidan-speaker-uproar-and-impeachment-plan-12226312#publisher=newsstand",
-    "title": "रामलीला मैदान में 'संसद' : विपक्ष के इस आयोजन में सभापति होंगे, हंगामा होगा, महाभियोग होगा",
-    "description": "1 नवंबर को दिल्ली के रामलीला मैदान में कांग्रेस की रैली",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-23T14:04:31+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/vsb9jk7_congress_625x300_23_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
