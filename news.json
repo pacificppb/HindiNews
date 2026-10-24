@@ -56,6 +56,18 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://ndtv.in/world-news/missile-fragments-fell-in-mecca-and-medina-following-a-houthi-attack-saudi-arabia-claims-12231388#publisher=newsstand",
+    "title": "हूती हमले के बाद मक्का और मदीना में मिसाइलों के टुकड़े गिरे: सऊदी अरब",
+    "description": "हाल के हफ्तों में सऊदी अरब पर यमन के हूतियों की ओर से लगातार हमले हुए हैं. (फोटो-एनडीटीवी)",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-24T18:59:24+00:00",
+    "image_url": "https://c.ndtvimg.com/mecca-mosque_625x300_1528570649754.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.livehindustan.com/national/shashi-tharoor-weighs-in-on-india-pakistan-cricket-match-201792867253337.html",
     "title": "भारत VS PAK क्रिकेट मैच केवल खेल नहीं… शशि थरूर बोले- हाथ न मिलाने का विरोध किया था",
     "description": "शशि थरूर ने भारत और पाकिस्तान के बीच क्रिकेट मैच को लेकर अपनी राय रखी है। उन्होंने कहा कि दोनों देशों के बीच का क्रिकेट मैच केवल एक खेल का आयोजन नहीं होता है, बल्कि दोनों देशों को जोड़ने का एक तरीका होता है।",
@@ -66,6 +78,18 @@
     "pub_date": "2026-10-24T18:46:44+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/24/1200x900/shashi_tharoor_1792867478456_9TuM_1792867478594_ahtF_7dabfb24-d169-4d2d-8d2d-cf99cf4530b0_0SkH.jpg",
     "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://ndtv.in/india/free-umar-khalid-and-long-live-naxalbari-slogans-appear-on-jnu-walls-12231371#publisher=newsstand",
+    "title": "JNU की दीवारों पर 'FREE UMAR KHALID' और 'LONG LIVE NAXALBARI' के नारे, ABVP ने खोला मोर्चा",
+    "description": "JNU की दीवारों पर विवादित बयान मिलने से हंगामा हो गया.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-24T18:44:57+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/0npgrf6c_delhi_625x300_25_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.aajtak.in/world/story/france-violence-protests-1000-arrested-tear-gas-used-in-paris-ntc-apdy-dskc-2679373-2026-10-25?utm_source=rssfeed",
@@ -103,6 +127,28 @@
     "pub_date": "2026-10-24T18:29:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/chandrababu-naidu-1792866638.webp",
     "source_name": "INDIATV.IN"
+  },
+  {
+    "link": "https://ndtv.in/world-news/typhoon-champi-wind-speeds-of-120-kilometers-per-hour-wreaked-havoc-in-taiwan-before-moving-toward-china-and-japan-12231341#publisher=newsstand",
+    "title": "चाम्पी तूफान 120 किलोमीटर प्रति घंटे की स्पीड से ताइवान में तबाही मचाते हुए चीन और जापान की ओर बढ़ा",
+    "description": "चाम्पी तूफान काफी तेज गति में गुजर रहा है. (फोटो-AFP)",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-24T18:28:37+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/9rkh2fhs_champi-typhoon_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/bihar-news/katihar-mob-turned-executioner-two-youths-were-tied-tree-and-beaten-on-suspicion-of-theft-12231340#publisher=newsstand",
+    "title": "कटिहार में थाने से चंद कदम दूर 'तालिबानी सजा', चोरी के शक में पेड़ से बांधकर युवकों पर बरसाए डंडे",
+    "description": "बिहार में चोरी के शक में 2 लोगों को पेड़ से बांधकर बेरहमी से पीटा.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-24T18:27:59+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/7l13t3ig_bihar_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.aajtak.in/education/story/bihar-school-building-projects-delayed-contractors-fines-contract-cancellations-ntc-dhrj-rpti-2679370-2026-10-24?utm_source=rssfeed",
@@ -534,7 +580,7 @@
   },
   {
     "link": "https://ndtv.in/india/ludhiana-religious-conversion-allegations-dowry-harassment-claims-also-reported-12231070#publisher=newsstand",
-    "title": "ससुराल में पहली रात दुल्हन को पुल में डुबो कराया धर्म परिवर्तन, विरोध पर पिता को इतना पीटा की हालत गंभीर",
+    "title": "ससुराल में पहली रात दुल्हन को पूल में डुबो कराया धर्म परिवर्तन, विरोध पर पिता को इतना पीटा की हालत गंभीर",
     "description": "करणवीर और कृतिका की शादी के दिन की तस्वीर, ससुराल में होली बाथ कराता शख्स और गंभीर हालत में कृतिका के पिता.",
     "categories": [
       "Breaking News",
@@ -591,7 +637,7 @@
   },
   {
     "link": "https://ndtv.in/punjab-news/ludhiana-brutality-by-husband-grabs-wife-by-her-hair-and-slams-her-road-12231030#publisher=newsstand",
-    "title": "थार की मांग पूरी न हुई तो हैवान बना पति, सड़क परपत्नी को बालों से पकड़कर पर पटका; फिर मारी लातें",
+    "title": "थार की मांग पूरी न हुई तो हैवान बना पति, सड़क पर पत्नी को बालों से पकड़कर पटका; फिर मारी लातें",
     "description": "पति ने अपनी पत्नी के साथ बेरहमी से मारपीट की है.",
     "categories": [
       "Breaking News",
@@ -2247,50 +2293,5 @@
     "pub_date": "2026-10-24T13:06:01+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://hindi.oneindia.com/news/india/atma-impact-on-paan-cultivation-in-vaishali-bihar-012-1672967.html",
-    "title": "आत्मा के प्रशिक्षण से बदली पान की खेती, वैशाली के किसानों की बढ़ी आमदनी",
-    "description": "ATMA प्रशिक्षण वैशाली में पान की खेती में सुधार करता है, समूह-आधारित खेती और आधुनिक तकनीकों के माध्यम से उत्पादन की गुणवत्ता और किसानों की आय को बढ़ाता है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-24T13:01:15+00:00",
-    "image_url": "https://hindi.oneindia.com/img/2026/10/atma-1792846820113-1200x675.jpg",
-    "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-2nd-india-captain-shreyas-iyer-said-what-was-the-big-turning-point-after-win-aksp-dskc-2679155-2026-10-24?utm_source=rssfeed",
-    "title": "&#039;जब हाथ से फिसल रहा था मैच...&#039;, अय्यर ने किसे दिया जीत का क्रेडिट?",
-    "description": "भारतीय टीम ने न्यूजीलैंड को दूसरे मुकाबले में हराकर अपना दबदबा बरकरार रखा है. भारतीय बल्लेबाजों ने कमाल का प्रदर्शन करते हुए इस मुकाबले में टीम को एक यादगार जीत दिला दी. इस जीत के बाद कप्तान श्रेयस अय्यर ने दिल की बात कही.",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-10-24T13:00:32+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/haryana/faridabad-dog-attack-student-injured-by-german-shepherd-fir-against-owners-3944402.html",
-    "title": "फरीदाबाद में जर्मन शेफर्ड का कहर! राह चलते B.Tech छात्रा पर हमला, मालिक दंपति पर FIR",
-    "description": "फरीदाबाद के अशोका एन्क्लेव में बीटेक छात्रा पर पड़ोसी के जर्मन शेफर्ड कुत्ते ने हमला कर दिया, जिससे वह घायल हो गई. छात्रा अपने पोमेरियन को घुमा रही थी जब जर्मन शेफर्ड ने उसके हाथ और कमर पर काट लिया.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-24T12:59:24+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/haryana-news-1280-720.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/india/politics/giriraj-singh-reacts-to-jamia-millia-islamia-controversial-slogans-row-2026-10-24-1250714",
-    "title": "'कौन माई का लाल भारत को तोड़ना चाहता है', जामिया मामले में भड़के गिरिराज सिंह",
-    "description": "केंद्रीय मंत्री गिरिराज सिंह ने जामिया मामले पर रिएक्शन देते हुए पूछा कि कौन माई का लाल भारत को तोड़ना चाहता है। सभी देशभक्तों को सोचना होगा कि ऐसे लोगों को मुंहतोड़ जवाब देना है।",
-    "categories": [
-      "National",
-      "Political"
-    ],
-    "pub_date": "2026-10-24T12:59:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/giriraj-singh-1792846243.webp",
-    "source_name": "INDIATV.IN"
   }
 ]
