@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-26",
-    "title": "पढ़ें 26 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-26T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/assam-bihu-troupe-attack-cm-himanta-sarma-orders-action-13-arrested-2026-10-26",
     "title": "असम में बिहू कलाकारों पर हमला: मुख्यमंत्री ने दिए कार्रवाई के निर्देश, 13 आरोपी गिरफ्तार; वाद्ययंत्र भी तोड़े",
     "description": "असम में बिहू कलाकारों पर हमला: मुख्यमंत्री ने दिए कार्रवाई के निर्देश, 13 आरोपी गिरफ्तार; वाद्ययंत्र भी तोड़े---Assam Bihu Troupe Attack: CM Himanta Sarma Orders Action, 13 Arrested",
@@ -18,6 +7,40 @@
       "National"
     ],
     "pub_date": "2026-10-26T06:53:17+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://ndtv.in/food/apple-vs-guava-vs-papaya-which-fruit-is-more-nutritious-and-healthy-kis-fal-me-sabse-jyada-protein-hota-hai-calcium-kis-fal-me-vitamin-b12-hota-hai-12234864#publisher=newsstand",
+    "title": "सेब, अमरूद और पपीता में कौन है सबसे ज्यादा ताकतवर?",
+    "description": "सेब, अमरूद और पपीता में सबसे ज्यादा पोषण किसमें होता है?",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-10-26T00:00:42+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/ivup8ku8_seb_625x300_26_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/health/ek-sawal-roj-which-pulse-is-best-for-shedding-extra-kilos-fast-chana-dal-moong-dal-benefits-best-dal-for-weight-loss-12234826#publisher=newsstand",
+    "title": "एक सवाल रोज: वजन घटाने वालों के लिए कौन सी दाल बेस्ट है?",
+    "description": "वजन घटाने के लिए कौन सी दाल है सबसे असरदार? डाइट में शामिल करते ही दिखेगा फर्क",
+    "categories": [
+      "Health"
+    ],
+    "pub_date": "2026-10-25T23:38:09+00:00",
+    "image_url": "https://i.ndtvimg.com/i/2017-08/daal-makhni_650x400_81503998280.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-26",
+    "title": "पढ़ें 26 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-25T19:30:31+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -31,6 +54,18 @@
     "pub_date": "2026-10-25T19:10:39+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/jk-vs-pojk.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://ndtv.in/world-news/afghanistan-earthquake-of-magnitude-5-5-struck-know-all-updates-12234761#publisher=newsstand",
+    "title": "अफगानिस्तान में देर रात भूकंप के झटके, रिक्टर स्केल पर 5.5 मापी गई तीव्रता",
+    "description": "अफगानिस्तान में भूकंप के कारण जान-माल के नुकसान की अब तक खबर नहीं है. (फोटो-एनडीटीवी)",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-25T18:38:10+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-08/b4e50itg_earthquake_625x300_22_August_26.png",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/videos/harsh-vihar-accident-two-roofs-collapse-at-delhi-construction-site-labourers-feared-trapped-3945257.html",
@@ -65,18 +100,6 @@
     "pub_date": "2026-10-25T18:27:47+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/mp-news-1280-720-15.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/india/afghanistan-earthquake-of-magnitude-5-5-struck-know-all-updates-12234761#publisher=newsstand",
-    "title": "अफगानिस्तान में देर रात भूकंप के झटके, रिक्टर स्केल पर 5.5 मापी गई तीव्रता",
-    "description": "अफगानिस्तान में देर रात भूकंप के झटके, रिक्टर स्केल पर 5.5 मापी गई तीव्रता",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-25T18:26:27+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-08/b4e50itg_earthquake_625x300_22_August_26.png",
-    "source_name": "NDTV.IN"
   },
   {
     "link": "https://ndtv.in/india/kerala-judge-minor-son-mercedes-car-crash-kills-scooter-rider-kochi-father-liability-probe-12234742#publisher=newsstand",
@@ -133,6 +156,17 @@
     "pub_date": "2026-10-25T18:02:37+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/omar-abdullah-cabinet.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/israel-politics-benjamin-netanyahu-opposition-coalition-government-21008242",
+    "title": "इजरायल की राजनीति में नेतन्याहू का भविष्य: गादी आइजेनकोट से लेकर नफ्ताली बेनेट तक, कौन हैं प्रमुख चेहरे?",
+    "description": "Israel Politics: हमास के 7 अक्टूबर 2023 के हमले के तीन साल बाद इजरायल में मंगलवार को आम चुनाव के लिए मतदान होगा। यह चुनाव इजरायल के सबसे लंबे समय तक प्रधानमंत्री रहे बेंजामिन नेतन्याहू के लंबे राजनीतिक वर्चस्व की परीक्षा माना जा रहा है। उनके सामने पूर्व सेना प्रमुख गादी आइजेनकोट के नेतृत्व में विपक्ष की मजबूत चुनौती है। चुनावी सर्वेक्षणों में आइजेनकोट की मध्यमार्गी याशार पार्टी बढ़त बनाती दिख रही है, लेकिन सरकार बनाने के लिए जरूरी बहुमत किसी भी खेमे को मिलता नजर नहीं आ रहा। ऐसे में 27 अक्टूबर के बाद ईरान की बजाय इजरायल में ‘रिमीज चेंज’ की संभावना भी बन सकती है।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-25T17:59:14+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/india/down-with-capitalism-to-loan-approval-just-how-sustainable-mutreja-revolution-3945262.html",
@@ -1908,7 +1942,6 @@
     "title": "'सारी मर्यादाएं तार-तार कर दीं', खरगे के 'मोदी का बाप भी जाएगा' बयान पर भड़के अमित शाह",
     "description": "अमित शाह ने बिहार में कांग्रेस अध्यक्ष खरगे द्वारा पीएम मोदी के बारे में दिए गए बयान की निंदा की है। केंद्रीय गृहमंत्री ने कहा कि इस बयान ने सारी मर्यादाएं तार-तार कर दी हैं। कांग्रेस पार्टी के पास कोई मुद्दे नहीं हैं। वह केवल गाली-गलौच की राजनीति कर रही है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-25T13:34:13+00:00",
@@ -2269,39 +2302,5 @@
     "pub_date": "2026-10-25T12:59:11+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/PV-Sindhu.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/lifestyle/news/story/bhagavad-gita-inspired-house-names-with-beautiful-meanings-for-your-home-modern-sanskrit-naam-house-nameplate-tvisx-dskc-2676770-2026-10-25?utm_source=rssfeed",
-    "title": "नए घर का नाम रखना है खास? भगवद्गीता से प्रेरित ये 7 नाम आएंगे पसंद",
-    "description": "नए घर के लिए नाम चुन रहे हैं, तो भगवद्गीता से प्रेरित ये 7 खूबसूरत नाम आपके काम आ सकते हैं. भक्ति भवन, शांति निकेतन और ज्ञान सदन जैसे नामों के अर्थ जानें. ये नाम भक्ति, शांति, ज्ञान और सकारात्मकता जैसे विचारों से जुड़े हैं और आपके आशियाने को खास पहचान दे सकते हैं.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-25T12:58:03+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/india/news/story/arunachal-pradesh-siang-project-protest-violence-center-deploys-250-raf-ntc-drmt-rpti-2679892-2026-10-25?utm_source=rssfeed",
-    "title": "सियांग प्रोजेक्ट को लेकर भड़की हिंसा पर केंद्र का एक्शन, 250 RAF भेजे",
-    "description": "अरुणाचल प्रदेश के पासीघाट में सियांग अपर मल्टीपर्पज हाइड्रोपावर प्रोजेक्ट को लेकर जमकर बवाल हो रहा है. उपद्रवियों ने NHPC कार्यालय और पुलिस थाने में आगजनी की, साथ ही प्रदेश BJP अध्यक्ष समेत तीन नेताओं के आवासों को नुकसान पहुंचाया. ऐसे में केंद्र सरकार ने स्थिति नियंत्रण में लाने के लिए 250 रैपिड एक्शन फोर्स जवानों को तैनात किया है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-25T12:55:17+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.bbc.com/hindi/articles/cjp3g7qzewvko?at_medium=RSS&at_campaign=rss",
-    "title": "इसराइल के अंदर सैनिकों को 'नाज़ी' बताकर प्रदर्शन क्यों, क्या बंट रहा है इसराइली समाज?",
-    "description": "सेना में भर्ती के मुद्दे पर अति-रूढ़िवादी यहूदियों और इसराइल के दूसरे हिस्सों के बीच टकराव बढ़ रहा है. वहां कई प्रदर्शनकारियों ने सुरक्षाबलों को ‘नाज़ी’ तक कहा. आख़िर इसराइली समाज में दरार क्यों बढ़ रही है?",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-25T12:55:00+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/257c/live/c67fa080-d075-11f1-afcb-6b9b9432d8fc.jpg",
-    "source_name": "BBC.COM"
   }
 ]
