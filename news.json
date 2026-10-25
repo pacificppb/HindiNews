@@ -33,17 +33,6 @@
     "source_name": "NDTV.IN"
   },
   {
-    "link": "https://www.amarujala.com/india-news/national-updates-26-oct-congress-demand-cec-step-down-jharkhand-tribal-woman-murder-north-east-west-south-news-2026-10-26",
-    "title": "न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
-    "description": "न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-25T21:45:30+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-26",
     "title": "पढ़ें 26 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -51,7 +40,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-25T21:30:32+00:00",
+    "pub_date": "2026-10-25T22:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/national-updates-26-oct-congress-demand-cec-step-down-jharkhand-tribal-woman-murder-north-east-west-south-news-2026-10-26",
+    "title": "न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
+    "description": "न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-25T21:45:30+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -216,7 +216,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-26-oct-2026-3945276.html",
-    "title": "Aaj Ki Taaja Khabar Live Updates: यूपी के फिरोजाबाद में कार की टक्कर से 4 की मौत, एक दर्जन घायल",
+    "title": "Aaj Ki Taaja Khabar Live Updates: जम्मू रेलवे स्टेशन के सामने स्थित शिव मार्केट में लगी भीषण आग",
     "description": "LPG डिस्ट्रीब्यूटर्स एसोसिएशन ऑफ इंडिया (LDAI) ने अपनी कई मांगों को लेकर आंदोलन का ऐलान किया है. बीजेपी आज देशभर के सभी प्रदेश मुख्यालयों पर जोरदार प्रदर्शन करेगी.",
     "categories": [
       "Breaking News",
@@ -1025,7 +1025,6 @@
     "title": "&#039;बाप भी जाएगा&#039; वाले बयान पर खड़गे के खिलाफ शिकायत दर्ज, आज देशभर में बीजेपी का प्रदर्शन",
     "description": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के प्रधानमंत्री नरेंद्र मोदी के पिता पर दिए गए विवादित बयान को लेकर पटना में शिकायत दर्ज हो गई है. बीजेपी ने सोमवार को देशभर में खड़गे के खिलाफ प्रदर्शन का भी ऐलान कर दिया है. वहीं, कांग्रेस नेताओं ने खड़गे का बचाव करते हुए बीजेपी पर पलटवार किया है और कहा कि ये राजनीतिक बदले की कार्रवाई है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-25T15:58:45+00:00",
