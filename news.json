@@ -33,6 +33,29 @@
     "source_name": "NDTV.IN"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-26",
+    "title": "पढ़ें 26 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-25T21:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.patrika.com/raipur-news/nyaydhani-knights-handed-crushing-4-1-defeat-to-bailadila-bulls-in-chl-raipur-21008266",
+    "title": "CHL Raipur: न्यायधानी नाइट्स ने बैलाडीला बुल्स को 4-1 से करारी मात दी",
+    "description": "CHLRaipur: राजधानी रायपुर के सरदार वल्लभभाई पटेल अंतरराष्ट्रीय हॉकी स्टेडियम में खेली जा रही छत्तीसगढ़ हॉकी लीग (सीएचएल) में रविवार को बैलाडीला बुल्स के खिलाफ 4-1 की शानदार जीत के साथ न्यायधानी नाइट्स ने सेमीफाइनल में अपनी जगह पक्की कर ली है।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-10-25T20:53:47+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Chhattisgarh-Hockey-League-Raipur-nyaydhani.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/video/india-news/mallikarjun-kharge-lands-in-trouble-for-making-derogatory-remarks-about-pm-modi-s-father-fir-registered-in-pa-2026-10-26",
     "title": "पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
     "description": "पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
@@ -65,18 +88,6 @@
     "pub_date": "2026-10-25T20:30:35+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-26",
-    "title": "पढ़ें 26 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-25T20:30:22+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
   },
   {
     "link": "https://www.patrika.com/raipur-news/mainpat-titans-handed-crushing-5-2-defeat-to-rajdhani-royals-in-chl-raipur-21008263",
@@ -563,7 +574,6 @@
     "title": "VIDEO: जिस कार्यक्रम में PM मोदी के पिता पर टिप्पणी हुई, खरगे के भाषण के दौरान उसमें ज्यादातर कुर्सियां खाली दिखीं",
     "description": "बिहार के पटना में मल्लिकार्जुन खरगे जब स्पीच दे रहे थे, उस समय कार्यक्रम स्थल पर ज्यादातर कुर्सियां खाली थीं। इसका वीडियो भी सामने आया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-25T17:26:00+00:00",
@@ -2277,16 +2287,5 @@
     "pub_date": "2026-10-25T13:14:43+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/bollywood/70-year-old-song-raj-kapoor-nargis-danced-as-puppets-lata-mangeshkar-manna-dey-voice-still-every-couples-favorite-today-12233386#publisher=newsstand",
-    "title": "राज कपूर-नर्गिस का 70 साल पुराना वो गाना जिसमें दोनों बने थे कठपुतली, आज भी हर कपल की प्लेलिस्ट में शामिल",
-    "description": "70 साल पुराने इस गाने में कठपुतली बन नाचे थे हीरो-हिरोइन",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-10-25T13:11:30+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/mn6rjl2g_nargis_625x300_25_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
