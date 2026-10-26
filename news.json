@@ -22,6 +22,17 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/india-news/guwahati-hotel-shooting-assam-police-probe-hotel-lease-dispute-family-members-murder-firing-accused-arrest-2026-10-27",
+    "title": "गुवाहाटी गोलीकांड: भराली परिवार में चार की हत्या का कारण 'होटल का लीज' विवाद! जांच कर रही असम पुलिस क्या बोली?",
+    "description": "गुवाहाटी गोलीकांड: भराली परिवार में चार की हत्या का कारण 'होटल का लीज' विवाद! जांच कर रही असम पुलिस क्या बोली?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-26T19:40:44+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-27",
     "title": "पढ़ें 27 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -35,9 +46,10 @@
   },
   {
     "link": "https://www.aajtak.in/india/news/story/microsoft-voluntary-job-leave-programme-india-usa-uk-canada-ai-investment-workforce-restructuring-ntc-pvp-rptc-2680934-2026-10-27?utm_source=rssfeed",
-    "title": "छंटनी की आहट! माइक्रोसॉफ्ट ने 60 हजार कर्मियों को ऑफर किया स्वैच्छिक एग्जिट पैकेज",
+    "title": "माइक्रोसॉफ्ट ने 60 हजार कर्मियों को ऑफर किया स्वैच्छिक एग्जिट पैकेज",
     "description": "माइक्रोसॉफ्ट ने भारत, अमेरिका, ब्रिटेन और कनाडा में अपने कर्मचारियों के लिए स्वैच्छिक नौकरी छोड़ने की योजना शुरू की है, जिसमें करीब 60 हजार कर्मचारी शामिल हो सकते हैं.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-26T19:23:48+00:00",
@@ -2270,17 +2282,5 @@
     "pub_date": "2026-10-26T14:06:05+00:00",
     "image_url": null,
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/india/kashmiri-pandit-activist-arrested-allegedly-threatening-kashmiri-pandit-employees-action-taken-under-uapa-12238692#publisher=newsstand",
-    "title": "कश्मीरी पंडितों को आतंकी धमकियां देने वाला खुद पंडित ही निकला, फरीदाबाद से अरेस्ट हुआ राकेश हांडू",
-    "description": "कश्मीर में पंडित कर्मचारियों को धमकी देने वाले को पुलिस दबोच लिया है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-26T14:05:40+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/pgpo6q3o_delhi_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
