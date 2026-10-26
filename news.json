@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.patrika.com/world-news/saudi-arabia-carries-out-airstrikes-in-sanna-and-coastal-areas-along-red-sea-21010320",
+    "title": "सऊदी अरब ने सना और लाल सागर के पास किए हवाई हमले, कई जगह हुए धमाके",
+    "description": "यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच तनाव बढ़ता ही जा रहा है। दोनों पक्ष एक-दूसरे पर हमले कर रहे हैं। आज सुबह पहले हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद में किंग खालिद इंटरनेशनल एयरपोर्ट और कई तेल पाइपलाइन्स पर मिसाइलों और ड्रोन्स से हमले किए, जिसके जवाब में सऊदी अरब ने भी यमन की राजधानी सना पर एयरस्ट्राइक्स की। अब एक बार फिर सऊदी अरब की एयरफोर्स ने हूतियों के खिलाफ कार्रवाई की है।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-10-26T15:05:28+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.livehindustan.com/national/indian-army-fact-check-misleading-claims-presence-of-chinese-vehicles-at-nathu-la-pass-sikkim-201793025278238.html",
     "title": "क्या सिक्किम के नाथू ला में घुस आई चीनी सेना? वायरल दावे की सेना ने बताई सच्चाई",
     "description": "नाथू ला भारत और चीन के बीच सीमा व्यापार के लिए तय सेंटर्स में शामिल है। यहां दोनों देशों के बीच व्यापार समझौतों और सुविधाओं के तहत होता है। सेना ने कहा कि वायरल वीडियो में इसी व्यापार मार्ग पर चल रहे वाहनों को दिखाया गया।",
@@ -22,6 +33,17 @@
     "pub_date": "2026-10-26T14:52:04+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/26/1200x900/BJP_Leaders_1793026264996_zo8b_1793026271949_hmWh_7ad1c567-2362-4c75-ab4f-3fd5ea96be1f_j3jH.jpg",
     "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/sports/cricket-news/morne-morkels-unique-fan-trick-for-indias-test-team-in-wellington-3946115.html",
+    "title": "वेलिंगटन में पंखा दिलाएगा टीम इंडिया को जीत? सीरीज जीतने के लिए भारतीय खिलाड़ियों ने किया ऐसा",
+    "description": "वेलिंगटन में भारत और न्यूजीलैंड के बीच तीसरा टी20 खेला जाएगा. वेलिंगटन में तेज हवाएं चलती हैं जिसकी वजह से टीम इंडिया के खिलाड़ियों को मुसीबत हो सकती है.",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-10-26T14:51:47+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/morne-morkel-unique-fan-trick.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.indiatv.in/india/politics/pm-modi-remarks-row-navneet-rana-warn-mallikarjun-kharge-lalan-singh-said-mentally-unwell-2026-10-26-1251075",
@@ -56,6 +78,29 @@
     "pub_date": "2026-10-26T14:48:03+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/technology/apple-new-ipad-mini-launched-features-several-major-upgrades-3946113.html",
+    "title": "Apple का नया iPad mini लॉन्च, AI से लेकर वॉटर रेजिस्टेंस तक कई बड़े बदलाव",
+    "description": "Apple ने iPad mini को भारत में 82,900 रुपये की शुरुआती कीमत पर लॉन्च किया है. इसके Wi-Fi + Cellular मॉडल की कीमत 1,00,900 रुपये से शुरू है. प्री-बुकिंग 28 अक्टूबर से और बिक्री 6 नवंबर से शुरू होगी.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-10-26T14:46:57+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/apple-new-ipad-mini.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/cricket-news/ind-vs-nz-3rd-t20-update-wellington-pitch-stats-and-record-tilak-verma-vaibhav-suryavanshi-21010315",
+    "title": "IND vs NZ: वेलिंगटन की पिच पर टी20 में औसतन कितने रन बनते हैं? तीसरे टी20 से पहले जानें मैदान के दिलचस्प आंकड़े",
+    "description": "IND vs NZ 3rd T20: भारत और न्यूजीलैंड के बीच टी20 सीरीज का तीसरा मुकाबला वेलिंगटन में खेला जाएगा, जहां भारतीय टीम पहले भी 3 मैच खेल चुकी है और दो में उसे हार का सामना करना पड़ा था। लेकिन अच्छी बात यह है कि आखिरी मुकाबले में भारतीय टीम ने मैच टाई होने के बाद सुपर ओवर में जीत हासिल की थी। दूसरी ओर, न्यूजीलैंड का रिकॉर्ड यहां पर ज्यादा बेहतर नहीं है। मेजबान होने के बावजूद न्यूजीलैंड ने 18 मैचों में सिर्फ 10 में जीत हासिल की है और आठ में उसे हार का सामना करना पड़ा है।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-10-26T14:46:20+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Wellington-cricket-Ground-.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/entertainment/television/kaashvi-hiranandani-apologises-love-gill-bigg-boss-20-trolling-scout-op-3946094.html",
@@ -2245,51 +2290,5 @@
     "pub_date": "2026-10-26T11:52:31+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Animesh-Kujur.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/india/national/dac-clears-defence-acquisition-proposals-worth-more-than-rs-2-lakh-crore-for-indian-army-navy-and-air-force-2026-10-26-1251040",
-    "title": "भारतीय सेना, वायु सेना और नौसेना के लिए खुला खजाना, 2.12 लाख करोड़ रुपये के हथियार और अन्य सामान खरीदे जाएंगे",
-    "description": "रक्षा मंत्री राजनाथ सिंह की अध्यक्षता में हुई बैठक में DAC ने सेना, वायुसेना और नौसेना के लिए 2.12 लाख करोड़ रुपये के रक्षा अधिग्रहण प्रस्तावों को मंजूरी दे दी है। आइए जानते हैं कि इस रकम से क्या कुछ खरीदा जाएगा।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-26T11:52:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/defence-acquisition-indian-army-air-force-navy-1793013663.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://www.patrika.com/business-news/vande-bharat-sleeper-train-mumbai-bengaluru-varanasi-delhi-route-timing-fare-21009928",
-    "title": "Vande Bharat Sleeper Train: 2 नई वंदे भारत स्लीपर ट्रेनों को इस हफ्ते मिलेगी हरी झंडी, जानिए रूट, टाइमिंग और किराया",
-    "description": "भारतीय रेलवे लंबी दूरी की यात्रा को आसान बनाने के लिए दो नई वंदे भारत स्लीपर ट्रेनें शुरू करने जा रही है। ये ट्रेनें मुंबई-बेंगलुरु और वाराणसी-नई दिल्ली के बीच चलेंगी। प्रस्तावित कार्यक्रम के मुताबिक, मुंबई-बेंगलुरु ट्रेन की शुरुआत 31 अक्टूबर को और वाराणसी-दिल्ली ट्रेन की शुरुआत 1 नवंबर को होनी है। नई ट्रेनों से नौकरीपेशा लोगों, कारोबारियों, स्टूडेंट्स और धार्मिक यात्रा पर जाने वाले यात्रियों को बड़ा फायदा मिल सकता है।",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-10-26T11:51:02+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/vande-bharat-st.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/tiger-shroff-firing-case-four-accused-police-custody-till-october-28-3945886.html",
-    "title": "टाइगर श्रॉफ फायरिंग केस: चारों आरोपी 28 अक्टूबर तक पुलिस कस्टडी में, साजिश की जांच जारी",
-    "description": "टाइगर श्रॉफ फायरिंग केस में चारों आरोपी 28 अक्टूबर तक पुलिस कस्टडी में रहेंगे. क्राइम ब्रांच हथियारों की सप्लाई, डिलीट किए गए डिजिटल डेटा, वॉइस नोट्स और कथित गैंग कनेक्शन की जांच कर रही है.",
-    "categories": [
-      "Breaking News",
-      "Entertainment",
-      "National"
-    ],
-    "pub_date": "2026-10-26T11:50:21+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/tiger-shroff.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/world/story/israel-election-2026-benjamin-netanyahu-military-draft-ethnic-tensions-ntc-mnrd-smsr-2680681-2026-10-26?utm_source=rssfeed",
-    "title": "इजरायल चुनाव में नेतन्याहू की अग्निपरीक्षा... जंग ही नहीं, जातीय संघर्ष भी मुद्दा",
-    "description": "इज़रायल में 27 अक्टूबर को होने वाले चुनाव में प्रधानमंत्री बेंजामिन नेतन्याहू के नेतृत्व, 7 अक्टूबर 2023 के हमले की जवाबदेही, सेना में भर्ती और धार्मिक-जातीय मतभेद अहम मुद्दे हैं. मुकाबला करीबी माना जा रहा है और किसी भी खेमे को सरकार बनाने के लिए जरूरी बहुमत मिलने की गारंटी नहीं है.",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-10-26T11:49:43+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
