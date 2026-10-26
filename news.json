@@ -22,17 +22,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/india-news/national-updates-27-oct-bengal-bengaluru-bihar-bjp-congress-north-east-west-south-politics-crime-other-news-2026-10-27",
-    "title": "न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी",
-    "description": "न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-26T21:13:15+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-27",
     "title": "पढ़ें 27 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -40,7 +29,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-26T21:00:13+00:00",
+    "pub_date": "2026-10-26T21:30:25+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/national-updates-27-oct-bengal-bengaluru-bihar-bjp-congress-north-east-west-south-politics-crime-other-news-2026-10-27",
+    "title": "न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी",
+    "description": "न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-26T21:13:15+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -84,7 +84,6 @@
     "title": "तमिलनाडु: 100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत",
     "description": "तमिलनाडु: 100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत---Former Tamil Nadu Minister Anbil Mahesh Poyyamozhi Arrested in Alleged Rs 100 Crore School Approval Scam",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-26T20:20:54+00:00",
@@ -1320,7 +1319,6 @@
     "title": "पंजाब में 100 नई मिनी बसें शुरू, गांवों से शहरों तक सफर होगा आसान",
     "description": "पंजाब ने गांवों को शहरों से जोड़ने के लिए 100 नई मिनी बसें लॉन्च कीं, जिससे रोजगार पैदा हो रहा है और पंजाब के नौ डिपो में सार्वजनिक परिवहन का विस्तार हो रहा है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-26T15:32:10+00:00",
@@ -1354,7 +1352,6 @@
     "title": "'SIR के तीनों फैसले सर्वसम्मति से लिए गए', चुनाव आयोग ने सुप्रीम कोर्ट में रखा अपना पक्ष",
     "description": "चुनाव आयोग ने बताया कि यह हलफनामा तीनों चुनाव आयुक्तों- मुख्य चुनाव आयुक्त ज्ञानेश कुमार, चुनाव आयुक्त सुखबीर सिंह संधू और चुनाव आयुक्त विवेक जोशी की सर्वसम्मति से मंजूर और दाखिल किया गया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-26T15:30:05+00:00",
@@ -1410,7 +1407,6 @@
     "title": "बंगाल की खाड़ी में तेज हुआ चक्रवात अरनब; बुधवार सुबह तट से टकराने का अनुमान,  केंद्र ने राज्यों को किया अलर्ट",
     "description": "बंगाल की खाड़ी में उठा चक्रवात अरनब 28 अक्टूबर को आंध्र प्रदेश के तट से टकरा सकता है। हवा की रफ्तार 125 किलोमीटर प्रति घंटे तक पहुंचने का अनुमान है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-26T15:26:53+00:00",
