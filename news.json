@@ -18,7 +18,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-27T20:00:13+00:00",
+    "pub_date": "2026-10-27T20:30:28+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/cyclone-arnab-unleashes-its-fury-several-trains-cancelled-schools-closed-and-flight-services-also-affecte-2026-10-28",
+    "title": "साइक्लोन 'अर्नब' का भीषण तांडव हुआ शुरू,कई ट्रेनें रद्द, स्कूल बंद और विमान सेवाएं भी प्रभावित",
+    "description": "साइक्लोन 'अर्नब' का भीषण तांडव हुआ शुरू,कई ट्रेनें रद्द, स्कूल बंद और विमान सेवाएं भी प्रभावित",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-27T20:23:08+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2285,17 +2296,5 @@
     "pub_date": "2026-10-27T13:40:04+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/school-beg.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/technology/tech-news/story/free-fire-india-launch-date-download-features-2026-ttecm-dskc-2681638-2026-10-27?utm_source=rssfeed",
-    "title": "4 साल बाद लौट रहा Free Fire India! इस दिन से कर सकेंगे डाउनलोड",
-    "description": "भारत में एक समय पर Freefire Mobile का क्रेज था, लेकिन सरकार ने तब बैन कर दिया था. अब ये मोबाइल गेम फिर से वापसी कर रहा है और जल्द ही इसे डाउनलोड कर सकेंगे.",
-    "categories": [
-      "Breaking News",
-      "Technology"
-    ],
-    "pub_date": "2026-10-27T13:39:43+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
