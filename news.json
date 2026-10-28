@@ -18,9 +18,20 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-28T19:30:34+00:00",
+    "pub_date": "2026-10-28T20:00:13+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/business/story/us-federal-reserve-keeps-interest-rates-stable-economic-activity-strong-inflation-high-ntc-pvp-dskc-2682888-2026-10-29?utm_source=rssfeed",
+    "title": "US Fed Rate: महंगाई की टेंशन बरकरार, अमेरिकी फेडरल रिजर्व ने नहीं बदलीं ब्याज दरें",
+    "description": "अमेरिकी केंद्रीय बैंक फेडरल रिजर्व ने ब्याज दरों को 3.75% से 4% के दायरे में स्थिर रखा है. आर्थिक गतिविधियां मजबूत बनी हुई हैं, लेकिन महंगाई अभी भी उच्च स्तर पर बनी हुई है.",
+    "categories": [
+      "Business"
+    ],
+    "pub_date": "2026-10-28T19:52:13+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/delhi-congress-vice-president-mudit-agarwal-on-rubbishes-trader-loss-claims-said-10-lakh-visitors-will-boost-business/articleshow/135276842.cms",
@@ -2114,7 +2125,6 @@
     "title": "UP-कर्नाटक समेत चार राज्यों की 28 सीटों के MLC चुनाव में कांग्रेस को 0, कहां कौन जीता; पूरी लिस्ट",
     "description": "MLC Election Result: इन चुनावों में केवल स्नातक और शिक्षक मतदाता ही मतदान करने के पात्र होते हैं। मतदान के लिए इलेक्ट्रॉनिक वोटिंग मशीन के बजाय मतपत्रों (बैलेट पेपर) का इस्तेमाल किया जाता है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-28T13:59:15+00:00",
@@ -2268,16 +2278,5 @@
     "pub_date": "2026-10-28T13:39:55+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/school-student-5.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.bbc.com/hindi/articles/ck4g15wjv93no?at_medium=RSS&at_campaign=rss",
-    "title": "स्पेन में दो तेज़ रफ़्तार ट्रेनों की टक्कर, 68 लोगों की मौत, पीएम ने कहा- 'पूरा देश शोक में'",
-    "description": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर हुई है. दोनों ट्रेनों में कुल मिलाकर 500 से ज़्यादा यात्री सवार थे. राहत-बचाव अभियान जारी है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-28T13:39:52+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/311a/live/67b17dd0-d2cd-11f1-b677-b762d2f83f6e.jpg",
-    "source_name": "BBC.COM"
   }
 ]
