@@ -1,5 +1,62 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-28",
+    "title": "पढ़ें 28 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-28T04:00:14+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/sports/cricket/story/anaya-bangar-all-time-india-playing-xi-vaibhav-sooryavanshi-sachin-virat-tspok-dskc-2681314-2026-10-28?utm_source=rssfeed",
+    "title": "वैभव से सचिन-विराट तक, अनाया बांगड़ ने चुनी ऑल टाइम इंडिया प्लेइंग XI",
+    "description": "अनाया बांगड़  ने पुरुष और महिला क्रिकेटर्स को मिलाकर ऑल टाइम इंडियन प्लेइंग XI चुनी है. उनकी टीम में सचिन तेंदुलकर, विराट कोहली, स्मृति मंधाना, हरमनप्रीत कौर और वैभव सूर्यवंशी जैसे नाम शामिल हैं. अनाया ने खुद को भी इस टीम में जगह दी है. एमएस धोनी को कप्तान चुना गया, जिनकी गेम रीडिंग और क्रिकेटिंग समझ की तारीफ की गई.",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-10-28T04:00:07+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/cyclone-arnab-live-updates-landfall-andhra-pradesh-odisha-heavy-rains-strong-winds-2026-10-28",
+    "title": "चक्रवात अर्नब LIVE: आंध्र प्रदेश के तट से टकराया तूफान, कई इलाकों में तेज बारिश और आंधी; जगह-जगह पेड़ गिरे",
+    "description": "चक्रवात अर्नब LIVE: आंध्र प्रदेश के तट से टकराईं ऊंची समुद्री लहरें, कई राज्यों में तेज बारिश और आंधी का अलर्ट",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-28T03:59:43+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/science/story/where-will-cyclone-arnab-go-after-landfall-dskc-2681871-2026-10-28?utm_source=rssfeed",
+    "title": "लैंडफॉल के बाद अब किधर जाएगा अर्नब? क्या है लखनऊ-गोरखपुर कनेक्शन",
+    "description": "अर्नब यनम के पास लैंडफॉल कर उत्तर-पश्चिम दिशा में बढ़ेगा. आंध्र, तेलंगाना, छत्तीसगढ़ से होते हुए यूपी के लखनऊ-गोरखपुर क्षेत्र तक पहुंचकर कमजोर हो जाएगा. भारी बारिश का असर रहेगा.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-10-28T03:56:23+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.aajtak.in/entertainment/television/photo/actress-sweta-keswani-admits-having-one-night-stand-many-times-no-shame-married-two-times-tmovh-2681690-2026-10-28?utm_source=rssfeed",
+    "title": "दोस्तों संग किए वन नाइट स्टैंड, सुबह उठकर पछताई एक्ट्रेस!",
+    "description": "एक पॉडकास्ट में श्वेता केसवानी ने एडमिट किया कि उन्होंने कई बार वन नाइट स्टैंड किया है. उन सभी के साथ उनकी दोस्ती थी.",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-10-28T03:55:25+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/sonia-gandhi-opposed-rajiv-gandhi-becoming-prime-minister-sonia-gandhi-ki-book-name/articleshow/135250805.cms",
     "title": "'मैं पूरी तरह खिलाफ थी', राजीव के प्रधानमंत्री बनने पर सोनिया गांधी का बड़ा खुलासा",
     "description": "सोनिया गांधी ने अपनी आगामी आत्मकथा 'बिलॉन्गिंग: अ जर्नी ऑफ लव' में राजीव गांधी के प्रधानमंत्री बनने से जुड़ा एक अहम किस्सा शेयर किया है। उन्होंने बताया कि वह इस फैसले के पूरी तरह खिलाफ थीं।",
@@ -12,16 +69,29 @@
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/cyclone-arnab-live-updates-landfall-andhra-pradesh-odisha-heavy-rains-strong-winds-2026-10-28",
-    "title": "चक्रवात अर्नब LIVE: आंध्र प्रदेश के तट से टकराया तूफान, कई इलाकों में तेज बारिश और आंधी; जगह-जगह पेड़ गिरे",
-    "description": "चक्रवात अर्नब LIVE: आंध्र प्रदेश के तट से टकराईं ऊंची समुद्री लहरें, कई राज्यों में तेज बारिश और आंधी का अलर्ट",
+    "link": "https://www.prabhatkhabar.com/national/cyclone-arnab-live-andhra-pradesh-odisha-landfall-schools-trains-shut-bay-of-bengal",
+    "title": "Cyclone Arnab LIVE: लैंडफॉल के बाद अर्नब का कहर, आंध्र में घरों में घुसा पानी, ओडिशा में तेज तूफान",
+    "description": "Cyclone Arnab LIVE: चक्रवात 'अर्नब' तेजी से आंध्र तट की ओर बढ़ रहा है. मौसम विभाग के अनुसार, यह 28 अक्टूबर के तड़के 2 से 4 बजे के बीच 150 किमी/घंटा तक की रफ्तार से तट से टकरा सकता है. खतरे को देखते हुए तटीय इलाकों में हाई अलर्ट जारी है और राहत टीमें तैनात हैं.\nThe post Cyclone Arnab LIVE: लैंडफॉल के बाद अर्नब का कहर, आंध्र में घरों में घुसा पानी, ओडिशा में तेज तूफान appeared first on Prabhat Khabar.",
+    "categories": [
+      "Breaking News",
+      "National",
+      "Technology"
+    ],
+    "pub_date": "2026-10-28T03:51:22+00:00",
+    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/28/1793158308704/sizes/cyclone-arnab-23f443-hero.webp",
+    "source_name": "PRABHATKHABAR.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/bihar/bihar-mlc-election-results-anant-singh-concedes-defeat-says-will-not-congratulate-neeraj-kumar-2026-10-28-1251357",
+    "title": "Bihar MLC Election results: पटना स्नातक सीट पर अनंत सिंह ने मान ली हार, बोले-नीरज को बधाई नहीं देंगे",
+    "description": "पटना स्नातक निर्वाचन क्षेत्र से जदयू के उम्मीदवार नीरज कुमार लगातार बढ़त बनाए हुए हैं और अब उनकी जीत तय मानी जा रही है। जीत का दावा ठोकने वाले अनंत सिंह ने अब हार मान ली है और कहा है कि मैं नीरज को बधाई नहीं दूंगा।",
     "categories": [
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-28T03:52:24+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
+    "pub_date": "2026-10-28T03:51:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/anant-singh-2-1793159149.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://hindi.oneindia.com/news/india/abhijit-dipke-cjp-founder-invitation-ramdas-athawale-join-rpia-nda-1673433.html",
@@ -152,6 +222,18 @@
     "source_name": "PATRIKA.COM"
   },
   {
+    "link": "https://www.indiatv.in/india/national/india-invited-all-sco-member-countries-including-pakistan-to-first-civilizational-dialogue-forum-to-be-held-in-new-delhi-2026-10-28-1251354",
+    "title": "ऑपरेशन सिंदूर में जख्म देने के बाद भारत ने SCO समिट के लिए पाकिस्तान को भेजा न्योता, दिल्ली में होगा कार्यक्रम",
+    "description": "भारत ने 20 से 22 नवंबर तक नई दिल्ली में आयोजित होने वाले पहले 'सिविलाइज़ेशनल डायलॉग फोरम' (सभ्यता संवाद मंच) के लिए पाकिस्तान समेत SCO के सभी 10 सदस्य देशों को आमंत्रित किया है।",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-28T03:39:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/mangal-7-1793159094.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
     "link": "https://www.tv9hindi.com/sports/cricket-news/sa-vs-aus-mitchell-starc-six-wicket-in-cape-town-test-end-south-africa-inning-against-australia-3947312.html",
     "title": "Mitchell Starc, SA vs AUS: मिचेल स्टार्क की गेंदबाजी का ‘पोस्टमार्टम’, ऐसा करने वाले तीसरे ऑस्ट्रेलियाई",
     "description": "केप टाउन टेस्ट में मिचेल स्टार्क ने जिस तरह से ऑस्ट्रेलिया की वापसी कराई, वो कमाल की रही. स्टार्क ने 16.3 ओवर फेंके और 6 विकेट लिए. मगर बॉलिंग का जो फीगर दिख रहा है, उस असर उससे भी जबरदस्त है.",
@@ -183,19 +265,6 @@
     "pub_date": "2026-10-28T03:37:55+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.prabhatkhabar.com/national/cyclone-arnab-live-andhra-pradesh-odisha-landfall-schools-trains-shut-bay-of-bengal",
-    "title": "Cyclone Arnab LIVE: चक्रवात अर्नब का लैंडफॉल,  150 KM की रफ्तार से हवाएं, दक्षिण में भयंकर तूफान",
-    "description": "Cyclone Arnab LIVE: चक्रवात 'अर्नब' तेजी से आंध्र तट की ओर बढ़ रहा है. मौसम विभाग के अनुसार, यह 28 अक्टूबर के तड़के 2 से 4 बजे के बीच 150 किमी/घंटा तक की रफ्तार से तट से टकरा सकता है. खतरे को देखते हुए तटीय इलाकों में हाई अलर्ट जारी है और राहत टीमें तैनात हैं.\nThe post Cyclone Arnab LIVE: चक्रवात अर्नब का लैंडफॉल,  150 KM की रफ्तार से हवाएं, दक्षिण में भयंकर तूफान appeared first on Prabhat Khabar.",
-    "categories": [
-      "Breaking News",
-      "National",
-      "Technology"
-    ],
-    "pub_date": "2026-10-28T03:37:29+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/10/28/1793158308704/sizes/cyclone-arnab-23f443-hero.webp",
-    "source_name": "PRABHATKHABAR.COM"
   },
   {
     "link": "https://www.aajtak.in/business/utility/photo/vande-bharat-sleeper-varanasi-delhi-mumbai-bengaluru-fare-route-timings-stoppage-dpmx-2681860-2026-10-28?utm_source=rssfeed",
@@ -305,7 +374,7 @@
   },
   {
     "link": "https://www.amarujala.com/india-news/ex-sc-justice-sanjay-kishan-kaul-umar-khalid-sharjeel-imam-bail-trial-becomes-punishment-2026-10-28",
-    "title": "'मुकदमे की प्रक्रिया ही बन जाती है सजा': उमर-शरजील को जमानत नहीं मिलने पर बोले पूर्व जस्टिस कौल, और क्या कहा?",
+    "title": "'मुझे नहीं चाहिए कोई पद': पूर्व जज कौल ने सुनाया पीएम मोदी से चर्चा का किस्सा; उमर-शरजील के केस पर क्या कहा?",
     "description": "'मुकदमे की प्रक्रिया ही बन जाती है सजा': उमर-शरजील को जमानत नहीं मिलने पर बोले पूर्व जस्टिस कौल, और क्या कहा? ex-sc-justice-sanjay-kishan-kaul-umar-khalid-sharjeel-imam-bail-trial-becomes-punishment",
     "categories": [
       "National"
@@ -338,18 +407,6 @@
     "source_name": "AAJTAK.IN"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-28",
-    "title": "पढ़ें 28 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-28T03:30:17+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://navbharattimes.indiatimes.com/business/business-news/success-story-of-darshan-and-shruti-zinzuvadiya-who-started-selling-home-made-cold-coffee-earns-rs-36-lakh/articleshow/135245088.cms",
     "title": "Success Story: कार की डिग्‍गी से ₹36 लाख, सिर्फ ₹3,000 से कपल ने शुरू किया था काम, ऐसे लगे बिजनेस को पंख",
     "description": "नई दिल्‍ली: यह कहानी है अहमदाबाद के एक कपल की। इनके नाम हैं - दर्शन और श्रुति जिंजुवाडिया। इन दोनों ने दिनभर थका देने वाली नौकरी के बावजूद अपनी रातों की नींद और आराम को किनारे रख खुद का वेंचर खड़ा किया। इसका नाम 'द कोको स्‍टेशन' है। सिर्फ 3,000 रुपये से कार की डिग्‍गी से इसकी शुरुआत हुई। यह वेंचर होम-मेड  कोल्‍ड कॉफी की बिक्री करता है। कपल ने इससे 1.5 साल में 36 लाख रुपये की कमाई की है। आइए, यहां दर्शन और श्रुति की सफलता के सफर के बारे में जानते हैं।",
@@ -359,6 +416,18 @@
     "pub_date": "2026-10-28T03:30:00+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/135245088/success-story-of-darshan-and-shruti-zinzuvadiya-who-started-selling-home-made-cold-coffee-earns-rs-36-lakh.jpg?imgsize=134911&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/paisa/business/jio-platforms-ipo-listing-live-updates-check-gmp-nse-bse-jio-share-price-1251352",
+    "title": "Jio IPO Listing Live Updates: आज शेयर बाजार में Jio की एंट्री, 10 बजे शुरू होगी ट्रेडिंग; जानें कितना चल रहा GMP",
+    "description": "भारतीय शेयर बाजार के लिए आज का दिन इतिहास में दर्ज होने जा रहा है। मुकेश अंबानी की कंपनी Jio Platforms आज शेयर बाजार में धमाकेदार एंट्री करने जा रही है। ₹30,213 करोड़ के IPO के बाद अब निवेशकों की नजरें इस बात पर टिकी हैं कि लिस्टिंग के दिन Jio के शेयर किस भाव पर खुलते हैं।",
+    "categories": [
+      "Breaking News",
+      "Business"
+    ],
+    "pub_date": "2026-10-28T03:28:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/jio-jjjo-1793158045.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://ndtv.in/bollywood/harsh-gujral-jokes-about-up-law-and-order-in-front-of-cm-yogi-adityanath-reveals-criminals-selling-bananas-12246249#publisher=newsstand",
@@ -602,6 +671,17 @@
     "source_name": "PATRIKA.COM"
   },
   {
+    "link": "https://www.indiatv.in/entertainment/bollywood/for-sake-of-janhvi-kapoor-boyfriend-shikhar-took-major-step-post-sridevi-death-left-studies-in-london-to-be-by-actress-side-2026-10-28-1251349",
+    "title": "'उसे मेरी जरूरत है', जाह्नवी की खातिर शिखर ने छोड़ी थी पढ़ाई, श्रीदेवी की मौत के बाद लंदन से आए थे एक्ट्रेस के पास",
+    "description": "जाह्नवी कपूर ने 'कॉफी विद करण' में खुलासा किया कि श्रीदेवी के निधन के बाद शिखर पहाड़िया पढ़ाई छोड़कर मुंबई आ गए थे। एक्ट्रेस के मुताबिक मुश्किल वक्त में शिखर उनका सहारा बने थे।",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-10-28T03:06:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/janhvi-kapoor-shikhar-pahariya-1793156772.webp",
+    "source_name": "INDIATV.IN"
+  },
+  {
     "link": "https://ndtv.in/bollywood/sharmila-tagore-shammi-kapoor-60-year-old-song-deewana-hua-badal-from-movie-kashmir-ki-kali-shot-in-kashmir-valleys-sung-by-mohammed-rafi-and-asha-bho-12241282#publisher=newsstand",
     "title": "60 साल पुराना शर्मिला-शम्मी का गाना, कश्मीर की खूबसूरत वादियों में हुआ शूट, मोहम्मद रफी और आशा भोसले की आवाज में अमर",
     "description": "60 साल पुराना शर्मिला-शम्मी का गाना, कश्मीर की वादियों में हुआ शूट",
@@ -687,11 +767,24 @@
     "title": "SCO की बैठक के लिए भारत ने पाकिस्तान-चीन समेत 10 देशों को भेजा न्योता, सुधरेंगे दोनों देशों के बीच रिश्ते?",
     "description": "भारत ने अगले महीने होने वाली SCO के सिविलाइजेशनल डायलॉग फोरम की पहली बैठक के लिए पाकिस्तान समेत सभी सदस्य 10 देशों को आमंत्रित किया है। इस बैठक के लिए पाकिस्तान के राष्ट्रीय विरासत एवं संस्कृति मंत्री औरंगजेब खान खिची को न्योता भेजा गया है।",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-28T03:01:15+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/135249704/sco-summit-1.jpg?imgsize=126926&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/world/asia/netanyahu-will-remain-pm-or-not-israel-election-exit-poll-netanyahu-opposition-no-majority-2026-10-28-1251347",
+    "title": "नेतन्याहू पीएम रहेंगे या नहीं? इजरायल चुनाव में कांटे की टक्कर, एग्जिट पोल में किसी को बहुमत नहीं",
+    "description": "इजरायल में नेतन्याहू फिर प्रधानमंत्री बनेंगे या नहीं? एग्जिट पोल के अनुमानों की मानें तो नेतन्याहू को इस संसदीय चुनाव में बहुमत नहीं मिलने जा रहा है। फिर से पीएम बनने के लिए उन्हें अन्य दलों के सपोर्ट की जरूरत पड़ सकती है।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-10-28T03:00:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/untitled-design-2026-10-28t082834-1793156347.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.aajtak.in/world/story/saudi-arabia-houthis-one-billion-dollar-offer-pakistan-army-chief-asim-munir-iran-talks-ntc-aktw-dskc-2681854-2026-10-28?utm_source=rssfeed",
@@ -704,6 +797,17 @@
     "pub_date": "2026-10-28T02:59:44+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.indiatv.in/sports/cricket/team-india-gains-in-icc-rankings-india-moves-closer-to-number-one-after-winning-three-matches-vs-new-zealand-2026-10-28-1251346",
+    "title": "आईसीसी रैंकिंग में टीम इंडिया को फायदा, तीन मैच जीतकर नंबर वन के करीब पहुंचा भारत",
+    "description": "आईसीसी रैंकिंग में टीम इंडिया को फायदा मिला है। न्यूजीलैंड के खिलाफ टीम लगातार तीन मैच अपने नाम कर चुकी है, अब जल्द ही हो सकता है भारत फिर से पहले नंबर की कुर्सी  पर काबिज हो जाए।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-10-28T02:59:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/10/abhishek-sharma-4-ap-1793156231.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/india/up-elections-ec-strict-transfer-posting-guidelines-for-fair-polls-officer-deployment-3947249.html",
@@ -2214,106 +2318,5 @@
     "pub_date": "2026-10-27T22:00:02+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/world/story/israel-election-exit-polls-eigenkot-leads-netanyahu-challenges-government-formation-ntc-pvp-dskc-2681818-2026-10-28?utm_source=rssfeed",
-    "title": "नेतन्याहू की सत्ता से होगी बेदखली? एग्जिट पोल में &#039;बीबी&#039; को बहुमत नहीं",
-    "description": "इजरायल में 2024 के चुनाव के एग्जिट पोल के अनुसार, आइजेनकोट के नेतृत्व वाले ब्लॉक को तीन प्रमुख मीडिया संस्थानों ने नेतन्याहू के ब्लॉक से आगे बताया है. हालांकि, किसी भी पक्ष को स्पष्ट बहुमत नहीं मिला है.",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-10-27T21:17:20+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/cyclone-arnab-landfall-in-andhra-pradesh-coast-massive-devastation-3947187.html",
-    "title": "चक्रवात ‘अर्नब’ का महासंकट: लैंडफॉल से पहले सड़क पर आया समंदर, अलर्ट जारी",
-    "description": "मौसम विभाग ने चेतावनी दी है कि आंध्र को पार करने के बाद भी इस तूफान का असर कम नहीं होगा. इससे ओडिशा, तेलंगाना, छत्तीसगढ़, झारखंड और उत्तर प्रदेश के कई हिस्से भी प्रभावित होंगे.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-27T21:15:04+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/cyclone-arnab-alert.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/madhya-pradesh/story/astha-mla-gopal-singh-engineer-viral-video-bribery-district-panchayat-election-congress-targets-bjp-ntc-pvp-rpti-2681816-2026-10-28?utm_source=rssfeed",
-    "title": "&#039;18 में से 10 को खरीद लिया&#039;, बीजेपी विधायक का वीडियो वायरल",
-    "description": "आष्टा विधायक गोपाल सिंह इंजीनियर का एक वीडियो सोशल मीडिया पर वायरल हो रहा है जिसमें उन्होंने जिला पंचायत अध्यक्ष चुनाव में खरीद-फरोख्त की बात कबूली है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T21:01:36+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/video/india-news/cyclone-arnab-unleashes-its-fury-several-trains-cancelled-schools-closed-and-flight-services-also-affecte-2026-10-28",
-    "title": "साइक्लोन 'अर्नब' का भीषण तांडव हुआ शुरू,कई ट्रेनें रद्द, स्कूल बंद और विमान सेवाएं भी प्रभावित",
-    "description": "साइक्लोन 'अर्नब' का भीषण तांडव हुआ शुरू,कई ट्रेनें रद्द, स्कूल बंद और विमान सेवाएं भी प्रभावित",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T20:23:08+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/india/news/story/supreme-court-justice-sanjay-kishan-kaul-comments-on-judicial-appointments-and-dy-chandrachud-ntc-pvp-dskc-2681815-2026-10-28?utm_source=rssfeed",
-    "title": "&#039;चंद्रचूड़ के फैसलों पर नहीं, जजों की नियुक्ति पर सवाल&#039;, जस्टिस कौल की सफाई",
-    "description": "सुप्रीम कोर्ट के पूर्व जज जस्टिस संजय किशन कौल ने पूर्व चीफ जस्टिस डीवाई चंद्रचूड़ की नियुक्ति प्रक्रिया पर आलोचना को लेकर सफाई दी है. उन्होंने कहा कि उनकी टिप्पणी केवल नियुक्ति प्रक्रिया के रवैये तक सीमित थी, न कि न्यायिक फैसलों या कामकाज को लेकर.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T19:59:51+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/varanasi-mlc-election-result-2026-sp-candidate-lal-bihari-yadav-defeated-bjp-pramod-mishra-3947179.html",
-    "title": "यूपी MLC चुनाव: वाराणसी में हारी BJP, बागी ने बिगाड़ा खेल, सपा प्रत्याशी बोले ‘2027 के लिए शुभ संकेत’",
-    "description": "वाराणसी की शिक्षक निर्वाचन सीट से सपा प्रत्याशी लाल बिहारी यादव ने एकतरफा मुकाबले में ऐतिहासिक जीत दर्ज की है, जबकि बीजेपी को यहां करारी हार का सामना करना पड़ा है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-27T19:51:17+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/lal-bihari-yadav.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.livehindustan.com/national/public-impeachment-move-against-cec-gyanesh-kumar-opposition-leaders-to-gather-at-kharge-residence-on-30-october-201793127986052.html",
-    "title": "ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग; 30 अक्टूबर को खरगे के घर विपक्षी नेताओं का जमावड़ा",
-    "description": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने इंडिया गठबंधन के नेताओं को पत्र लिखकर 30 अक्टूबर को दिल्ली में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ अपने आवास पर एक सार्वजनिक कार्यक्रम के लिए बुलाया है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T19:34:24+00:00",
-    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/27/1200x900/ANI-20261015405-0_1793128451024_vOeW_1793128459555_UUtk_4ba42c96-2cd3-4c9a-8a3f-e07cdda2b9bf_NwQV.jpg",
-    "source_name": "LIVEHINDUSTAN.COM"
-  },
-  {
-    "link": "https://hindi.oneindia.com/news/india/kartarpur-sahib-corridor-reopen-appeal-punjab-assembly-012-1673423.html",
-    "title": "करतारपुर साहिब कॉरिडोर फिर से खोला जाए, धार्मिक भावनाएं राजनीति से ऊपर: मुख्यमंत्री भगवंत मान",
-    "description": "पंजाब के मुख्यमंत्री ने तीर्थयात्रियों की निर्बाध पहुँच सुनिश्चित करने और धार्मिक भावनाओं का सम्मान करने के लिए करतारपुर साहिब कॉरिडोर को तुरंत फिर से खोलने का आह्वान किया है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T19:31:08+00:00",
-    "image_url": "https://hindi.oneindia.com/img/2026/10/kartarpur-sahib-corridor-1793129423046-1200x675.jpg",
-    "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-farmer-welfare-quiz-winners-lottery-012-1673421.html",
-    "title": "MP में 165 किसानों को मिलेंगे ट्रैक्टर, बुलेट और ई-स्कूटर, लॉटरी से हुआ विजेताओं का चयन",
-    "description": "मध्य प्रदेश ने किसान कल्याण स्वाभिमान प्रश्नोत्तरी के लिए 55 जिलों से 165 विजेताओं का चयन लॉटरी के माध्यम से किया है, जिन्हें राज्य स्थापना दिवस पर पुरस्कृत किया जाएगा।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-27T19:02:19+00:00",
-    "image_url": "https://hindi.oneindia.com/img/2026/10/farmer-welfare-quiz-1793127628924-1200x675.jpg",
-    "source_name": "HINDI.ONEINDIA.COM"
   }
 ]
