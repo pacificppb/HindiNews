@@ -40,9 +40,20 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-29T22:00:13+00:00",
+    "pub_date": "2026-10-29T22:30:22+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/prayagraj-tgt-pgt-aspirants-protest-ends-police-remove-protesters-by-force-3949119.html",
+    "title": "प्रयागराज: TGT-PGT अभ्यर्थियों का अनिश्चितकालीन धरना खत्म, पुलिस ने जबरन उठाया, हिरासत में दर्जनों छात्र-छात्राएं",
+    "description": "यह पहला मौका नहीं है जब इन अभ्यर्थियों ने अपनी मांगों के लिए आवाज उठाई है. इससे पहले शिक्षक दिवस यानी 5 सितंबर से लेकर 23 सितंबर तक लगातार 19 दिनों तक छात्रों का उग्र आंदोलन चला था.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-29T22:15:12+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/protest-in-prayagraj.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.amarujala.com/india-news/top-news-30-october-2026-sir-deadlines-jamia-su-elections-cyclone-arnab-navy-warships-approval-2026-10-30",
@@ -264,7 +275,6 @@
     "title": "Aaj Ki Taaja Khabar Live Updates: PM मोदी आज जारी करेंगे पीएम-किसान योजना की 24वीं किस्त",
     "description": "प्रधानमंत्री नरेंद्र मोदी आज पीएम-किसान योजना की 24वीं किस्त जारी करेंगे. INDIA गठबंधन कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे के आवास पर सार्वजनिक महाभियोग कार्यक्रम करेगा.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-29T18:31:58+00:00",
@@ -2261,16 +2271,5 @@
     "pub_date": "2026-10-29T13:58:16+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/donald-trump-new-attack-on-iran-if-peace-talks-fail-21017096",
-    "title": "ईरान पर नए हमले के लिए ट्रंप सबसे ज्यादा बेताब, शांति वार्ता फेल हुई तो 3 नवंबर के बाद बढ़ेगा खतरा",
-    "description": "US Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ईरान के साथ समझौता करना चाहते हैं, लेकिन बातचीत नाकाम रही तो वे जल्द ही एक बार फिर सैन्य कार्रवाई का आदेश दे सकते हैं। यह जानकारी अमेरिकी मीडिया संस्थान सेमाफोर (Semafor) ने ट्रंप प्रशासन के एक अज्ञात अधिकारी के हवाले से दी है।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-10-29T13:58:11+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Iran-US-Tensions.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
