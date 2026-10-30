@@ -22,17 +22,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/india-news/isro-chief-narayanan-lauds-success-nvs-03-satellite-navic-restored-navigation-satellite-gslv-record-time-2026-10-31",
-    "title": "एनवीएस 03 उपग्रह: सबसे कम समय में पूरी हुई जीएसएलवी से भेजने की तैयारी, इसरो प्रमुख गगनयान मिशन पर क्या बोले?",
-    "description": "एनवीएस 03 उपग्रह: सबसे कम समय में पूरी हुई जीएसएलवी से भेजने की तैयारी, इसरो प्रमुख गगनयान मिशन पर क्या बोले?",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-10-30T20:07:20+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-31",
     "title": "पढ़ें 31 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -40,7 +29,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-30T20:00:14+00:00",
+    "pub_date": "2026-10-30T20:30:18+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/isro-chief-narayanan-lauds-success-nvs-03-satellite-navic-restored-navigation-satellite-gslv-record-time-2026-10-31",
+    "title": "एनवीएस 03 उपग्रह: सबसे कम समय में पूरी हुई जीएसएलवी से भेजने की तैयारी, इसरो प्रमुख गगनयान मिशन पर क्या बोले?",
+    "description": "एनवीएस 03 उपग्रह: सबसे कम समय में पूरी हुई जीएसएलवी से भेजने की तैयारी, इसरो प्रमुख गगनयान मिशन पर क्या बोले?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-30T20:07:20+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -1779,7 +1779,6 @@
     "title": "बिहार में ‘खेत बचाओ अभियान’ को जन-आंदोलन बनाने की पहल, पटना में किसानों से सीधा संवाद",
     "description": "बिहार का खेत बचाओ अभियान मिट्टी के स्वास्थ्य को बनाए रखने, प्राकृतिक खेती को बढ़ावा देने और सक्रिय उपायों और एक लचीले रोलआउट के माध्यम से किसानों को सशक्त बनाने का लक्ष्य रखता है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-30T14:31:20+00:00",
