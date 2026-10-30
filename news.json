@@ -29,9 +29,21 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-10-30T19:30:29+00:00",
+    "pub_date": "2026-10-30T20:00:14+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.livehindustan.com/national/jammu-kashmir-cm-omar-abdullah-grow-louder-disgruntled-mlas-hold-a-meeting-voices-of-rebellion-201793389932089.html",
+    "title": "उमर अब्दुल्ला की पार्टी में बगावत के सुर तेज? नाराज विधायकों की श्रीनगर में बैठक",
+    "description": "जम्मू-कश्मीर में राजनीतिक उठापटक देखने को मिल रही है। मुख्यमंत्री उमर अब्दुल्ला द्वारा किए गए कैबिनेट विस्तार के बाद कई वरिष्ठ नेता नाराज चल रहे हैं। इन नेताओं ने शुक्रवार को श्रीनगर में एक विधायक के घर में बैठक की।",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-30T19:58:20+00:00",
+    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/10/30/1200x900/abh_1793390113357_2Jro_1793390113474_qsav_512e60e0-d3fd-4768-aa34-d741b3e3b52a_BKCf.jpg",
+    "source_name": "LIVEHINDUSTAN.COM"
   },
   {
     "link": "https://www.tv9hindi.com/state/fire-breaks-out-at-factory-in-delhi-mangolpuri-3950102.html",
@@ -41,7 +53,7 @@
       "National"
     ],
     "pub_date": "2026-10-30T19:26:48+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2021/01/breaking-news-13-01-2021-3.jpg",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/fire-in-delhi-2-1.jpg",
     "source_name": "TV9HINDI.COM"
   },
   {
@@ -577,6 +589,7 @@
     "title": "सीएम उमर के खिलाफ बगावत? नाराज 15 विधायकों की मीटिंग",
     "description": "कैबिनेट फेरबदल के बाद जम्मू-कश्मीर की सत्तारूढ़ नेशनल कॉन्फ्रेंस में नाराजगी बढ़ती नजर आ रही है. 15 से ज्यादा नाराज NC और निर्दलीय विधायकों ने श्रीनगर में बैठक कर आगे की राजनीतिक रणनीति पर चर्चा की.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-30T17:10:51+00:00",
@@ -2280,17 +2293,5 @@
     "pub_date": "2026-10-30T13:40:28+00:00",
     "image_url": "https://hindi.oneindia.com/img/2026/10/norafatehi1-96081793367570.jpg",
     "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://ndtv.in/career/soman-debnath-cycled-191-countries-2-lakh-km-reunion-bharat-campaign-12259644#publisher=newsstand",
-    "title": "साइकिल से 191 देशों का सफर, चीन में हुआ मौत से सामना, फिर कैसे बची सोमन देबनाथ की जान?",
-    "description": "साइकिल से घूम डाले 191 देश; जानिए कौन हैं सोमन देबनाथ",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-30T13:39:32+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-10/v9ijf9js_soman-debnath-cycled-191-countries-2-lakh-km-reunion-bharat-campaign_625x300_30_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
