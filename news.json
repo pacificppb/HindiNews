@@ -34,6 +34,17 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.tv9hindi.com/state/fire-breaks-out-at-factory-in-delhi-mangolpuri-3950102.html",
+    "title": "दिल्ली के मंगोलपुरी में एक जूता फैक्ट्री में लगी भीषण आग, 4 लोगों की मौत, 2 घायल",
+    "description": "दिल्ली के मंगोलपुरी में एक फैक्ट्री में भीषण आग लग गई, जिसमें 4 लोगों की मौत हो गई. वहीं दो लोग घायल हो गए हैं. दमकल विभाग आग पर काबू पाने की कोशिश में जुटा हुआ है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-10-30T19:26:48+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2021/01/breaking-news-13-01-2021-3.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
     "link": "https://navbharattimes.indiatimes.com/india/isro-successfully-launches-nvs-03-satellite-navigation-system/articleshow/135375819.cms",
     "title": "ISRO ने फिर रच दिया इतिहास, श्रीहरिकोटा से NVS-03 सैटेलाइट की सफल लॉन्चिंग, झूम उठे वैज्ञानिक; देखें वीडियो",
     "description": "इसरो एक बार फिर इतिहास रचते हुए श्रीहरिकोटा से सैटेलाइट NVS-03 की सफल लॉन्चिंग की है। यह एक नेविगेशन सैटेलाइट है।",
@@ -69,7 +80,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/gslv-f18-nvs-03-mission-gslv-f18-rocket-lifts-off-from-satish-dhawan-space-centre-in-sriharikota-3950092.html",
-    "title": "अंतरिक्ष में भारत की बड़ी छलांग, NVS-03 सैटेलाइट लॉन्च",
+    "title": "अंतरिक्ष में भारत की बड़ी छलांग, ISRO की NVS-03 सैटेलाइट लॉन्च, विदेशी GPS पर भारत की निर्भरता होगी खत्म?",
     "description": "NVS-03 सैटेलाइट में स्वदेशी एटॉमिक क्लॉक के साथ अन्य एटॉमिक क्लॉक भी लगाए गए हैं. इसमें मौजूदा L5 और S बैंड सिग्नल के साथ L1 सिग्नल भी शामिल किया गया है.",
     "categories": [
       "Breaking News",
@@ -92,7 +103,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-31-oct-2026-3950073.html",
-    "title": "Aaj Ki Taaja Khabar Live Updates: CEC ज्ञानेश कुमार के खिलाफ INDIA ब्लॉक का जन महाभियोग आज",
+    "title": "Aaj Ki Taaja Khabar Live Updates: दिल्ली के मंगोलपुरी में एक फैक्ट्री में आग लगने से 4 लोगों की मौत, 2 घायल",
     "description": "गठबंधन इंडिया आज शनिवार को सीईसी ज्ञानेश कुमार के खिलाफ सांकेतिक जन महाभियोग कार्यक्रम करने जा रहा है.  वहीं वाराणसी-दिल्ली के बीच वंदे भारत स्लीपर एक्सप्रेस सेवा आज से शुरू होगी.",
     "categories": [
       "Breaking News",
@@ -383,7 +394,6 @@
     "title": "अंतरिक्ष में भारत की बड़ी सफलता, सटीक लॉन्च के बाद NVS-03 सफलतापूर्वक कक्षा में स्थापित",
     "description": "ISRO ने नेविगेशन की अगली पीढ़ी के लिए सैटेलाइट NVS-03 लॉन्च किया है। इस सैटेलाइट के लॉन्च से भारत के NavIC सिस्टम को बेहतर करने में मदद मिलेगी। केंद्रीय मंत्री जितेंद्र सिंह ने इस सफलता पर ISRO के वैज्ञानिकों को बधाई दी है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-10-30T17:32:11+00:00",
@@ -2282,17 +2292,5 @@
     "pub_date": "2026-10-30T13:39:32+00:00",
     "image_url": "https://c.ndtvimg.com/2026-10/v9ijf9js_soman-debnath-cycled-191-countries-2-lakh-km-reunion-bharat-campaign_625x300_30_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/business/news/story/world-largest-crypto-exchange-binance-hacked-six-billion-wiped-out-tutd-dskc-2684439-2026-10-30?utm_source=rssfeed",
-    "title": "सबसे बड़ी क्रिप्‍टो चोरी... 60000 करोड़ गायब, नॉर्थ कोरिया से कनेक्‍शन!",
-    "description": "दुनिया की सबसे बड़ी क्रिप्‍टो चोरी हो चुकी है. करीब 60 हजार करोड़ रुपये की सेंध बाइनेंस एक्‍सचेंज पर हुआ है, जिसमें नॉर्थ कोरिया के हैकर्स का नाम सामने आ रहा है.",
-    "categories": [
-      "Breaking News",
-      "Business"
-    ],
-    "pub_date": "2026-10-30T13:36:34+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
