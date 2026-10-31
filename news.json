@@ -22,6 +22,18 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-31",
+    "title": "पढ़ें 31 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-10-31T01:30:14+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.livehindustan.com/national/census-2027-11-new-questions-population-enumeration-dates-self-enumeration-201793408993920.html",
     "title": "जनगणना में जुड़े 11 नए सवाल, डेढ़ महीने चलेगी प्रक्रिया; पहली बार 50 दिनों का होगा दूसरा चरण",
     "description": "जनगणना 2027 के दूसरे चरण में इस बार 40 सवाल पूछे जाएंगे। 10 जनवरी से सेल्फ एन्यूमरेशन शुरू होगा, जबकि घर-घर जाकर आबादी की गिनती की प्रक्रिया जनवरी से फरवरी तक चलेगी।",
@@ -142,18 +154,6 @@
     "pub_date": "2026-10-31T01:00:37+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-10-31",
-    "title": "पढ़ें 31 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-10-31T01:00:15+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/today-weather-31-october-heavy-rain-alert-in-17-states-winds-at-70-kmhr-delhi-up-bihar-himachal-temperature/articleshow/135382689.cms",
@@ -611,7 +611,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-31-oct-2026-3950073.html",
-    "title": "Aaj Ki Taaja Khabar Live Updates:  सपा नेता आजम खान आज बेटे अब्दुल्ला आजम के साथ आज जेल से बाहर आ सकते हैं",
+    "title": "Aaj Ki Taaja Khabar Live Updates:  सपा नेता आजम खान बेटे अब्दुल्ला आजम के साथ आज जेल से बाहर आ सकते हैं",
     "description": "गठबंधन इंडिया आज शनिवार को सीईसी ज्ञानेश कुमार के खिलाफ सांकेतिक जन महाभियोग कार्यक्रम करने जा रहा है.  वहीं वाराणसी-दिल्ली के बीच वंदे भारत स्लीपर एक्सप्रेस सेवा आज से शुरू होगी.",
     "categories": [
       "National"
