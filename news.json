@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-02",
+    "title": "पढ़ें 2 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-02T06:30:38+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://hindi.oneindia.com/news/india/punjab-ma-dhiyan-satkaar-yojana-direct-cash-transfers-women-012-1676737.html",
     "title": "पंजाब की 37.43 लाख महिलाओं के खातों में पहुंचे 1,291 करोड़ रुपये, मुख्यमंत्री भगवंत मान ने जारी की सम्मान राशि",
     "description": "पंजाब के सीएम भगवंत मान ने मां ध्यान सतकार योजना की घोषणा की, जिसके तहत 3.7 मिलियन से अधिक महिलाओं को 1,291 करोड़ रुपये दिए जाएंगे, जिसका लक्ष्य एक करोड़ लाभार्थियों तक पहुंचना है।",
@@ -9,6 +20,17 @@
     "pub_date": "2026-11-01T18:31:16+00:00",
     "image_url": "https://hindi.oneindia.com/img/2026/11/ma-dhiyan-satkaar-1793557819944-1200x675.jpg",
     "source_name": "HINDI.ONEINDIA.COM"
+  },
+  {
+    "link": "https://ndtv.in/world-news/el-nino-sparks-global-alarm-bolivia-declares-a-state-of-emergency-india-is-not-unaffected-find-out-how-countries-are-preparing-12268528#publisher=newsstand",
+    "title": "अल नीनो का दुनिया में खौफ, बोलिविया में लगी इमरजेंसी, भारत भी नहीं अछूता, जानिए किस देश की कैसी तैयारी",
+    "description": "अल नीनो के कारण खेती पर बहुत असर पड़ा है. (फोटो-एनडीटीवी)",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-11-01T18:30:54+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/eetppags_el-nino_625x300_08_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
   },
   {
     "link": "https://hindi.oneindia.com/news/india/delhi-metro-khalistani-conspiracy-after-diljit-dosanjh-concert-3-arrested-news-hindi-1676731.html",
@@ -114,6 +136,28 @@
     "source_name": "HINDI.ONEINDIA.COM"
   },
   {
+    "link": "https://ndtv.in/education/success-story-bihar-samastipur-two-sisters-agriculture-nursing-officer-12268441#publisher=newsstand",
+    "title": "Success Story: बिहार की दो बहनों ने रचा कीर्तिमान, ज्योति कृषि अधिकारी,  जूही नर्सिंग अफसर",
+    "description": "बिहार के समस्तीपुर के पिरौना गांव की दो सगी बहनों ने सरकारी सेवा में चयन पाकर परिवार और क्षेत्र का नाम रोशन किया है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-01T18:04:13+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/f38eisgg_success-story-bihar-samastipur-two-sisters-agriculture-nursing-officer_625x300_01_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/world-news/europe-crisis-shops-loot-in-germany-unrest-spreading-from-france-to-portugal-intresting-situation-in-poland-12268444#publisher=newsstand",
+    "title": "यूरोप में गदर: जर्मनी में लूटी गईं दुकानें, फ्रांस से लेकर पुर्तगाल उबल रहा, पोलैंड की अजब स्थिति",
+    "description": "यूरोप इस समय प्रदर्शनों और उपद्रव से जूझ रहा है. (फोटो-AFP)",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-11-01T18:02:56+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-10/lgpuinsg_france-protest_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://hindi.oneindia.com/news/india/bihar-vegfed-launch-first-vegetable-outlets-200-centres-012-1676725.html",
     "title": "बिहार के मुख्यमंत्री सम्राट चौधरी ने पटना जू के पास पहले तरकारी आउटलेट का किया उद्घाटन, पहले चरण में खुलेंगे 200 केंद्र",
     "description": "बिहार के वेजफेड ने किसानों को सीधे बिक्री से जोड़ने, बिचौलियों को खत्म करने और उपभोक्ताओं को ताज़ा उत्पाद प्रदान करने के लिए पटना चिड़ियाघर गेट 2 के पास पहला सब्जी आउटलेट खोला है।",
@@ -216,6 +260,17 @@
     "pub_date": "2026-11-01T17:44:00+00:00",
     "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/11/01/1200x900/PTI10-18-2026-000492B-_1793554940753_GJVj_1793554940862_xZhO_d8556c50-e07b-4e5d-91e8-d54c9409f2b5_a4YH.jpg",
     "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.indiatv.in/bihar/cm-samrat-appeal-to-affluent-and-taxpayers-in-bihar-forgo125-units-of-free-electricity-2026-11-01-1252269",
+    "title": "\"जिन्हें जरूरत नहीं, वे छोड़ें 125 यूनिट मुफ्त बिजली\", बिहार में CM सम्राट की संपन्न लोगों और करदाताओं से बड़ी अपील",
+    "description": "मुख्यमंत्री ने कहा कि राज्य सरकार बिजली सब्सिडी पर हर साल करीब 23 हजार करोड़ रुपये खर्च कर रही है। इस योजना के तहत सरकार सभी आर्थिक श्रेणियों के उपभोक्ताओं को हर महीने 125 यूनिट मुफ्त बिजली दे रही है।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-01T17:43:00+00:00",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/samrat-chaudhary-1-1793554554.webp",
+    "source_name": "INDIATV.IN"
   },
   {
     "link": "https://www.tv9hindi.com/india/punjab-politics-two-rebel-aap-mlas-may-join-bjp-ahead-of-2027-assembly-elections-cm-maan-challenges-3951700.html",
@@ -2236,62 +2291,5 @@
     "pub_date": "2026-11-01T13:31:43+00:00",
     "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/01/1793539203390/sizes/up-election-2027-ec970d-hero.webp",
     "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/sports/cricket-news/new-zealand-dropped-14-catches-against-india-in-t20i-series-ind-vs-nz-3951565.html",
-    "title": "न्यूजीलैंड ऐसे ही नहीं हारी T20 सीरीज, 14 बार की एक ही गलती, टीम इंडिया ने दी सजा",
-    "description": "टीम इंडिया की गेंदबाजी और बल्लेबाजी इस सीरीज में न्यूजीलैंड की तुलना में बेहतर ही रही लेकिन जिस मोर्चे पर न्यूजीलैंड ने सबसे ज्यादा संघर्ष किया, वो टीम की फील्डिंग थी.",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-01T13:30:55+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/new-zealand-drop-catches-vs-india-pti.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/lifestyle/home-living/story/how-to-clean-dirt-behind-wash-basin-remove-soap-scum-and-mold-wash-basin-ke-piche-jami-kali-gandagi-saaf-karne-ke-tarike-tvist-dskc-2682399-2026-11-01?utm_source=rssfeed",
-    "title": "वॉश बेसिन के पीछे जम गई है काली गंदगी? बिना मेहनत ऐसे करें साफ",
-    "description": "Bathroom Cleaning Tips: बाथरूम की सफाई करते समय अक्सर लोग वॉश बेसिन के पीछे के हिस्से को साफ करना या तो भूल जाते हैं या फिर नजरअंदाज कर देते हैं.  लेकिन यहां नमी के कारण जिद्दी दाग और फफूंदी जम जाती है. कुछ आसान टूल्स और तरीकों से आप इस छिपे हुए कोने को आसानी से चमका सकते हैं.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-01T13:30:33+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.livehindustan.com/national/big-action-in-mahadev-app-case-promoter-saurabh-chandrakar-brought-in-india-201793539460734.html",
-    "title": "महादेव ऐप केस में बड़ी कार्रवाई, प्रमोटर सौरभ चंद्राकर भारत लाया गया",
-    "description": "महादेव ऐप से जुड़े ₹6000 करोड़ के मनी लॉन्ड्रिंग मामले में बड़ी कार्रवाई हुई है। इस मामले के मुख्य प्रमोटर सौरभ चंद्राकर को गिरफ्तारी के बाद ओमान से भारत वापस लाया गया है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-01T13:28:48+00:00",
-    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/11/01/1200x900/Hindustan_1793539861266_bBXb_1793539868896_2Yel_a5e7af16-c8a6-4fa3-ab83-ccf999376ada_MgzF.png",
-    "source_name": "LIVEHINDUSTAN.COM"
-  },
-  {
-    "link": "https://ndtv.in/bollywood/53-year-old-heidi-klum-shock-everyone-with-her-most-horrifying-halloween-look-12267334#publisher=newsstand",
-    "title": "53 साल की इस एक्ट्रेस की हैलोवीन ड्रेस देखकर रात भर नहीं आएगी नींद, हस्तर और सामरी से भी खतरनाक था लुक",
-    "description": "हैलोवीन क्वीन ने 2016 में अपने लुक से मचाई सनसनी",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-01T13:28:33+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/4bcqfhps_klum_625x300_01_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/ind-vs-nz-5th-team-update-2-player-become-villen-for-team-india-at-hemilton-t20-21023769",
-    "title": "IND vs NZ: संजू सैमसन या अभिषेक शर्मा नहीं, हेमिल्टन टी20 में इन 2 खिलाड़ियों की वजह से टीम इंडिया को मिली हार!",
-    "description": "India vs New Zealand: हैमिल्टन में खेले गए पांच मैचों की टी20 सीरीज के आखिरी मुकाबले में भारतीय टीम को 7 विकेट से हार का सामना करना पड़ा। न्यूजीलैंड ने 192 रन के लक्ष्य को 18 ओवर में ही सिर्फ 3 विकेट गंवाकर हासिल कर लिया। इस दौरान टीम इंडिया के गेंदबाज विकेट के लिए तरसते रहे और रन भी नहीं रोक पाए। अर्शदीप सिंह, वरुण चक्रवर्ती और नीतीश कुमार रेड्डी को एक-एक सफलता जरूर मिली, लेकिन ये विकेट टीम इंडिया को जीत दिलाने के लिए काफी नहीं थे।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-01T13:24:30+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/IND-vs-NZ-2.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
