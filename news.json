@@ -15,11 +15,23 @@
     "title": "पढ़ें 2 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
     "categories": [
+      "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-02T07:00:13+00:00",
+    "pub_date": "2026-11-01T19:30:30+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/hamirpur-an-girl-was-brutally-murdered-enraged-family-members-smashed-police-vehicles-3951757.html",
+    "title": "हमीरपुर में मासूम बच्ची की बेरहमी से हत्या, भड़के परिजन, पुलिस के वाहन तोड़े, पथराव",
+    "description": "बच्ची के शव को कब्जे में लेकर पोस्टमार्टम के लिए भेज दिया गया है. हमीरपुर पुलिस का कहना है कि पोस्टमार्टम रिपोर्ट और जांच के आधार पर आगे की कार्रवाई की जाएगी.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-01T19:19:04+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/hamirpur-crime.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.livehindustan.com/national/liquor-ban-in-ladakh-liquor-traders-launch-a-campaign-against-sonam-wangchuk-201793554216749.html",
@@ -1677,7 +1689,6 @@
     "title": "आजम खान को ED ने किया गिरफ्तार, 14 दिन की न्यायिक हिरासत में भेजे गए",
     "description": "आजम खान को ED ने किया गिरफ्तार, 14 दिन की न्यायिक हिरासत में भेजे गए",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-01T14:28:34+00:00",
@@ -2275,17 +2286,5 @@
     "pub_date": "2026-11-01T13:36:33+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.livehindustan.com/weather/kal-ka-mausam-kaisa-rahega-up-bihar-delhi-weather-today-forecast-imd-alert-november-2-201793538909387.html",
-    "title": "कल का मौसम, 2 नवंबर: सोमवार को 25 राज्यों में होगी बारिश, 110-120 की स्पीड से चलेंगी हवाएं",
-    "description": "उत्तर प्रदेश में सोमवार को पूर्वी हिस्सों में कुछ जगहों पर हल्की से मध्यम बारिश हो सकती है। मौसम विभाग ने राज्य में कहीं-कहीं हल्के से मध्यम कोहरे की भी संभावना जताई है। इसका असर सुबह के समय देखने को मिल सकता है।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-01T13:36:21+00:00",
-    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/11/01/1200x900/20261030-PAT-SK-MN-Rain-10-0_1793539312380_LyzH_1793539331766_LWXK_9ce62fc1-89a9-4526-a629-9020ea45dd31_BG6Z.JPG",
-    "source_name": "LIVEHINDUSTAN.COM"
   }
 ]
