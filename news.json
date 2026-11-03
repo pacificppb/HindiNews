@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/india-news/come-to-parliament-not-social-media-sitharaman-blunt-challenge-to-rahul-gandhi-for-debate-on-eci-evm-2026-11-04",
-    "title": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को सीतारमण की दो-टूक",
-    "description": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को सीतारमण की दो-टूक- Come to Parliament not social media Sitharaman blunt challenge to Rahul Gandhi for debate on ECI and EVM",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-03T20:13:39+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-04",
     "title": "पढ़ें 4 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -18,7 +7,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-03T20:00:13+00:00",
+    "pub_date": "2026-11-03T20:30:19+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/come-to-parliament-not-social-media-sitharaman-blunt-challenge-to-rahul-gandhi-for-debate-on-eci-evm-2026-11-04",
+    "title": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को सीतारमण की दो-टूक",
+    "description": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को सीतारमण की दो-टूक- Come to Parliament not social media Sitharaman blunt challenge to Rahul Gandhi for debate on ECI and EVM",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T20:13:39+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -354,7 +354,6 @@
     "title": "न्यूजीलैंड में बड़ी मुसीबत में हैं रोहित शर्मा और विराट कोहली? ये है वजह",
     "description": "न्यूजीलैंड के खिलाफ वनडे सीरीज में सबकी नजरें दिग्गज खिलाड़ी विराट कोहली और रोहित शर्मा पर रहेंगी. क्या ये दोनों खिलाड़ी अपना दम दिखाएंगे ये एक बड़ा सवाल है.",
     "categories": [
-      "Breaking News",
       "Sports"
     ],
     "pub_date": "2026-11-03T17:31:54+00:00",
