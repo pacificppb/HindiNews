@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.patrika.com/world-news/oman-coast-commercial-ship-attack-indian-crew-member-killed-mea-21027923",
+    "title": "समंदर में मौत का मंजर: ओमान के पास कमर्शियल जहाज पर हुए हमले पर विदेश मंत्रालय ने जताई चिंता, शांति की अपील",
+    "description": "Oman Ship Attack: ओमान के तट के पास एक कमर्शियल जहाज पर हुए हमले को लेकर विदेश मंत्रालय ने गंभीरता से लिया है। मंत्रालय के प्रवक्ता रणधीर जायसवाल ने जानकारी देते हुए कहा कि, “उस जहाज पर हमारे 14 भारतीय क्रू मेंबर थे। दुख की बात है कि उनमें से एक की मौत हो गई है। हम अब यह सुनिश्चित करने की कोशिश कर रहे हैं कि वहां मौजूद बाकी 13 भारतीय नागरिकों को वापस भारत लाया जा सके।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-11-03T11:28:26+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Randhir-Jaiswal.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.bbc.com/hindi/articles/crq5n62jq287o?at_medium=RSS&at_campaign=rss",
     "title": "बॉम्बे हाई कोर्ट ने दीया मिर्ज़ा के वीडियो से जुड़े विवाद पर दिया ये अहम निर्देश",
     "description": "जस्टिस गिरीश कुलकर्णी और जस्टिस डॉ. नीला गोखले की बेंच ने कहा कि वह \"कुछ नेताओं की ओर से की गई इक्का-दुक्का टिप्पणियों से परेशान है.",
@@ -12,6 +24,39 @@
     "source_name": "BBC.COM"
   },
   {
+    "link": "https://www.aajtak.in/india/news/story/air-india-hit-pakistan-airspace-closure-indigo-akasa-india-pak-war-tension-ntc-mnrd-smsr-2687450-2026-11-03?utm_source=rssfeed",
+    "title": "&#039;पाकिस्तानी एयरस्पेस बंद होने से एअर इंडिया का नुकसान&#039;, CEO का बड़ा बयान",
+    "description": "एअर इंडिया के CEO टेवोल्डे ने कहा कि मिडिल ईस्ट में तनाव और पाकिस्तान के एयरस्पेस पर पाबंदियों के चलते कंपनी को अपने नेटवर्क में बदलाव करना पड़ रहा है. उन्होंने इन चुनौतियों को अस्थायी बताते हुए लंबी अवधि की ग्रोथ पर भरोसा जताया.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T11:24:17+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.aajtak.in/education/news/story/russian-army-recruitment-vamsi-indians-ukraine-border-edmm-dskc-2687459-2026-11-03?utm_source=rssfeed",
+    "title": "नौकरी के नाम पर धोखे से सेना में भर्ती कर भेजा यूक्रेन वॉर जोन!",
+    "description": "विशाखापत्तनम के वामसी और चार अन्य भारतीयों ने वीडियो जारी कर दावा किया कि उन्हें धोखे से रूसी सेना में भर्ती कर मोर्चे पर भेजा जा रहा है. वामसी की मां ने केंद्र और आंध्र प्रदेश सरकार से सुरक्षित वापसी की गुहार लगाई, जबकि नारा लोकेश ने जल्द मदद का भरोसा दिया.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T11:22:15+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/chhattisgarh/balod-naragaon-first-solar-powered-village-solar-didis-women-empowerment-3953349.html",
+    "title": "बिना सरकारी पैसा खर्च किए कैसे रोशन हो गया पूरा गांव? ‘सोलर दीदियों’ के इस मॉडल ने सबको चौंकाया",
+    "description": "बालोद जिले का नारागांव छत्तीसगढ़ का पहला सौर ऊर्जीकृत गांव बन गया है. यहां 150 से अधिक घरों की छतों पर सोलर रूफटॉप सिस्टम लगाए गए हैं. 'सोलर दीदियों' की पहल से गांव की तस्वीर बदल गई.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T11:18:01+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/balod-news.jpeg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
     "link": "https://www.aajtak.in/india/himachal-pradesh/story/himachal-pradesh-hotel-pollution-board-consent-fee-hike-ntc-mnrd-smsr-2687343-2026-11-03?utm_source=rssfeed",
     "title": "हिमाचल में छोटे होटलों पर प्रदूषण बोर्ड की मार, एक लाख फीस का बोझ",
     "description": "हिमाचल प्रदेश प्रदूषण नियंत्रण बोर्ड ने होटलों की स्थापना और संचालन सहमति फीस का ढांचा बदल दिया है. इससे 10 से 13 कमरों वाले छोटे होटलों पर पांच वर्षों में ₹1.08 लाख तक अतिरिक्त बोझ पड़ेगा और एसोसिएशन ने सरकार से फैसले पर फिर विचार करने की मांग की है.",
@@ -21,6 +66,17 @@
     "pub_date": "2026-11-03T11:16:38+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/shahjahanpur-husband-kills-wife-domestic-dispute-crime-love-marriage-tragedy-murder-argument-3953360.html",
+    "title": "‘कपार खा जाएंगी तुम्हारी मां…’ साथ में शाहजहांपुर जाने की जिद कर रही थी पत्नी, पति ने मार दी गोली",
+    "description": "शाहजहांपुर में एक चौंकाने वाली घटना सामने आई है, जहां एक पति ने पत्नी की गोली मारकर हत्या कर दी. तीन साल पहले आरोपी ने प्रेम विवाह किया था. पुलिस ने आरोपी को गिरफ्तार कर मामले की जांच शुरू कर दी है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T11:16:31+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/shahjahapur-crime.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.aajtak.in/sports/cricket/story/ind-vs-pak-under-19-asia-cup-rising-stars-asia-cup-asia-cup-world-cup-2027-india-vs-pakistan-matches-details-aksp-dskc-2687446-2026-11-03?utm_source=rssfeed",
@@ -80,6 +136,17 @@
     "source_name": "LIVEHINDUSTAN.COM"
   },
   {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/abhishek-manu-singhvi-to-kapil-sibal-prominent-lawyers-step-court-to-represent-azam-khan-3953353.html",
+    "title": "सिंघवी-सिब्बल से जाफरी तक… आजम खान की पैरवी के लिए कोर्ट में उतरे बड़े-बड़े वकील",
+    "description": "पी चिदंबरम, कपिल सिब्बल के बाद अब अभिषेक मनु सिंघवी जैसे बड़े वकील आजम की पैरवी के लिए कोर्ट पहुंच रहे हैं. पिछले दिनों सिंघवी ने आजम और उनके बेटे को इलाहाबाद हाई कोर्ट से राहत दिलाई थी.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-03T11:12:00+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/azam-khan.jpeg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
     "link": "https://hindi.webdunia.com/bollywood-gossip/hanuman-ansh-ott-release-date-streaming-platform-latest-update-126110300052_1.html",
     "title": "Hanuman Ansh OTT Stream: सिनेमाघरों में गदर मचाने के बाद डिजिटल प्लेटफॉर्म पर कब आएगी 'हनुमान अंश'? मेकर्स का बड़ा अपडेट",
     "description": "डॉ. विशाल चतुर्वेदी के निर्देशन में बनी फिल्म 'हनुमान अंश' प्रसिद्ध संत नीम करोली बाबा की दिव्य और आध्यात्मिक जीवन-यात्रा पर आधारित है। महज छोटे बजट में तैयार हुई इस फिल्म ने अपने अनोखे विषय और भावुक कर देने वाले भक्ति भाव के बल पर सिनेमाघरों में ...",
@@ -89,6 +156,17 @@
     "pub_date": "2026-11-03T11:11:00+00:00",
     "image_url": "https://nonprod-media.webdunia.com/public_html/_media/hi/img/article/2026-09/23/thumb/1_1/1790155337-4527.jpg",
     "source_name": "HINDI.WEBDUNIA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/entertainment/bollywood-news/sussanne-khan-maldives-vacation-with-boyfriend-arslan-goni-3953338.html",
+    "title": "मालदीव में बॉयफ्रेंड अर्सलान संग वेकेशन मना रहीं ऋतिक की एक्स वाइफ सुजैन खान, शेयर किया वीडियो",
+    "description": "Sussanne Khan Vacation: ऋतिक रोशन की एक्स वाइफ सुजैन खान सोशल मीडिया पर काफी एक्टिव रहती हैं. अब सुजैन ने बॉयफ्रेंड अर्सलान गोनी के साथ मालदीव वेकेशन का वीडियो शेयर किया है.",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-03T11:09:54+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/sussanae-khan-vacation.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.aajtak.in/auto/news/story/honda-alpha-electric-suv-official-teaser-launch-date-features-auam-dskc-2687445-2026-11-03?utm_source=rssfeed",
@@ -101,6 +179,17 @@
     "pub_date": "2026-11-03T11:07:47+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/sports/cricket-news/shubman-gill-new-zealand-captain-odi-world-cup-2027-3953351.html",
+    "title": "Shubman Gill: शुभमन गिल के लिए खास है न्यूजीलैंड, जानिए क्यों भावुक हुए कप्तान?",
+    "description": "शुभमन गिल बतौर कप्तान न्यूजीलैंड में पहली बार खेलने वाले हैं. ये देश उनके लिए बेहद खास है क्योंकि येां दुनिया ने उन्हें पहली बार पहचाना था.",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-11-03T11:06:16+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/shubman-gill-leads-india.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://www.aajtak.in/entertainment/news/photo/haania-manzar-new-house-griha-pravesh-havan-quran-khani-hindu-husband-love-story-interfaith-marriage-tmova-2686886-2026-11-03?utm_source=rssfeed",
@@ -160,9 +249,10 @@
   },
   {
     "link": "https://www.indiatv.in/haryana/gurugram-trump-tower-house-arrest-resident-claims-builder-blocked-lift-access-to-36th-floor-2026-11-03-1252557",
-    "title": "12 करोड़ के फ्लैट में हाउस अरेस्ट? ट्रंप टावर में बिल्डर ने बंद कर दी लिफ्ट, परिवार 36वें फ्लोर पर फंसा रहा",
+    "title": "12 करोड़ के फ्लैट में हाउस अरेस्ट? ट्रंप टावर में बिल्डर पर लिफ्ट बंद करने का आरोप, परिवार 36वें फ्लोर पर फंसा रहा",
     "description": "गुरुग्राम के आलीशान ट्रंप टावर के एक फ्लैट ऑनर ने आरोप लगाया है कि M3M बिल्डर्स और सोसायटी मैनेजमेंट ने उन्हें और उनके परिवार को हाउस अरेस्ट कर दिया है। बिल्डर ने 36वीं मंजिल पर रहने वाले परिवार की लिफ्ट ही बंद करवा दी।",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-03T11:03:00+00:00",
@@ -232,7 +322,7 @@
       "National"
     ],
     "pub_date": "2026-11-03T10:57:30+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/police-and-lawyers.jpeg",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/police-and-lawyers-2.jpeg",
     "source_name": "TV9HINDI.COM"
   },
   {
@@ -349,18 +439,6 @@
     "source_name": "TV9HINDI.COM"
   },
   {
-    "link": "https://www.patrika.com/business-news/strong-rally-in-share-market-today-sensex-closes-1200-points-higher-know-reasons-21027659",
-    "title": "Stock Market: लगातार चौथे दिन बाजार में भारी तेजी, 1200 पॉइंट बढ़कर बंद हुआ सेंसेक्स, जानिए इस उछाल के 5 बड़े कारण",
-    "description": "भारतीय शेयर बाजार आज मंगलवार को भारी-भरकम बढ़त लेकर बंद हुआ है। बॉम्बे स्टॉक एक्सचेंज का सूचकांक सेंसेक्स आज 1.62 फीसदी या 1225 अंक की बढ़त के साथ 76,917 पर बंद हुआ है। बाजार बंद होते समय सेंसेक्स पैक के 30 शेयरों में से 25 शेयर हरे निशान पर और 5 शेयर लाल निशान पर थे। वहीं, नेशनल स्टॉक एक्सचेंज का सूचकांक निफ्टी आज 1.58 फीसदी या 370 अंक की बढ़त के साथ 23,810 पर बंद हुआ है। आइए जानते हैं कि बाजार में आई इस भारी तेजी के पीछे कौन-से प्रमुख कारण रहे।",
-    "categories": [
-      "Business",
-      "Economy"
-    ],
-    "pub_date": "2026-11-03T10:47:10+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/share-market12.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.aajtak.in/india/delhi/story/delhi-pollution-construction-restrictions-impact-daily-wage-workers-livelihood-ntc-pvp-rptc-2687444-2026-11-03?utm_source=rssfeed",
     "title": "GRAP-II लागू होते ही दिल्ली में कंस्ट्रक्शन बैन, मजदूरों की रोजी पर संकट",
     "description": "दिल्ली में प्रदूषण नियंत्रण के लिए लागू GRAP-II और विंटर पॉल्यूशन एक्शन प्लान के तहत निर्माण कार्यों पर पाबंदियां लगाई गई हैं, जिससे दिहाड़ी मजदूरों की आजीविका प्रभावित हो रही है.",
@@ -416,6 +494,18 @@
     "pub_date": "2026-11-03T10:42:56+00:00",
     "image_url": "https://c.ndtvimg.com/2026-11/fqq213us_gardening-tips_625x300_03_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.patrika.com/business-news/strong-rally-in-share-market-today-sensex-closes-1200-points-higher-know-reasons-21027659",
+    "title": "Stock Market: लगातार चौथे दिन बाजार में भारी तेजी, 1200 पॉइंट बढ़कर बंद हुआ सेंसेक्स, जानिए इस उछाल के 5 बड़े कारण",
+    "description": "भारतीय शेयर बाजार आज मंगलवार को भारी-भरकम बढ़त लेकर बंद हुआ है। बॉम्बे स्टॉक एक्सचेंज का सूचकांक सेंसेक्स आज 1.62 फीसदी या 1225 अंक की बढ़त के साथ 76,917 पर बंद हुआ है। बाजार बंद होते समय सेंसेक्स पैक के 30 शेयरों में से 25 शेयर हरे निशान पर और 5 शेयर लाल निशान पर थे। वहीं, नेशनल स्टॉक एक्सचेंज का सूचकांक निफ्टी आज 1.58 फीसदी या 370 अंक की बढ़त के साथ 23,810 पर बंद हुआ है। आइए जानते हैं कि बाजार में आई इस भारी तेजी के पीछे कौन-से प्रमुख कारण रहे।",
+    "categories": [
+      "Business",
+      "Economy"
+    ],
+    "pub_date": "2026-11-03T10:42:49+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/share-market12.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.aajtak.in/sports/football/story/jesus-de-miguel-30-year-old-footballer-dies-after-goalkeeper-collision-tspok-dskc-2687386-2026-11-03?utm_source=rssfeed",
@@ -1066,6 +1156,7 @@
     "title": "होटल में फर्जी ID से बुक किया कमरा, फिर गर्लफ्रेंड को बुलाकर घोंटा गला; डिमांड से तंग आशिक ने उठाया खौफनाक कदम?",
     "description": "फरीदाबाद में एक व्यक्ति ने अपनी गर्लफ्रेंड को होटल में बुलाकर गला घोंट दिया. आरोपी ने फर्जी आईडी से होटल में कमरा बुक किया था. पुलिस ने आरोपी को गिरफ्तार कर लिया है.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-03T09:43:24+00:00",
@@ -2195,101 +2286,6 @@
     ],
     "pub_date": "2026-11-03T08:24:15+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/congress-meeting.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/sports/cricket/free-me-live-kaise-dekhen-india-vs-new-zealand-pahla-odi-match-dd-free-dish-2026-11-03-1252523",
-    "title": "फ्री में लाइव कैसे देखें भारत बनाम न्यूजीलैंड पहला वनडे मुकाबला, हो गया ऐलान",
-    "description": "भारत और न्यूजीलैंड के बीच जारी सीरीज में अब वनडे मैचों की बारी है। इसका पहला मुकाबला 4 नवंबर को खेला जाएगा, मैच सुबह शुरू हो जाएगा, इसलिए आप अभी से इसे लाइव देखने के बारे में जान लीजिए।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-03T08:22:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/shubman-gill-mitchel-sentner-ians-1793693964.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/sports/cricket-news/kartik-yadav-story-took-27-wicket-in-just-4-match-in-ranji-trophy-2026-27-clean-bowled-virat-kohli-once-3953136.html",
-    "title": "Ranji Trophy में छाया वो खिलाड़ी, जिसे समझा गया नालायक, विराट कोहली को बोल्ड कर मचाई थी सनसनी",
-    "description": "रणजी ट्रॉफी 2026-27 में अभी जो खिलाड़ी विकेटों की रेस में सबसे आगे दौड़ रहा है, उसका नाम है कार्तिक यादव. 20 साल के इस क्रिकेटर की कहानी बड़ी दिलचस्प है.",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-03T08:20:21+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/kartik-yadav.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/world/story/iran-warns-us-broader-response-fresh-attack-america-bombing-qeshm-island-ntc-mnrd-smsr-2687232-2026-11-03?utm_source=rssfeed",
-    "title": "&#039;नया हमला हुआ तो पहले से घातक होगा जवाब&#039;, ईरान की US को चेतावनी",
-    "description": "ईरानी सेना के प्रवक्ता ने कहा कि अमेरिका का कोई भी नया हमला हुआ तो उसके सैन्य ठिकानों और हितों को निशाना बनाया जा सकता है. वहीं, विदेश मंत्री अब्बास अराघची ने कहा कि तेहरान खाड़ी देशों के साथ मिलकर क्षेत्रीय सुरक्षा व्यवस्था चाहता है.",
-    "categories": [
-      "Breaking News",
-      "World"
-    ],
-    "pub_date": "2026-11-03T08:19:05+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/education/career/story/disney-job-cuts-20-percent-annual-cost-savings-edmm-dskc-2687273-2026-11-03?utm_source=rssfeed",
-    "title": "Disney में हजारों नौकरियों पर खतरा, 20% खर्च घटाने की तैयारी",
-    "description": "Disney सालाना खर्च में 20% बचत के लिए हजारों नौकरियां और दूसरे खर्च घटाने की तैयारी कर रही है. यह कदम पारंपरिक टेलीविजन की कमाई पर दबाव और ऑनलाइन प्रसारण के ग्राहकों की धीमी बढ़ोतरी के बीच उठाया जा रहा है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-03T08:18:16+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.patrika.com/sports-news/bengal-vs-maharashtra-match-ranji-trophy-day-2-mohammed-shami-3-wickets-21027181",
-    "title": "Ranji Trophy: मोहम्मद शमी की शानदार गेंदबाजी से बैकफुट पर महाराष्ट्र, 150 रन के भीतर गंवाए 8 विकेट",
-    "description": "Maharashtra vs Bengal: कोलकाता के ईडन गार्डन्स में बंगाल और महाराष्ट्र के बीच खेले जा रहे मुकाबले के दूसरे दिन का खेल मिला-जुला रहा। महाराष्ट्र की टीम मंगलवार को पहले दिन के स्कोर 21/2 से आगे खेलने उतरी। हालांकि, बंगाल के गेंदबाजों की कसी हुई गेंदबाजी के सामने महाराष्ट्र के बल्लेबाज संघर्ष करते नजर आए। नतीजतन, लंच से पहले ही महाराष्ट्र ने 102 रन के स्कोर पर अपने सात विकेट गंवा दिए। हालांकि, तनय सांघवी और राजवर्धन हैंगरगेकर ने आठवें विकेट के लिए अहम साझेदारी कर टीम को मुश्किल से उबारने की कोशिश की।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-03T08:16:46+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/mohammad-shami.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/bihar/koilwar-a-four-lane-rail-bridge-will-be-built-over-the-son-river-ddu-jhajha-rail-line-3953109.html",
-    "title": "बिहार में सोन नदी पर बनेगा चार लेन का रेल पुल, इस रूट पर बिछेगी नई लाइन, किन जिलों को मिलेगा सीधा फायदा?",
-    "description": "बिहार की इस महत्वाकांक्षी रेल योजना में छह अलग-अलग रेलखंडों को शामिल किया गया है. डीडीयू से दानापुर, फतुहा, बख्तियारपुर और किऊल होते हुए झाझा तक नेटवर्क की क्षमता बढ़ाई जाएगी.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-03T08:15:39+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/news-20.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/iran-us-tension-iran-dialogue-hormuz-strait-news-21026866",
-    "title": "Iran US Tension: ईरान की दो टूक: बातचीत से सुलझाएंगे संकट, लेकिन दुश्मनों के आगे नहीं झुकेंगे; होर्मुज पर भी रखी शर्त",
-    "description": "Iran US War Latest News: मध्य पूर्व में अभी माहौल काफी तनावपूर्ण है, लेकिन ईरान ने अपनी रणनीति बिल्कुल साफ कर दी है। वो बातचीत के जरिए संकट का हल चाहता है, मगर अपने राष्ट्रीय हितों और शर्तों पर कोई समझौता नहीं करने वाला। राष्ट्रपति मसूद पेजेशकियन ने खुलेआम अमेरिका पर आर्थिक दबाव बढ़ाने, और व्यापार रोकने की कोशिशों का आरोप लगाया। उन्होंने जनता का सहयोग मांगा और ऐलान किया कि विरोधियों की साजिशें नाकाम करेंगे। ये भी दिख रहा है कि कूटनीतिक कोशिशें तेज हुई हैं, जिससे इलाके में शांति की कुछ उम्मीद जग रही है।",
-    "categories": [
-      "Breaking News",
-      "World"
-    ],
-    "pub_date": "2026-11-03T08:15:37+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Masoud-Pezeshkian-and-Donald-Trump.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/microsoft-borrowing-25-billion-debt-for-ai-infrastructure-after-60000-employee-buyout-offer-3953132.html",
-    "title": "एक तरफ 60 हजार स्टाफ को एग्जिट ऑफर, दूसरी तरफ Microsoft क्यों ले रहा 25 अरब डॉलर का कर्ज?",
-    "description": "माइक्रोसॉफ्ट बॉन्ड बेचकर 25 अरब डॉलर का कर्ज जुटा रहा है. कंपनी ने हाल ही में भारत समेत 4 देशों के 60 हजार कर्मचारियों को नौकरी छोड़ने का ऑफर दिया था. ये पैसा एआई डेटा सेंटर बनाने में खर्च होगा.",
-    "categories": [
-      "Business",
-      "Technology"
-    ],
-    "pub_date": "2026-11-03T08:15:12+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/mircrosoft.jpg",
     "source_name": "TV9HINDI.COM"
   }
 ]
