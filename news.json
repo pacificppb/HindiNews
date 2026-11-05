@@ -11,6 +11,18 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-06",
+    "title": "पढ़ें 6 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-05T22:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.aajtak.in/world/story/france-protests-600000-rally-higher-wages-school-funding-paris-ntc-dhrj-dskc-2689347-2026-11-06?utm_source=rssfeed",
     "title": "सैलरी नहीं, महंगाई बढ़ी... फ्रांस में फूटा गुस्सा, सड़कों पर उतरे लाखों लोग",
     "description": "फ्रांस में वेतन बढ़ाने और शिक्षा के लिए ज्यादा बजट देने की मांग को लेकर 6 लाख से ज्यादा लोग सड़कों पर उतरे. सितंबर में छात्रों से शुरू हुआ यह आंदोलन अब कर्मचारियों और पेंशनभोगियों तक पहुंच गया है. प्रदर्शन का असर स्कूलों, सार्वजनिक परिवहन और कई शहरों की सामान्य गतिविधियों पर भी पड़ा.",
@@ -30,18 +42,6 @@
       "National"
     ],
     "pub_date": "2026-11-05T21:31:10+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-06",
-    "title": "पढ़ें 6 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-05T21:30:21+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -673,7 +673,6 @@
     "title": "क्या है DICGC? कैसे होगा इससे खाते में रखा पैसा सुरक्षित, RBI ने बताया",
     "description": "क्या है DICGC? कैसे होगा इससे खाते में रखा पैसा सुरक्षित, RBI ने बताया",
     "categories": [
-      "Breaking News",
       "Business"
     ],
     "pub_date": "2026-11-05T17:10:03+00:00",
@@ -1161,7 +1160,6 @@
     "title": "RBI के एंट्री गेट पर क्यों है कुबेर के परिवार के यक्ष-यक्षिणी के स्टेच्यू?",
     "description": "जल तत्व और उत्तर दिशा में कुबेर धन के देवता हैं. लेकिन यक्षों का क्षेत्र इससे कहीं व्यापक है. वे धरती में छिपी संपदा, मणि-माणिक्य, खनिज, जल और वन संपदा के रक्षक भी माने जाते थे. यही कारण है कि यक्षों की अवधारणा को केवल धन रखने वाले प्राणी के रूप में नहीं, बल्कि संपदा की सुरक्षा और समृद्धि के प्रतीक के रूप में देखा जाता है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-05T16:02:59+00:00",
@@ -1185,7 +1183,6 @@
     "title": "उमर अब्दुल्ला सत्ता के साथ पार्टी भी गवाएंगे? नाराज विधायकों मनाने की कवायद तेज",
     "description": "जम्मू-कश्मीर की सत्ताधारी पार्टी नेशनल कॉन्फ्रेंस संकट से गुजर रही है। पार्टी के 20 विधायकों के नाराजगी की खबर है। फारुख और उमर अब्दुल्ला इन विधायकों को मनाने की कोशिशों में लगे हुए हैं।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-05T16:01:35+00:00",
@@ -1262,7 +1259,7 @@
   },
   {
     "link": "https://www.aajtak.in/india/news/story/ugc-rules-controversy-bjp-up-elections-supreme-court-committee-caste-politics-ntc-agkp-dskc-2689238-2026-11-05?utm_source=rssfeed",
-    "title": "5 राज्यों में विधानसभा चुनाव... UGC के नए नियमों पर बवाल के बाद सरकार का यू-टर्न?",
+    "title": "5 राज्यों में चुनाव... UGC के नए नियमों पर बवाल के बाद सरकार का यू-टर्न?",
     "description": "UGC के नए नियमों को लेकर जारी विवाद अब राजनीतिक मुद्दा बनता जा रहा है. सुप्रीम कोर्ट में सुनवाई के दौरान केंद्र सरकार ने नियमों की समीक्षा के लिए कमेटी बनाने की तैयारी की जानकारी दी है. BJP के सामने चुनौती यह है कि नियमों में बदलाव से एक वर्ग की नाराजगी दूर करने की कोशिश दूसरे वर्ग की नाराजगी बढ़ा सकती है.",
     "categories": [
       "National"
