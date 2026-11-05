@@ -11,17 +11,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/india-news/major-change-at-mumbai-airport-flights-of-12-foreign-airlines-to-be-shifted-will-passengers-be-affected-too-2026-11-06",
-    "title": "मुंबई एयरपोर्ट पर बड़ा बदलाव: 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
-    "description": "मुंबई एयरपोर्ट पर बड़ा बदलाव: 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?- Major change at Mumbai Airport Flights of 12 foreign airlines to be shifted will passengers be affected too",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-05T20:47:34+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-06",
     "title": "पढ़ें 6 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -29,7 +18,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-05T20:30:24+00:00",
+    "pub_date": "2026-11-05T21:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/major-change-at-mumbai-airport-flights-of-12-foreign-airlines-to-be-shifted-will-passengers-be-affected-too-2026-11-06",
+    "title": "मुंबई एयरपोर्ट पर बड़ा बदलाव: 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
+    "description": "मुंबई एयरपोर्ट पर बड़ा बदलाव: 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?- Major change at Mumbai Airport Flights of 12 foreign airlines to be shifted will passengers be affected too",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-05T20:47:34+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -1523,7 +1523,6 @@
     "title": "धनतेरस से ठीक पहले सोना हुआ इतना महंगा, चांदी में भी उछाल",
     "description": "धनतेरस से ठीक पहले सोने और चांदी की कीमतों में बड़ी तेजी आई है. सोना आज 3000 रुपये से ज्‍यादा चढ़ चुका है और चांदी की कीमतों में भी इसी अच्‍छी तेजी आई है.",
     "categories": [
-      "Breaking News",
       "Business"
     ],
     "pub_date": "2026-11-05T15:03:24+00:00",
