@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-06",
+    "title": "पढ़ें 6 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-06T07:00:14+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/rahul-gandhi-wants-to-turn-infiltrators-into-voters-cm-devendra-fadnavis-targets-opposition-over-bangladeshi-2026-11-06",
     "title": "'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर विपक्ष को घेरा",
     "description": "'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर विपक्ष को घेरा- Rahul Gandhi wants to turn infiltrators into voters CM Devendra Fadnavis targets opposition over Bangladeshi",
@@ -11,14 +22,14 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://navbharattimes.indiatimes.com/india/pm-modi-praises-rinku-hooda-won-gold-despite-losing-his-mother/articleshow/135584712.cms",
+    "link": "https://navbharattimes.indiatimes.com/sports/asian-games/news/pm-modi-praises-rinku-hooda-won-gold-despite-losing-his-mother/articleshow/135584712.cms",
     "title": "'वो पल सभी देशवासियों को भावुक कर गया', मां को खोने के बावजूद गोल्ड जीतने वाले रिंकू हुड्डा की पीएम मोदी ने की तारीफ",
     "description": "प्रधानमंत्री नरेंद्र मोदी ने गुरुवार को पैरा खिलाड़ियों से मुलाकात के दौरान ऐसी बातें कहीं, जिसने सबको भावुक कर दिया। उन्होंने गोल्ड जीतने वाले रिंकू हुड्डा का जिक्र करते हुए बताया कि अपनी मां को खोने के बाद भी रिंकू ने न सिर्फ गेम में भाग लिया, बल्कि गोल्ड मेडल भी जीता।",
     "categories": [
-      "National"
+      "Sports"
     ],
     "pub_date": "2026-11-05T18:50:53+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/76874587/navbharat-times.jpg?imgsize=76874587&width=1600&height=900&resizemode=75",
+    "image_url": "https://static.langimg.com/nbt/thumb/135584784/para-javelin-thrower-rinku-hooda.jpg?imgsize=251202&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
@@ -371,7 +382,6 @@
     "title": "चुनावी हारों से बौखलायी कांग्रेस देश में अराजकता पैदा करने की चेष्टा कर रही है: गडकरी",
     "description": "उन्होंने कहा कि मैं राहुल गांधी से कहना चाहता हूं कि आप चाहे कितनी भी ताकत लगा लें, लोगों को कितना भी गुमराह करें या झूठ बोलें, या लोकतांत्रिक संस्थाओं पर कितना भी हमला करें, फिर भी इस देश की जनता आपको वोट नहीं देगी।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-05T17:29:51+00:00",
@@ -2270,16 +2280,5 @@
     "pub_date": "2026-11-05T13:42:03+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://hindi.oneindia.com/news/india/rss-meeting-indore-gen-z-punjab-elections-ugc-among-6-key-issues-on-sanghs-agenda-explained-1679291.html",
-    "title": "RSS Meeting Indore: GenZ पर फोकस, पंजाब चुनाव से लेकर UGC तक, संघ के एजेंडे में 6 बड़े मुद्दे, क्या है रणनीति?",
-    "description": "RSS Meeting Indore: राष्ट्रीय स्वयंसेवक संघ (RSS) ने मध्य प्रदेश के इंदौर में 2 से 4 नवंबर तक हुई बैठक में 6 प्रमुख मुद्दों पर चर्चा की। इनमें सोशल मीडिया पर चल रहे नैरेटिव, जेन जी यानी युवा पीढ़ी को संगठन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-05T13:42:00+00:00",
-    "image_url": "https://hindi.oneindia.com/img/2026/11/rss-meeting-indore-96651793886092.jpg",
-    "source_name": "HINDI.ONEINDIA.COM"
   }
 ]
