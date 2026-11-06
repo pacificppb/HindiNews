@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-07",
+    "title": "पढ़ें 7 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-07T07:00:12+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/india-news/cji-ambedkar-legacy-immortal-supreme-court-chief-justice-surya-kant-on-constitution-responsibility-equality-2026-11-07",
     "title": "'आंबेडकर की विरासत अमर': चीफ जस्टिस सूर्यकांत संविधान, जिम्मेदारी का जिक्र कर बोले, समानता पर CJI की राय क्या?",
     "description": "'आंबेडकर की विरासत अमर': चीफ जस्टिस सूर्यकांत संविधान, जिम्मेदारी का जिक्र कर बोले, समानता पर CJI की राय क्या?",
@@ -20,18 +31,6 @@
     "pub_date": "2026-11-07T06:31:39+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
-  },
-  {
-    "link": "https://www.patrika.com/amroha-news/mohammed-shami-announces-retirement-from-test-cricket-21035153",
-    "title": "मोहम्मद शमी ने टेस्ट क्रिकेट को कहा अलविदा, भावुक संदेश में बयां किया सफर",
-    "description": "भारतीय क्रिकेट टीम के अनुभवी तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास लेने का फैसला किया है। उन्होंने सोशल मीडिया पर एक भावुक संदेश साझा कर अपने टेस्ट करियर को विराम देने की जानकारी दी। शमी ने कहा कि भले ही वह सफेद जर्सी को अलविदा कह रहे हैं, लेकिन इससे जुड़ी यादें हमेशा उनके साथ रहेंगी।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-06T18:44:33+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Shami-Comeback-Challenge.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.indiatv.in/india/politics/sharad-pawar-is-in-hospital-pm-modi-call-politics-boiled-delhi-to-maharashtra-will-ncp-merge-2026-11-07-1253237",
@@ -57,6 +56,18 @@
     "pub_date": "2026-11-06T18:30:08+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/09/breaking.jpeg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/amroha-news/mohammed-shami-announces-retirement-from-test-cricket-21035153",
+    "title": "मोहम्मद शमी ने टेस्ट क्रिकेट को कहा अलविदा, भावुक संदेश में बयां किया सफर",
+    "description": "भारतीय क्रिकेट टीम के अनुभवी तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास लेने का फैसला किया है। उन्होंने सोशल मीडिया पर एक भावुक संदेश साझा कर अपने टेस्ट करियर को विराम देने की जानकारी दी। शमी ने कहा कि भले ही वह सफेद जर्सी को अलविदा कह रहे हैं, लेकिन इससे जुड़ी यादें हमेशा उनके साथ रहेंगी।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-11-06T18:30:06+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Shami-Comeback-Challenge.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/parliamentary-committee-will-discuss-on-air-pollution-and-deepfakes/articleshow/135617301.cms",
@@ -152,7 +163,7 @@
   {
     "link": "https://www.tv9hindi.com/sports/cricket-news/mohammed-shami-retires-from-test-cricket-team-india-record-3956730.html",
     "title": "Mohammed Shami Retires: मोहम्मद शमी ने किया संन्यास का ऐलान, इस फॉर्मेट में टीम इंडिया को कहा अलविदा",
-    "description": "मोहम्मद शमी पिछले कई महीनों से हर फॉर्मेट में टीम इंडिया से बाहर चल रहे हैं, जिसके चलते लगातार उनके भविष्य को लेकर अटकलें लगाई जा रही हैं. इन्हीं अटकलों के बीच शमी ने एक फॉर्मेट को छोड़ ही दिया.",
+    "description": "मोहम्मद शमी पिछले कई महीनों से हर फॉर्मेट में टीम इंडिया से बाहर चल रहे हैं.",
     "categories": [
       "Sports"
     ],
@@ -2276,16 +2287,5 @@
     "pub_date": "2026-11-06T13:23:20+00:00",
     "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/06/1793971247491/sizes/whatsapp-image-2026-11-06-at-185001-fa8fae-hero.webp",
     "source_name": "PRABHATKHABAR.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/india/gujarat/story/somnath-temple-non-veg-ban-supreme-court-ntc-agkp-dskc-2689914-2026-11-06?utm_source=rssfeed",
-    "title": "&#039;मिठाई खाकर दिवाली मनाइए&#039;, सोमनाथ मंदिर के पास नॉनवेज बैन पर SC",
-    "description": "सुप्रीम कोर्ट ने गुजरात के सोमनाथ मंदिर के 500 मीटर के दायरे में नॉनवेज भोजन की बिक्री, तैयारी और भंडारण पर लगी रोक हटाने से इनकार कर दिया है. सुनवाई के दौरान जस्टिस एमएम सुंदरेश और जस्टिस प्रसन्न बी वराले की पीठ ने हल्के अंदाज में कहा कि मिठाई खाकर दिवाली मनाइए.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-06T13:22:40+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
