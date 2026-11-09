@@ -11,9 +11,77 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-09",
+    "title": "पढ़ें 9 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-09T02:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.bbc.com/hindi/articles/c5j9kmmkwy08o?at_medium=RSS&at_campaign=rss",
+    "title": "दिल्ली-एनसीआर में घनी धुंध के कारण कई इलाकों में विजिबिलिटी काफी कम, एकक्यूआई गंभीर श्रेणी में",
+    "description": "सोमवार की सुबह दिल्ली के कई इलाक़ों में प्रदूषण की स्थिति बेहद ख़राब दर्ज की गई. कई इलाक़ों में एक्यूआई 400 के क़रीब दर्ज किया गया है. कई इलाकों में विज़िब्लिटी काफ़ी कम पाई गई है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-09T01:59:37+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1340/live/a2414d40-dbdd-11f1-ada2-e3eed2f942fe.jpg",
+    "source_name": "BBC.COM"
+  },
+  {
+    "link": "https://ndtv.in/business-news/bank-holiday-today-are-banks-open-or-closed-on-november-9-10-11-for-diwali-laxmi-puja-check-city-wise-rbi-holiday-list-aaj-bank-khula-hai-ya-band-12301561#publisher=newsstand",
+    "title": "Bank Holiday Today: दिवाली के बाद आज बैंक खुला है या बंद? 9, 10 और 11 नवंबर को कहां-कहां बैंक की छुट्टी? दूर करें कन्फ्यूजन",
+    "description": "November Bank Holidays: दिवाली के बाद Fm हफ्ते कब-कब बंद रहेंगे बैंक? 9 से 15 नवंबर तक छुट्टियों की पूरी लिस्ट",
+    "categories": [
+      "Business"
+    ],
+    "pub_date": "2026-11-09T01:52:36+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/c4vlni2c_bank-holiday_625x300_09_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/maharashtra-updates-fire-in-thane-navi-mumbai-eknath-shinde-visit-lokhandwala-blaze-one-dead-polity-crime-news-2026-11-09",
+    "title": "महाराष्ट्र अपडेट्स: ठाणे-नवी मुंबई में आग, देर रात पहुंचे एकनाथ शिंदे; लोखंडवाला अग्निकांड में एक शख्स की मौत",
+    "description": "महाराष्ट्र अपडेट्स: ठाणे-नवी मुंबई में आग, देर रात पहुंचे एकनाथ शिंदे; लोखंडवाला अग्निकांड में एक शख्स की मौत",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-09T01:52:31+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://ndtv.in/world-news/nvidia-ceo-jensen-huang-admits-affair-with-suspected-chinese-spy-investigation-by-world-biggest-ai-chip-maker-company-12301560#publisher=newsstand",
+    "title": "मैंने पत्नी को धोखा दिया... AI चिप की सबसे बड़ी कंपनी Nvidia के मालिक का कबूलनामा, चीनी जासूस से अफेयर पर बैठी जांच",
+    "description": "एनवीडिया के जेनसेन हुआंग ने एक संदिग्ध चीनी जासूस के साथ अफेयर की बात स्वीकार की (फोटो- सोशल मीडिया)",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-11-09T01:52:22+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/loh212ks_jensen-huang_625x300_07_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/bollywood/aamir-khan-cousin-70s-rockstar-with-53-year-old-film-starring-dharmendra-vijay-zeenat-featuring-5-songs-of-lata-mohd-rafi-kisore-and-asha-12301556#publisher=newsstand",
+    "title": "53 साल पुरानी धर्मेंद्र, विजय और जीनत की फिल्म, 5 गानों से 70s का रॉकस्टार बना नया एक्टर, आमिर खान का है चचेरा भाई",
+    "description": "आमिर खान के चचेरे भाई की फिल्म, 5 गानों ने बनाया सुपरहिट",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-09T01:49:10+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/ie72j0mo_aamir-khan-cousin_625x300_09_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.indiatv.in/uttar-pradesh/up-cm-yogi-adityanath-says-we-are-coming-up-with-a-good-package-for-womens-of-state-2026-11-09-1253502",
     "title": "यूपी की महिलाओं के लिए होने वाला है बड़ा ऐलान? CM योगी बोले- 'हम एक अच्छा पैकेज लेकर आ रहे हैं'",
-    "description": "यूपी की महिलाओं के लिए होने वाला है बड़ा ऐलान? CM योगी बोले- 'हम एक अच्छा पैकेज लेकर आ रहे हैं'",
+    "description": "यूपी में चुनाव से पहले राज्य की महिलाओं के लिए बड़ा ऐलान होने संकेत मिल रहे हैं। राज्य के मुख्यमंत्री योगी आदित्यनाथ ने कहा है कि हम महिलाओं के लिए एक अच्छा पैकेज लेकर आ रहे हैं। आइए जानते हैं पूरा मामला।",
     "categories": [
       "National"
     ],
@@ -59,6 +127,28 @@
     "source_name": "AAJTAK.IN"
   },
   {
+    "link": "https://ndtv.in/food/chhath-puja-kharna-special-gur-ki-kheer-recipe-12299140#publisher=newsstand",
+    "title": "गुड़ की खीर कैसे बनाएं? खरना के दूसरे दिन बनाई जाती है इस तरह से स्वादिष्ट खीर, नोट करें रेसिपी",
+    "description": "Gud ki Kheer Recipe : गुड़ की खीर कैसे बनाएं?",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-09T01:40:40+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/dohbh53g_gud-ki-kheer-recipe_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
+    "link": "https://ndtv.in/food/village-style-lemon-pickle-recipe-easy-nimbu-ka-achar-banane-ki-vidhi-12299189#publisher=newsstand",
+    "title": "गांव के खास अंदाज में बनाएं नींबू का अचार, सालभर रहेगा स्वाद बरकरार, सिर्फ 10 मिनट में करें तैयार",
+    "description": "Village Style Lemon  Pickle : घर पर बनाएं नींबू का अचार",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-09T01:35:54+00:00",
+    "image_url": "https://c.ndtvimg.com/2026-11/qpsrf9fg_village-style-lemon-pickle_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+    "source_name": "NDTV.IN"
+  },
+  {
     "link": "https://www.prabhatkhabar.com/automobile/indias-top-10-best-selling-cars-in-october-2026-list",
     "title": "अक्टूबर में इन 10 कारों को खरीदने के लिए टूट पड़े ग्राहक, Wagon R बनी नंबर-1; Brezza की भी हाई डिमांड, देखें टॉप-10 लिस्ट",
     "description": "अक्टूबर 2026 में मारुति सुजुकी Wagon R देश की सबसे ज्यादा डिस्पैच होने वाली कार बनी. वहीं, Brezza ने 85.9% की सबसे ज्यादा सालाना बढ़ोतरी दर्ज की. टॉप-10 कारों की लिस्ट में मारुति के 7 मॉडल शामिल रहे. टाटा Nexon और Punch ने भी अपनी मजबूत मौजूदगी दर्ज कराई.\nThe post अक्टूबर में इन 10 कारों को खरीदने के लिए टूट पड़े ग्राहक, Wagon R बनी नंबर-1; Brezza की भी हाई डिमांड, देखें टॉप-10 लिस्ट appeared first on Prabhat Khabar.",
@@ -102,18 +192,6 @@
     "pub_date": "2026-11-09T01:32:12+00:00",
     "image_url": null,
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-09",
-    "title": "पढ़ें 9 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-09T01:30:44+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
   },
   {
     "link": "https://www.prabhatkhabar.com/entertainment/tv-news/pankaj-dheer-birth-anniversary-special-from-300-salary-to-mahabharat-fame-untold-stories",
@@ -174,6 +252,18 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.prabhatkhabar.com/religion/diwali-festival-traditions-sohrai-gaura-gauri",
+    "title": "दिवाली के बाद भी क्यों नहीं थमता गांवों में त्योहारों का सिलसिला? कहीं पशुओं की पूजा, तो कहीं शिव-पार्वती का विवाह",
+    "description": "Diwali Festival Traditions: शहरों में दिवाली के बाद रौनक कम होने लगती है, लेकिन गांवों में त्योहारों का सिलसिला जारी रहता है. झारखंड के सोहराय में पशुओं और दीवारों पर बनी चित्रकला का महत्व है, तो छत्तीसगढ़ में गौरा-गौरी उत्सव की अनोखी परंपरा देखने को मिलती है.\nThe post दिवाली के बाद भी क्यों नहीं थमता गांवों में त्योहारों का सिलसिला? कहीं पशुओं की पूजा, तो कहीं शिव-पार्वती का विवाह appeared first on Prabhat Khabar.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-09T01:30:00+00:00",
+    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/08/1794134006865/sizes/village-diwali-festival-traditions-ee95b4-hero.webp",
+    "source_name": "PRABHATKHABAR.COM"
+  },
+  {
     "link": "https://www.prabhatkhabar.com/national/9-november-top-20-news-in-hindi",
     "title": "9 नवंबर सुबह की टॉप 20 खबरें : दीपके का दावा 2029 में BJP की होगी हार, दिवाली पर और जहरीली हुई दिल्ली की हवा",
     "description": "9 November Top 20 News: सीजेपी चीफ अभिजीत दीपके ने दावा किया है, 2029 में बीजेपी की हार होगी. वहीं दीवाली पर दिल्ली की हवा और भी जहरीली हो गई. इसी तरह की टॉप 20 खबरें आप यहां पढ़ सकते हैं.\nThe post 9 नवंबर सुबह की टॉप 20 खबरें : दीपके का दावा 2029 में BJP की होगी हार, दिवाली पर और जहरीली हुई दिल्ली की हवा appeared first on Prabhat Khabar.",
@@ -184,6 +274,18 @@
     ],
     "pub_date": "2026-11-09T01:29:00+00:00",
     "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/08/1794162844980/sizes/9-november-top-20-news-100851-hero.webp",
+    "source_name": "PRABHATKHABAR.COM"
+  },
+  {
+    "link": "https://www.prabhatkhabar.com/technology/what-is-digital-footprint-types-risks-and-how-to-reduce-it",
+    "title": "गूगल सर्च से लेकर सोशल मीडिया लाइक्स तक: कैसे बनता है आपका  रिकॉर्ड, जानिए क्या है Digital Footprint",
+    "description": "इंटरनेट पर आप जो भी करते हैं, जैसे Google पर कुछ सर्च करना, सोशल मीडिया पर लाइक करना या ऑनलाइन शॉपिंग करना, इन सबका कहीं न कहीं रिकॉर्ड बनता रहता है. इसी को Digital Footprint कहते हैं. यह दो तरह का होता है, Active और Passive. जानिए यह कैसे बनता है, इससे आपकी प्राइवेसी को क्या खतरा हो सकता है और Incognito Mode इस्तेमाल करने के बाद भी कौन-सी जानकारी छिप नहीं पाती.\nThe post गूगल सर्च से लेकर सोशल मीडिया लाइक्स तक: कैसे बनता है आपका  रिकॉर्ड, जानिए क्या है Digital Footprint appeared first on Prabhat Khabar.",
+    "categories": [
+      "Breaking News",
+      "Technology"
+    ],
+    "pub_date": "2026-11-09T01:28:00+00:00",
+    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/09/1794186885591/sizes/digital-footprint-ae8f8b-hero.webp",
     "source_name": "PRABHATKHABAR.COM"
   },
   {
@@ -421,6 +523,7 @@
     "title": "9 नवंबर 2026 का राशिफल: मिथुन-तुला सहित 5 राशियों के लिए दिन रह सकता है शुभ, जानें सभी 12 राशियों का हाल",
     "description": "आज कार्तिक कृष्ण पक्ष की उदया तिथि अमावस्या और सोमवार का दिन है। अमावस्या तिथि आज दोपहर 12 बजकर 32 मिनट तक रहेगी। आज स्नान-दान की अमावस्या है। यहां जानिए सभी 12 राशियों के लिए कैसा रहेगा आज का दिन।",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-09T00:49:00+00:00",
@@ -614,22 +717,12 @@
     "title": "आज का राशिफल (Aaj Ka Rashifal) 9 नवंबर 2026: कार्तिक अमावस्या का दिन इन 4 राशियों के लिए रहेगा खास, किसका बिगड़ेगा बजट? पढ़ें दैनिक राशिफल",
     "description": "Daily Horoscope: नवंबर 2026, सोमवार को सोमवती अमावस्या का संयोग बन रहा है. त्योहार के बाद जहां कुछ राशियों को कामकाज में सुस्ती महसूस होगी, वहीं कुछ जातकों को खर्च और बजट की चिंता सता सकती है.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-09T00:30:01+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/chandresh-sharma-horoscope.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/food/village-style-lemon-pickle-recipe-easy-nimbu-ka-achar-banane-ki-vidhi-12299189#publisher=newsstand",
-    "title": "गांव के खास अंदाज में बनाएं नींबू का अचार, सालभर रहेगा स्वाद बरकरार, सिर्फ 10 मिनट में करें तैयार",
-    "description": "Village Style Lemon  Pickle : घर पर बनाएं नींबू का अचार",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-09T00:09:03+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/qpsrf9fg_village-style-lemon-pickle_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   },
   {
     "link": "https://ndtv.in/health/should-children-stop-outdoor-games-in-poor-air-quality-aqi-tips-12298983#publisher=newsstand",
@@ -733,6 +826,17 @@
     "pub_date": "2026-11-08T22:42:12+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/train-accident-in-egypt.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.prabhatkhabar.com/rashifal/aaj-ka-rashifal-monday-9-november-2026-somwar-today-horoscope-mesh-to-meen-in-hindi",
+    "title": "Aaj Ka Rashifal 9 November 2026: आज सोमवार को इन राशियों पर होगी कृपा, धनु-कुंभ को लाभ तो मीन की बढ़ सकती है चिंता",
+    "description": "Aaj Ka Rashifal 9 November 2026: आज  9 नवंबर 2026  का राशिफल मेष से मीन तक सभी 12 राशियों के लिए नौकरी, व्यापार, धन, परिवार और स्वास्थ्य का हाल बताएगा. जानें आज किन राशियों को मिलेगा लाभ.\nThe post Aaj Ka Rashifal 9 November 2026: आज सोमवार को इन राशियों पर होगी कृपा, धनु-कुंभ को लाभ तो मीन की बढ़ सकती है चिंता appeared first on Prabhat Khabar.",
+    "categories": [
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-08T22:30:00+00:00",
+    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/08/1794123481214/sizes/aaj-ka-rashifal-9-november-2026-f586af-hero.webp",
+    "source_name": "PRABHATKHABAR.COM"
   },
   {
     "link": "https://www.amarujala.com/video/india-news/rampage-of-arson-across-several-states-in-the-country-panic-spreads-from-delhi-to-sikkim-2026-11-09",
@@ -1593,17 +1697,6 @@
     "source_name": "ABPLIVE.COM"
   },
   {
-    "link": "https://ndtv.in/food/chhath-puja-kharna-special-gur-ki-kheer-recipe-12299140#publisher=newsstand",
-    "title": "छठ के दूसरे दिन बनाई जाती है गुड़ की खीर, एक बार बनाकर खा लें तो भूल जाएंगे सारे खीर का स्वाद, नोट करें रेसिपी",
-    "description": "Gud ki Kheer Recipe : गुड़ की खीर कैसे बनाएं?",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-08T14:33:26+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/dohbh53g_gud-ki-kheer-recipe_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
     "link": "https://ndtv.in/health/festival-makeup-allergy-rashes-itching-skin-care-tips-12286572#publisher=newsstand",
     "title": "फेस्टिव मेकअप के बाद चेहरे पर हो रही है खुजली और रैशेज? ऐसे पाएं स्किन एलर्जी से राहत",
     "description": "Festive Makeup Skin : मेकअप के बाद स्किन एलर्जी से कैसे बचें?",
@@ -2169,97 +2262,5 @@
     "pub_date": "2026-11-08T12:10:49+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.indiatv.in/punjab/anti-drug-activist-parvinder-singh-jhota-last-rites-performed-in-mansa-2026-11-08-1253471",
-    "title": "परविंदर सिंह झोटा का 26 दिन बाद किया गया अंतिम संस्कार, नशे का विरोध करने पर गोली मारकर की गई थी हत्या",
-    "description": "पंजाब के मानसा में एंटी ड्रग एक्टिविस्ट परविंदर सिंह झोटा की गोली मारकर हत्या कर दी गई थी। उनका आज अंतिम संस्कार किया गया। उनका परिवार 22 दिन तक न्याय की मांग के लिए धरने पर बैठा था।",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-08T12:09:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/untitled-2026-11-08t173842-1794139691.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/uttar-pradesh/siddharthnagar-food-poisoning-hundred-ill-after-fulki-during-diwali-3958001.html",
-    "title": "पेट दर्द, उल्टी और चक्कर… सिद्धार्थनगर में गोलगप्पे खाकर 100 लोग बीमार, कई बच्चों की हालात गंभीर",
-    "description": "यूपी के सिद्धार्थनगर में दिवाली के दौरान फुल्की (गोलगप्पे) खाने से 100 से अधिक लोग फूड पॉइजनिंग के शिकार हुए. खेसरहा क्षेत्र के कलनाखोर समेत कई गांवों में बच्चे, महिलाएं और बुजुर्ग बीमार पड़े.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-08T12:08:28+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/up-news-1280-720-76.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/science/story/air-pollution-india-38-lakh-people-died-in-10-years-dskc-2691188-2026-11-08?utm_source=rssfeed",
-    "title": "सांस कैसे लें... 10 साल में जहरीली हवा ने ली 38 लाख भारतीयों की जान",
-    "description": "2009-2019 में वायु प्रदूषण से भारत में 38 लाख मौतें. पीएम 2.5 राष्ट्रीय मानक से ज्यादा. डब्ल्यूएचओ मानक पर 1.66 करोड़. बर्नीहाट दिल्ली से ज्यादा प्रदूषित. छोटे शहर और महानगर दोनों संकट में.",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-11-08T12:04:27+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/zara-hatke/tech-student-got-45-lpa-job-offer-without-applying-after-skips-campus-placement-12300299#publisher=newsstand",
-    "title": "कॉलेज प्लेसमेंट छोड़ने वाले टेक छात्र को मिला 45 लाख का पैकेज, बोला- न कोई इंटरव्यू, न ही कोई टेस्ट दिया",
-    "description": "कॉलेज प्लेसमेंट छोड़ने वाले टेक छात्र को मिला 45 लाख का पैकेज",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-08T12:01:37+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/6m7ducds_tech-student-got-45-lpa-job-offer-without-applying-after-skips-campus-placement_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/technology/airtel-restores-rs299-prepaid-plan-know-all-details-here-3957913.html",
-    "title": "Airtel यूजर्स की हो गई मौज! वापस आया सस्ता प्लान, 28 दिन तक मिलेगी वैलिडिटी",
-    "description": "Airtel ने अपना ₹299 वाला प्रीपेड प्लान फिर लिस्ट किया है. इसमें 28 दिन की वैलिडिटी, रोज 1GB डेटा, अनलिमिटेड कॉलिंग और 100 SMS मिलते हैं. कंपनी के ₹185, ₹203 और ₹206 के प्लान भी उपलब्ध हैं.",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-11-08T12:00:55+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/10/airtel.png",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/business/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks-3957882.html",
-    "title": "इंडियन ऑयल ने बनाया नया प्लान, अब अपने जहाजों से मंगाएगी क्रूड और LPG",
-    "description": "इंडियन ऑयल कॉर्पोरेशन कच्चे तेल और LPG ले जाने वाले जहाजों का अधिग्रहण करके अपनी ऊर्जा सप्लाई चेन पर नियंत्रण बढ़ाना चाहता है. कंपनी देश में जहाज निर्माण की संभावनाओं पर भी विचार कर रही है.",
-    "categories": [
-      "Breaking News",
-      "Business"
-    ],
-    "pub_date": "2026-11-08T12:00:49+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/shipping.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/religion/diwali-muhurat-2026-delhi-mumbai-lakshmi-puja-shubh-muhurt-2026-checkout-diwali-puja-time-today-3957896.html",
-    "title": "Diwali Muhurat 2026: दिवाली पर 1 घंटा 56 मिनट का है सबसे खास मुहूर्त, दिल्ली से मुंबई तक जानें अपने शहर का टाइम",
-    "description": "दिवाली पर मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व है. हालांकि, अलग-अलग शहरों में लक्ष्मी पूजन के शुभ मुहूर्त में अंतर है. ऐसे में आइए जानते हैं दिल्ली से मुंबई तक लक्ष्मी पूजा का टाइम.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-08T12:00:16+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/lakshmi-puja-shubh-muhurt.jpeg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/rajasthan/bikaner-train-accident-couple-rescue-attempt-three-killed-one-injured-2026-11-08-1253470",
-    "title": "बीकानेर में भीषण रेल हादसा, दंपति का झगड़ा बना 3 लोगों की मौत की वजह, 1 की हालत गंभीर",
-    "description": "राजस्थान के बीकानेर में रेलवे ट्रैक पर झगड़ रहे एक दंपती को बचाने की कोशिश में बड़ा हादसा हो गया। अचानक ट्रेन की चपेट में आने से तीन लोगों की मौत हो गई, जबकि एक व्यक्ति गंभीर रूप से घायल हो गया।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-08T11:58:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/train-accident-1794139398.webp",
-    "source_name": "INDIATV.IN"
   }
 ]
