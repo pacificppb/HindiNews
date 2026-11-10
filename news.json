@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-11",
+    "title": "पढ़ें 11 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-11T06:30:37+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.tv9hindi.com/state/uttar-pradesh/baghpat-diwali-firing-rashtrapati-bhavan-soldier-saurabh-shot-in-head-condition-critical-3959921.html",
     "title": "Baghpat News: दिवाली पर छुट्टी आए राष्ट्रपति भवन के सुरक्षाकर्मी को मारी गोली, हालत गंभीर; भाई को लाठी-डंडे से पीटा",
     "description": "उत्तर प्रदेश के बागपत में दिवाली की रात पुरानी रंजिश में दो भाइयों पर जानलेवा हमला किया गया. आरोप है कि घर के बाहर पटाखे चला रहे भाइयों पर गांव के ही दो युवकों ने तमंचे से फायरिंग कर दी.",
@@ -9,6 +20,17 @@
     "pub_date": "2026-11-10T18:23:40+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/baghpat-news.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/uttarakhand/story/badrinath-dham-heavy-rush-joshimath-traffic-jam-uttarakhand-ntc-amkr-rptc-2693140-2026-11-10?utm_source=rssfeed",
+    "title": "कपाट बंद होने से पहले गुलजार हुआ बदरीनाथ धाम, लगा जबरदस्त जाम",
+    "description": "उत्तराखंड के बदरीनाथ धाम की यात्रा में एक बार फिर तेजी देखने को मिल रही है. 16 नवंबर को बदरीनाथ धाम के कपाट शीतकाल के लिए बंद होने जा रहे हैं, लेकिन दिवाली के बाद भी श्रद्धालुओं की भीड़ कम होने का नाम नहीं ले रही है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-10T18:21:03+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.tv9hindi.com/entertainment/bollywood-news/aneet-padda-wears-outfit-gifted-by-ahaan-pandays-mother-deanne-for-diwali-3959920.html",
@@ -472,7 +494,7 @@
       "Political"
     ],
     "pub_date": "2026-11-10T16:53:37+00:00",
-    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/10/1794331882741/sizes/nisha-bhagat-case-8ad892-hero.webp",
+    "image_url": "https://wpmedia.prabhatkhabar.com/uploads/2026/11/10/1794335243231/sizes/nish-bhagat-case-962b88-hero.webp",
     "source_name": "PRABHATKHABAR.COM"
   },
   {
@@ -1468,7 +1490,7 @@
   },
   {
     "link": "https://www.aajtak.in/india/news/story/bharat-agriculture-conference-2026-smart-kisan-viksit-bharat-schedule-pm-modi-ntc-amkr-dskc-2693034-2026-11-10?utm_source=rssfeed",
-    "title": "सबसे बड़ी &#039;किसान कॉन्फ्रेंस&#039; कल से, PM समेत ये दिग्गज करेंगे शिरकत",
+    "title": "सबसे बड़ी &#039;किसान कॉन्फ्रेंस&#039; आज से, PM समेत ये दिग्गज करेंगे शिरकत",
     "description": "इंडिया टुडे ग्रुप 11 और 12 नवंबर को दिल्ली के भारत मंडपम में बड़ा अंतरराष्ट्रीय सम्मेलन आयोजित कर रहा है. इसका नाम 'किसान तक भारत एग्रीकल्चर कॉन्फ्रेंस 2026' है.",
     "categories": [
       "National"
@@ -2287,28 +2309,5 @@
     "pub_date": "2026-11-10T13:24:42+00:00",
     "image_url": "https://c.ndtvimg.com/2026-11/bv1h4e24_aishwarya_625x300_10_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://ndtv.in/uttar-pradesh-news/ayodhya-deepotsav-transformed-face-with-homestays-fully-booked-earnings-of-local-families-increased-12308590#publisher=newsstand",
-    "title": "दीपोत्सव ने बदली अयोध्या की तस्वीर, होमस्टे फुल हुए तो स्थानीय परिवारों की बढ़ी कमाई",
-    "description": "अयोध्या के दीपोत्सव-2026 में सिर्फ सात दिनों में 15 लाख पर्यटक रामनगरी पहुंचे.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-10T13:24:40+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/mqfa35i8_uttarprdesh_625x300_10_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/uttar-pradesh/story/amethi-13-year-old-rape-victim-gives-birth-minor-accused-cousin-sent-to-juvenile-home-ntc-apdy-rptc-2693038-2026-11-10?utm_source=rssfeed",
-    "title": "यूपी में 13 साल की बच्ची से चचेरे भाई ने किया दुष्कर्म, दिया बच्चे को जन्म",
-    "description": "उत्तर प्रदेश के अमेठी में 13 साल की नाबालिग ने बच्ची को जन्म दिया है. उसकी मां ने 13 साल के एक रिश्तेदार पर रेप का आरोप लगाते हुए शिकायत दर्ज कराई थी, जिसके बाद पुलिस ने आरोपी को हिरासत में लेकर कोर्ट में पेश किया था.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-10T13:24:08+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
   }
 ]
