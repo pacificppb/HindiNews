@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.bbc.com/hindi/articles/cmy0enj81yr0o?at_medium=RSS&at_campaign=rss",
+    "title": "एनवीडिया के सीईओ जेनसन हुआंग ने इस्तीफ़ा दिया, जानें क्या है पूरा मामला",
+    "description": "एनवीडिया के बोर्ड ने बताया है कि कंपनी के सीईओ जेनसन हुआंग ने इस्तीफ़ा दे दिया है. उनकी जगह कोलेट क्रेस अंतरिम सीईओ बनाई गई हैं.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-12T14:05:23+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7a6/live/3b582300-de5e-11f1-bdde-ab88854bdb9a.jpg",
+    "source_name": "BBC.COM"
+  },
+  {
     "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-chief-minister-mohan-yadav-uttarakhand-visit-khatima-012-1683457.html",
     "title": "MP News: मुख्यमंत्री मोहन यादव पहुंचे उत्तराखंड, बोले- PM मोदी ने अंतरराष्ट्रीय स्तर पर बढ़ाया भारत का सम्मान",
     "description": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव ने उत्तराखंड के एक दिवसीय दौरे पर प्रधानमंत्री मोदी के नेतृत्व की प्रशंसा की, राष्ट्रीय एकता, सुरक्षा और बुनियादी ढांचे में सुधार पर जोर दिया।",
@@ -13,7 +25,7 @@
   {
     "link": "https://www.indiatv.in/world/us/jensen-huang-resigns-as-nvidia-ceo-amid-espionage-controversy-2026-11-12-1254098",
     "title": "जेंसन हुआंग का Nvidia के CEO पद से इस्तीफा, जासूसी विवाद के बाद पद छोड़ा",
-    "description": "जेंसन हुआंग का Nvidia के CEO पद से इस्तीफा, जासूसी विवाद के बाद पद छोड़ा",
+    "description": "दुनिया की दिग्गज टेक कंपनी Nvidia में बड़ा घटनाक्रम सामने आया है। CEO जेनसन हुआंग ने गुरुवार को अपने पद से इस्तीफा दे दिया।",
     "categories": [
       "Breaking News",
       "World"
@@ -21,6 +33,29 @@
     "pub_date": "2026-11-12T14:01:00+00:00",
     "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2022/11/breaking-news-template-1-1667263372.webp",
     "source_name": "INDIATV.IN"
+  },
+  {
+    "link": "https://www.tv9hindi.com/business/nvidia-ceo-jensen-huang-resigns-decision-follows-involvement-in-controversies-3961583.html",
+    "title": "Nvidia के CEO जेनसन हुआंग का इस्तीफा, विवादों में आने के बाद लिया फैसला",
+    "description": "जेनसन हुआंग ने Nvidia के CEO के पद से इस्तीफा दे दिया है. कथित चीनी जासूस से विवादों में आने के बाद हुआंग ने यह फैसला लिया है.",
+    "categories": [
+      "Breaking News",
+      "Business"
+    ],
+    "pub_date": "2026-11-12T14:00:34+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/jensen-huang-3.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/delhi/story/jagdeep-dhankhar-health-update-aiims-heart-brain-tests-discharge-decision-ntc-aktw-rptc-2694715-2026-11-12?utm_source=rssfeed",
+    "title": "पूर्व उपराष्ट्रपति जगदीप धनखड़ की कैसी तबीयत? आया हेल्थ अपडेट",
+    "description": "AIIMS में गुरुवार को पूर्व उपराष्ट्रपति जगदीप धनखड़ की दिल और दिमाग से जुड़ी कई जांच की गईं. डॉक्टरों ने फिलहाल उन्हें अस्पताल में रखने की सलाह दी है. शुक्रवार को टेस्ट रिपोर्ट के आधार पर उनके डिस्चार्ज को लेकर फैसला हो सकता है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-12T14:00:28+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-ott-and-satellite-rights-sold-sony-massive-63-crore-deal-tmovg-dskc-2694688-2026-11-12?utm_source=rssfeed",
@@ -48,7 +83,7 @@
   {
     "link": "https://www.aajtak.in/world/story/nvidia-ceo-jensen-huang-resigns-president-ceo-board-member-gf-spy-issue-ntc-aktw-rpti-2694753-2026-11-12?utm_source=rssfeed",
     "title": "जेनसेन हुआंग का NVIDIA के सभी पदों से इस्तीफा, गर्लफ्रेंड पर लगे हैं चीन की जासूस होने के आरोप",
-    "description": "Nvidia कॉरपोरेशन के जेनसन हुआंग ने कंपनी के प्रेसिडेंट, CEO और बोर्ड मेंबर के पद से तत्काल प्रभाव से इस्तीफा दे दिया है. NVIDIA कॉरपोरेशन की ओर से जारी जानकारी में इसकी पुष्टि की गई है. कंपनी ने बताया है कि जेनसेन हुआंग का इस्तीफा तत्काल प्रभाव से लागू होगा.",
+    "description": "Nvidia कॉरपोरेशन के जेनसेन हुआंग ने कंपनी के प्रेसिडेंट, CEO और बोर्ड मेंबर के पद से तत्काल प्रभाव से इस्तीफा दे दिया है. NVIDIA कॉरपोरेशन की ओर से जारी जानकारी में इसकी पुष्टि की गई है. कंपनी ने बताया है कि जेनसेन हुआंग का इस्तीफा तत्काल प्रभाव से लागू होगा.",
     "categories": [
       "Breaking News",
       "World"
@@ -56,6 +91,29 @@
     "pub_date": "2026-11-12T13:57:21+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.patrika.com/other-sport-news/vivaan-kapoor-silver-medal-issf-world-championship-la-2028-olympic-quota-21045403",
+    "title": "ISSF World Championships: विवान कपूर ने जीता सिल्वर मेडल, LA 2028 ओलंपिक का कोटा किया पक्का",
+    "description": "Vivaan Kapoor: भारत के विवान कपूर भले ही इतिहास रचने से चूक गए हों, लेकिन उन्होंने गुरुवार को ISSF विश्व चैंपियनशिप में पुरुषों की ट्रैप स्पर्धा में सिल्वर मेडल जीतकर जश्न मनाने का मौका हासिल कर लिया है। दरअसल, 24 वर्षीय भारतीय निशानेबाज ने अपने शानदार प्रदर्शन के दम पर भारत के लिए 2028 लॉस एंजिल्स ओलंपिक का कोटा स्थान भी हासिल कर लिया है।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-11-12T13:56:01+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Vivaan-Kapoor.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/trending/founder-announces-company-closure-3-days-before-festival-woman-loses-job-diwali-party-turns-into-nightmare-3961571.html",
+    "title": "बॉस ने पार्टी में बुलाया, गिफ्ट दिया और फिर छीन ली नौकरी! दिवाली से पहले महिला की जिंदगी में आया तूफान",
+    "description": "दिवाली पार्टी में गिफ्ट और मिठाई की उम्मीद लेकर पहुंची महिला को बॉस ने नौकरी जाने की खबर सुना दी. त्योहार से महज 3 दिन पहले कंपनी बंद होने का ऐलान हुआ. इस कहानी को महिला ने रेडिट पर शेयर किया.",
+    "categories": [
+      "Breaking News",
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-12T13:54:32+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/diwali-jobless.jpg",
+    "source_name": "TV9HINDI.COM"
   },
   {
     "link": "https://navbharattimes.indiatimes.com/india/environmental-activists-meeting-bhupender-yadav-air-pollution-crisis/articleshow/135772011.cms",
@@ -69,6 +127,28 @@
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
+    "link": "https://www.tv9hindi.com/state/bihar/bhojpur-firing-havildar-son-murdered-over-old-dispute-friend-critical-3961565.html",
+    "title": "भोजपुर में वर्चस्व की जंग! हवलदार के बेटे को दौड़ा-दौड़ाकर मारी गोली, दोस्त पर भी फायरिंग; हालत गंभीर",
+    "description": "भोजपुर में गजराजगंज के पास हथियारबंद बदमाशों ने दो युवकों पर फायरिंग की. इस वारदात में हवलदार के बेटे रितिक सिंह राजपूत की मौके पर मौत हो गई, दोस्त युवराज कुमार गंभीर घायल है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-12T13:48:27+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/bihar-news-1280-720-43.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/taiwan-urges-china-respect-roc-democracy-xi-unification-remark-21045459",
+    "title": "‘एकीकरण तय है!’ शी के इस एक बयान पर भड़का ताइवान, बीजिंग को दे दी सीधी नसीहत",
+    "description": "China Taiwan Tension: सेंट्रल न्यूज एजेंसी (CNA) की एक रिपोर्ट के अनुसार, ताइवान की ‘मेनलैंड अफेयर्स काउंसिल’ (MAC) ने गुरुवार को बीजिंग से आग्रह किया कि वह ‘रिपब्लिक ऑफ चाइना’ (ROC) के अस्तित्व को स्वीकार करे और ताइवान की लोकतांत्रिक व्यवस्था का सम्मान करे। यह अपील तब की गई है जब चीनी राष्ट्रपति शी जिनपिंग ने फिर दोहराया कि ताइवान के साथ एकीकरण होना तय है।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-11-12T13:47:58+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cross-strait-relations.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.aajtak.in/technology/tech-news/story/salman-khan-home-dyson-air-purifier-sohail-khan-photo-price-features-ttecm-dskc-2694713-2026-11-12?utm_source=rssfeed",
     "title": "सलमान खान के घर लगा है खास एयर प्यूरिफायर, जानें क़ीमत और फीचर्स",
     "description": "सोहेल खान ने इंस्टाग्राम पर एक फोटो शेयर की है. इसमें सलीम खान और सलमा खान दिख रहे हैं. पीछे एक खास एयर प्यूरिफायर दिख रहा है. आइए जानते हैं ये एयर प्यूरिफायर कैसा है और क्या हैं इसके फीचर्स.",
@@ -76,6 +156,18 @@
       "Technology"
     ],
     "pub_date": "2026-11-12T13:44:27+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.aajtak.in/education/news/story/nvidia-ceo-jensen-huang-wife-lori-huang-career-philanthropy-edmm-dskc-2694721-2026-11-12?utm_source=rssfeed",
+    "title": "पति से ज्यादा कमाती थीं एनवीड‍िया के CEO की इंजीन‍ियर पत्नी लोरी!",
+    "description": "Nvidia के अरबपति सीईओ जेन्सन हुआंग आज दुनिया के सबसे ताकतवर टेक लीडर्स में गिने जाते हैं. लेकिन एक दौर ऐसा भी था जब उनकी इंजीनियर पत्नी लोरी हुआंग उनसे ज्यादा कमाती थीं. ओरेगन स्टेट यूनिवर्सिटी की लैब से शुरू हुई उनकी लव स्टोरी, सिलिकॉन वैली में चिप डिजाइनर का करियर समेत पूरा सफर जानिए.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-12T13:42:48+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
   },
@@ -114,17 +206,6 @@
     "source_name": "TV9HINDI.COM"
   },
   {
-    "link": "https://www.patrika.com/other-sport-news/vivaan-kapoor-silver-medal-issf-world-championship-la-2028-olympic-quota-21045403",
-    "title": "ISSF World Championships: विवान कपूर ने जीता सिल्वर मेडल, LA 2028 ओलंपिक का कोटा किया पक्का",
-    "description": "Vivaan Kapoor: भारत के विवान कपूर भले ही इतिहास रचने से चूक गए हों, लेकिन उन्होंने गुरुवार को ISSF विश्व चैंपियनशिप में पुरुषों की ट्रैप स्पर्धा में सिल्वर मेडल जीतकर जश्न मनाने का मौका हासिल कर लिया है। दरअसल, 24 वर्षीय भारतीय निशानेबाज ने अपने शानदार प्रदर्शन के दम पर भारत के लिए 2028 लॉस एंजिल्स ओलंपिक का कोटा स्थान भी हासिल कर लिया है।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-11-12T13:40:25+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Vivaan-Kapoor.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.patrika.com/entertainment-news/kunal-kapoor-wins-hearts-in-thailand-with-lord-indra-cameo-in-ramayana-21045372",
     "title": "रणबीर कपूर और यश के बीच ‘देवराज इंद्र’ बनकर चमके कुणाल कपूर, विदेशों में मिली जबरदस्त फैन-फॉलोइंग",
     "description": "Airavata Scene Ramayana: नितेश तिवारी के डायरेक्शन में बनी मोस्टअवेटेड फिल्म ‘रामायण’ को दुनिया भर के थिएटर्स में रिलीज हुए एक हफ्ता पूरा हो चुका है। बता दें, फिल्म में रणबीर कपूर, साई पल्लवी और यश जैसे स्टार्स के साथ-साथ एक्टर कुणाल कपूर अपने छोटे से कैमियो से हर किसी का ध्यान खींच रहे हैं। सिर्फ तीन दृश्यों में ‘देवराज इंद्र’ की भूमिका निभाने वाले कुणाल न केवल भारत में, बल्कि थाईलैंड में भी रातोंरात सोशल-मीडिया सेंसेशन बन गए हैं।",
@@ -137,15 +218,15 @@
     "source_name": "PATRIKA.COM"
   },
   {
-    "link": "https://www.patrika.com/world-news/taiwan-urges-china-respect-roc-democracy-xi-unification-remark-21045459",
-    "title": "‘एकीकरण तय है!’ शी के इस एक बयान पर भड़का ताइवान, बीजिंग को दे दी सीधी नसीहत",
-    "description": "China Taiwan Tension: सेंट्रल न्यूज एजेंसी (CNA) की एक रिपोर्ट के अनुसार, ताइवान की ‘मेनलैंड अफेयर्स काउंसिल’ (MAC) ने गुरुवार को बीजिंग से आग्रह किया कि वह ‘रिपब्लिक ऑफ चाइना’ (ROC) के अस्तित्व को स्वीकार करे और ताइवान की लोकतांत्रिक व्यवस्था का सम्मान करे। यह अपील तब की गई है जब चीनी राष्ट्रपति शी जिनपिंग ने फिर दोहराया कि ताइवान के साथ एकीकरण होना तय है।",
+    "link": "https://www.aajtak.in/lifestyle/fashion/story/miss-universe-2026-pakistan-contestant-misbah-arshad-glamorous-photos-tvisp-dskc-2694714-2026-11-12?utm_source=rssfeed",
+    "title": "भारतीय सुंदरी से टकराएगी पाकिस्तान हसीना, देखें ग्लैमरस PHOTOS",
+    "description": "Miss Universe Pakistan 2026: नवंबर में होने वाली मिस यूनिवर्स 2026 की प्रतियोगिता में शामिल होने के लिए पाकिस्तान ने भी कमर कस ली है. हाल ही में मनोविज्ञान की छात्रा मिस्बाह अरशद को मिस यूनिवर्स पाकिस्तान 2026 का ताज पहनाया गया है जो मिस यूनिवर्स में पाकिस्तान को रिप्रेजेंट करेंगी.",
     "categories": [
-      "World"
+      "Entertainment"
     ],
-    "pub_date": "2026-11-12T13:39:49+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cross-strait-relations.webp",
-    "source_name": "PATRIKA.COM"
+    "pub_date": "2026-11-12T13:39:44+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.tv9hindi.com/technology/offer-on-the-vivo-y31t-5g-get-a-discount-of-rs1500-and-free-earbuds-3961543.html",
@@ -219,7 +300,6 @@
     "title": "पंजाब कांग्रेस नेताओं की अलग-अलग यात्राओं से फायदा होगा या नुकसान? क्या है प्लान",
     "description": "सीएम के चेहरे का ऐलान नहीं किए जाने को लेकर उन्होंने कहा कि ये पार्टी नेतृत्व की ज़िम्मेदारी है. सिपाही के तौर पर मैं वहीं करूंगा जो पार्टी चाहती है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-12T13:30:04+00:00",
@@ -262,7 +342,7 @@
   },
   {
     "link": "https://www.aajtak.in/auto/news/story/patna-traffic-police-warning-pending-challans-driving-licence-cancellation-auam-dskc-2694709-2026-11-12?utm_source=rssfeed",
-    "title": "नहीं भरा चालान... कैंसिल हो सकता है DL, ट्रैफिक पुलिस की वॉर्निंग",
+    "title": "कैंसिल हो सकता है इन लोगों का DL, ट्रैफिक पुलिस की वॉर्निंग",
     "description": "कई लोग ट्रैफिक पुलिस की ओर से ऑनलाइन भेजे गए चालान को सीरियस नहीं लेते हैं. ऐसा करना आपको महंगा पड़ सकता है. खासकर उन लोगों के लिए जो पटना में रहते हैं. पटना ट्रैफिक पुलिस ने इस संबंध में जिला परिवहन पदाधिकारी को एक प्रस्ताव भेजा है. इसके तहत 5 या इससे ज्यादा ट्रैफिक चालान जिन लोगों ने नहीं भरे हैं उनके डीएल रद्द किए जा सकते हैं.",
     "categories": [
       "Breaking News",
@@ -499,7 +579,7 @@
       "National"
     ],
     "pub_date": "2026-11-12T13:06:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2022/11/breaking-news-template-1-1667263372.webp",
+    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/azam-khan-1794489488.webp",
     "source_name": "INDIATV.IN"
   },
   {
@@ -1416,6 +1496,19 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.patrika.com/entertainment-news/amitabh-bachchan-bungalow-jalsa-receives-fresh-bomb-threat-security-tightened-in-mumbai-21044957",
+    "title": "अमिताभ बच्चन के ‘जलसा’ समेत मुंबई एयरपोर्ट और महालक्ष्मी रेसकोर्स को बम से उड़ाने की धमकी, सुरक्षा एजेंसियां अलर्ट",
+    "description": "Abhishek Bachchan Threat Security Tightened: बॉलीवुड के महानायक अमिताभ बच्चन के मुंबई के जुहू स्थित ‘जलसा’ को एक बार फिर बम से उड़ाने की धमकी मिली है। मुंबई में अधिकारियों को मिले एक ताजा धमकी भरे ईमेल में ‘जलसा’ के साथ-साथ शहर की कई जगहों को निशाना बनाने की बात कही गई है। बता दें कि धमकी भरा ईमेल सामने आने के बाद मुंबई पुलिस और सुरक्षा एजेंसियां अलर्ट हो गई हैं और ईमेल में बताए गए सभी स्थानों पर तलाशी अभियान चलाया जा रहा है।",
+    "categories": [
+      "Breaking News",
+      "Entertainment",
+      "Technology"
+    ],
+    "pub_date": "2026-11-12T11:45:26+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Amitabh-Bachchan-.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.tv9hindi.com/world/imran-khan-deal-in-pakistan-two-sisters-jail-released-bushra-bibi-may-moved-hospital-3961447.html",
     "title": "पाकिस्तान में इमरान खान ने की बड़ी डील! 2 बहनों की रिहाई, अस्पताल जाएंगी बुशरा",
     "description": "इमरान खान की तरफ से इस डील को पीटीआई के अध्यक्ष बैरिस्टर गौहर देख रहे हैं. इसी के तहत 2 दिन पहले गौहर ने जेल में इमरान खान से मुलाकात की थी. गुरुवार को भी 2 वकीलों ने इमरान खान से मुलाकात की है.",
@@ -1470,6 +1563,18 @@
     "pub_date": "2026-11-12T11:42:47+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.patrika.com/cricket-news/acc-mens-u19-asia-cup-2026-india-beat-afghanistan-to-reach-final-vs-pakistan-21044744",
+    "title": "IND vs AFG, U19 Asia Cup Semi-Final: भारत ने अफगानिस्तान को हराया, अब फाइनल में पाकिस्तान से होगा सामना",
+    "description": "IND U19 vs AFG U19, Asia Cup 2026 2nd Semifinal: भारत ने अफगानिस्तान को हराकर अंडर-19 एशिया कप 2026 के फाइनल में प्रवेश कर लिया है। अफगानिस्तान ने निर्धारित 50 ओवर में 8 विकेट पर 227 रन बनाए थे और भारत को जीत के लिए 228 रनों का लक्ष्य दिया था। भारत ने 36.5 ओवर में 2 विकेट के नुकसान पर 230 रन बनाकर लक्ष्य हासिल कर लिया। भारत ने यह मुकाबला 8 विकेट से जीता। अब अंडर-19 एशिया कप 2026 के फाइनल में भारत का सामना पाकिस्तान से होगा, जो कि 14 नवंबर को खेला जाएगा।",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-11-12T11:42:35+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/U-19-Indian-Cricketer.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.aajtak.in/business/utility/story/retail-inflation-surge-india-october-cpi-inflation-breaches-rbi-upper-limit-govt-data-tutc-dskc-2694617-2026-11-12?utm_source=rssfeed",
@@ -1579,18 +1684,6 @@
     "source_name": "AAJTAK.IN"
   },
   {
-    "link": "https://www.patrika.com/cricket-news/acc-mens-u19-asia-cup-2026-india-beat-afghanistan-to-reach-final-vs-pakistan-21044744",
-    "title": "IND vs AFG, U19 Asia Cup Semi-Final: भारत ने अफगानिस्तान को हराया, अब फाइनल में पाकिस्तान से होगा सामना",
-    "description": "IND U19 vs AFG U19, Asia Cup 2026 2nd Semifinal: भारत ने अफगानिस्तान को हराकर अंडर-19 एशिया कप 2026 के फाइनल में प्रवेश कर लिया है। अफगानिस्तान ने निर्धारित 50 ओवर में 8 विकेट पर 227 रन बनाए थे और भारत को जीत के लिए 228 रनों का लक्ष्य दिया था। भारत ने 36.5 ओवर में 2 विकेट के नुकसान पर 230 रन बनाकर लक्ष्य हासिल कर लिया। भारत ने यह मुकाबला 8 विकेट से जीता। इस जीत के साथ ही अब अंडर-19 एशिया कप 2026 के फाइनल में भारत का सामना पाकिस्तान से होगा, जो कि 14 नवंबर को खेला जाएगा।",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-12T11:35:43+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/U-19-Indian-Cricketer.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.tv9hindi.com/entertainment/bollywood-news/sanam-teri-kasam-actor-harshvardhan-rane-buys-new-home-in-mumbai-worth-16-crore-3961435.html",
     "title": "मुंबई में हर्षवर्धन राणे का नया आशियाना, 16 करोड़ की कीमत में खरीदा आलीशान घर, पहले से हैं दो फ्लैट के मालिक",
     "description": "'सनम तेरी कसम' फेम एक्टर हर्षवर्धन राणे ने मुंबई में एक आलीशान घर खरीदा है, जिसकी कीमत लगभग 16 करोड़ रुपये बताई जा रही है. पहले से भी मुंबई में उनके दो फ्लैट हैं.",
@@ -1624,19 +1717,6 @@
     "pub_date": "2026-11-12T11:31:17+00:00",
     "image_url": "https://hindi.oneindia.com/img/2026/11/rbiraisesreporateamidfoodinflation2-12711794482362.jpg",
     "source_name": "HINDI.ONEINDIA.COM"
-  },
-  {
-    "link": "https://www.patrika.com/entertainment-news/amitabh-bachchan-bungalow-jalsa-receives-fresh-bomb-threat-security-tightened-in-mumbai-21044957",
-    "title": "अमिताभ बच्चन के ‘जलसा’ समेत मुंबई एयरपोर्ट और महालक्ष्मी रेसकोर्स को बम से उड़ाने की धमकी, सुरक्षा एजेंसियां अलर्ट",
-    "description": "Abhishek Bachchan Threat Security Tightened: बॉलीवुड के महानायक अमिताभ बच्चन के मुंबई के जुहू स्थित आवास ‘जलसा’ को एक बार फिर बम से उड़ाने की धमकी मिली है। मुंबई में अधिकारियों को मिले एक ताजा धमकी भरे ईमेल में ‘जलसा’ के साथ-साथ शहर की कई महत्वपूर्ण जगहों को निशाना बनाने की बात कही गई है। इस ईमेल के सामने आने के बाद मुंबई पुलिस और सुरक्षा एजेंसियां पूरी तरह अलर्ट हो गई हैं और एहतियात के तौर पर सभी चिह्नित स्थानों पर सघन तलाशी अभियान चलाया गया है।",
-    "categories": [
-      "Breaking News",
-      "Entertainment",
-      "Technology"
-    ],
-    "pub_date": "2026-11-12T11:31:15+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Amitabh-Bachchan-.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/religion/most-powerful-stone-to-attract-money-astrology-money-attracting-crystals-3961266.html",
@@ -2234,85 +2314,5 @@
     "pub_date": "2026-11-12T10:50:05+00:00",
     "image_url": "https://c.ndtvimg.com/2026-11/3o4dcp9g_gadi-netanyahu_625x300_12_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/business/utility/photo/why-gold-silver-price-crash-gold-rates-update-tutd-2694561-2026-11-12?utm_source=rssfeed",
-    "title": "अचानक ये क्‍या? सोना ₹2000 सस्‍ता, ₹1.80 लाख के पास चांदी",
-    "description": "अचानक से कमोडिटी मार्केट में सोने और चांदी की कीमतों में गिरावट देखने को मिली है. चांदी की कीमत एक हफ्ते के दौरान 7000 रुपये से ज्‍यादा गिर गई है और सोने की कीमत 6000 रुपये टूटी है.",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-11-12T10:50:04+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/two-oil-tankers-hit-naval-mines-in-strait-of-hormuz-and-explode-21044753",
-    "title": "होर्मुज स्ट्रेट में बर्बाद हुआ 40 लाख बैरल तेल, समुद्री बारूदी सुरंगों का शिकार बने दो जहाज",
-    "description": "होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) के आदेश के खिलाफ जाकर पार करने की कोशिश करने वाले कई जहाज हर दिन समुद्री बारूदी सुरंगों का शिकार बन रहे हैं। हर दिन इस तरह के कई मामले देखने को मिल रहे हैं और देर रात फिर ऐसा ही देखने को मिला, जब तेल के दो जहाज होर्मुज स्ट्रेट में समुद्री बारूदी सुरंगों का शिकार बन गए।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-11-12T10:49:58+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/supertanker-explosion-in-hormuz.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/entertainment/south-movies/story/kavya-maran-anirudh-ravichander-family-connection-with-rajinikanth-mk-stalin-tmovh-dskc-2694530-2026-11-12?utm_source=rssfeed",
-    "title": "काव्या-अनिरुद्ध का रजनीकांत-स्टालिन से कनेक्शन, क्या है रिश्ता?",
-    "description": "अनिरुद्ध रविचंदर ने आईपीएल टीम सनराइजर्स हैदराबाद की मालकिन काव्या मारन से ग्रीस में शादी की. इस ग्रैंड वेडिंग में रजनीकांत और एमके स्टालिन ने दूल्हा-दुल्हन के साथ अहम भूमिका निभाई.",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-12T10:49:26+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/india/maharashtra/story/solapur-airport-trainer-aircraft-skids-off-runway-woman-pilot-safe-ntc-rlch-rpti-2694557-2026-11-12?utm_source=rssfeed",
-    "title": "टेकऑफ के दौरान रनवे से फिसला विमान, महिला पायलट थी अंदर, VIDEO",
-    "description": "महाराष्ट्र के सोलापुर एयरपोर्ट पर गुरुवार दोपहर टेकऑफ के दौरान एक ट्रेनर विमान रनवे से फिसल गया. हादसे के वक्त विमान में महिला पायलट मौजूद थी, जो सुरक्षित है. घटना दोपहर करीब 2:30 बजे हुई. सूचना मिलते ही पुलिस, दमकल विभाग और एंबुलेंस मौके पर पहुंच गई. हादसे में किसी के घायल होने की खबर नहीं है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-12T10:48:55+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/punjab/punjab-former-ssp-gurmeet-singh-randhawa-7-year-jail-transporter-kidnapping-case-3961347.html",
-    "title": "कहानी ट्रांसपोर्टर के अपहरण की, जब पुलिस ही बन गई किडनैपर; 34 साल बाद पंजाब के पूर्व SSP को 7 साल की जेल",
-    "description": "पंजाब के पूर्व SSP गुरमीत सिंह रंधावा को 7 साल की सजा सुनाई गई है. मामला 34 साल पुराना ट्रांसपोर्टर अमरीक सिंह सकरी के अपहरण से जुड़ा है. इसमें कुछ आरोपी पुलिसकर्मियों की मौत हो चुकी है.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-12T10:48:01+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/punjab-news-1.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/maharashtra-news/anna-hits-back-sonia-remark-says-my-movement-even-led-to-rss-bjp-being-ousted-from-power-12317076#publisher=newsstand",
-    "title": "सोनिया की टिप्पणी पर अन्ना का पलटवार, बोले- मेरे आंदोलन से RSS-BJP के लोग भी सत्ता से बाहर हुए",
-    "description": "सोनिया का नाम लिए बिना अन्ना हजारे ने दिया उनको करारा जवाब.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-12T10:47:37+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/9817t3sg_maharastra_625x300_12_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.patrika.com/business-news/real-estate-stocks-see-a-massive-surge-while-auto-sector-stocks-take-a-hit-21044706",
-    "title": "रियल एस्टेट शेयरों में जबरदस्त उछाल, उधर टूट गए ऑटो सेक्टर के स्टॉक्स, जानिए आज कैसा रहा मार्केट",
-    "description": "भारतीय शेयर बाजार आज गुरुवार को मामूली बढ़त लेकर बंद हुआ है। बॉम्बे स्टॉक एक्सचेंज का सूचकांक सेंसेक्स आज 0.04 फीसदी या 31 अंक की बढ़त के साथ 81,911 पर बंद हुआ। वहीं, नेशनल स्टॉक एक्सचेंज का सूचकांक निफ्टी आज 0.18 फीसदी या 44 अंक की बढ़त के साथ 25,299 पर बंद हुआ। बाजार बंद होते समय सेंसेक्स पैक के 30 शेयरों में से 10 शेयर हरे निशान पर और 20 शेयर लाल निशान पर थे।",
-    "categories": [
-      "Business",
-      "Economy"
-    ],
-    "pub_date": "2026-11-12T10:47:19+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/share-market12.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
