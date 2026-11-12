@@ -29,7 +29,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-12T22:30:26+00:00",
+    "pub_date": "2026-11-12T23:00:12+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/ai-impact-on-jobs-remains-unclear-in-india-says-moody-s-report-2026-11-13",
+    "title": "एआई से भारत में रोजगार पर अब तक साफ असर नहीं: उत्पादकता बढ़ने की उम्मीद, आईटी-बीपीओ क्षेत्र में ज्यादा जोखिम",
+    "description": "एआई से भारत में रोजगार पर अब तक साफ असर नहीं: उत्पादकता बढ़ने की उम्मीद, आईटी-बीपीओ क्षेत्र में ज्यादा जोखिम\nAI Impact on Jobs Remains Unclear in India, Says Moody's Report",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-12T22:55:28+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -518,7 +529,6 @@
     "title": "Jensen Huang Resigns: अफेयर विवाद के बीच Nvidia के CEO पद से दिया इस्तीफा, 33 साल बाद कंपनी की कमान से हटे",
     "description": "Nvidia CEO Resignation: एलिस हुआंग और कंपनी की एक वरिष्ठ अधिकारी के साथ कथित संबंधों को लेकर विवाद के बीच जेन्सेन हुआंग ने पद छोड़ दिया है। कंपनी की CFO कोलेट क्रेस अंतरिम CEO की जिम्मेदारी संभालेंगी। बोर्ड ने स्थायी उत्तराधिकारी",
     "categories": [
-      "Breaking News",
       "World"
     ],
     "pub_date": "2026-11-12T17:17:05+00:00",
@@ -2266,16 +2276,5 @@
     "pub_date": "2026-11-12T13:48:27+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/bihar-news-1280-720-43.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/world-news/taiwan-urges-china-respect-roc-democracy-xi-unification-remark-21045459",
-    "title": "‘एकीकरण तय है!’ शी के इस एक बयान पर भड़का ताइवान, बीजिंग को दे दी सीधी नसीहत",
-    "description": "China Taiwan Tension: सेंट्रल न्यूज एजेंसी (CNA) की एक रिपोर्ट के अनुसार, ताइवान की ‘मेनलैंड अफेयर्स काउंसिल’ (MAC) ने गुरुवार को बीजिंग से आग्रह किया कि वह ‘रिपब्लिक ऑफ चाइना’ (ROC) के अस्तित्व को स्वीकार करे और ताइवान की लोकतांत्रिक व्यवस्था का सम्मान करे। यह अपील तब की गई है जब चीनी राष्ट्रपति शी जिनपिंग ने फिर दोहराया कि ताइवान के साथ एकीकरण होना तय है।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-11-12T13:47:58+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cross-strait-relations.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
