@@ -29,7 +29,19 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-13T21:30:28+00:00",
+    "pub_date": "2026-11-13T22:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/rahul-accuses-the-central-government-of-phone-tapping-senior-congress-leaders-are-furious-2026-11-14",
+    "title": "राहुल ने केंद्र सरकार पर लगाया फोन टैपिंग का आरोप, भड़के कांग्रेस के दिग्गज नेता!",
+    "description": "राहुल ने केंद्र सरकार पर लगाया फोन टैपिंग का आरोप, भड़के कांग्रेस के दिग्गज नेता!",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-13T22:00:03+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2262,16 +2274,5 @@
     "pub_date": "2026-11-13T13:56:04+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.abplive.com/agriculture/why-farmers-mix-ash-with-seeds-before-sowing-agriculture-tips-3214353",
-    "title": "Traditional Farming: बीज बोने से पहले राख में क्यों मिला देते थे पुराने किसान, क्या है इसका साइंस?",
-    "description": "बीज बोने से पहले राख में क्यों मिला देते थे पुराने किसान, क्या है इसका साइंस?",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-13T13:55:43+00:00",
-    "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/13/b235feb52b704a629aa9258a9575032a17945549020461472_original.jpg",
-    "source_name": "ABPLIVE.COM"
   }
 ]
