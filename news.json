@@ -11,17 +11,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/video/india-news/bridge-named-after-nitish-to-be-inaugurated-by-pm-modi-what-did-the-prominent-bihar-leader-say-2026-11-15",
-    "title": "नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन,क्या बोले बिहार के दिग्गज नेता?",
-    "description": "नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन,क्या बोले बिहार के दिग्गज नेता?",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-14T20:00:20+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-15",
     "title": "पढ़ें 15 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -29,7 +18,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-14T20:00:13+00:00",
+    "pub_date": "2026-11-14T20:30:24+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/bridge-named-after-nitish-to-be-inaugurated-by-pm-modi-what-did-the-prominent-bihar-leader-say-2026-11-15",
+    "title": "नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन,क्या बोले बिहार के दिग्गज नेता?",
+    "description": "नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन,क्या बोले बिहार के दिग्गज नेता?",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-14T20:00:20+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -1403,7 +1403,6 @@
     "title": "अपना पक्का घर बनाने के लिए सरकार दे रही 2.5 लाख रुपये तक की मदद, कौन है पात्र और क्या हैं 4 कैटेगरी?",
     "description": "PMAY-U 2.0: अपना पक्का मकान बनाने का सपना देख रहे गरीब और मध्यम वर्ग के परिवारों के लिए प्रधानमंत्री आवास योजना-शहरी 2.0 (PMAY-U 2.0) मददगार है। केंद्र सरकार इस योजना के तहत पात्र परिवारों को घर बनाने और खरीदने के लिए",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-14T15:02:04+00:00",
