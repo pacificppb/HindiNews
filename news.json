@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-15",
-    "title": "पढ़ें 15 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-15T07:00:12+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/pm-modi-bought-dk-shivakumar-metro-ticket-during-pink-line-journey-2026-11-15",
     "title": "'मेरे पास पैसे नहीं हैं, मेरा टिकट भी खरीद दीजिए': पीएम मोदी से बोले कर्नाटक सीएम शिवकुमार, फिर क्या हुआ?",
     "description": "'मेरे पास पैसे नहीं हैं, मेरा टिकट भी खरीद दीजिए': पीएम मोदी से बोले कर्नाटक सीएम शिवकुमार, फिर क्या हुआ?\nPM Modi Bought DK Shivakumar Metro Ticket During Pink Line Journey",
@@ -18,6 +7,18 @@
       "National"
     ],
     "pub_date": "2026-11-15T06:30:36+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-15",
+    "title": "पढ़ें 15 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-14T19:30:39+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
