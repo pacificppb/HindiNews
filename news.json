@@ -22,6 +22,17 @@
     "source_name": "NDTV.IN"
   },
   {
+    "link": "https://www.amarujala.com/india-news/government-health-spending-triples-as-out-of-pocket-medical-expenses-decline-in-india-2026-11-16",
+    "title": "सरकारी खजाने से स्वास्थ्य पर खर्च तीन गुना बढ़ा: इलाज का बोझ घटा; परिवारों की जेब से खर्च 21.5% कम",
+    "description": "सरकारी खजाने से स्वास्थ्य पर खर्च तीन गुना बढ़ा: इलाज का बोझ घटा; परिवारों की जेब से खर्च 21.5% कम\n\nGovernment health spending triples as out of pocket medical expenses decline in India",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-16T00:10:22+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.livehindustan.com/national/has-the-nda-secured-a-two-thirds-majority-delimitation-bill-women-reservation-bill-201794786886418.html",
     "title": "NDA को मिल गया लोकसभा में दो तिहाई बहुमत? परिसीमन बिल पर आया बड़ा अपडेट",
     "description": "परिसीमन और महिला आरक्षण बिल को लेकर NDA गठबंधन अब आश्वस्त नजर आ रहा है। खबर है कि पार्टी पूरी ताकत से संसद के शीतकालीन सत्र में बिल के साथ उतरने की तैयारी कर रही है, जिसपर अप्रैल में बड़ा झटका लगा था। हालांकि, अभी आंकड़ों को लेकर स्थिति साफ नहीं है।",
@@ -236,7 +247,6 @@
     "title": "यूपी में देर रात 55 PCS अधिकारियों का ट्रांसफर, देखें पूरी लिस्ट",
     "description": "राज्य सरकार ने रविवार देर रात 55 PCS अधिकारियों के तबादले कर दिए. इस फेरबदल में पश्चिमी उत्तर प्रदेश के कई जिलों के उप जिलाधिकारियों को भी नई जिम्मेदारी सौंपी गई है. वहीं कई नगर निगम और प्राधिकरणों में भी फेरबदल किया गया है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-15T19:47:48+00:00",
@@ -311,7 +321,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-16-nov-2026-3964643.html",
-    "title": "Aaj Ki Taaja Khabar Live Updates:  आज से फिलीपींस की राजधानी मनीला के दौरे पर रहेंगे PM मोदी",
+    "title": "Aaj Ki Taaja Khabar Live Updates: उत्तर प्रदेश में 55 पीसीएस अफसरों के ट्रांसफर, देखें लिस्ट",
     "description": "प्रधानमंत्री नरेंद्र मोदी आज से 18 नवंबर 2026 तक फिलीपींस की राजधानी मनीला के आधिकारिक दौरे पर रहेंगे. चार दिवसीय महापर्व छठ का समापन आज को उगते सूर्य को उषा अर्घ्य देने के साथ समापन हो जाएगा.",
     "categories": [
       "National"
@@ -413,7 +423,6 @@
     "title": "शेख हसीना के पैतृक गृह जिले गोपालगंज में हिंसा, आवामी लीग की रैली पर बैन के बाद DC और SP का हुआ ट्रांसफर",
     "description": "प्रदर्शन के दौरान पुलिस आर्मर्ड पर्सनल कैरियर और पुलिस बॉक्स में तोड़फोड़ की गई है। बॉर्डर गार्ड बांग्लादेश (BGB) के जवानों को जिले में तैनात किया गया है।",
     "categories": [
-      "Breaking News",
       "World"
     ],
     "pub_date": "2026-11-15T18:07:00+00:00",
@@ -2233,16 +2242,5 @@
     "pub_date": "2026-11-15T13:21:09+00:00",
     "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Sharad-Kapoor-.webp",
     "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/state/uttar-pradesh/sonbhadra-drowning-family-tragedy-pond-accident-anpara-rescue-attempt-3964501.html",
-    "title": "नहाते समय तालाब में डूबने लगे बहन-बहनोई, बचाने दौड़ा भाई; सोनभद्र में तीनों की हो गई मौत",
-    "description": "सोनभद्र में एक दिल दहला देने वाली घटना सामने आई है. अनपरा क्षेत्र के एक तालाब में नहाते समय बहन और बहनोई डूबने लगे. उन्हें बचाने दौड़ा उनका छोटा भाई भी पानी में समा गया, जिससे तीनों की मौत हो गई.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-15T13:19:27+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/sonbhadra-pond-accident.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
