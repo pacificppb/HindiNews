@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-19",
-    "title": "पढ़ें 19 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-19T07:00:12+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/telangana-congress-infighting-intensifies-as-mla-targets-cm-revanth-reddy-over-alleged-discrimination-in-fund-2026-11-19",
     "title": "तेलंगाना कांग्रेस में फिर अंदरूनी कलह: सीएम रेवंत रेड्डी के खिलाफ उनके ही विधायक ने खोला मोर्चा, लगाए कई आरोप",
     "description": "तेलंगाना कांग्रेस में फिर अंदरूनी कलह: सीएम रेवंत रेड्डी के खिलाफ उनके ही विधायक ने खोला मोर्चा, लगाए कई आरोप",
@@ -29,6 +18,18 @@
       "National"
     ],
     "pub_date": "2026-11-19T06:31:03+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-19",
+    "title": "पढ़ें 19 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-18T19:30:28+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
