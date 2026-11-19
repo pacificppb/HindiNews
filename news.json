@@ -11,17 +11,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-20",
-    "title": "पढ़ें 20 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-20T07:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/cyclone-akvan-heads-towards-odisha-300-000-evacuated-423-rescue-teams-deployed-69-trains-cancelled-2026-11-19",
     "title": "ओडिशा की ओर बढ़ा चक्रवात 'अकवान': तीन लाख लोग निकाले गए, 941 जगहों पर भूस्खलन की आशंका; 69 ट्रेनें रद्द",
     "description": "ओडिशा की ओर बढ़ा चक्रवात 'अकवान': तीन लाख लोग निकाले गए, 941 जगहों पर भूस्खलन की आशंका; 69 ट्रेनें रद्द",
@@ -29,6 +18,18 @@
       "National"
     ],
     "pub_date": "2026-11-20T06:35:29+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-20",
+    "title": "पढ़ें 20 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-19T19:30:41+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
