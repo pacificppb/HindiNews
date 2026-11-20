@@ -29,7 +29,19 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-20T19:30:33+00:00",
+    "pub_date": "2026-11-20T20:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/home-minister-amit-shah-arrived-in-arunachal-pradesh-for-a-three-day-visit-arunachal-pradesh-police-ndrf-2026-11-21",
+    "title": "गृह मंत्री का अरुणाचल दौरा: पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?",
+    "description": "Home Minister Amit Shah Arrived in Arunachal Pradesh for a three-day visit, Arunachal Pradesh Police, NDRF - गृह मंत्री का अरुणाचल दौरा: पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-20T20:00:10+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -2226,7 +2238,6 @@
     "title": "दुनिया में युद्ध-अशांति के बीच सभ्यतागत जुड़ाव ही वैश्विक शांति की  मजबूत गारंटी... SCO मंच से PM मोदी का बड़ा संदेश",
     "description": "PM Modi SCO Speech: पीएम मोदी ने SCO सभ्यता संवाद मंच से वैश्विक शांति के लिए सभ्यतागत जुड़ाव और सांस्कृतिक सहयोग को अहम बताया। उन्होंने कहा कि साझा सभ्यतागत अनुभव दुनिया को एकजुट करने में महत्वपूर्ण भूमिका निभाएंगे।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-20T13:56:49+00:00",
@@ -2276,16 +2287,5 @@
     "pub_date": "2026-11-20T13:52:40+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/technology/openai-first-smartphone-manufacturing-partner-leak-report-launch-and-features-3969764.html",
-    "title": "OpenAI के पहले स्मार्टफोन को मिल गया मैन्युफैक्चरर! जानिए कब होगा लॉन्च और अब तक क्या है अपडेट",
-    "description": "ChatGPT बनाने वाली OpenAI अब अपना पहला स्मार्टफोन लॉन्च करने की तैयारी में है. इस फोन को लेकर एक नया अपडेट सामने आया है. रिपोर्ट के मुताबिक FIH Mobile को इसके मैन्युफैक्चरिंग के ऑर्डर मिल सकते हैं.",
-    "categories": [
-      "Technology"
-    ],
-    "pub_date": "2026-11-20T13:52:24+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/openai-1.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
