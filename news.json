@@ -1,16 +1,5 @@
 [
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-21",
-    "title": "पढ़ें 21 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-21T07:00:14+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/india-news/nikhil-gupta-indian-yoga-fails-to-identify-undercover-officer-in-america-fails-to-unmask-hitman-2026-11-21",
     "title": "निखिल गुप्ता: अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब",
     "description": "Nikhil Gupta: 'Indian Yoga' fails to identify undercover officer in America, fails to unmask 'Hitman' - निखिल गुप्ता: अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब",
@@ -29,6 +18,18 @@
       "National"
     ],
     "pub_date": "2026-11-21T06:47:06+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-21",
+    "title": "पढ़ें 21 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-20T19:30:33+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -418,7 +419,6 @@
     "title": "दिल्ली एयरपोर्ट के आसपास 60 दिन तक नहीं उड़ा सकेंगे ड्रोन, जानें क्यों लगाया गया ये बैन",
     "description": "दिल्ली पुलिस ने IGI एयरपोर्ट पर आतंकी हमले की आशंका के मद्देनजर ड्रोन, पैराग्लाइडर और मानवरहित विमान प्रणालियों (UAS) के संचालन पर 60 दिनों का प्रतिबंध लगाया है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-20T17:32:23+00:00",
