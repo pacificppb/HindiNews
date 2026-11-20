@@ -1,7 +1,74 @@
 [
   {
-    "link": "https://www.tv9hindi.com/entertainment/om-review-in-hindi-starring-dhanush-sai-pallavi-and-mammootty-directed-by-rajkumar-periasamy-3969744.html",
-    "title": "Om Review: धनुष की इंटेंस एक्टिंग, एनर्जेटिक अवतार और एनर्जी से भरपूर किरदार… देखने से पहले पढ़ें ‘ओम’ का रिव्यू",
+    "link": "https://www.tv9hindi.com/technology/openai-first-smartphone-manufacturing-partner-leak-report-launch-and-features-3969764.html",
+    "title": "OpenAI के पहले स्मार्टफोन को मिल गया मैन्युफैक्चरर! जानिए कब होगा लॉन्च और अब तक क्या है अपडेट",
+    "description": "ChatGPT बनाने वाली OpenAI अब अपना पहला स्मार्टफोन लॉन्च करने की तैयारी में है. इस फोन को लेकर एक नया अपडेट सामने आया है. रिपोर्ट के मुताबिक FIH Mobile को इसके मैन्युफैक्चरिंग के ऑर्डर मिल सकते हैं.",
+    "categories": [
+      "Technology"
+    ],
+    "pub_date": "2026-11-20T13:52:24+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/openai-1.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.livehindustan.com/national/dhaka-stalling-sheikh-hasina-return-by-withholding-passport-insisting-on-extradition-201795182273840.html",
+    "title": "'पासपोर्ट नहीं, प्रत्यर्पण'; ढाका ने फंसा दी शेख हसीना की बांग्लादेश वापसी? खेल गया कूटनीतिक दांव",
+    "description": "शेख हसीना की तरफ से काम कर रही लंदन स्थित लॉ फर्म 'मैट्रिक्स चैम्बर्स' ने सबसे पहले 9 नवंबर को नई दिल्ली में बांग्लादेश उच्चायोग को ईमेल भेजकर उनके लिए नए पासपोर्ट और राष्ट्रीय पहचान पत्र की मांग की थी।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-20T13:50:35+00:00",
+    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/11/20/1200x900/sheikh_hasina_1789706160214_TsxM_1789706160360_lr5_1795182518481_nDZ5_1795182518660_kVry_cecb718a-c626-48ec-b378-cb1ec8ceb037_eA6F.jpeg",
+    "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.livehindustan.com/national/pm-modi-at-the-sco-cultural-ties-are-the-strongest-guarantee-of-peace-201795182425474.html",
+    "title": "शांति की सबसे मजबूत गारंटी है सांस्कृतिक संबंध; SCO में बोले पीएम मोदी",
+    "description": "प्रधानमंत्री मोदी ने SCO डायलॉग फोरम में कहा कि दुनिया में शांति की सबसे मजबूत गारंटी सांस्कृतिक संबंध ही हैं।",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-20T13:50:00+00:00",
+    "image_url": "https://www.livehindustan.com/lh-img/smart/img/2026/11/20/1200x900/PM_MODI_1795182569112_ODGq_1795182569448_ncLx_a5843bb0-532b-4a66-8a82-550a86522154_gih3.png",
+    "source_name": "LIVEHINDUSTAN.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/uttar-pradesh/dhirendra-krishna-shastri-to-visit-vrindavan-on-november-21-will-offer-prayers-at-banke-bihari-temple-3969745.html",
+    "title": "Mathura News: भगवान श्रीकृष्ण पर टिप्पणी के विवाद के बीच कल वृंदावन पहुंचेंगे धीरेंद्र शास्त्री, बांके बिहारी के करेंगे दर्शन",
+    "description": "भगवान श्रीकृष्ण को लेकर की गई टिप्पणी के बाद चर्चा में आए पंडित धीरेंद्र कृष्ण शास्त्री 21 नवंबर यानी शनिवार को वृंदावन पहुंचेंगे. यहां वह ठाकुर बांके बिहारी मंदिर में दर्शन करेंगे.",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-20T13:47:20+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/mathura-news-5.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/education/abvp-submits-memorandum-to-ayush-minister-demanding-resolution-of-discrepancies-in-aiapget-2026-3969721.html",
+    "title": "AIAPGET 2026 की विसंगतियों को दूर करने की मांग, आयुष मंत्री को ABVP ने सौंपा ज्ञापन",
+    "description": "NTA ने AIAPGET 2026 का रिजल्ट सितंबर में जारी कर दिया था, लेकिन विवादित सवालों की वजह से हाईकोर्ट ने रिजल्ट में रोक लगा दी, जिसके बाद से काउंसलिंग प्रक्रिया भी रुकी हुई है.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-20T13:46:16+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/aiapget-2026.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/state/delhi-ncr/delhi-metro-magenta-line-timings-change-first-metro-late-last-early-from-november-21-3969739.html",
+    "title": "Delhi Metro News: दिल्ली मेट्रो पकड़ने से पहले देख लें नई टाइमिंग, मजेंटा लाइन पर एक महीने तक बदलेगा समय",
+    "description": "दिल्ली मेट्रो की मजेंटा लाइन पर 21 नवंबर 2026 से करीब एक महीने के लिए मेट्रो सेवाओं के समय में बदलाव होगा. पहली मेट्रो सुबह 7 बजे चलेगी और आखिरी रात 10 बजे मिलेगी.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-20T13:44:36+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/delhi-news-1280-720-34.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/entertainment/south-cinema/om-review-in-hindi-starring-dhanush-sai-pallavi-and-mammootty-directed-by-rajkumar-periasamy-3969744.html",
+    "title": "Om Review: धनुष की इंटेंस एक्टिंग और एनर्जेटिक अवतार… देखने से पहले पढ़ें ‘ओम’ का रिव्यू",
     "description": "डायरेक्टर राजकुमार पेरियासामी 'ओम' के नाम से एक एक्शन-क्राइमफिल्म लेकर आए हैं. धनुष, साई पल्लवी और ममूटी अहम भूमिका में हैं. अगर आप फिल्म देखने का प्लान बना रहे हैं, तो उससे पहले पढ़िए रिव्यू.",
     "categories": [
       "Entertainment"
@@ -24,8 +91,8 @@
   },
   {
     "link": "https://www.indiatv.in/india/national/live-pm-modi-is-addressing-the-first-civilizational-dialogue-forum-of-the-sco-2026-11-20-1255452",
-    "title": "SCO Civilisational Dialogue Forum LIVE: पीएम मोदी SCO के पहले सिविलाइजेशनल डायलॉग फोरम को संबोधित कर रहे हैं",
-    "description": "प्रधानमंत्री नरेंद्र मोदी ने पहले शंघाई सहयोग संगठन (SCO) सभ्यता संवाद मंच का उद्घाटन किया।",
+    "title": "SCO Civilisational Dialogue Forum LIVE: वैश्विक शांति की सबसे बड़ी गारंटी सांस्कृतिक जुड़ाव है-बोले पीएम मोदी",
+    "description": "प्रधानमंत्री नरेंद्र मोदी ने पहले शंघाई सहयोग संगठन (SCO) सभ्यता संवाद मंच का उद्घाटन किया। SCO सभ्यताओं के संवाद मंच 2026 में PM मोदी ने कहा, हम सभ्यताओं के जुड़ाव पर संवाद कर रहे हैं; यह वैश्विक शांति के लिए महत्वपूर्ण है।",
     "categories": [
       "Breaking News",
       "National"
@@ -227,9 +294,20 @@
     "source_name": "TV9HINDI.COM"
   },
   {
+    "link": "https://www.patrika.com/world-news/pakistan-minister-musadik-malik-evades-cross-border-terrorism-question-sco-forum-delhi-21071206",
+    "title": "सीमा पार आतंकवाद के सवाल पर बगलें झांकते दिखे पाकिस्तानी मंत्री, बोले- ‘कल जवाब दूंगा’",
+    "description": "पाकिस्तान के जलवायु परिवर्तन मंत्री मुसादिक मसूद मलिक ने शुक्रवार को नई दिल्ली में आयोजित शंघाई सहयोग संगठन (SCO) के ‘सिविलाइजेशन डायलॉग फोरम’ के दौरान सीमा पार आतंकवाद को लेकर भारत की चिंताओं पर सीधा जवाब देने से बचते हुए कहा कि वे इस मुद्दे पर ‘कल’ बयान देंगे।",
+    "categories": [
+      "World"
+    ],
+    "pub_date": "2026-11-20T13:25:12+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Musadik-Malik.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.bbc.com/hindi/articles/cqly43mm6gr5o?at_medium=RSS&at_campaign=rss",
     "title": "बालेन शाह के भारत दौरे को कैसे देख रहे हैं एक्सपर्ट्स",
-    "description": "नेपाल के प्रधानमंत्री बालेन शाह 22 और 23 नवंबर को भारत का दौरा करेंगे. नेपाल और नेपाल से बाहर के विशेषज्ञ उन्हें एक गैर पारंपरिक राजनीतिज्ञ मानते हैं इसलिए उनके इस दौरे पर लोगों की ख़ास नज़र है.",
+    "description": "नेपाल के प्रधानमंत्री बालेन शाह 22 और 23 नवंबर को भारत का दौरा करेंगे. नेपाल और नेपाल से बाहर के विशेषज्ञ उन्हें एक गैर पारंपरिक राजनीतिज्ञ मानते हैं. इसलिए उनके इस दौरे पर लोगों की ख़ास नज़र है.",
     "categories": [
       "Breaking News",
       "National"
@@ -248,6 +326,17 @@
     "pub_date": "2026-11-20T13:23:23+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/shahjahanpur-news.jpg",
     "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.patrika.com/cricket-news/ind-a-vs-nep-kumar-kushagra-century-india-a-recovers-early-setbacks-tilak-varma-21071289",
+    "title": "India A vs Nepal: कुमार कुशाग्र और तिलक वर्मा ने ठोके शतक, शुरुआती झटकों से उबरकर संभली भारत-ए",
+    "description": "ACC Men’s Asia Cup Rising Stars 2026 का चौथा मुकाबला आज शुक्रवार को भारत-ए और नेपाल के बीच दोहा के वेस्ट एंड पार्क इंटरनेशनल क्रिकेट स्टेडियम में खेला जा रहा है। नेपाल के खिलाफ शुरुआती झटकों से उबरकर भारत-ए ने अपनी स्थिति मजबूत कर ली है।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-11-20T13:21:09+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Tilak-Varma-1.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/state/jammu-and-kashmir/jammu-kashmir-jkssb-recruitment-scam-iltija-mufti-paper-leak-3969634.html",
@@ -441,17 +530,6 @@
     "pub_date": "2026-11-20T13:06:13+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/rahul-gandhi-1.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/ind-a-vs-nep-kumar-kushagra-century-india-a-recovers-early-setbacks-tilak-varma-21071289",
-    "title": "India A vs Nepal: कुमार कुशाग्र का शतक, शुरुआती झटकों से उबरकर संभली भारत-ए",
-    "description": "ACC Men’s Asia Cup Rising Stars 2026 का चौथा मुकाबला आज शुक्रवार को भारत-ए और नेपाल के बीच दोहा के वेस्ट एंड पार्क इंटरनेशनल क्रिकेट स्टेडियम में खेला जा रहा है। नेपाल के खिलाफ शुरुआती झटकों से उबरकर भारत-ए ने अपनी स्थिति मजबूत कर ली है।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-11-20T13:05:37+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Tilak-Varma-1.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/videos/up-election-2027-bjp-booth-vijay-abhiyan-cm-yogi-adityanath-strategy-weak-seats-3969713.html",
@@ -690,17 +768,6 @@
     "source_name": "TV9HINDI.COM"
   },
   {
-    "link": "https://www.patrika.com/world-news/pakistan-minister-musadik-malik-evades-cross-border-terrorism-question-sco-forum-delhi-21071206",
-    "title": "सीमा पार आतंकवाद के सवाल पर बगलें झांकते दिखे पाकिस्तानी मंत्री, बोले- ‘कल जवाब दूंगा’",
-    "description": "पाकिस्तान के जलवायु परिवर्तन मंत्री मुसादिक मसूद मलिक ने शुक्रवार को नई दिल्ली में आयोजित शंघाई सहयोग संगठन (SCO) के ‘सिविलाइजेशन डायलॉग फोरम’ के दौरान सीमा पार आतंकवाद को लेकर भारत की चिंताओं पर सीधा जवाब देने से बचते हुए कहा कि वे इस मुद्दे पर ‘कल’ बयान देंगे।",
-    "categories": [
-      "World"
-    ],
-    "pub_date": "2026-11-20T12:42:34+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Musadik-Malik.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
     "link": "https://www.tv9hindi.com/india/amit-shah-directs-nia-to-strengthen-anti-terror-units-implement-prahaar-strategy-3969688.html",
     "title": "ड्रोन, क्रिप्टो और सीमा पार फंडिंग… आतंकवाद के खिलाफ जंग के लिए NIA ने बनाया ये प्लान",
     "description": "NIA की छठी एंटी टेरर कॉन्फ्रेंस में केंद्रीय गृह मंत्री अमित शाह ने राज्यों की एंटी टेरर यूनिट मजबूत करने, हर थाने को एंटी टेरर ग्रिड से जोड़ने और आतंकियों के पूरे नेटवर्क को खत्म करने के निर्देश दिए.",
@@ -769,6 +836,18 @@
     "source_name": "PATRIKA.COM"
   },
   {
+    "link": "https://www.patrika.com/bollywood-news/prem-nath-china-detention-american-spy-suspicion-arrested-21070769",
+    "title": "चीन में जासूस होने के शक में हिरासत में लिए गए थे प्रेम नाथ, अमेरिकी एजेंट समझकर किया था गिरफ्तार",
+    "description": "Prem Nath China Detention: अभिनेता प्रेम नाथ के बेटे प्रेम किशन ने हाल ही में बताया कि कैसे चीन में मानसरोवर झील की यात्रा के दौरान, उनके पिता को अमेरिकी जासूस होने के शक में हिरासत में ले लिया गया था। उन्होंने यह भी बताया कि कैसे दिवंगत अभिनेता ने खुद को वहां से छुड़ाया।",
+    "categories": [
+      "Entertainment",
+      "Technology"
+    ],
+    "pub_date": "2026-11-20T12:36:54+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/prem-nath-china-detention.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.aajtak.in/business/utility/photo/gold-price-crash-70000-cheaper-check-24k-rates-tutd-2701591-2026-11-20?utm_source=rssfeed",
     "title": "अब कितना गिरेगा सोना? ₹70,000 हुआ सस्‍ता, जानें 24K का भाव",
     "description": "सोने और चांदी की कीमतों में भारी गिरावट आई है. रिकॉर्ड हाई से सोना 70 हजार रुपये गिर चुका है और चांदी रिकॉर्ड हाई से 2.70 लाख रुपये घट चुकी है. अब निवेशकों को चिंता है कि सोने और चांदी में कहां तक गिरावट आएगी...",
@@ -778,6 +857,17 @@
     "pub_date": "2026-11-20T12:35:23+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
+  },
+  {
+    "link": "https://www.patrika.com/cricket-news/south-africa-odi-t20i-squad-announced-vs-bangladesh-keshav-maharaj-bjorn-fortuin-21070439",
+    "title": "साउथ अफ्रीका ने वनडे और टी20I टीम का किया ऐलान, केशव महाराज और ब्योर्न फोर्टुइन बने कप्तान",
+    "description": "SA vs BAN: साउथ अफ्रीका ने बांग्लादेश के खिलाफ आगामी वनडे और टी20 इंटरनेशनल सीरीज के लिए टीम का ऐलान किया है। साउथ अफ्रीका ने बांग्लादेश के खिलाफ एडेन मार्करम, कगिसो रबाडा और मार्को जानसेन को आराम देने का फैसला किया है। वहीं केशव महाराज को वनडे टीम का कप्तान बनाया है, जबकि ब्योर्न फोर्टुइन को टी20 इंटरनेशनल सीरीज में टीम का नेतृत्व करेंगे।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-11-20T12:33:41+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Keshav-Maharaj.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://ndtv.in/bollywood/this-song-was-born-out-of-pain-longing-separation-kailash-kher-wrote-seeing-dying-father-when-released-became-wedding-happy-song-12354776#publisher=newsstand",
@@ -1066,6 +1156,17 @@
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
   },
   {
+    "link": "https://www.patrika.com/bollywood-news/aishwarya-rai-bodyguard-ketan-karande-reveals-hired-to-protect-from-salman-khan-he-recall-one-incident-21069141",
+    "title": "मेरी ड्यूटी ऐश्वर्या राय को बचाने की थी’, अभिनेत्री के पुराने बॉडीगार्ड का चौंकाने वाला खुलासा",
+    "description": "Aishwarya Rai Bodyguard On Salman Khan: बॉलीवुड के गलियारों में अक्सर पुराने किस्से और अनसुनी कहानियां सामने आती रहती हैं, एक बार फिर ऐश्वर्या राय और सलमान खान का पुराना रिश्ता सुर्खियों में आ गया है। अभिनेत्री के पूर्व बॉडीगार्ड केतन करंडे ने करीब 20 साल पुराना एक ऐसा चौंकान वाला खुलासा किया है जिसने किसी का ध्यान खींच लिया है। बातचीत के दौरान केतन ने बताया कि उन्होंने कभी इस बारे में ज्यादा बात नहीं की, लेकिन असल जिंदगी में वह ऐश्वर्या राय के बॉडीगार्ड रह चुके हैं और उनकी नियुक्ति की एक बेहद खास वजह थी जो खुद सलमान थे।",
+    "categories": [
+      "Entertainment"
+    ],
+    "pub_date": "2026-11-20T12:16:18+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Aishwarya-Rai-Bodyguard-On-Salman-Khan.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://ndtv.in/business-news/gold-silver-prices-crash-today-live-20-november-2026-friday-mcx-and-bullion-market-gold-silver-rates-in-your-city-latest-gold-silver-rate-today-in-ind-12352989#publisher=newsstand",
     "title": "Gold Silver Prices Crash: सोना अपने पीक से 71 हजार सस्‍ता, चांदी ऑल टाइम हाई से 2.70 लाख नीचे गिरी, तुरंत खरीदें या अभी रुकें",
     "description": "सोने चांदी के दाम में बड़ी गिरावट, यहां देखिए ताजा भाव LIVE",
@@ -1157,6 +1258,17 @@
     "source_name": "AAJTAK.IN"
   },
   {
+    "link": "https://www.patrika.com/cricket-news/india-a-vs-nepal-vaibhav-sooryavanshi-abhishek-sharma-ayush-badoni-out-21070569",
+    "title": "India A vs Nepal: भारत-ए को लगा बड़ा झटका, अभिषेक शर्मा के बाद वैभव सूर्यवंशी भी सस्ते में आउट",
+    "description": "ACC Men’s Asia Cup Rising Stars 2026 का चौथा मुकाबला भारत-ए और नेपाल के बीच दोहा के वेस्ट एंड पार्क इंटरनेशनल क्रिकेट स्टेडियम में खेला जा रहा है। नेपाल के कप्तान संदीप लाछिमाने ने टॉस जीता और पहले बॉलिंग का फैसला किया।",
+    "categories": [
+      "Sports"
+    ],
+    "pub_date": "2026-11-20T12:09:16+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Vaibhav-Suryavanshi.webp",
+    "source_name": "PATRIKA.COM"
+  },
+  {
     "link": "https://www.patrika.com/entertainment-news/allu-aravind-confronted-by-audience-over-ticket-blocking-at-allu-cinemas-video-viral-21070715",
     "title": "‘रुकिए, अभी स्टाफ को बुलाता हूं’, अल्लू अरविंद के सामने खुली टिकट बुकिंग की पोल, थिएटर में मचा हंगामा",
     "description": "Allu Aravind Theatre Ticket Issue: जाने-माने फिल्म निर्माता-वितरक और एक्ट्रेस अल्लू अर्जुन के पिता अल्लू अरविंद को शुक्रवार, 20 नवंबर को हैदराबाद स्थित ‘अल्लू सिनेमाज’ में दर्शकों की नाराजगी का सामना करना पड़ा। फिल्म ‘आकासमलो ओका तारा’ (AkasamLoOkaTara) की स्क्रीनिंग के दौरान थिएटर से बाहर निकलते वक्त दर्शकों ने उन्हें घेर लिया और टिकट बुकिंग में हो रही अनियमितताओं की शिकायत की। इस पूरी घटना के कई वीडियो सोशल मीडिया पर तेजी से वायरल हो रहे हैं।",
@@ -1236,18 +1348,6 @@
     "pub_date": "2026-11-20T12:06:03+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.patrika.com/bollywood-news/prem-nath-china-detention-american-spy-suspicion-arrested-21070769",
-    "title": "चीन में जासूस होने के शक में हिरासत में लिए गए थे प्रेम नाथ, अमेरिकी एजेंट समझकर किया था गिरफ्तार",
-    "description": "Prem Nath China Detention: विक्की लालवानी के साथ बातचीत में, किशन ने कहा, “हीरो बनने के बाद, वे (प्रेम नाथ) बहुत धार्मिक हो गए थे। उन्होंने भारत के सभी धामों की यात्रा की। असल में, वे चीन में कैलाश-मानसरोवर जाने वाले पहले व्यक्ति थे। वे पैदल चलकर वहां तक ​​गए थे। वे अपने साथ एक छोटी सी टीम ले गए थे और मानसरोवर पर एक डॉक्यूमेंट्री बनाई थी। आज वहां जाना बहुत आसान है, लेकिन उस समय यह बहुत मुश्किल था।”",
-    "categories": [
-      "Entertainment",
-      "Technology"
-    ],
-    "pub_date": "2026-11-20T12:05:29+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/prem-nath-china-detention.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/lifestyle/moringa-soup-recipe-drumstick-health-benefits-winter-season-3969597.html",
@@ -1406,17 +1506,6 @@
     "pub_date": "2026-11-20T11:55:10+00:00",
     "image_url": "https://c.ndtvimg.com/2026-11/qrdf6ikg_tanu-priyanka-bhojpuri-sohar-geet-_625x300_20_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/india-a-vs-nepal-vaibhav-sooryavanshi-abhishek-sharma-ayush-badoni-out-21070569",
-    "title": "India A vs Nepal: भारत-ए को लगा बड़ा झटका, अभिषेक शर्मा के बाद वैभव सूर्यवंशी भी सस्ते में आउट",
-    "description": "ACC Men’s Asia Cup Rising Stars 2026 का चौथा मुकाबला भारत-ए और नेपाल के बीच खेला जा रहा है। नेपाल के कप्तान संदीप लाछिमाने ने टॉस जीता और पहले बॉलिंग का फैसला किया। अपने कप्तान के फैसले को नेपाल गेंदबाजों ने सही साबित किया। दरअसल, भारत-ए की शुरुआत खराब रही है। इसका अंदाजा इसी से लगाया जा सकता है कि भारत-ए ने अपने 3 विकेट 11 ओवर तक गंवा दिए थे।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-11-20T11:54:55+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Vaibhav-Suryavanshi.webp",
-    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.tv9hindi.com/videos/azam-khan-release-up-politics-2027-elections-akhilesh-yadav-samajwadi-party-impact-3969617.html",
@@ -2185,95 +2274,5 @@
     "pub_date": "2026-11-20T11:03:36+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-21-november-2026-coldwave-thunderstorm-heavy-rain-alert-in-19-states-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/136023016.cms",
-    "title": "कल का मौसम 21 नवंबर: 19 राज्यों में मूसलाधार बारिश का अलर्ट, बर्फबारी की भी चेतावनी",
-    "description": "Weather Forecast 21 November 2026: मौसम का मिजाज फिर बदल गया है। सर्दी के बीच 19 राज्यों में कल यानी 21 नवंबर को मूललाधार बारिश का अलर्ट जारी किया गया है। मौसम विभाग (IMD) ने इस दौरान 80 किलोमीटर प्रति घंटे की स्पीड से आंधी-तूफान चलने का अनुमान भी जताया है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-20T11:02:07+00:00",
-    "image_url": "https://static.langimg.com/nbt/thumb/136024094/cyclone-akvan-impact-on-weather-21-november-2026.jpg?imgsize=2426086&width=1600&height=900&resizemode=75",
-    "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/cm-pushkar-dhami-meets-pm-narendra-modi-on-devbhoomi-connectivity-tourism-health-education-3969535.html",
-    "title": "उत्तराखंड में कनेक्टिविटी, पर्यटन, स्वास्थ्य, शिक्षा पर चर्चा… दिल्ली में पीएम मोदी से मिले सीएम धामी",
-    "description": "सीएम पुष्कर धामी ने दिल्ली में पीएम नरेंद्र मोदी से भेंट की. इस दौरान उन्होंने उत्तराखंड के विकास, कनेक्टिविटी, पर्यटन, स्वास्थ्य एवं आधारभूत सुविधाओं से जुड़े विषयों पर चर्चा की.",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-20T11:01:45+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/pm-modi-cm-dhami.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.aajtak.in/entertainment/bollywood-news/story/the-vvaan-ott-release-watch-sidharth-malhotra-tamannaah-bhatia-fantasy-thriller-online-prime-video-tmovg-dskc-2701487-2026-11-20?utm_source=rssfeed",
-    "title": "ओटीटी पर रिलीज &#039;द वन&#039;, दृश्यम&#039; को दी थी टक्कर, कमाए 91 करोड़ रुपये",
-    "description": "सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया की फिल्म 'द वन: फोर्स ऑफ द फॉरेस्ट' सिनेमाघरों में सफल प्रदर्शन के बाद अब डिजिटल प्रीमियर पर रिलीज हो गई है. फिल्म शुक्रवार यानी आज से प्राइम वीडियो पर स्ट्रीम होने लगी है.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-20T11:00:39+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.patrika.com/bollywood-news/ram-gopal-varma-willing-to-go-to-jail-for-interview-with-dawood-ibrahim-mumbai-crime-festival-statement-21070413",
-    "title": "दाऊद इब्राहिम से मुलाकात के लिए जेल जाने को भी तैयार राम गोपाल वर्मा, बोले- एक इंटरव्यू के लिए दे दूंगा अपना दायां हाथ",
-    "description": "Ram Gopal Varma On Dawood Ibrahim: फिल्ममेकर राम गोपाल वर्मा ने अंडरवर्ल्ड डॉन दाऊद इब्राहिम को लेकर एक ऐसा बयान दिया है, जिसकी चर्चा हो रही है। उन्होंने कहा कि अगर उन्हें दाऊद इब्राहिम के साथ बैठकर बातचीत करने या उसका इंटरव्यू लेने का मौका मिले, तो वह इसके लिए अपना दायां हाथ तक देने को तैयार हैं। इतना ही नहीं, उन्होंने कहा कि इस मुलाकात के बाद अगर उन्हें जेल भी जाना पड़े, तो उन्हें इसका अफसोस नहीं होगा। राम गोपाल वर्मा ने यह बात मुंबई इंटरनेशनल क्राइम लिटरेचर फेस्टिवल 2026 में एक पैनल चर्चा के दौरान कही।",
-    "categories": [
-      "Entertainment",
-      "Technology"
-    ],
-    "pub_date": "2026-11-20T11:00:36+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/ram-gopal-verma-dawood.webp",
-    "source_name": "PATRIKA.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/sports/cricket-news/abhishek-sharma-failed-in-1st-match-india-a-vs-nepal-rising-star-asia-cup-3969532.html",
-    "title": "Rising Star Asia Cup: वनडे के पहले इम्तेहान में अभिषेक शर्मा फेल, सिर्फ इतनी गेंदों में आउट",
-    "description": "राइजिंग स्टार एशिया कप में अभिषेक शर्मा, तिलक वर्मा और वैभव सूर्यवंशी जैसे बल्लेबाजों को मौका दिया गया है ताकि वो वनडे फॉर्मेट के क्रिकेट के लिए भी खुद को तैयार कर सकें लेकिन शुरुआत अच्छी नहीं रही.",
-    "categories": [
-      "Breaking News",
-      "Sports"
-    ],
-    "pub_date": "2026-11-20T10:59:35+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/abhishek-sharma-failure-rising-star-asia-cup-pti.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.indiatv.in/rajasthan/rajasthan-panchayat-election-result-bjp-lost-cm-bhajanlal-home-district-congress-secures-major-victory-2026-11-20-1255420",
-    "title": "Rajasthan Panchayat Election Result: सीएम भजनलाल के जिले में BJP को झटका, कांग्रेस ने 21 सीटें जीती",
-    "description": "राजस्थान में पंचायत चुनाव के वोटों की गिनती जारी है। इस चुनाव में कांग्रेस को बड़ी बढ़त मिली है। यहां तक कि मुख्यमंत्री भजनलाल के जिले भरतपुर में भी भाजपा को बड़ा झटका लगा है और कांग्रेस प्रत्याशी को जीत मिली है।",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-20T10:59:00+00:00",
-    "image_url": "https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/bhajanlal-1-1795173658.webp",
-    "source_name": "INDIATV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/lifestyle/atmanirbhar-bharat-india-indigenously-developed-veterinary-vaccines-animal-diseases-3969503.html",
-    "title": "पशुओं का जानलेवा बीमारियों से होगा बचाव, भारतीय वैज्ञानिकों ने विकसित किए कई स्वदेशी टीके",
-    "description": "पशु चिकित्सा के क्षेत्र में भी भारत आत्मनिर्भर  बन रहा है. पशुओं में होने वाली कई जानलेवा बीमारियां हैं, जिनसे बचाव के टीके देश में  ही तैयार किए जा चुके हैं. इससे विदेशों पर निर्भरता कम होगी.",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-20T10:58:36+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/india-indigenously-developed-veterinary-vaccines-animal-diseases.jpg",
-    "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://www.patrika.com/cricket-news/south-africa-odi-t20i-squad-announced-vs-bangladesh-keshav-maharaj-bjorn-fortuin-21070439",
-    "title": "साउथ अफ्रीका ने वनडे और टी20I टीम का किया ऐलान, केशव महाराज और ब्योर्न फोर्टुइन बने कप्तान",
-    "description": "SA vs BAN: साउथ अफ्रीका ने बांग्लादेश के खिलाफ आगामी वनडे और टी20 इंटरनेशनल सीरीज के लिए टीम का ऐलान किया है। साउथ अफ्रीका ने बांग्लादेश के खिलाफ एडेन मार्करम, कगिसो रबाडा और मार्को जानसेन को आराम देने का फैसला किया है। वहीं केशव महाराज को वनडे टीम का कप्तान बनाया है, जबकि ब्योर्न फोर्टुइन को टी20 इंटरनेशनल सीरीज में टीम का नेतृत्व करेंगे।",
-    "categories": [
-      "Sports"
-    ],
-    "pub_date": "2026-11-20T10:57:12+00:00",
-    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Keshav-Maharaj.webp",
-    "source_name": "PATRIKA.COM"
   }
 ]
