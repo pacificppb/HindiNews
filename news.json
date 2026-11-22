@@ -34,10 +34,9 @@
   },
   {
     "link": "https://www.tv9hindi.com/state/maharashtra/navi-mumbai-vashi-oil-company-massive-fire-3971717.html",
-    "title": "नवी मुंबई अग्निकांड: रात 2 बजे तक धधकती रहीं लपटें, ऑयल कंपनी से भड़की आग ने प्लाईवुड और कूरियर फर्म को भी किया खाक",
+    "title": "नवी मुंबई में आग का तांडव, तेल गोदाम धू-धू कर जला, प्लाईवुड और कूरियर फर्म भी खाक",
     "description": "अग्निकांड में तीनों कंपनियों में रखा लाखों-करोड़ों रुपये का माल जलकर राख होने की आशंका जताई जा रही है. आग लगने के सटीक कारणों का अभी तक पता नहीं चल पाया है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-22T23:38:18+00:00",
@@ -46,7 +45,7 @@
   },
   {
     "link": "https://www.livehindustan.com/national/nda-is-short-of-45-mps-for-the-delimitation-bill-sanjay-raut-claims-201795390231871.html",
-    "title": "NDA को परिसीमन बिल के लिए 45 MP कम पड़े, MP ने किया पार्टियां टूटने का दावा",
+    "title": "NDA को परिसीमन बिल के लिए 45 MP कम पड़े, सांसद ने किया पार्टियां टूटने का दावा",
     "description": "सरकार आगामी शीतकालीन सत्र में परिसीमन से जुड़े संविधान संशोधन विधेयक पेश कर सकती है। हालांकि, इसके लिए उसे दो तिहाई बहुमत की जरूरत है। चर्चाएं तीन दिनों के विशेष सत्र की भी हैं, लेकिन इसे लेकर आधिकारिक रूप से कुछ नहीं कहा गया है।",
     "categories": [
       "National"
@@ -57,7 +56,7 @@
   },
   {
     "link": "https://www.livehindustan.com/national/delimitation-bill-nda-seats-in-loksabha-two-third-majority-india-allaince-parliament-winter-session-201795390075586.html",
-    "title": "2-तिहाई बहुमत के पास NDA, परिसीमन बिल पास कराना फिर भी मुश्किल? खुद को एकजुट रखने में जुटा इंडिया गठबंधन",
+    "title": "परिसीमन बिल के खिलाफ क्या रणनीति बना रहा विपक्ष? खुद को एकजुट रखने की चुनौती",
     "description": "कांग्रेस ने परिसीमन के मुद्दे पर सर्वदलीय बैठक बुलाने की मांग करते हुए कहा है कि सरकार संविधान संशोधन विधेयक को विपक्ष की सहमति के बिना पारित कराने की कोशिश कर रही है और संसद के शीतकालीन सत्र से बचने की तैयारी में है।",
     "categories": [
       "National"
@@ -102,7 +101,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/sports/cricket-news/ind-vs-nz-1st-test-match-day-5-live-score-and-updates-india-new-zealand-basin-reserve-wellington-3971632.html",
-    "title": "IND vs NZ 1st Test Live, Day 5: वेलिंगटन टेस्ट का आखिरी दिन, न्यूजीलैंड को तीसरा झटका",
+    "title": "IND vs NZ 1st Test Live, Day 5: वेलिंगटन टेस्ट का आखिरी दिन, न्यूजीलैंड को लगा चौथा झटका",
     "description": "IND vs NZ 1st Test Live, Day 5: भारत और न्यूजीलैंड के बीच 2 मैचों की टेस्ट सीरीज का पहला मैच वेलिंगटन के बेसिन रिजर्व मैदान पर खेला जा रहा है. इस मुकाबले का आज आखिरी दिन है.",
     "categories": [
       "Breaking News",
@@ -122,6 +121,17 @@
     "pub_date": "2026-11-22T22:19:27+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.aajtak.in/india/maharashtra/story/navi-mumbai-vashi-sector-18-oil-company-massive-fire-ntc-amkr-rptc-2703182-2026-11-23?utm_source=rssfeed",
+    "title": "पहले ऑयल कंपनी, फिर प्लाईवुड और कूरियर... नवी मुंबई में रात 2 बजे तक धधकती रही आग",
+    "description": "नवी मुंबई के वाशी सेक्टर-18 में एक ऑयल कंपनी में भीषण आग लगने से हड़कंप मच गया. आग इतनी तेजी से फैली कि देखते ही देखते उसने पास स्थित एक प्लाईवुड और एक कूरियर कंपनी को भी अपनी चपेट में ले लिया.",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-22T21:52:18+00:00",
+    "image_url": null,
+    "source_name": "AAJTAK.IN"
   },
   {
     "link": "https://www.indiatv.in/sports/cricket/ind-vs-nz-basin-reserve-wellington-test-day-5-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1255818",
@@ -322,7 +332,6 @@
     "title": "सरकारी दफ्तरों के चक्करों से सिंगल क्लिक तक: पंजाब में उद्योगों की मंजूरी प्रक्रिया हुई तेज और आसान",
     "description": "पंजाब 45-दिन की स्वीकृति लक्ष्य, स्वीकृतियों और स्व-घोषणा के साथ एक डिजिटल सिंगल-विंडो प्रणाली लागू करता है ताकि औद्योगिक परियोजनाओं में तेजी लाई जा सके।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-22T18:31:20+00:00",
@@ -2254,17 +2263,5 @@
     "pub_date": "2026-11-22T14:03:03+00:00",
     "image_url": "https://static.langimg.com/nbt/thumb/136075801/indian-military-aircraftbr.jpg?imgsize=272522&width=1600&height=900&resizemode=75",
     "source_name": "NAVBHARATTIMES.INDIATIMES.COM"
-  },
-  {
-    "link": "https://www.tv9hindi.com/india/aryavardhan-singh-death-sp-leader-memorandum-to-dm-demanding-end-to-alleged-harassment-of-party-workers-3971484.html",
-    "title": "कार्यकर्ताओं को परेशान कर रही पुलिस… आर्यवर्धन मौत मामले में सपा ने DM से लगाई गुहार, कहा- बंद हो प्रताड़ना",
-    "description": "गोरखपुर में आर्यवर्धन सिंह की मौत मामले में सपा जिलाध्यक्ष बृजेश कुमार गौतम ने जिलाधिकारी दीपक मीणा को ज्ञापन सौंपकर पार्टी नेताओं और कार्यकर्ताओं के कथित उत्पीड़न का मुद्दा उठाया है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-22T14:02:31+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/aryavardhan-singh-death.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
