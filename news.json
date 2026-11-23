@@ -18,7 +18,18 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-23T22:30:17+00:00",
+    "pub_date": "2026-11-23T23:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/aimim-lashes-out-at-azam-khan-over-his-remarks-on-beards-waris-pathan-gives-him-a-sharp-rebuke-2026-11-24",
+    "title": "आजम खान के दाढ़ी वाले बयान पर भड़की AIMIM, वारिस पठान ने जमकर सुनाया!",
+    "description": "आजम खान के दाढ़ी वाले बयान पर भड़की AIMIM, वारिस पठान ने जमकर सुनाया!",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-23T23:00:03+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -342,7 +353,6 @@
     "title": "श्रीलंका ए ने बांग्लादेश ए को 7 विकेट से रौंदा, एशिया कप राइजिंग स्टार्स के सेमीफाइनल में बनाई जगह",
     "description": "श्रीलंका ए ने ACC राइजिंग स्टार्स टूर्नामेंट में बांग्लादेश ए को 7 विकेट से हराकर सेमीफाइनल में जगह बना ली। दोहा में खेले गए मुकाबले में बांग्लादेश की टीम पहले बल्लेबाजी करते हुए 42.5 ओवर में 145 रन पर सिमट गई।",
     "categories": [
-      "Breaking News",
       "Sports"
     ],
     "pub_date": "2026-11-23T18:18:00+00:00",
@@ -2265,17 +2275,5 @@
     "pub_date": "2026-11-23T14:19:53+00:00",
     "image_url": "https://c.ndtvimg.com/2026-11/bj75v5pc_panchayat-season-5-trailer_625x300_23_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
     "source_name": "NDTV.IN"
-  },
-  {
-    "link": "https://www.tv9hindi.com/trending/desi-spiderman-viral-video-amma-bag-chor-3972393.html",
-    "title": "देसी स्पाइडर-मैन ने बाइक चोरों से छीना अम्मा का थैला, चप्पल वाला हीरो देखकर पूरा इंटरनेट बोला- यही असली हीरो है!",
-    "description": "देसी स्पाइडर-मैन ने बाइक चोरों से अम्मा का थैला छीनकर वापस किया. चप्पल वाला जुगाड़ हीरो देखकर इंटरनेट बोला- यही है असली हीरो. देखें वायरल वीडियो.",
-    "categories": [
-      "Breaking News",
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-23T14:17:55+00:00",
-    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/desi-spiderman-viral-video-amma-bag-chor.jpg",
-    "source_name": "TV9HINDI.COM"
   }
 ]
