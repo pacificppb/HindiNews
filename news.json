@@ -434,6 +434,7 @@
     "title": "गर्मी के बाद अब सर्दी में ठिठुरेगा यूरोप, महंगाई अलग सताएगी... गैस आपूर्ति के लिए चिंतित देश",
     "description": "यूरोप में ठंड के लिए गैस सबसे जरूरी चीज है. (फोटो-एनडीटीवी)",
     "categories": [
+      "Breaking News",
       "World"
     ],
     "pub_date": "2026-11-23T18:00:15+00:00",
@@ -663,6 +664,18 @@
     "pub_date": "2026-11-23T17:25:24+00:00",
     "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/1ae99cbfbce8c5ab2df959537000d24d17954546870141403_original.jpg",
     "source_name": "ABPLIVE.COM"
+  },
+  {
+    "link": "https://www.patrika.com/world-news/gilgit-baltistan-pakistan-constitutional-status-article-370-legal-report-21080880",
+    "title": "गिलगित-बाल्टिस्तान पर पाकिस्तान के दावे की कानूनी वैधता पर सवाल, भारत के अनुच्छेद 370 से क्यों अलग है मामला?",
+    "description": "Article 370: पाकिस्तान अधिकृत गिलगित-बाल्टिस्तान (PoGB) को अपने संघीय ढांचे में शामिल करने के प्रस्ताव को भारत के अनुच्छेद 370 हटाने के फैसले के बराबर नहीं माना जा सकता। इंटरनेशनल सेंटर फॉर पीस स्टडीज (ICPS) की एक रिपोर्ट में कहा गया है कि दोनों मामलों की कानूनी और संवैधानिक परिस्थितियां अलग-अलग हैं। रिपोर्ट के मुताबिक, पाकिस्तान केवल गिलगित-बाल्टिस्तान को अस्थायी रूप से प्रांत का दर्जा देकर उस क्षेत्र पर अपने दावे को वैध नहीं बना सकता।",
+    "categories": [
+      "Breaking News",
+      "World"
+    ],
+    "pub_date": "2026-11-23T17:25:22+00:00",
+    "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Gilgit-Baltistan-Dispute.webp",
+    "source_name": "PATRIKA.COM"
   },
   {
     "link": "https://www.livehindustan.com/national/promised-fairer-complexion-contained-poison-shocking-case-involving-fairness-cream-in-keralam-201795453718665.html",
@@ -2268,16 +2281,5 @@
     "pub_date": "2026-11-23T14:16:05+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/entertainment/aisi-lyaai-chundadi-sapna-choudhary-ruchika-jangid-haryanvi-folk-song-saas-bahu-new-haryanvi-song-2024-12364669#publisher=newsstand",
-    "title": "Aisi Lyaai Chundadi Song: सपना चौधरी का सास-बहू वाला हरियाणवी गाना, रुचिका जांगीड़ की आवाज ने जीता दिल",
-    "description": "Aisi Lyaai Chundadi Song: सपना चौधरी का हरियाणवी गाना, रुचिका जांगीड़ ने गाया",
-    "categories": [
-      "Entertainment"
-    ],
-    "pub_date": "2026-11-23T14:15:56+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/d5brp5s4_aisi-lyaai-chundadi-sapna-choudhary_625x300_23_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
