@@ -33,6 +33,17 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/india-news/breast-cancer-screening-india-99-percent-women-never-screened-study-2026-11-28",
+    "title": "अध्ययन में बड़ा खुलासा: देश की 99% महिलाओं तक नहीं पहुंची स्तन कैंसर की जांच, कहां स्थिति ज्यादा खराब?",
+    "description": "अध्ययन में बड़ा खुलासा: देश की 99% महिलाओं तक नहीं पहुंची स्तन कैंसर की जांच, कहां स्थिति ज्यादा खराब? breast-cancer-screening-india-99-percent-women-never-screened-study",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-27T23:47:24+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-28",
     "title": "पढ़ें 28 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -93,7 +104,6 @@
     "title": "INDIA ब्लॉक में फूट, संख्या बल भी कम... परिसीमन बिल पर कांग्रेस का क्या है प्लान?",
     "description": "परिसीमन बिल पर सियासत के बीच कांग्रेस संसदीय रणनीति समूह की अहम बैठक हुई. पार्टी अध्यक्ष मल्लिकार्जुन खड़गे, राहुल गांधी और कई वरिष्ठ नेता इसमें शामिल हुए. पार्टी ने तय किया कि पहले की तरह इस बार भी इस बिल को रोकने की पूरी कोशिश की जाएगी.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T23:05:01+00:00",
@@ -146,7 +156,7 @@
   },
   {
     "link": "https://www.indiatv.in/sports/cricket/ind-vs-nz-hagley-oval-christchurch-test-day-2-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1256862",
-    "title": "IND vs NZ Christchurch Test Day 2 Live Score: ब्लंडल-जैमिसन कर रहे हैं बल्लेबाजी, न्यूजीलैंड 300 रनों के पार",
+    "title": "IND vs NZ Christchurch Test Day 2 Live Score: न्यूजीलैंड ने गंवाया 8वां विकेट, जैमिसन को आकाश दीप ने भेजा पवेलियन",
     "description": "भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला क्राइस्टचर्च के हेगली ओवल में खेला जा रहा है, जिसमें दूसरे दिन के खेल में टीम इंडिया की नजरें कीवी टीम की पहली पारी को समेटने पर रहने वाली हैं।",
     "categories": [
       "Breaking News",
@@ -365,7 +375,6 @@
     "title": "तमिलनाडु में सत्तारुढ़ TVK विधायक गिरफ्तार, इस मामले पर पोस्ट करने से पुलिस ने चेताया",
     "description": "तमिलनाडु पुलिस ने बयान जारी कर कहा है कि इस घटना से संबंधित कोई भी जानकारी सार्वजनिक रूप से प्रकाशित, साझा या प्रसारित नहीं की जानी चाहिए. पुलिस ने इस मामले से जुड़े 201 पोस्ट डिलीट कर दी है.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T18:39:41+00:00",
@@ -566,7 +575,6 @@
     "title": "तमिलनाडु: महिला जिला कलेक्टर को भेजता था अश्लील मैसेज, TVK MLA अरुल विग्नेश गिरफ्तार",
     "description": "तमिलनाडु में TVK के विधायक सी. अरुल विग्नेश को पुलिस ने गिरफ्तार कर लिया है। उनपर महिला जिला कलेक्टर को अश्लील मैसेज भेजने का आरोप है। शिकायत दर्ज होने के बाद पुलिस ने उन्हें अरेस्ट किया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T17:56:00+00:00",
@@ -2258,16 +2266,5 @@
     "pub_date": "2026-11-27T14:36:35+00:00",
     "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/indian-ocean.jpg",
     "source_name": "TV9HINDI.COM"
-  },
-  {
-    "link": "https://ndtv.in/business-news/varanasi-ganga-varuna-corridor-32-firms-in-race-for-rs-25000-crore-projects-varanasi-kashi-and-ddu-junction-to-get-better-connectivity-12385910#publisher=newsstand",
-    "title": "गंगा, वरुणा कॉरिडोर के लिए 32 कंपनियों ने लगाई बोली... वाराणसी, काशी, DDU जंक्‍शन जुड़ेंगे, BHU, नमो घाट, चंदौली तक कनेक्टिविटी, खर्च होंगे 25 हजार करोड़",
-    "description": "काशी में 89 KM के 2 एलिवेटेड कॉरिडोर बनेंगे, 32 कंपनियों में से निर्माण कंपनी का चयन होगा.",
-    "categories": [
-      "Business"
-    ],
-    "pub_date": "2026-11-27T14:36:20+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/qg3l1g10o_varanasi-elevated-corridor-89-km-ganga-and-varuna-projects-get-32-bids_625x300_27_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
