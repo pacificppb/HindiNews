@@ -33,8 +33,20 @@
     "source_name": "AMARUJALA.COM"
   },
   {
+    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-28",
+    "title": "पढ़ें 28 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-27T22:30:20+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
     "link": "https://www.indiatv.in/sports/cricket/ind-vs-nz-hagley-oval-christchurch-test-day-2-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1256862",
-    "title": "IND vs NZ Christchurch Test Day 2 Live Score: न्यूजीलैंड ने गंवाया छठा विकेट, फिलिप्स को कंबोज ने भेजा पवेलियन",
+    "title": "IND vs NZ Christchurch Test Day 2 Live Score: ब्लंडल-स्मिथ कर रहे हैं बल्लेबाजी, न्यूजीलैंड गंवा चुका है 6 विकेट",
     "description": "भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला क्राइस्टचर्च के हेगली ओवल में खेला जा रहा है, जिसमें दूसरे दिन के खेल में टीम इंडिया की नजरें कीवी टीम की पहली पारी को समेटने पर रहने वाली हैं।",
     "categories": [
       "Breaking News",
@@ -57,18 +69,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-28",
-    "title": "पढ़ें 28 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-    "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-27T22:00:13+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/video/india-news/akhilesh-attacks-bjp-over-the-delimitation-bill-receives-this-blunt-response-2026-11-28",
     "title": "परिसीमन बिल पर अखिलेश ने भाजपा पर बोला हमला, मिला ये दो टूक जवाब!",
     "description": "परिसीमन बिल पर अखिलेश ने भाजपा पर बोला हमला, मिला ये दो टूक जवाब!",
@@ -82,7 +82,7 @@
   },
   {
     "link": "https://www.tv9hindi.com/sports/cricket-news/ind-vs-nz-2nd-test-match-day-2-live-score-and-updates-india-vs-new-zealand-christchurch-3976786.html",
-    "title": "IND vs NZ 2nd Test Live: क्राइस्टचर्च टेस्ट का दूसरा दिन, बुमराह पर नजरें",
+    "title": "IND vs NZ 2nd Test Live: न्यूजीलैंड 6 विकेट पर 250 के पार, कंबोज ने फिलिप्स को आउट किया",
     "description": "India vs New Zealand 2nd Test Match Day 2 Live: टीम इंडिया न्यूजीलैंड के खिलाफ टेस्ट सीरीज का दूसरा मैच क्राइस्टचर्च के हेगले ओवल मैदान पर खेला जा रहा है. आज इस मुकाबले का दूसरा दिन है.",
     "categories": [
       "Breaking News",
@@ -139,7 +139,7 @@
   },
   {
     "link": "https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-live-cricket-score-ind-vs-nz-day-2-match-tspoa-tspok-dskc-2707469-2026-11-28?utm_source=rssfeed",
-    "title": "LIVE: क्राइस्टचर्च टेस्ट का दूसरा दिन, NZ को बड़े स्कोर से रोक सकेगा IND?",
+    "title": "LIVE: टीम इंडिया को बड़ी कामयाबी, अंशुल कंबोज ने फिलिप्स को पवेलियन भेजा",
     "description": "India vs New Zealand 2nd Test Day 2 Live Score: क्राइस्टचर्च के हेगले ओवल में भारत और न्यूजीलैंड की टीम्स टेस्ट सीरीज के दूसरे मुकाबले के लिए आमने-सामने हैं. न्यूजीलैंड की टीम की पहली पारी में बल्लेबाजी चल रही है.",
     "categories": [
       "Breaking News",
@@ -291,7 +291,6 @@
     "title": "Aaj Ki Taaja Khabar Live Updates: इंडिया गठबंधन की बैठक आज, परिसीमन बिल पर बनेगी रणनीति",
     "description": "परिसीमन विधेयक को लेकर देश की सियासत गरमा गई है. केंद्र सरकार 30 नवंबर को बिल को लोकसभा में पेश करेगी. उससे पहले आज इंडिया गठबंधन की बैठक होगी. इस बैठक में बिल को लेकर रणनीति बनेगी.",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T18:30:04+00:00",
@@ -303,7 +302,6 @@
     "title": "समर्थन के बदले सत्‍ता में ह‍िस्‍सेदारी! पर‍िसीमन ब‍िल पर साथ देकर शरद पवार ने क्‍या-क्‍या मांगा?",
     "description": "Sharad Pawar and Supriya Sule with PM Narendra Modi at a recent meeting",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T18:27:16+00:00",
@@ -1138,7 +1136,6 @@
     "title": "लोकसभा-विधानसभाओं की सीटों को 50% बढ़ाना, महिलाओं को तत्काल आरक्षण; नया परिसीमन विधेयक",
     "description": "नए परिसीमन बिल, 2026 में संविधान के अनुच्छेद 334A के तहत महिलाओं को सीटों पर आरक्षण का तत्काल लाभ देना मकसद है। इस उद्देश्य से लोकसभा और विधानसभाओं में सीटों की संख्या 50 प्रतिशत बढ़ाने का नया प्रावधान किया गया है।",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T16:28:05+00:00",
