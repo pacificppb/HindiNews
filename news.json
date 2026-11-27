@@ -33,17 +33,6 @@
     "source_name": "AMARUJALA.COM"
   },
   {
-    "link": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-11-28",
-    "title": "न्यूज अपडेट्स: गोवा विश्वविद्यालय छात्रसंघ चुनाव में अभाविप का क्लीन स्वीप, सभी नौ सीटों पर दर्ज की जीत",
-    "description": "न्यूज अपडेट्स: गोवा विश्वविद्यालय छात्रसंघ चुनाव में अभाविप का क्लीन स्वीप, सभी नौ सीटों पर दर्ज की जीत news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi",
-    "categories": [
-      "National"
-    ],
-    "pub_date": "2026-11-27T21:36:24+00:00",
-    "image_url": null,
-    "source_name": "AMARUJALA.COM"
-  },
-  {
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-28",
     "title": "पढ़ें 28 नवम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "description": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
@@ -51,7 +40,42 @@
       "Breaking News",
       "National"
     ],
-    "pub_date": "2026-11-27T21:30:24+00:00",
+    "pub_date": "2026-11-27T22:00:13+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/video/india-news/akhilesh-attacks-bjp-over-the-delimitation-bill-receives-this-blunt-response-2026-11-28",
+    "title": "परिसीमन बिल पर अखिलेश ने भाजपा पर बोला हमला, मिला ये दो टूक जवाब!",
+    "description": "परिसीमन बिल पर अखिलेश ने भाजपा पर बोला हमला, मिला ये दो टूक जवाब!",
+    "categories": [
+      "Breaking News",
+      "National"
+    ],
+    "pub_date": "2026-11-27T22:00:03+00:00",
+    "image_url": null,
+    "source_name": "AMARUJALA.COM"
+  },
+  {
+    "link": "https://www.tv9hindi.com/sports/cricket-news/ind-vs-nz-2nd-test-match-day-2-live-score-and-updates-india-vs-new-zealand-christchurch-3976786.html",
+    "title": "IND vs NZ 2nd Test Live: क्राइस्टचर्च टेस्ट का दूसरा दिन, बुमराह पर नजरें",
+    "description": "India vs New Zealand 2nd Test Match Day 2 Live: टीम इंडिया न्यूजीलैंड के खिलाफ टेस्ट सीरीज का दूसरा मैच क्राइस्टचर्च के हेगले ओवल मैदान पर खेला जा रहा है. आज इस मुकाबले का दूसरा दिन है.",
+    "categories": [
+      "Breaking News",
+      "Sports"
+    ],
+    "pub_date": "2026-11-27T21:53:34+00:00",
+    "image_url": "https://images.tv9hindi.com/wp-content/uploads/2026/11/ind-vs-nz-test-2.jpg",
+    "source_name": "TV9HINDI.COM"
+  },
+  {
+    "link": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-11-28",
+    "title": "न्यूज अपडेट्स: गोवा विश्वविद्यालय छात्रसंघ चुनाव में अभाविप का क्लीन स्वीप, सभी नौ सीटों पर दर्ज की जीत",
+    "description": "न्यूज अपडेट्स: गोवा विश्वविद्यालय छात्रसंघ चुनाव में अभाविप का क्लीन स्वीप, सभी नौ सीटों पर दर्ज की जीत news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi",
+    "categories": [
+      "National"
+    ],
+    "pub_date": "2026-11-27T21:36:24+00:00",
     "image_url": null,
     "source_name": "AMARUJALA.COM"
   },
@@ -162,6 +186,7 @@
     "title": "परिसीमन बिल पर रुख बदलते ही निशाने पर आई DMK, ED केस को लेकर कांग्रेस ने बोला हमला",
     "description": "कांग्रेस सांसद मणिकम टैगोर ने कहा कि जो दल कल तक तमिलनाडु के अधिकारों की रक्षा करने और दिल्ली से न डरने के बड़े-बड़े दावे करते थे, वे अब अचानक नरम कैसे पड़ गए हैं.",
     "categories": [
+      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T19:10:21+00:00",
@@ -461,7 +486,6 @@
     "title": "अधिकांश दल परिसीमन और महिला आरक्षण बिल के पक्ष में, हार देख विपक्ष कर सकता है वॉकआउट: सूत्र",
     "description": "संसद में अब इन बिलों पर आखिरी फैसला होगा. (फोटो-एनडीटीवी)",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T17:49:21+00:00",
@@ -1301,7 +1325,6 @@
     "title": "महिला आरक्षण शुरू में 15 वर्षों तक लागू रहेगा, सीटें रोटेट होंगी-सांसदों को मिली परिसीमन बिल की कॉपी",
     "description": "लोकसभा में पेश किए जाने वाले संविधान संशोधन विधेयकों में निचले सदन में सीटों की संख्या 50% बढ़ाने का स्पष्ट उल्लेख है। सांसदों को नए परिसीमन बिल की कॉपी दी गई। बताया गया कि विधेयक में क्या कुछ नया है?",
     "categories": [
-      "Breaking News",
       "National"
     ],
     "pub_date": "2026-11-27T16:05:00+00:00",
@@ -2271,29 +2294,5 @@
     "pub_date": "2026-11-27T14:27:35+00:00",
     "image_url": null,
     "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://www.aajtak.in/india/news/story/delimitation-bill-parliament-special-session-bjp-warns-dmk-tamil-nadu-ntc-dhrj-rpti-2708094-2026-11-27?utm_source=rssfeed",
-    "title": "50% बढ़ोतरी स्वीकार करो या फिर... परिसीमन पर DMK को BJP का संदेश",
-    "description": "परिसीमन बिल से पहले BJP ने DMK को 50% सीट बढ़ोतरी का प्रस्ताव स्वीकार करने का संदेश दिया है. DMK ने तमिलनाडु की 7.18% संसदीय हिस्सेदारी और 25 साल की रोक की मांग पर समझौता नहीं करने की बात कही है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-27T14:27:11+00:00",
-    "image_url": null,
-    "source_name": "AAJTAK.IN"
-  },
-  {
-    "link": "https://ndtv.in/bihar-news/lalu-smiles-at-rohini-advice-emotional-video-of-father-and-daughter-goes-viral-12385861#publisher=newsstand",
-    "title": "'खाना समय पर खाइएगा...', रोहिणी की नसीहत पर मुस्कुराए लालू, पिता-पुत्री का भावुक वीडियो वायरल",
-    "description": "लालू यादव और उसकी बेटी का वीडियो बहुत वायरल हो रहा है.",
-    "categories": [
-      "Breaking News",
-      "National"
-    ],
-    "pub_date": "2026-11-27T14:26:26+00:00",
-    "image_url": "https://c.ndtvimg.com/2026-11/qkshgm5od_bihar_625x300_27_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-    "source_name": "NDTV.IN"
   }
 ]
